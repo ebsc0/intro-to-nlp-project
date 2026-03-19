@@ -1,0 +1,2169 @@
+Zündung!
+Abheben!
+Start um 16:41:00! Start um 16:41:00!
+Behalte die Uhr im Auge, Zwillinge.
+Ich habe ein Rollprogramm erhalten.
+Roger. Roll.
+Guter Start, VIII.
+Das sieht gut aus.
+Die Veranstaltung läuft. Wir haben ein Pitch-Programm.
+Roger. Pitch-Programm.
+Der Kabinendruck steigt gut.
+Ich... prüfe das hier genau.
+MARK. 50 Sekunden. Du siehst gut aus, VIII.
+Der Kabinendruck beträgt 5,74.
+Ich habe die Hütte.
+MARK. 1 40.
+MARK. 1 plus 40. Du siehst gut aus, VIII.
+Okay. Modus 2.
+Der Kabinendruck von 5,5 psid sieht gut aus. Die Brennstoffzellen sind in Ordnung.
+Okay.
+DCS-Update empfangen.
+Roger. DCS.
+Die sekundäre Sauerstoffversorgung ist gut.
+Okay.
+DCS sieht gut aus.
+Der Puls ist gut.
+Die Tanks der Stufe 2 sehen gut aus.
+Okay. Das sind ungefähr 3 1/2 Gramm.
+Gemini VIII. Startschuss für die Vorbereitungsphase.
+Roger.
+Brennstoffzellen sehen gut aus.
+Roger.
+DCS-Update empfangen.
+Roger. DCS.
+Roger. Wir haben die Zündanlage.
+Roger. Inszenierung.
+Wir haben ein Staging-Center.
+Die Inszenierung sieht gut aus.
+Wir haben hier Wallys Feuerball.
+Ja.
+Hast du es gesehen?
+Ja, das habe ich.
+Verstehe, dass du die Anleitungsinitiative gestartet hast.
+Roger. Wir haben eine Leitlinie.
+Null Nickwinkel und 1 Grad Gierwinkel direkt nach oben.
+Roger. Die Führung vor Ort scheint gut zu sein.
+Roger.
+Kommt sofort.
+Alle Systeme sehen gut aus.
+Oh, da ist der Horizont!
+Endlich können wir es sehen.
+Okay. Du siehst gut aus, Trainer.
+Okay. Die Brennstoffzellen sind alle so massiv wie ein Fels.
+Okay. Auf der rechten Seite sieht alles gut aus.
+Gut. Und die Nadeln sind... die Nickachse ist null, die Gierachse beträgt etwa ein Viertel Grad und ist stabil.
+Roger. Deine Parzellen sehen hier vor Ort sehr nominell aus, VIII.
+Roger. Die zweite Stufe ist eine wirklich gute Maschine.
+Ich wollte eigentlich Cadillac sagen, aber ich glaube, das lasse ich lieber.
+Gleich sind es 4 Minuten.
+Der Kabinendruck beträgt 5,5 psid und wird gehalten.
+Roger. Beschleunigungsmesser bei 4 Minuten.
+Hey, was für eine Aussicht!
+Das ist fantastisch!
+Sie hatten Recht, nicht wahr?
+Na, dann mal los!
+Zwillinge VIII, du startest vom Boden aus.
+Roger. Sieht gut aus hier oben.
+Da haben wir's. Volltreffer.
+Die Zinssätze sind sehr stabil.
+Eine leichte Gierschwingung.
+In knapp 5 Minuten.
+Ja. Es sind jetzt fast 5 Minuten.
+MARK. V/VR =.08, Gemini VIII.
+Okay. Modus 3.
+Null Nickwinkel und ein Viertel Grad Gierwinkel, stabil.
+Du siehst hier am Boden sehr gut aus.
+Sieht gut aus hier.
+Wir hatten SECO.
+Roger. SECO.
+Okay.
+Lass dir Zeit, Kumpel.
+Okay.
+Zwillinge VIII, du bist dran, und gib mir IVI's, wenn du Zeit hast.
+Vielen Dank. Wir schreiten voran.
+Schau dir die Sachen draußen an.
+Brennen stoppen.
+Roger. Brennen stoppen.
+Hoppla!
+Zwillinge VIII, Ihre 1-Alpha-Zeit ist 15 06.
+Okay. Das haben wir verstanden.
+Schau dir das Zeug an, das da draußen herumschwebt.
+Ja. Ein gewisser Druck.
+Okay, Dave.
+Okay, Neil. Lager prüfen.
+Okay. Sieht gut aus.
+Die Zinsen sehen gut aus.
+Ja.
+Bis zum Ende.
+Die Verkleidungen werden abgeworfen.
+Wir hatten einen Pitch-Up beim Abwerfen der Verkleidung.
+Gemini VIII, hier ist Houston. Wir haben gehört, dass die Nutzlastverkleidung abgeworfen wurde.
+Das ist eine Bestätigung.
+Okay. Bereit für die erste Checkliste.
+Eins bereithalten.
+Okay.
+Okay. Ich bin bereit zu lesen.
+Okay.
+Gemini VIIIs Plattformlinie. Offenbar haben wir einen guten Primärscanner.
+Okay... Status.
+Sag es noch einmal.
+Gemini VIII, Houston CAP COM.
+Nur zu, Houston. Hier ist die VIII.
+Ihre Umlaufbahn beträgt 85 mal 155. Ihr Startzeitpunkt (GMT) war 16:41:02.
+Roger.
+Okay. Retro-Zündkerzen (4), SICHER.
+Okay. Manövriersteuerung, ausgeschaltet und verstaut.
+Ausgebaut und verstaut.
+D-Ring-Sicherheitsstift anbringen.
+Sequenzlichttest.
+Okay. Los geht's!
+BERNSTEIN.
+Okay.
+Roger.
+Und ROT und GRÜN.
+Gut. Verdammt gut.
+Computer-Vorpremiere.
+...nur von den IVI-Instrumenten... nach dem Brennvorgang bei 18 Fuß, mit einem Flugzeug, das nach rechts zeigt. Jetzt aber aufgepasst.
+Okay. Retro... Zündhütchen zum SCHLIESSEN.
+Sekundärer O2-Anschluss zu SCHLIESSEN.
+Der Schutzschalter von OAMS Heaters schließt.
+Und es bleibt geschlossen.
+Roger.
+Der Schutzschalter von OAMS Heatings ist geschlossen.
+Kryomenge AUS.
+Überprüfen.
+Wir sehen rundum gut aus.
+Der Rekorder wird abgenommen.
+Gemini VIII, Houston CAP COM. Ich habe Ihre 1-4-Zeit, falls Sie bereit sind, sie zu kopieren.
+Fortfahren.
+Roger. GET RC 01 00 16; RET 400K, 15 plus 21; RET RB, 20 plus 08; roll left 85.
+Roger. 1-4 01 00 16; RET RB, 20 plus 08; roll left 85. And Insertion Check List is complete.
+Du wurdest dort am Ende unterbrochen, VIII.
+Okay. Ich habe die Checkliste für die Einfügung vollständig ausgefüllt.
+Roger. Checkliste für die Einfügung abgeschlossen. Danke.
+Sehen immer noch gut aus.
+Wenn Sie nicht kopiert haben, betrug der RET von 400K 15 plus 21.
+Der gute alte Jim! Danke.
+Gemini VIII, Gemini VIII, Houston CAP COM. Over.
+Roger. Nur zu.
+Roger. Ihre Umlaufbahn wurde auf 87, 147 geändert. Startfreigabe für eine nominelle M = 4. Es wird eine leichte Bahnänderung geben. Wir geben Ihnen diese Information später. Uns ist bekannt, dass die Temperaturen höher als normal waren, und wir erinnern Sie daran, den Hebel Nr. 1 der rechten Einheit bei Zeit 40 zu aktivieren.
+Auch alle Systeme scheinen in Ordnung zu sein...
+Roger. Alle Systeme sind in Ordnung und bereit für einen UHF-Test Nr. 2.
+Okay.
+Houston, hier spricht Gemini VIII auf UHF Nummer 2. Wie empfangen Sie?
+Roger. Gemini VIII, hier spricht Houston. Ich verstehe Sie etwas undeutlich, aber deutlich. Wie geht es mir?
+Hier ist Houston. Roger.
+Zurück zu Nummer 1.
+Du kommst auf Platz 1.
+Dave teilt mit, dass Nuclear Emulsion nach 23 Minuten eingeschaltet wurde.
+Roger. Gemini VIII. Nukleare Emulsion bei Minute 23.
+... wir sehen Sterne nach 30 Minuten, und das Raumschiff ist... Sonnenlicht.
+31 Minuten. Jetzt sehen wir viele Sterne.
+Das könnte ein Licht sein.
+... Ich sehe ein Licht auf dem Boden.
+... am Horizont. Dort müsste das Licht sein, denke ich.
+Du tust?
+Ich sehe jetzt die Triebwerkssignale. Plattformausrichtung auf dem Sekundärscanner.
+Tananarive, du bist unlesbar. Wir...
+Gemini VIII, Gemini VIII, Houston CAP COM.
+Hallo, Houston CAP COM. Jetzt können wir euch alle empfangen. Gemini VIII.
+Roger. Das ist mein erster Anruf. Vergessen Sie nicht, den Kühler auf 035 einzustellen.
+Okay. Der Kühler wird auf Durchfluss eingestellt.
+Roger. Und gegen 00:40 Uhr der C-Wiedereintritt in den COMMAND-Modus, der C-Adapter in den CONTINUOUS-Modus und das S-3-Experiment.
+Ich habe das nicht ganz verstanden. Könnten Sie es bitte wiederholen?
+Roger. Mit 40 Jahren: Der C-Wiedereintritt in COMMAND, der C-Adapter in CONTINUOUS und das Froschei-Experiment.
+Roger. Das haben wir.
+Roger. Wir warten nur.
+Es erinnert mich an eine Ölflamme, die man über Texas sieht.
+...hier... Wir sind bei Minute 38 und mir ist aufgefallen, dass die Triebwerke nur auf der rechten Seite feuern. Das könnte der Plattformmodus sein oder daran liegen, dass die Abgase des Wasserkochers abgeführt werden.
+38 Minuten sind vergangen. Auf der Nachtseite ist der Horizont klar erkennbar, aber Sterne sind unterhalb des Horizonts sichtbar, und diese Eigenschaft ist beim Vergleich des Horizonts wahrscheinlich die beste, um eine Markierung vorzunehmen.
+Okay. Nach 40 Minuten und etwa 10 Sekunden wird die S-3 Einheit Nummer 1 aktiviert.
+Okay.
+41 Minuten. Wir wechseln zum primären Scanner im Horizontscan, wobei kein nennenswerter Unterschied zwischen dem primären und dem sekundären Scanner besteht; in 50 Minuten wechseln wir zum primären CATCH-UP und –
+Die IVI-Werte sind null.
+Nun, das war's im Großen und Ganzen.
+1A, 9,5; 1B, 10,0; 1-Main, 14,5; 2-Main, 8,0; 2A, 4,8; 2B, 5,2; Hauptbus ist 24,5.
+Zwillinge VIII, Carnarvon CAP COM.
+Hallo Carnarvon! Nur zu.
+Wie geht es euch allen?
+Alles bestens!
+Okay. Wir zeigen Ihnen hier alles ganz genau. Wir geben Ihnen grünes Licht für Ihren Kühler. Stellen Sie Ihren Verdampfer auf NORMAL.
+Der Verdampfer befindet sich im NORMALBEREICH.
+Okay.
+Stellen Sie Ihren Quantity Read-Schalter auf ECS O2 und lassen Sie ihn dort, bis ich Ihnen sage, dass Sie ihn bewegen sollen.
+Roger. ECS O2.
+Okay. Ich zeige Ihnen den Vorstartmodus. Führen Sie gerade Berechnungen durch oder können Sie in den Aufholmodus wechseln?
+Bereit für die Überprüfung der Beschleunigungsmesserabweichung, wann immer Sie wollen.
+Okay. Dann lasst uns zu CATCH-UP gehen.
+Okay. Jetzt bist du auf dem Laufenden.
+Wir benötigen eine Batterie in Ihrer Brennstoffzelle.
+Roger. Die Batterien sind bereit, und – bereit, die Brennstoffzelle nachzubauen?
+Nach 50 Minuten ging ich zur Nachholstunde. Die IVI-Werte sind null.
+Fortfahren.
+1A, 9,5; 1B, 10,0; 1-Main, 14,5; 2-Main, 8,0; 2A, 4,8; 2B, 5,2. Hauptbus: 24,5.
+Okay. Ich habe das verstanden.
+Okay. Ich kopiere das.
+... holen Sie sich das Datenblatt.
+Bringen Sie hier Licht rein.
+Okay. Du spielst mit 16:1.
+Nur zu. Es gehört dir.
+Vielen Dank.
+Wie wäre es damit?
+Sie können Ihren Computer ruhig laufen lassen.
+Stehen zu.
+Wie wäre es, wenn du 52 Minuten einstellst und hochzählst? Dann verrate ich dir einen Zeittrick.
+Okay.
+Dir gefällt es da oben, nicht wahr?
+Na klar!
+Alles in Ordnung!
+Sehr schön!
+Okay. Die Computer laufen ziemlich gut. Hoffentlich halten sie so durch, wie sie sollen.
+Ich bin bereit für die Uhrzeitprüfung.
+Auf die Plätze. Bereitmachen.
+MARK. 52.
+Genau richtig.
+Okay. Wir sind ganz Ihrer Meinung.
+Und wir sind jederzeit bereit für den START COMP.
+Okay. Menge auf AUS gestellt.
+Kommt ab.
+Carnarvon. Gemini VIII, wenn Sie bereit für den Beschleunigungsmesser-Bias-Check sind, beginnen wir mit dem Zählen.
+Wir sind bereit für Ihren Scheck, mein Herr.
+Okay. Auf die Plätze, fertig, los…
+Möchtest du mir den Startzähler mitteilen, damit ich meine Uhr starten kann?
+MARKIEREN.
+Habe es.
+Roger.
+Hier. Hast du Zeit?
+Der Vibrator ist normal und wir sind nach 53 Minuten zu START COMP übergegangen.
+Haben Sie S-3 bei Minute 40 gestartet?
+Das ist eine Bestätigung.
+Okay.
+Das waren 40 Minuten und 10 Sekunden.
+40 was?
+40 Minuten, 10 Sekunden.
+Okay.
+Okay. Wir haben unsere Computerzusammenfassungen beendet. Sie können jederzeit zu PRELAUNCH wechseln.
+Wir haben ein paar Impulse in die Gierachse eingebaut.
+Oh, in Ordnung.
+Noch welche für uns?
+Sag es noch einmal.
+Sie hätten nicht mehr für uns tun können. Jetzt läuft alles bestens für uns.
+Dafür sind wir doch hier, nicht wahr?
+Und was hast du über die Stürme gesagt?
+Ich sage nur, uns stehen einige Gewitter bevor. Wir können die Blitze sehen.
+Ja, etwas Regen könnte uns gut tun.
+Nicht so wie beim letzten Mal, als du hier warst.
+Sag mir Bescheid, wenn du zu PRELAUNCH gehst.
+Roger. Beschleunigungsmesser-Bias-Zählung.
+Okay. Wir haben die Adressen, falls du sie kopieren möchtest, Carnarvon.
+Fortfahren.
+80, minus 0004; 81 war 00001; 82 war minus 0004.
+Okay. Ich habe alles kopiert. Du bist jetzt im Vorstartmodus.
+Okay. Ich habe noch etwas mehr als eine Minute bis zum Ende der Sitzung. Ich habe nichts für Sie. Wir warten, bis Sie zählen.
+Ich hätte gerne wieder Ihren Core 81.
+Roger. Core 81 war 00001.
+Okay. Ich hatte Recht. Danke.
+Schleudersitzsicherheit auf... - Carnarvon GO - und Schultergurt wurde gelöst.
+Hallo, Zwillinge VIII, Zwillinge 7/6. Ende.
+Gemini VIII, Hawaii CAP COM.
+Hier spricht Gemini 7/6 auf dem Weg nach Honolulu. Können Sie lesen?
+Zwillinge, hier ist Hawaii. Wir haben eine Computerlast für Sie. Sind Sie bereit? Ende.
+Wir sind bereit.
+Roger. Computerlast wird übertragen.
+Roger. Ich habe DCS mit Höhenverstellung.
+Roger. Und sind Sie bereit, das Update zu kopieren? Ende.
+Bereitmachen, Hawaii.
+Roger.
+Gehen.
+Wir haben Sie da unten. Sieht nach einem schönen Tag aus.
+Wunderschönes Wetter hier.
+Okay. Hawaii, mach mit dem Update weiter.
+Roger. GET B 1 34 37; Delta-V, 2,9; Brenndauer, 0 + 05; Gierwinkel 0, Nickwinkel 0; Adresse 25, 90029; Adresse 26, alles Nullen; Adresse 27, alles Nullen; Triebwerke vorwärts; Manöver rückwärts. Verstanden?
+Das ist 26, alles Nullen. Verstanden. 27, alles Nullen. Schubdüsen vorwärts und Manöver rückwärts. Verstanden?
+Roger, Hawaii. Verstanden. GET B Brennvorgang, 01 34 37; Delta-V, 2,9; Dauer, 0 plus 05; Gierwinkel 0, Nickwinkel 0; Adresse 25, 90029; 26 alles Nullen; 27 alles Nullen; beides bestätigt; Schubdüsen vorwärts; Manöver-Retro.
+Das ist richtig. Beachten Sie außerdem, dass Wally Schirra versucht hat, Sie zu kontaktieren. Sein Rufzeichen ist Gemini 7/6. Er befindet sich auf dem Weg nach Honolulu.
+Oh, sehr gut. Wir stehen bereit.
+Hat er Herzinsuffizienz?
+Versucht er, uns über UHF oder HF zu kontaktieren?
+Er war auf UHF. Wir haben ihn seit ein paar Minuten nicht mehr gehört.
+Okay.
+Okay. Mal sehen, wie wir an die IVI-Werte kommen. Was meinst du?
+Okay. Dann holen wir das mal nach und sehen weiter.
+Du wirst?
+... VORVERÖFFENTLICHUNG...
+... dies... Vorwärts gerichtete Triebwerke, Rückwärtszündung bei 1 34 37.
+... das ist in 14 Minuten.
+Okay. Zuvor möchten wir noch eine Plattform-A-Linie einbauen.
+Das ist wirklich nicht nötig – bei einer Geschwindigkeit von 3 Fuß pro Sekunde, glaube ich, nicht.
+Stimmt das mit... überein...?
+Was steht im Flughandbuch?
+Zwillinge, hier ist Hawaii. Wir haben nichts weiter für Sie. Wir warten.
+Okay. Alles bestens hier oben.
+Ja. Sie sollten die Plattform so gut wie möglich ausrichten. Es heißt, 15 Minuten vorher... lassen Sie den Plattformmodus die Plattform ausrichten.
+1 34 37 ist die Startzeit....
+Sie verstehen schon... Bahnsteig. Man kann aus dem Fenster sehen, dass es – nein, jedenfalls sind es 90 Grad.
+Wenn Sie es ausrichten, benötigt es die...
+Ich stimme zu.
+Wenn wir die Triebwerksstufe mit 3 Fuß pro Sekunde ausrichten und 10 Grad Abweichung von der Plattform haben, ist das für uns im Hinblick auf die Delta-V-Operation schwer zu erkennen. Warum schalten wir sie also nicht – sobald wir die Stufe erreichen – kurz in den SEF-Modus? Nun ja, 5 Minuten bevor die Orbitrate erreicht werden soll. Okay. Ich schalte sie jetzt einfach in den SEF-COMP-Modus. Ganz witzig.
+Da geht es ja ganz schön turbulent zu, nicht wahr?
+Ja. Es läuft gerade an.
+Ich frage mich, wo wir bei 1:34 sein werden. Oh, ich weiß! Es ist auf der – auf der – wir werden bei diesem Pass direkt über Houston sein.
+... Versuche, diese Kamera zu bekommen.
+Okay.
+... Abwarten.
+Nein, tut mir leid – ja. 1 34.
+Okay. Alles klar. Alles klar. Nur eine Minute.
+Okay.
+Wir müssen wohl in Houston nachfragen, nicht wahr?
+Ich glaube, das werden wir tun müssen.
+Ich denke, das sollten wir tun.
+Ich denke, wir sollten...
+Oh, schau dir den mal an!
+Wie spät war das? 1 34 was?
+Du hast dein - -
+Was ist los?
+Das Thermometer ist...
+Ja. Das Thermometer ist immer lästig.
+Ich bin nicht krank. Sagt ihnen, dass ich nicht krank bin!
+1 27 33. Richtig?
+Nun, ich würde sagen, vielleicht sollten wir das besser tun...
+Gemini VIII, Guaymas CAP COM.
+Roger.
+Station Gemini VIII, bitte wiederholen.
+Station Gemini VIII, bitte wiederholen.
+Gemini VIII, hier ist Guaymas. Ich habe ein Update zur Datenlast.
+Warten Sie. Er hat Neuigkeiten. Was für Neuigkeiten haben Sie, Guaymas?
+Es handelt sich um ein Karten-Update.
+Okay. Bitte warten.
+Roger.
+Okay?
+Okay. Nur zu.
+Ladezeit - -
+Schön!
+Zeit 01 07 13; Rev 1, 159,1 Grad Ost; 16 plus 00, Rektaszension.
+Okay. Verstanden. Knoten 01 07 13; Rev 1, 159.1; 16 plus 00, Rektaszension.
+Das ist bestätigt. Wir schicken Sie vor Ort los.
+Wir fliegen jetzt über Baja California. Können Sie es sehen?
+Oh! Schau dir all die Schiffe an!
+Gut.
+Okay. Ich muss hier auf die ORB-RATE eingehen.
+Auch Lageregelung, RATE COMMAND.
+Plattform, ORB-Rate.
+Okay.
+Computer, hol auf.
+Der Computer sieht gut aus.
+Okay.
+FDR, COMP.
+FDR, COMP.
+Manöversteuerung ausklappen.
+Das ist gut.
+Manöversteuerung EIN.
+Okay. AN.
+Okay.
+1 34 37. Wie ist das?
+Rechts.
+1 34 37. Wir wollen einen 5-Sekunden-Brennvorgang und nach vorne gerichtete Triebwerke ermöglichen uns ein Retrograde-Manöver.
+Okay. Ich glaube, ich werde es zurückverbrennen.
+Okay.
+In Ordnung.
+Ich würde gerne wissen, wie es funktioniert.
+Ja, ich denke, wir sollten ein Foto machen.
+Ja.
+Wäre schön, aber ich – schön...
+Schöne Wolkenformationen!
+Wunderschön! Einfach spektakulär!
+Hoffentlich denkst du daran, nach oben zu schauen, wenn wir anfangen, die Agena ins Visier zu nehmen.
+Gemini VIII, hier spricht Houston CAP COM. Wir sind bereit für Ihren Burn.
+Roger. Noch 3 Minuten.
+Der Druck steigt... Annäherung.
+Wir überqueren Houston an der Mündung; sie liegt zwischen Houston und Cape Cod.
+Okay. 0°, 0°, 0°, Bahnsteig.
+Okay. ORB RATE und wir holen auf.
+Ich warte gespannt auf die Antwort...
+... der Controller ist ein- und ausgeschaltet. START COMP...
+Ich habe hier eine Küstenlinie in Sicht. Houston habe ich aber noch nicht wirklich auserkoren.
+Wir nähern uns 32,42... Houston...
+Ich hab's.
+Ich werde Ihren START COMP 1 33 drücken. Richtig?
+1 33 START COMP.
+Jetzt gehst du zurück. Stimmt's?
+Achtern. Ich werde achtern fahren.
+Spar dir das Benzin.
+Demnächst auf 1 33 37.
+Okay. Wir haben noch eine Minute Zeit, fliegen jetzt direkt über die Küste...
+Roger, VIII. Bitte warten Sie 30 Sekunden, bis Ihr Brennvorgang abgeschlossen ist.
+Okay.
+MARK. 30 Sekunden zum Brennen.
+Okay.
+Behalte es im Auge und schau, wie es mit diesem nach vorne gerichteten Feuer aussieht.
+MARKIEREN.
+Brennen.
+Roger.
+Säuberung.
+MARKIEREN.
+2, 1, brennen.
+Roger.
+Gut. Brennendes Ende.
+MARKIEREN.
+Welche Nummer?
+Minus 0001.
+Ich hab's verstanden.
+2. Okay. 82. Das ist - -
+Gemini VIII, hier spricht Houston. Wir stellen Ihren T/M-Schalter auf Echtzeit/Verzögerung.
+Okay.
+Ja. Eine wirklich gute Idee.
+Okay. Probieren wir es.
+Falscher Weg.
+Adresse 82 ist nicht die...
+Adresse 82 ist negativ, also wollen wir zu - -
+Versuchen wir es noch einmal.
+Okay.
+Gemini VIII, hier spricht Houston. Bitte schalten Sie die Bandwiedergabe auf KONTINUIERLICH um.
+Oh, Mist! Warten Sie.
+Bereitmachen, Houston.
+Roger. Mach ich.
+Versuchen wir es noch einmal mit Adresse 81 und schauen wir, was es ist.
+Siehst du es?
+Die Lage spitzt sich jetzt zu.
+Gut. Okay. Jetzt zähle ich – jetzt bist du bei 82… 80, 81, 82 ist runter. Du solltest gehen. Ja. Ich glaube, du hast recht. Es sollte gehen.
+Ich glaube schon.
+Okay. Ich verstehe.
+Gemini VIII. Hier spricht Houston. Sie müssen nicht antworten. Wir würden Ihren Computer gerne in der Vorstartphase testen, sobald es Ihnen möglich ist.
+Okay.
+Das entspricht fast einem Fuß pro Sekunde.
+Der Computer befindet sich in der Vorstartphase. Wir stellen die Bandwiedergabe auf kontinuierlich ein.
+Roger. Danke. Ich habe verstanden, dass Sie die Tantiemen einstreichen sollten. Wie ist es gelaufen?
+Ja, wir haben die Tantiemen abgezogen, aber sie scheinen sich mit der Zeit immer weiter anzuhäufen.
+Roger. Das ist Teil Ihrer Beschleunigungsmesser-Verzerrung.
+Ja, ich glaube, das stimmt. Werden Sie diese Voreingenommenheit aktualisieren?
+Sobald Sie bereit sind, senden wir Ihnen ein Beschleunigungsmesser-Update.
+Okay. Ich denke, wir sind wahrscheinlich - einen Moment bitte.
+Roger. Wir sind bereit.
+Wie lautete die letzte Zahl?
+81 war eine 3.
+80 war eine Null.
+Okay. Sag ihnen, sie sollen loslegen.
+Okay. Schick uns bitte die neue Voreinstellung.
+Roger. Gleich geht's los.
+Wir haben noch keine Lampe bekommen.
+Bereitmachen. Es kommt, VIII.
+Mein Eindruck, Partner, ist, dass die 82 den Knopf gedrückt hat.
+Du hast also Recht.
+Roger.
+Licht an. Zurücksetzen.
+Roger. Verstehe, du hast das Licht.
+Okay. Die Bandwiedergabe ist auf KONTINUIERLICH eingestellt.
+Hey, wir haben immer noch – die haben jetzt die Bandwiedergabe im kontinuierlichen Modus. Wusstest du das?
+Gemini VIII, hier ist Houston. Das Update der Beschleunigungsmesser-Bias war gut.
+Roger. Danke.
+Sag das nochmal, Dave.
+Die Bandwiedergabe ist auf kontinuierliche Wiedergabe eingestellt. Wir werden nicht...
+Wir sind wirklich... Update...
+Gemini VIII, Houston CAP COM hier.
+Fortfahren.
+Roger. Könnten Sie bitte überprüfen, ob sich Ihr Antennenwahlschalter in der Position „Adapter“ befindet? Ende.
+Roger.
+Danke schön.
+Gemini VIII, Houston CAP COM. Ich habe Ihr Update zum Phasenanpassungsmanöver, falls Sie es kopieren möchten.
+Roger. Nur zu.
+Roger. GET B 2 18 26; Delta-V, 49,3; Delta-T, 1 + 07; Gierwinkel 0, Nickwinkel 0; Kern 25, 00493; Kerne 26 und 27, alle Nullen; Triebwerke achtern; Manöver posigrad. Verstanden?
+Roger. Verstanden. Phasenanpassung bei 02 18 26 49.3; 1 plus 07; Gier 0, Nick 0; 25, 00493; 26 und 27, alle Nullen; Heckstrahlruder; Posigrad.
+Roger, Dave. Okay.
+Roger.
+Um welche Uhrzeit war das, Dave?
+Die Uhrzeit? 02 18 26.
+Und Gemini VIII, würden Sie den Wiedergabeschalter für Kassetten auf COMMAND stellen?
+Bandwiedergabe in COMMAND.
+Roger. Und T/M schalten auf Echtzeit und ACQ um.
+Echtzeit und ACQ.
+Sagen wir mal, Ihre Stimme geht hier oben ein bisschen verloren, wissen Sie.
+Mir ist es bei allen aufgefallen, die geflogen sind.
+Mal sehen. Ist das – ist das nur ein Einzelkämpfer?
+Wir haben hier etwas zu essen, falls Sie etwas essen möchten.
+Also, das ist meine Mahlzeit B für Tag 1, und ich glaube, deine ist auch dabei. Ich denke, wir sollten eine essen, denn –
+Ja. Du hast Recht.
+- - weil wir danach nicht mehr viel Zeit haben werden - wir haben hier fast eine Stunde.
+Gemini VIII, hier spricht Houston. Sie erwarten vermutlich ein Update zum Phasenkorrekturmanöver während des Aufstiegs. Ende.
+Okay. Verstanden.
+Mal sehen. Haben wir alles verstaut, was wir verstauen wollten?
+Nein, nicht wirklich. Ich muss noch ein bisschen am Fernsehmonitor arbeiten. Mein Helm – der ist wirklich nicht – bietet darauf keine richtige Auflagefläche.
+Es gibt keine. Ich dachte, es sollte welche geben.
+Ja, ich auch.
+Wir werden es aufschreiben.
+Hier kann man sich eines Tages verstecken.
+Tag 2, Mahlzeit A.
+Siehst du es?
+Dort.
+Das klingt nicht richtig, oder?
+Das ist dann wohl für morgen früh. Da drüben muss noch irgendwo ein anderes Paket sein. Ich schaue mal im Flugplan nach, um sicherzugehen.
+Okay, es befindet sich in Ihrer rechten Essensbox.
+Ich hatte irgendwie Lust, dieses verdammte Ding mal richtig auszuräumen.
+Ja.
+Tag 1, Mahlzeit B. Die nehme ich.
+Mann, das ist merkwürdig!
+Was hast du gesagt?
+Das Wasser ist etwas eigenartig.
+Oh, toll!
+Ich glaube, da sind ein paar Luftblasen drin (im Wasser).
+Stimmt das?
+Ja.
+Sie haben wieder etwas LOX ins Wasser gegeben.
+Hatten sie das Problem schon einmal?
+Ja, das haben sie.
+Bereit.
+LOX.
+Was?
+Möchtest du es haben?
+Okay.
+Das stimmt.
+Ich stelle fest, dass im Cockpit viel weniger Platz ist, als ich erwartet hatte.
+Du hattest darauf gehofft. Nicht wahr?
+Da ist deutlich weniger Platz!
+Gemini VIII, Gemini VIII, Houston CAP COM. Over.
+Nur zu, Houston.
+Roger. Ich habe ein Update zu deinem Phasenkorrekturmanöver, falls du es kopieren möchtest.
+Stehen zu.
+Einfach mit Klettverschluss befestigen. Wir besorgen es uns später.
+Seid ihr bereit, VIII?
+Bitte warten Sie. Wir sind in einer Sekunde bereit.
+Roger. Wir sind bereit.
+Wo zum Teufel ist das Flugplanbuch hin?
+Haben Sie das?
+Ja.
+Okay. Schauen wir es uns an. Ich hab's.
+Okay. Nur zu.
+Houston, Gemini VIII. Nur zu.
+Roger. Ihr GET-Brennwert 02 18 25; Delta-V, 50,6; Delta-T, 1 plus 08; Gierwinkel 0, Nickwinkel 0; Kern 25, 00506; Kerne 26 und 27, alle Nullen; Triebwerke achtern, Manöver Posigrad.
+Roger. Verstanden. Phasenanpassung 02 18 25; Delta-V, 50,6; 1 plus 08; 0 Gierwinkel, 0 Nickwinkel; 25, 00506; 26 und 27 alle Nullen; Heckstrahlruder, Posigrad.
+Roger. Das ist richtig. Ich hoffe, es schmeckt Ihnen.
+Oh, es ist gar nicht so schlecht.
+Sie wussten es!
+Erste Mahlzeit um 1:56 Uhr. Habe viele Luftblasen im Wasser gesehen.
+Ich sah den ersten Stern bei 1°58' – Korrektur 2°58'30' – in der zweiten Umdrehung. Der Boden war gut beleuchtet...
+Bei 2 08 28 kommt ein helles Licht auf dem Boden zum Vorschein. Start... Licht.
+... Sekunden.
+Okay. Wir brennen.
+20 Sekunden.
+30 Sekunden.
+1 Minute.
+... stoppen...
+... Stufe 1 und Null.
+Okay.
+Ich will, dass es richtig brennt.
+Okay... und lasst es uns überprüfen.
+Okay.
+Nicht drücken.
+... du hattest einen ziemlich langen Brennvorgang.
+Möchtest du es überprüfen?
+Ja.
+Wir werden uns zurückziehen und...
+Okay.
+Null, null; überprüf das lieber...
+Ich kann mir die 82 nicht erklären.
+Ich auch nicht.
+Eine positive.
+... Hier entlang?
+Nein, das ist es nicht.
+Schau es dir jetzt an.
+Okay. Du hast Recht.
+Wir haben 81 Punkte eingesetzt. So ist es gekommen.
+Zwillinge VIII, Carnarvon CAP COM.
+Hallo, Carnarvon. Zwillinge VIII.
+Wie geht es euch allen?
+Okay. Wir haben den Verbrennungsprozess planmäßig abgeschlossen und die Rückstände entfernt. Der OAMS-Wert liegt bei 88 Prozent.
+Okay. Ihr OAMS-Anteil beträgt 80 Prozent?
+88 Prozent.
+88. Okay. Verstanden. Du hast S-3 bei 2 + 10 aktiviert?
+Stehen zu.
+Nein. Wir haben es verpasst.
+Sag es noch einmal.
+Nein. Wir haben es verpasst.
+Halt durch.
+Okay. Ich habe ein Update für Plane-Adjust. Sag mir Bescheid, wenn du es kopieren möchtest.
+Stehen zu.
+Okay. Nur zu.
+Okay, GET B 02 45 50; Delta-V, 26,2; Brenndauer, 0 + 35; Gierwinkel 90° rechts, Nickwinkel 0°; Kerne 25 und 26 sind Nullen; Kern 27, 90262; Triebwerke achtern; Manöver Süd. Ende.
+Roger. Verstanden. GET burn 02 45 50; Delta-V, 26,2; 0 plus 35; Gierwinkel 90 rechts, Nickwinkel 0; 25 und 26 sind alle Nullen; 27, 90262; Heckstrahlruder; Manöver Süd.
+Sehr gut. Du siehst wirklich toll aus. Deine Agena sieht auch sehr gut aus.
+Danke schön.
+In Ordnung.
+Okay. Du siehst echt gut aus. Wir halten uns hier zurück und schweigen.
+Roger. Verstanden.
+Wir sehen uns morgen.
+Nun gut.
+Noch 2 Minuten.
+Okay.
+Noch 20 Sekunden bis...
+Okay.
+Ich glaube, wir haben es ein bisschen übertrieben. Wir hätten etwas früher aufhören sollen.
+31 ist minus 0004.
+Nun, laut meiner Anweisung – ein kleines Stück links abbiegen.
+Okay.
+Okay, jetzt...
+Außerdem, vorbei, jetzt etwas ruhiger.
+Es ist drin.
+Okay.
+Drücken Sie das kleine...
+Sehen Sie, ich glaube, es dauert eine Weile, bis es funktioniert. Bis es die Daten verarbeitet. Dieser Beschleunigungsmesser...
+Gemini VIII, Hawaii.
+Nur zu, Hawaii.
+Roger. Wir haben dich startklar und ich habe ein Update zur Agena-Übernahme, sobald du bereit bist, es zu kopieren.
+Roger. Bitte. Ich habe es getan – ich möchte Sie bitten, einen Blick auf unseren Kabinendruck zu werfen. Wir messen derzeit 5,1.
+Stehen zu.
+Roger. Wir haben eine Bodenmessung von 5,25.
+Okay. Wir behalten es im Auge.
+Roger.
+Fahren Sie mit der Übernahme fort.
+Roger. GET der Akquisition 3 + 07; GET von R = 248 nm; GET Rendezvous, 3 + 15; Azimut, 0 Grad; Elevation, 7 Grad; GET Sonnenaufgang bei TPI 05 37 00, plus/minus 1 Minute. Verstanden?
+Roger. Ich verstehe, dass die Erfassungszeit 03:07 Uhr, die Entfernungsmessung (R) 248 nm, die Rendezvouszeit 03:15 Uhr, der Azimut 0 Grad, die Elevation 7 Grad und die Sonnenaufgangszeit 05:37:00 Uhr (plus/minus eins für TPI) beträgt. Haben Sie die aktualisierten Daten für die Adressaten 24, 53 und 54?
+Negativ. Bitte warten.
+Okay.
+Gemini VIII, Hawaii.
+Fortfahren.
+Roger. Die Adressen 24, 53 und 54 sind alle nominell, und wir würden gerne wissen, wie Ihr Brennvorgang verlaufen ist.
+Okay. Verstanden. Alle Adressen waren nominal, der Brennvorgang war termingerecht und die Restwerte waren null.
+Roger. Verstanden.
+Gemini VIII, Hawaii.
+Fortfahren.
+Könnten wir bitte den verbleibenden Treibstoffvorrat Ihres OAMS ablesen?
+85 Prozent.
+Kopie 85. Danke.
+Einverstanden.
+Gemini VIII, Guaymas CAP COM.
+Zwillinge.
+Hier oben sieht alles ziemlich gut aus.
+Sag es nochmal, Zwillinge VIII.
+Hier oben sieht alles in Ordnung aus.
+Okay. Wir möchten Sie bitten, Ihre ACQ-Leuchten auszuschalten, Raumschiffkommando 251.
+Gemini VIII, Houston CAP COM.
+Fortfahren.
+Roger. Wir möchten Ihnen gleich noch eine Messung geben. Bitte warten Sie, bis ich die Daten empfange. GET B 03 03 41; Delta-V, 2 Fuß; Posigrad. Das entspricht 0°, 0°, 0° und ich lese Ihnen 02:54 vor.
+Okay, Houston. Das haben wir nicht verstanden. Wir haben nur den „GET“-Brenner abbekommen. Bitte wiederholen.
+Roger. Die Delta-V beträgt 2 Fuß pro Sekunde, 2 plus null.
+Zwei Fuß pro Sekunde.
+Roger. Und es heißt Posigrade.
+Zwei Füße, Posigrad. Stimmt das?
+Das ist richtig. 0°, 0°, 0°.
+Okay.
+Noch 25 Sekunden. Ich zähle runter.
+9, 8, 7, 6, 5, 4, 3, 2, 1. Verbrenne es.
+Wir haben es verstanden.
+Aus, verbrennen.
+Gemini VIII, hier spricht Houston. Könnten Sie mir bitte die Ergebnisse mitteilen?
+Stehen zu.
+Okay. Ich glaube, wir haben es geschafft und erhalten Tantiemen.
+Das ist Houston. Noch einmal: VIII.
+Roger. Der Brennvorgang verlief planmäßig und wir haben die Tantiemen.
+Roger. Tut mir leid, dass es so schnell ging, aber wir hatten hier eine Störung; deshalb mussten wir dir schnell einen Burnout besorgen, und ich dachte, ich zähle einfach mal für dich runter.
+Okay. Danke.
+Gemini VIII, hier ist Houston. Wie läuft Ihre Plattformausrichtung?
+Stehen zu.
+Houston, wir sind momentan nicht im Alignment-Training. Wollten Sie aus irgendeinem Grund, dass wir uns ausrichten?
+Nein. Wir würden – Roger. Wir sind neugierig, wie Ihr Flug – Ihre Ausrichtung – verlaufen ist, da wir zusätzliche 2 Fuß pro Sekunde erhalten haben, die laut unserer Aufzeichnung erforderlich waren, und dies geschah erst spät, das ist alles.
+Okay. Wir hatten vor dem Brennvorgang keine Ausrichtung vorgenommen, weil wir nicht davon ausgegangen waren, dass der Brennvorgang nötig sein würde. Und wir glauben, dass die Beschleunigungsmesser immer noch einige systematische Fehler aufweisen.
+Roger. Verstanden. Wir möchten Sie außerdem darüber informieren, dass die Agena nun auf TDA Nord konfiguriert ist und uns interessiert, wie Ihre Ausrichtung bisher verlaufen ist. Scheint die Ausrichtung gut zu sein?
+Das ist richtig. Wir haben gute Ausrichtungen erzielt.
+Roger, VIII. Und wenn Sie bitte Ihren T/M-Schalter für uns auf Echtzeit und Verzögerungszeit umschalten würden.
+Echtzeit/Verzögerungszeit.
+Houston, hier spricht VIII. Außerdem haben wir noch keine Zielerfassung. Daher müssen wir wohl warten, bis wir eine Verbindung haben, bevor wir Ihnen 270 senden.
+Roger. Ich verstehe, dass Sie noch keine Zielerfassung haben und mit dem Senden von 270 warten werden. Verstanden.
+Negativ. Wir senden 251.
+Houston, Gemini VIII.
+Nur zu, VIII. Das ist Houston.
+Roger. Könnten Sie bestätigen, dass zu diesem Zeitpunkt eine Brennstoffzellenspülung durchgeführt wird?
+Roger. Mach ich.
+Wir stehen bereit.
+Gemini VIII, hier ist Houston. Wenn Sie in den PRELAUNCH-Modus wechseln, überprüfen wir Ihre Beschleunigungsmesserabweichung.
+Okay. Wir gehen jetzt auf PRELAUNCH und Sie sagten, Sie möchten die Brennstoffzelle jetzt spülen. Stimmt das?
+Das ist richtig. Und wir werden es uns ansehen.
+Okay. Wir erhalten sporadisch Zielerfassungen auf dem Radar.
+VIII, hier spricht Houston. Stellen Sie den Wiedergabeschalter auf KONTINUIERLICH.
+Roger. An CONTINUOUS.
+Gemini VIII, hier spricht Houston. Wir haben Delta-P-Scheinwerfer, was beim GT-7 nicht ungewöhnlich war, aber beim GT-8 sollten sie nicht auftreten. Ist Ihr Crossover aktiviert?
+Roger. Das ist bestätigt, und wir haben kein Delta-P.
+Okay. Ich bin etwas enttäuscht.
+Wir haben hier oben einen Gewinner.
+Gemini VIII, hier ist Houston. Ihre Beschleunigungsmesser-Abweichung ist genau richtig und sieht sehr gut aus.
+Okay. Danke.
+Gemini VIII, Houston.
+Fortfahren.
+Roger. Würden Sie Ihren T/M-Schalter auf Echtzeit und ACQ und Ihren Bandwiedergabeschalter auf COMMAND stellen?
+Roger. Echtzeit- und ACQ-Aufzeichnung sowie Bandwiedergabe auf COMMAND.
+Und würden Sie Ihren Kryogenik-Mengenschalter auf ECS O2 stellen?
+Roger. ECS O2.
+Zur Information: Wir haben bei der H2-Spülung in Abschnitt 2 einen Delta-P-Wert gemessen.
+Roger. Das Delta-P.
+Und stellen Sie nun Ihren Kryogenik-Schalter auf BRENNSTOFFZELLE O2?
+Gemini VIII, hier spricht Houston. Stellen Sie den Kryogenik-Mengenschalter auf BRENNSTOFFZELLE H2.
+Roger.
+Houston, Gemini VIII. Brennstoffzellenspülung abgeschlossen. Der Crossover ist gestartet.
+Roger. Bitte bestätigen Sie, dass die Brennstoffzellenspülung abgeschlossen ist und der Schalter für die kryogene Mengenregulierung auf AUS gestellt ist.
+Roger.
+Gemini VIII, Houston CAP COM. Vorbei.
+Fortfahren.
+Ich habe Ihr Update zum Coelliptischen Manöver, falls Sie es kopieren möchten.
+Okay. Nur zu.
+AB 03 47 34; Delta-V, 61,6; Delta-T, 01 + 22; Gierwinkel null, Nickwinkel 23 Grad nach unten; Kern 25, 00567; Kern 26, 00240; Kern 27, alle Nullen; Triebwerke achtern; Posigrad nach unten. Haben Sie gelesen?
+Verstanden. VERSTEHEN... plus 22, Gierwinkel null, Nickwinkel 23 Grad nach unten...
+Gemini VIII, RKV CAP COM.
+Roger. Wir haben keine Bestätigung für das Manöver-Update erhalten.
+Okay NSR 03 47 34; 61.6; 01 plus 22; Gierwinkel Null, Nickwinkel 23 Grad nach unten; 25, 00567; 26, 00240; 27, 0000; Schubdüse achtern; Posigrad nach unten.
+Gemini VIII, RKV CAP COM. Wir haben ein Update.
+Bitte warten Sie einen Moment.
+Roger, Gemini VIII. Zeit: 03:47:35. Delta-V: 61,2; Delta-T: 1 + 22; Gierwinkel: 0°; Nickwinkel: 21° nach unten; Core 25: 00570; Core 26: 00224; Core 27: alle Nullen; Triebwerke nach hinten; Manöver: Posigrad nach unten. Verstanden?
+Roger. Verstanden 03 47 35; 61.2; 01 plus 22; Gierwinkel Null, Nickwinkel 21 Grad nach unten; 25, 00570; 26, 00224; 27 alle Nullen; Heckstrahlruder; Posigrad nach unten.
+Roger. Das ist bejahend.
+Gemini VIII, RKV CAP COM. Könnten Sie bitte Ihren Encoder ausschalten? Wir möchten Agena mit einer neuen Software aktualisieren.
+Der Programmierer ist weg, und wir machen...
+Roger. Verstanden.
+Gemini VIII, RKV CAP COM. Wir werden von hier aus die ACQ-Lichter an die Agena senden.
+Fortfahren.
+Roger. Wir haben es von MAP bestätigen lassen.
+Roger. Derzeit haben wir nur zeitweise eine Verbindung.
+Sie können Ihren Encoder wieder einschalten.
+Programmierer an.
+Roger.
+Gemini VIII, Houston CAP COM.
+Das ist Zwillinge VIII. Nur zu.
+Roger. Hast du eine stabile Radarerfassung mit der Agena? Ende.
+Houston, Gemini VIII hört euch laut und deutlich.
+Roger. Hast du eine stabile Radarerfassung mit der Agena? Ende.
+Das ist bestätigt. Wir haben eine stabile Radarerfassung. Einen Moment bitte, ich nenne Ihnen unsere aktuelle Entfernung.
+Roger. Danke. Klingt gut.
+Wir gehen von einer Reichweite von 158 Meilen und einer Neigung von etwa 4 Grad aus.
+Roger. Klingt gut, und ich sehe, dass deine Laufzeit etwa 3 Minuten und 9 Sekunden beträgt.
+Roger.
+Gemini VIII, Houston CAP COM. Falls Sie Zeit haben, teilen Sie uns bitte Ihre Erfahrungen mit.
+Okay. Wir sind nur...
+Roger.
+Okay. Unser Verbrennungsprozess ist abgeschlossen und die Reststoffe sind null.
+Roger. Linke Seite abgebrannt; Reststrahlung null. Reststrahlung nicht abgebrannt.
+Wir hatten in etwa 179 Meilen Entfernung ein Radarsignal und die Radarausrichtung lag bei etwa 156 Meilen. Die Zeiger bewegen sich relativ ruhig und sehen recht gut aus. Der Gierzeiger schwankt leicht, vielleicht um plus/minus ein Grad. Schwierigkeiten bereitet uns die Beseitigung der Restwerte. Wir reduzieren sie auf einen kleinen Wert, doch bei der nächsten Messung steigen sie wieder an und bei der übernächsten sinken sie erneut. Es ist schwer zu erkennen, wann wir tatsächlich null Restwerte erreicht haben. Die Bodenstation bestätigte, dass keine vorhanden sind. Die Beschleunigungsmesserabweichung sah gut aus, aber irgendetwas scheint uns hier zu stören.
+... Hier, etwa bei Minute 19, geht die Sternenreferenz komplett verloren. Die Sterne verschwinden und ich sehe... darunter.
+Gemini VIII, CSQ.com-Check. Wie lesen Sie? Ende.
+Gemini VIII, CSQ. Wir verstehen Sie laut und deutlich.
+Roger. Wir haben Sie vor Ort. Alle Systeme sind bereit.
+Okay. Hier scheint alles in Ordnung zu sein.
+Okay. Wir möchten Sie bitten, Ihren Encoder auszuschalten. Anschließend möchten wir den Agena-Load senden, um den gesamten Agena-Speicher zu leeren.
+Okay. Bitte warten.
+Okay. Der Encoder ist ausgeschaltet.
+Roger. Danke.
+CSQ, Gemini VIII.
+Fortfahren.
+Datenpunkt gefunden. Bereit zum Kopieren?
+Fortfahren.
+Datenpunkt 10 4,8, 126,65, 156, 290,8, 604. Wir scheinen etwa 5 Minuten zu spät zu sein.
+Roger. Verstanden.
+Gemini VIII, CSQ. Sie können Ihren Encoder jetzt wieder einschalten.
+Okay. Ich hab's wieder eingeschaltet.
+CSQ, Gemini VIII mit einem Datenpunkt. Bereit?
+Roger.
+Fortfahren.
+Nummer 12 6.2, 121.59, 151, 273.4, 570.
+Okay. Verstanden.
+Roger.
+CSQ, Zwillinge VIII mit einem weiteren Punkt. Bereit?
+Fortfahren.
+Roger. Das ist Datenpunkt 13. Bejahend?
+Das ist richtig.
+Gemini VIII, Hawaii CAP COM.
+Nur zu, Hawaii.
+Roger. Wir möchten Sie bitten, den Rekorder auszuschalten. Wir werden die Beacons neu konfigurieren und eine Bandaufzeichnung erstellen.
+Okay. Das Aufnahmegerät wird ausgeschaltet.
+Und würden Sie bitte Ihren T/M-Schalter auf die Position ECHTZEIT/VERZÖGERUNGSZEIT stellen?
+Roger. Nur zu. Ich bin bereit zum Kopieren.
+Punkt Nummer 20 7.4, 101.07, 155, 216.9, 452.
+Roger. Verstanden.
+Gemini VIII, Hawaii. Wir würden gerne die Treibstoffwerte des OAMS-Systems ablesen, sobald Sie einen Moment Zeit haben.
+75 Prozent.
+Kopie. 75.
+Roger. Bereit zum Kopieren.
+Nummer 21 7.0, 98.50, 154, 207.4, 434.
+Flugkopien.
+Hawaii, Zwillinge VIII mit einem weiteren Punkt.
+Bereit zum Kopieren.
+Nummer 22 7.4, 95.93, 159, 201.9, 421.
+Verstanden. Und Sie können Ihren T/M-Schalter wieder in die Position REAL-TIME/ACQ-AID stellen.
+Echtzeit/ACQ-AID.
+Gemini VIII, Guaymas CAP COM. Wir haben Sie vor Ort. Wir sind bereit.
+Guaymas, Zwillinge VIII mit einem Datenpunkt.
+Fortfahren.
+Nummer 27 8.4, 83.26, 149, 166.9, 349.
+Kopie aus Guaymas.
+Zwillinge Acht mit einem Punkt. Bereit zum Kopieren?
+Kopie.
+Nummer 28 9.1, 80.75, 151, 157.8, 332.
+Kopie aus Guaymas.
+Guaymas, Zwillinge VIII mit einem Punkt.
+Fortfahren.
+Nummer 29 8.9, 78.27, 152, 150.5, 318.
+Kopie aus Guaymas.
+Das ist Houston...
+Sag es noch einmal.
+Hier ist Houston. Wir haben es und wir haben auch Ihr TPI-Backup am Boden, wenn Sie zum Kopieren bereit sind.
+Stehen zu.
+Okay. Wir haben eine visuelle Darstellung der Agena bei Kilometer 76.
+Roger. Visuelle Hinweise zu Agena, 76 Meilen.
+Zumindest haben wir ein Objekt in Sicht, etwas, das aussehen könnte, als könnte es die Agena sein.
+Verstehen Sie eine visuelle Agena oder Sirius, 76 Meilen.
+Ja, es könnte ein Planet sein.
+Guaymas, Zwillinge VIII. Machen Sie mit dem TPI weiter.
+Roger. GET B 05 13 13; GTNSR, 012538; Delta-V, 32,6; vorwärts, 32,0; aufwärts, 1,7; links, 5,7; RB, 32,5; Delta RB, 131; Azimut 27,4; Elevation 0.
+Roger, Guaymas. Alles bestens. Einen Moment bitte. Ich melde mich gleich zurück.
+Guaymas, Zwillinge VIII.
+Hier spricht Houston CAP COM. Los geht's, VIII.
+Okay. TPI meldet sich zurück. Seid ihr bereit?
+Alles ist bereit.
+05 13 13; 012538, 32,6, 32,0 vorwärts, 1,7 aufwärts, 5,7 links, 32,5, 131, 27,4 auf der Elevation und 0 auf dem Azimut. Wie ist das?
+Umgekehrt, VIII. Der Azimut beträgt 27,4 und die Elevation 0.
+Das hatte ich auch gedacht. Okay.
+Ansonsten klingt es gut.
+Wir werden das überprüfen, VIII. Das klingt nicht richtig.
+Roger. 27,4 auf der Höhe.
+... Wir haben in 76 Meilen Entfernung etwas, das wie Agena aussieht, und außerdem ein weiteres Objekt im Blick, das sich diesmal, 56 Minuten später, etwa 12 Grad über Agena befindet und in derselben Ebene zu sein scheint. Es könnte sich um einen Planeten handeln.
+Hast du einen Scanner?
+Hör mal, Dave, ich muss mich aufstellen.
+Ja. Es sind gerade 10 Grad.
+Ja. Ich muss jetzt sofort aufhören. Besser aufhören.
+Houston. Gemini VIII mit einem Punkt.
+Houston, Gemini VIII.
+Mensch, wir sind ja nicht lange bei ihnen geblieben, oder?
+Der TPI-Wert liegt bei 13 13. Stimmt das?
+Heißt das, dass es nur noch 16 Minuten sind?
+Nein, nein! Das ist -05 13 13; 5 Stunden, 13 Minuten und 13 Sekunden.
+Ja. Okay. Das läuft auf dieser Uhr, die in etwa einer halben Stunde klingelt.
+So ist es besser.
+Ich will jetzt Band 84 lesen. Bleib wach, Kleiner.
+289 Grad. Das sieht nicht gut aus. Bin wieder hochgeflogen. Okay. Lageregelung, PLAT; Neigung auf 0°, 0°, 0° senken; 10 Minuten lang auf einer Linie bleiben.
+Okay. Ich bin zu PULSE gegangen, weil ich meine Ausrichtung auf dem Bahnsteig etwas verbessern möchte. Ich werde es jetzt festhalten.
+Sie gaben uns 32 Fuß pro Sekunde an – wir haben eine Out-of-Plane-Geschwindigkeit, die ziemlich gut ist.
+5,7 Grad nach links.
+32 Fuß pro Sekunde vorwärts; 1,7 Fuß nach oben. Das sieht also gar nicht so schlecht aus.
+Okay. Wir haben die Agena in 56 Meilen Entfernung gut im Blick. Ich sehe sie mir mit dem Sextanten noch einmal genauer an.
+Laut und deutlich.
+Ich kann Ihnen das aus einem anderen Blickwinkel zeigen.
+Du hast einen schrecklichen Horizont. Schau ihn dir besser an.
+So ein Junge!
+Die einzige Möglichkeit zu fliegen.
+...da gibt es nichts zu sehen. Ein Versuch schadet nicht. Man kann dort keinen Horizont erkennen.
+Okay.
+Gemini VIII, RKV CAP COM.
+Gehen.
+Roger. Wir möchten anhand dieses TPI bestätigen, dass Sie die Elevation mit 27,4° und den Azimut mit 0° korrekt kopiert haben.
+Roger. Wir verstehen das. Danke.
+Roger.
+Wir zeigen auch vor Ort, dass der L-Band-Coder nicht gesperrt ist.
+Mir ist klar, dass es nicht gesperrt ist. Stimmt das?
+Roger. Genau das zeigen wir vor Ort. Wie sehen Ihre Messwerte aus?
+Wir haben... es läuft.
+Roger. Verstanden.
+RKV, ein Datenpunkt ist da. Bereit?
+Roger.
+Nummer 41 14.9, 49.78, 138, 58.7, 142.
+Roger.
+Beachten Sie bitte auch, dass sich Ihre TPI- und TPF-Zahlen um etwa 9 Minuten verspäten können.
+RKV, RKV. Gemini VIII mit einem Datenpunkt.
+Roger. Nur zu.
+Roger. Könnten Sie bitte bestätigen, dass Ihr Encoder eingeschaltet ist?
+Es läuft jetzt.
+Roger. Danke.
+Gegen 05:02 Uhr wurde es dunkel. Wir verloren den Sichtkontakt zur Agena, und ich hatte sofort das ACQ-Licht. Die Entfernung betrug 45 Meilen. Sie ist sehr schwer zu erkennen, aber ich würde sagen, es ist ein Stern sechster Größenklasse.
+23-30 Sekunden bis zum Messwert.
+Zwillinge VIII mit einem weiteren Punkt.
+Roger. Nur zu.
+Nummer 43 17.2, 45.5, 138, 34.3, 102.
+Roger.
+Schließe den Kreis. Das bringt uns auf 26 Punkte vorwärts.
+Okay.
+7 links, 6 oben.
+Okay. Lageregelung, RATE COMMAND. Manöversteuerung, EIN.
+Okay. Hast du es bekommen?
+Noch 15 Sekunden bis zum Vorlesen.
+MARKIEREN.
+Oh je!
+Bist du sicher, dass du die richtigen Winkel hattest?
+Nun ja, die Radarnadeln schwankten etwas, Dave. Ich kann es nicht genau sagen. Ich war – so gut es ging – mitten in der Schwingung.
+Ich komme nur mit einer erbärmlichen Geschwindigkeit von 20 bis 25 Fuß pro Sekunde nach unten, Neil.
+Ich kann dafür einfach keinen möglichen Grund erkennen.
+Wie sieht das Diagramm aus?
+Eine Verschwörung. Wir stehen darüber.
+Ja, aber ich meine, sieht es so aus, als ob...?
+Ich kann nicht mit dir reden. Ich muss das klären. Tut mir leid, alter Freund. Ich muss mir das wirklich ansehen.
+25 Fuß pro Sekunde vorwärts. Mann, oh Mann! Sieh dir das an!
+Schau dir das Diagramm an. Um 25 Punkte zu erreichen, benötigen wir eine extrem hohe Elliptizität.
+Ich muss anfangen zu zählen.
+Wir liegen die ganze Zeit konstant knapp über der Linie.
+Okay. Wir werden uns für den geschlossenen Regelkreis entscheiden.
+Was hast du?
+25 vorwärts, 8 links, 3 hoch, und ich werde den Befehl RATE geben.
+Bereit, mich in der Arbeitszeit zu unterstützen?
+Ja. Jederzeit.
+3, 2, 1, brennen.
+Gut!
+Hast du bei 26 10 gebrannt?
+Nein. Genau. Ich hab's. Es waren tatsächlich ungefähr 30-34-36.
+Okay. Es bleiben 30 Sekunden.
+Okay. Agena befindet sich in der Mitte des Fadenkreuzes. Lageregelung, PULSE. Stellen Sie Ihre ET auf 3 Minuten ein und warten Sie.
+Okay. Ich habe es eingekreist.
+Okay. Schalten Sie den Controller aus. Okay. Und jetzt nochmal.
+Okay. Ich brauche einen Messwert nach einer Minute, also in 20 Sekunden.
+Okay.
+Den Computerschalter nicht betätigen.
+Rechts.
+10 Sekunden. 5, 4, 3, 2, 1,
+MARKIEREN.
+Start – stell deinen Wecker auf 3 Minuten. Kannst du das nicht?
+Es läuft jetzt seit 2-3 Minuten.
+Stelle es auf 3 Minuten ein. Ich fange an.
+Okay....
+10 Sekunden bis zu 2 Minuten.
+Sind es 2 Minuten?
+Ja.
+Okay. Jetzt wollen wir Spiralantennen an die Agena senden.
+Mit 5 Jahren.
+Ungefähr 3 Minuten.
+Nein, tut mir leid. Ich habe hier einfach zu viel zu tun, um mich mit dir auszutauschen.
+Gemini VIII, hier spricht Houston. Sie brauchen nicht zu antworten. Wir warten auf weitere Informationen.
+Gemini VIII hat TPI im geschlossenen Regelkreis verbrannt.
+15 Sekunden bis zur Anzeige des Ergebnisses und dann 4 Minuten.
+Okay.
+MARKIEREN.
+Okay. Wir benötigen einen Messwert nach 7 Minuten, also in einer Minute. Stimmt das?
+Das ist richtig. In einer Minute.
+Okay. Jetzt kommt die Antenne dran.
+270 erscheint.
+Rechts.
+270. Ich habe eine Karte.
+Okay.
+Ja. Das hat bei uns eine kleine Radarstörung verursacht.
+Das ist interessant.
+Ja.
+Okay. Ich habe eine Lösung. Bei 4,5, 10 Fuß pro Sekunde nach unten.
+Okay.
+Ich benötige innerhalb von 20 Sekunden ein Ergebnis.
+MARKIEREN.
+Entschuldigung. Schalten Sie es aus.
+Ich habe kein gutes visuelles Bild.
+Wir befinden uns noch innerhalb der Kurve.
+Wie viel?
+Siehst du, genau da.
+Hey, jetzt richten wir unsere Zielvorrichtungen aus.
+Ich glaube, die Nullen hinken ein bisschen hinterher.
+Okay. Noch 30 Sekunden.
+Okay.
+MARKIEREN.
+Es könnte ein Zehntel niedriger gewesen sein als der Wert, den Sie gelesen haben.
+Okay.
+Das gibt mir nur ein bisschen Auftrieb – nicht viel.
+Oh je! Das ist schlecht!
+4 vorwärts.
+Und 2-1/2 hoch.
+Das klingt schon eher danach.
+Jetzt haben wir 12 Vorwärtsspieler, 1 nach rechts und 6 nach oben.
+12 vorwärts. 1 rechts.
+Ja.
+Und 6 weiter oben?
+Ja.
+Sie haben die Wahl.
+Okay. Wir werden den geschlossenen Regelkreis verbrennen.
+Okay.
+Bereit?
+Jederzeit.
+3, 2, 1, brennend.
+Okay.
+Es bleiben 10 Sekunden.
+Okay.
+Okay. Nach 13 Minuten benötigen wir eine Messwertanzeige, die in 15 Sekunden erscheint.
+Okay. Ich bin dabei.
+MARKIEREN.
+Ist Zustand.
+12 Meilen entfernt.
+Oh, das sieht gut aus!
+Elliptisch – wir müssen eine Elliptizität gehabt haben, denn wir schwingen hinein.
+Steigen wir da richtig ein?
+Ja.
+Okay. Jetzt driften wir ein bisschen vom Thema ab.
+Boresight hält sich ziemlich gut.
+Halbzeit.
+War nicht besonders gut eingestellt. Ich lag etwa ein Grad daneben.
+Okay. Ich hole es später.
+Bist du jetzt online?
+Jederzeit, wie du sagst.
+Okay.
+Ich schätze, ich liege etwa zwei Zehntel zu hoch.
+Jetzt erhalten wir eine Fehlermeldung...
+Ein Irrtum, fürchte ich.
+Eine Note in 10 Sekunden erhalten – ungefähr 10 Sekunden.
+Okay.
+MARKIEREN.
+Die Reichweiten-Rate ist leider ziemlich unberechenbar.
+Wir müssen 3 nach achtern und 2-1/2 nach oben bringen.
+Okay. Das gefällt mir.
+Er rutscht mir immer noch vor die Nase, aber er kommt wieder in die alte Spur.
+Okay. Ich mag das „Out-Of-Plane“-Feature einfach nicht, aber – –
+Gemini VIII, CSQ. Wir haben nichts für Sie. Wir warten auf Sie.
+Wir sind unterwegs.
+Roger.
+2 1/2 Meilen außerhalb der geschlossenen Schleife.
+Roger.
+Gibt es welche...?
+Okay. Mein Sternenhintergrund verschwindet.
+Okay. 2,1 Meilen, 45 Fuß pro Sekunde - 49 Fuß pro Sekunde.
+Alles in Ordnung.
+Für diese Spielstärke sind Sie gut aufgestellt. Ihre Werte liegen fast im Normbereich.
+Okay. Ich werde jetzt gleich etwas genauer hinschauen, denn wir sind bei Kilometer 15. Wir sind unter 15 Kilometer und ich möchte –
+Ja, wir liegen unter 15.000.
+Was wäre, wenn ich abbreche?
+Ja, ich stimme zu.
+Okay. Geben Sie mir nun den digitalen Bereich für die verbleibenden 20 Sekunden an.
+Okay. Du bist in 10.000 Fuß Höhe.
+Okay. Und die Reichweitenrate?
+44 Fuß pro Sekunde, aber ich muss das noch einmal nachlesen.
+Okay. Ich lese.
+Bereit.
+36 Fuß pro Sekunde.
+Der Horizont wird bald sichtbar sein und wahrscheinlich blendet uns die Sonne. Falls das passiert, muss ich die Instrumente auf volle Helligkeit stellen.
+Das ist in Ordnung. Nur zu.
+Okay.
+Das erscheint mir durchaus vernünftig.
+Alles, was Sie jetzt schon sagen können - -
+Du siehst gut aus. 8100 Fuß, 39 Fuß pro Sekunde, verstehe ich.
+Ich sollte mich besser etwas zurückziehen.
+Zurücktreten...
+Ja.
+Okay. Jetzt 30.
+Okay. Ich lese das mal vor.
+6.000 Fuß.
+Okay.
+31 Fuß pro Sekunde. Ein bisschen hoch.
+Okay. Lasst uns noch ein bisschen Abstand gewinnen.
+Okay.
+5.500 Fuß.
+24 Fuß pro Sekunde.
+Scheint das Minimum zu sein. Ganz gut jetzt.
+Woher hast du die Reichweitenrate?
+24 Fuß pro Sekunde.
+Ziemlich gut.
+Ich werde jetzt noch etwas zurückrudern.
+Okay. 22 Fuß pro Sekunde.
+Ich kann nicht.
+Können Sie das nicht?
+Nein. Ich bin beschäftigt.
+Okay. 4.500 Fuß.
+Okay.
+17 Fuß pro Sekunde.
+3.700 Fuß.
+Wie hoch war die Reichweitenrate?
+Demnächst.
+19 Fuß pro Sekunde.
+Okay. Ich werde mich noch etwas zurücknehmen.
+Okay.
+Out-Of-Plane scheint ein wenig zurückzudriften.
+Okay. Du bist 3.400 Fuß hoch.
+17 Fuß pro Sekunde.
+Meine Reichweitenrate sinkt. Es ist...
+Du befindest dich in 2.880 Fuß Höhe.
+Deine Reichweitenrate hat dadurch etwas nachgelassen.
+Ich kann jetzt die Hintergrundbeleuchtung sehen.
+2.500 Fuß.
+Ja. Ich auch.
+Reichweitenrate?
+2.400 Fuß.
+Die Reichweitenrate beträgt 10 Fuß pro Sekunde.
+Sie befinden sich jetzt auf einer Höhe von 2.200 Fuß.
+Reichweitenrate?
+Reichweitenrate?
+1.900 Fuß.
+10 Fuß pro Sekunde.
+Setzen Sie ein kleines Stück... nach links.
+Jetzt zieh dich zurück.
+1.680 Fuß.
+7 Fuß pro Sekunde.
+Okay.
+Verfolge es ein wenig.
+Donnerwetter! Das ist ja unglaublich!... Die Kamera läuft.
+Zurück an die Arbeit.
+Du bist ungefähr 1.100 Fuß entfernt.
+5 Fuß pro Sekunde.
+Du bist 900 Fuß entfernt.
+5 Fuß pro Sekunde.
+Das ist einfach unglaublich! Unglaublich!
+Ich kann es nicht fassen!
+Ja, ich auch nicht. Hervorragende Leistung, Trainer!
+Super gemacht, Partner!
+Du hast es geschafft, Junge! Das hast du gut gemacht!
+Zum Tango gehören zwei.
+Wie bitte?
+Wir brauchen zwei.
+Okay. Wir sind bei...
+Zurücktreten.
+Okay. Wir sind 700 Fuß entfernt.
+11 Fuß pro Sekunde. Lass mich das nochmal rechnen.
+Ich mag 7. Sie kaufen 7 Fuß pro Sekunde?
+Ja.
+Mann! Sieh dir den Kerl an!
+Das ist schön!
+Siehst du den Dipol?
+Und ob! Ich sehe alles an diesem Kerl!
+Ich habe 18 Bilder.
+Ich habe das Visier nicht aufgesetzt. Hoffentlich treffe ich sie.
+250 und 11.
+Hast du alles eingerichtet?
+Ja.
+Ich bin in der 25. Klasse....
+Nein! Auf keinen Fall!
+Verdammt nochmal! Du solltest auf Unendlich, 1/200 Sekunde und Blende 16 einstellen.
+Nein, wir haben hier keinen Platz. Ich denke, dafür haben wir noch genügend Zeit.
+Okay. Jetzt mache ich mich wieder an die Arbeit.
+240 Fuß...
+Wir erreichen immer noch 5 Fuß pro Sekunde.
+Okay....
+Ich denke, wir könnten die ACQ-Leuchten ausschalten.
+Ja. Ich gehe zurück zur Checkliste.
+Okay. 250 folgt.
+Hast du eine Karte?
+Okay. Jetzt 230.
+Okay.
+UHF-FUNKTION DEAKTIVIERT. Sind Sie einverstanden?
+Ja.
+Hast du eine Karte?
+Gemini VIII, Gemini VIII, hier spricht Houston CAP COM. Wir warten auf etwaige Anmerkungen zum Rendezvous. Ende.
+Sag es ihnen.
+Flug Houston, hier spricht Gemini VIII. Wir halten die Position auf der Agena in etwa 150 Fuß Höhe.
+Gier nach links...
+Das ist gut.
+Okay. Jetzt bekomme ich ein besseres Bild.
+Hast du das SPOT-Messgerät irgendwo griffbereit?
+... Es sollte hier hinten auf der Schachtel sein.
+Okay. Bleiben Sie bei Agena. Keine Panik. Wir werden noch lange da sein.
+Okay. Wie hoch ist jetzt der Treibstoffmengenanzeiger?
+55 Prozent.
+Das ist schön.
+Gemini VIII hält auf der Agena an Position.
+Zurück zum Flugplan. Wir haben heute erst begonnen.
+Das ist richtig.
+Gemini VIII, hier spricht Houston. Sie sind nicht zu empfangen. Wir warten auf die Übernahme von Hawaii.
+Okay. Wir haben hier – ich denke, ich kann das Radar auf STANDBY stellen.
+Ja, Radar STANDBY.
+1/200 und f 16, steht hier drin.
+Wir hätten um 5:42 Uhr dort sein sollen. Wir waren um 5:58 Uhr da, also sind wir zu spät – meine Güte! 16 Minuten.
+Gemini VIII, Hawaii.
+Fortfahren.
+Roger. Wie geht es dir?
+Position halten in etwa 150 Fuß Entfernung.
+Roger. Haben Sie UHF DISABLE gesendet?
+Das ist richtig.
+Roger. Wir haben eine SPC-Last zu übertragen. Könnten Sie diese bitte aktivieren?
+Sicher.
+231, gleich geht es los.
+Ich habe es nicht verstanden. Wir müssen hier die Neigung etwas reduzieren.
+Wir sind in Alarmbereitschaft. Kein Wunder.
+Radar EIN.
+War es im Standby-Modus?
+Es war STANDBY...
+Okay.
+Okay. 231.
+Hast du eine Karte?
+Ich kann es nicht finden.
+Gemini VIII, Hawaii.
+Fortfahren.
+Roger. Würden Sie bitte Ihren Encoder ausschalten?
+Okay.
+Erledige hier oben ein paar Arbeiten im Zusammenhang mit der Vorsorgevollmacht.
+Unsere Agena ist in einem guten Zustand. Die TDA ist ausgebaut und versteift. Die Antennenfäden stehen wie erwartet an der TDA ab. Der Dipol ist aufgestellt. Der Motor sieht gut aus. Und wir haben die ACQ-Leuchten ausgeschaltet.
+Roger. Verstanden.
+Ich kann es nicht glauben!
+Gemini VIII. Wir hätten auch gerne einen OAMS-Treibstoffmesswert.
+Wir liegen bei 55 Prozent.
+Sagen wir 59?
+Das sind 55 Prozent.
+55. Roger.
+Wir sind bereit, die Messwerte des Agena-Status-Anzeigefelds zu kopieren.
+Ja, du solltest es dir besser besorgen.
+Okay. Wir müssen diese Seite der Medaille noch klären.
+Besser, man macht sich an die Arbeit - -
+Gemini VIII, Hawaii.
+Stationsleitung hier.
+Fortfahren.
+Wir haben eine Giermanöverzeit für Sie, falls Sie bereit sind, sie zu kopieren.
+Okay. Nur zu.
+Roger. Giermanöver um 07:10:00 Uhr. Das ist GET.
+Roger. Verstanden. Giermanöver 07 10 00.
+Wenn Sie sich in einem Kurs von +96 Grad befinden, wechselt die Agena für 30 Sekunden in den Flugsteuerungsmodus 7.
+Verstanden. 96 Grad FC-7 für 30.
+Die von uns übertragene SPC-Last enthält den Agena-Takt-Reset. Wir legen großen Wert darauf, dass sie ausgeführt wird, selbst wenn dies die Plattformparallelität beeinträchtigt.
+Was war das? Hast du es gesehen?
+Nein, habe ich nicht.
+Sagen Sie das letzte bitte noch einmal.
+Roger. Die von uns übertragene SPC-Last enthält einen Takt-Reset für die Agena.
+Roger.
+Wir sind gespannt auf die Umsetzung – selbst wenn dies bedeutet, den Plattformparallelitätstest abzukürzen.
+Roger. Verstanden. Die SPC hat Vorrang vor der Plattformparallelität.
+Im Wesentlichen. Stimmt das?
+Das ist bejahend.
+Okay.
+Mann! Das ist ja toll!
+Mann, das ist echt raffiniert!
+Ein bisschen in Ordnung!
+Okay. Als Erstes müssen wir die Plattformparallelität von 06 50 auf 07 10 einstellen. Wir erhalten die SPC-Last für das Giermanöver. Es scheint sich um die nominale Zeit zu handeln. Diese Zeit wird Ihnen also mitgeteilt.
+Jetzt schaue ich mal in Ihre Statusanzeige.
+Ich wette, die Lockheed-Leute springen vor Freude auf und ab.
+Die S-10 ist eingeschaltet.
+Ja.
+Okay.
+Mann, das geht ja kinderleicht! Ich würde dich das ja gerne machen lassen, aber –
+Oh nein!
+Ich glaube, ich sollte besser üben, solange ich noch kann.
+Mann, ich werde meine Chance bekommen!
+Hol dir deins später. Okay?
+Ja. Ich würde es nicht einmal annehmen, wenn du es mir schenken würdest.
+Es liegt an dir; bleib dabei.
+Je mehr Sie jetzt bekommen, desto besser wird es Ihnen später gehen.
+Haben wir STB Bright?
+Hätte ich tun sollen.
+Ich denke, ich hole den entsprechenden Abschnitt gleich, dann können wir etwas sehen. Ich überprüfe kurz die Systeme. Kabinendruck, alles in Ordnung.
+Ihr OAMS-Quellendruck beträgt 190.
+Da kriegst du mich immer wieder.
+Der ECS-O2-Wert ist ziemlich hoch. 810.
+Wenn die Sonne rauskommt, ist es aber warm!
+Mann, das ist einfach!
+Ist das wirklich so?
+Das ist Bahnhofswesen, da ist nichts weiter dran.
+Ich verstehe nicht, warum unser Aufnahmegerät nicht funktioniert.
+Ich auch nicht, außer vielleicht, dass es nicht läuft.
+Soll ich jetzt auf AUS schalten?
+Das Tonbandgerät ist an, aber es rührt sich einfach nicht mehr.
+Das stimmt.
+Oh, oh! Der Schutzschalter der Brennstoffzellen-Wasserstoffheizung ist ausgelöst.
+Ich versuche es zurückzusetzen. Es ist zurückgesetzt.
+Okay. Jetzt – das ist – das geht in Richtung Stationkeeping-Einstellung für EDA. Mann…
+Okay. Ich kann die Statusanzeige sehen. – Hauptanzeige Grün, Sekundäranzeige HI, EIN; Sekundäranzeige LO, EIN; Stromversorgung und Lageregelung, EIN.
+Okay.
+Das bedeutet, alles sollte so sein - -
+Ich kann darauf keine dunkle Linie erkennen – sie ist jetzt zu weit weg.
+Okay.
+Ich gebe diesem Sextanten 1 von 10 Punkten – ein bisschen...
+Wir sind immer noch - -
+Gemini VIII, Hawaii.
+Fortfahren.
+Wir möchten gerne wissen, wann Sie die Erfassungslichter zum ersten Mal gesehen haben, als Sie sich näherten.
+Wir müssen die Daten noch einmal durchgehen und das herausarbeiten.
+Roger.
+Ungefähr 45...
+Nein. Nein, es sind ungefähr 56 Meilen. Stimmt das?
+Nein, nicht 56. Ich glaube, es waren 45 Meilen.
+Wir glauben, es waren 45 Meilen, aber wir müssen das auf dem Band überprüfen.
+Roger. Verstanden. Und wir sind bereit, die Messwerte zu kopieren, falls Sie sie jetzt haben.
+Die Messwerte vom Statusanzeigefeld.
+Roger. Es sieht so aus, als wären wir noch etwa 80 Fuß draußen. Die Einstellungen sind: Hauptrot aus; Hauptgrün an; Bewaffnung aus; Sekundär-HI an; Sekundär-LO an; Lageregelung an; Starrflügler aus; Motor an; und wir können den Anleger noch nicht richtig sehen.
+Roger. Verstanden.
+Wir verwenden einen Sextanten, um diese Werte zu ermitteln.
+Verstehen.
+Hier oben ist es ziemlich hell.
+Roger. Verstanden.
+Okay. Jetzt integrieren wir es – ich denke, hier geht es darum, die Plattform auszurichten.
+Rechts?
+Mal sehen, wie viel Zeit wir haben?
+Wir haben eine Stunde Zeit.
+Wie viel vor RKV? Wie viel vor SPC Yaw?
+Das ist eine Stunde.
+In einer Stunde?
+Ja.
+Aber wir sollten vorher die Plattformparallelität durchführen.
+Neigen Sie den Kopf nach unten, damit ich den Mond von dort aus ins Bild bekomme.
+Dreh dich um, damit du schauen kannst. (flüsternd) Ich frage mich, wo zum Teufel es ist?
+... Okay....
+Wo zum Teufel ist das?
+Der SPOT-Zähler befindet sich in der kleinen Futterbox links. Können Sie ihn herausnehmen?
+Okay. Könnten Sie bitte eine Minute lang still sein.
+Lasst uns aufpassen, dass wir nicht da hineinrutschen.
+Sieh dir einen Scanner und alles Weitere an.
+Okay. Sie gehört ganz dir.
+Nun musst du noch einen Moment nach mir suchen.
+Okay.
+Okay.
+Okay. Ich würde gerne ein paar Fotos machen, wenn möglich – und zwar ein paar gute.
+Ich habe es ausprobiert... Darkside ist...
+Es ist so stabil wie ein Fels. Nicht wahr?
+Das ist sicher.
+Könnten Sie bitte einmal die Dockbeleuchtung überprüfen?
+Was soll ich auswählen, um die Plattform auszurichten?
+Wo wirst du es tun?
+Wir wollen versuchen, die Plattformparallelität umzusetzen... einen Schritt zurück und richten sie hier aus.
+Ja. Du hast Recht.
+Du hast 6 Bilder pro Sekunde.
+Ja.
+Während ich hier bin, möchte ich die Plattform ausrichten. Ich bin in einer guten Position.
+Okay. Nur noch links auf 10 Grad drehen, bevor wir - -
+Okay.
+Ich kann es jetzt nicht sehen, also - -
+Alles in Ordnung. Ich rufe dich an.
+Okay. Jetzt nach rechts lenken, dann wird alles gut.
+Du bist auf dem falschen Weg...
+Das tut mir leid.
+Siehst du ihn?
+Alles ist in Ordnung.
+Übersetzen Sie weiter.
+Warum gehst du nicht nach unten, wo du sehen kannst?
+Okay. Aline... Bahnsteig.
+Mal sehen. Sie haben uns ja nie gesagt, dass wir es wieder einschalten sollen, oder?
+Hawaii, Zwillinge VIII.
+Der Programmierer schaltet sich ein. Das Radar ist sowieso im Standby-Modus.
+Okay, jetzt...
+Das könnten wir jetzt tun.
+- - was tun?
+- - Mach ein Foto davon.
+Hat sich die Indexleiste verlängert?
+Indexleiste.
+Oh ja, warum gehst du nicht – nein, du willst ja hierbleiben.
+- - Lass uns ein Foto davon machen.
+Das könnte ich tun.
+Wir sollen die Agena im Flugsteuerungsmodus 6 einstellen, und zwar von 06:15 bis 06:25.
+Rechts.
+Okay.
+Ja.
+Du willst das also tun?
+Ja. Ich werde wohl etwas kürzertreten müssen.
+Hier sollst du sowieso in einer Reihe stehen.
+Ich bin.
+Okay. Das gibt Ihnen eine Vorstellung davon, wie die Bahnsteigsteuerung funktioniert.
+Ja.
+Es ist eine Art von Methode - -
+Ich hatte es mir vorgestellt, nur etwas weiter zurückliegend.
+Das kann ich erkennen. Normalerweise sehe ich das.
+Triebwerke zünden?
+Einen Moment bitte. Okay. Jetzt etwas näher heran. Angenommen, ich wollte kurz den Vorwärtsschub zünden und dir Bescheid geben, dass ich das jetzt mache, dann warte ich kurz, du sagst okay, und dann sage ich auch okay.
+So in etwa.
+Okay. Den Busarm in die Andockposition bringen.
+Für Ihre Indexerweiterung?
+Oh. Mein Film ist alle.
+... gib es mir und ich ändere es.
+Ich hole es.
+Das macht mir nichts aus. Ich schreibe über das, was wir schon gemacht haben.
+Okay.
+Was würden Sie für eine Belichtung empfehlen?
+Ich sage es dir gleich.
+Ein Ziel – welches Objektiv? Ein 18-mm-Objektiv?
+Ja.
+1/200 und eine Blende von f 16.
+1/200 Sekunde und eine Blende von f/16. Okay.
+Lasst uns die Plattform ausrichten.
+RKV, Zwillinge...
+Gemini VIII, RKV.
+Okay. Wir sitzen etwa 60 cm entfernt.
+Fortfahren.
+- -... Wir werden anlegen.
+Roger. Einen Moment bitte.
+Okay, Gemini VIII. T/M ist stabil. Sie liegen gut am Boden. Andocken Sie bitte.
+Okay. Wir werden jetzt anlegen.
+Okay, Gemini VIII. Vom Boden aus sieht es gut aus. Wir zeigen die starre Kegelposition. Alles sieht gut aus für das Andocken.
+Okay. Wir werden jetzt unseren STARR/STOP-Schalter betätigen.
+Roger.
+Flug, wir sind gelandet!
+Ja. Es ist ein – eigentlich ein Smoothie.
+Roger. Hey, herzlichen Glückwunsch! Das ist echt gut.
+Den Nervenkitzel, den wir hier oben haben, könnt ihr dort unten nicht erleben.
+Ha! Ha! Ha!
+Okay. Nur zur Information: Die Agena lief sehr stabil und derzeit sind keinerlei Schwankungen mehr feststellbar.
+Roger. Kopiert. Agena ist sehr stabil und zeigt keine merklichen Schwankungen. Sehr gut!
+Roger.
+Zwillinge VIII - -
+RKV. Wir möchten die SPC-Last aktualisieren, die nicht korrekt geladen wurde. Könnten Sie uns bitte UHF aktivieren und den Encoder deaktivieren?
+Ich denke, wir würden es vorziehen – können wir es selbst über den Encoder einsenden?
+Sie möchten einfach nur wieder eine SPC laden. Stimmt das?
+Roger. Wir haben die SPC-Ladung über Hawaii nicht vollständig korrekt übertragen und möchten die SPC-Ladung von hier aus abschließen.
+Und das können Sie von Ihrem jetzigen Standort aus nicht tun.
+Verstanden, Zwillinge VIII?
+Ja. Wir haben es kopiert. Wir besprechen es nur noch kurz.
+Okay. Wir stimmen Ihnen da zu und möchten, dass Sie sich doppelt vergewissern, dass Sie die richtige Ladung erhalten.
+Roger. Wilco. Das werden wir sicher tun.
+Und seien Sie darauf hingewiesen, Gemini VIII, dass der SPC derzeit deaktiviert ist, daher wird es uns unabhängig von Ihrer Last nicht schlecht gehen.
+Wir möchten Sie bitten, dies noch einmal ganz zu überprüfen.
+Roger.
+Okay. Können Sie uns bitte den Encoder ausschalten?
+Es ist aus.
+Roger. Danke. Wir senden die SPC-Ladungen.
+Okay, Gemini VIII. Die SPCs sind drin. Wir haben den Reset-Timer zurückgesetzt, und Sie haben möglicherweise wieder die Kontrolle.
+Vielen Dank.
+Roger.
+Gemini VIII, wir möchten auch das V/M-Wort senden. Könnten Sie bitte den Encoder ausschalten?
+Okay. Encoder aus.
+Roger. Wir übertragen jetzt das V/M-Signal.
+Okay. Schalten Sie den Encoder wieder ein.
+Gemini VIII, RKV. Wir haben gleich Sichtkontakt. Sie sehen vom Boden aus sehr gut aus. Herzlichen Glückwunsch zum Rendezvous und Andocken.
+Okay.
+Danke, Scotty.
+Gemini, Scotty bestätigt: DCC-Flugtest KONTINUIERLICH?
+Bejahend. Flugtest auf KONTINUIERLICH.
+Minus 3 Minuten und es läuft. CM1.
+Wir haben die Agena gerade auf 090 Grad gedreht, wobei die Drehgeschwindigkeit beim Giermanöver exakt 1,5 Grad pro Sekunde betrug. Die Drehung um 90 Grad dauerte nur wenige Sekunden. Die Gemini-Plattform hat sich möglicherweise seit der letzten Ausrichtung – die ist ja fast eine Stunde her – übermäßig verschoben.
+Ja, das stimmt.
+Die Ausrichtungen sind vom 13.06. bis zum 23.06. - mal sehen - wir behaupten, dass es sich um die Agena und die Steuerungssysteme handelte.
+Gemini VIII, Gemini VIII, Houston CAP COM. Over.
+Das ist Zwillinge VIII. A - -
+Roger VIII. Ich verstehe Sie laut und deutlich. Ich habe einige Informationen für Sie. Bereit zum Kopieren?
+Stehen zu.
+Um welche Art von Information handelt es sich?
+Also, zuallererst geht es um das SPC-Giermanöver. Ich habe da ein paar Infos für euch.
+Meinen Sie das SPC-Giermanöver?
+Roger. Wir glauben, dass die Daten geladen sind und bitten Sie, die SPCs zu aktivieren und die Agena-Daten zu empfangen. Sollten Probleme auftreten und das Lageregelungssystem der Agena außer Kontrolle geraten, senden Sie einfach Befehl 400, um es abzuschalten und die Kontrolle über das Raumschiff zu übernehmen. Haben Sie das verstanden?
+Roger. Wir verstehen.
+Roger. Okay. Bitte warten.
+Ich habe ein Update zu den Knotenpunkten für Sie.
+Stehen zu.
+Ich muss das richtige Buch finden.
+Fortfahren.
+Roger. Knoten 07 04 46; Rev 5; 67,5 Ost; 15 plus 52, Rektaszension.
+Roger. Verstanden. Knoten 07 04 46; Rev 5; 67,5 Ost; 15 plus 52, Rektaszension.
+Roger. Das ist richtig. Könnten Sie bitte bestätigen, dass das L-Band-Radar ausgeschaltet ist?
+Roger. Wir sollten den Befehl AUS haben. Sollen wir es wiederholen?
+Nein. Dies ist das L-Band-Radar des Raumfahrzeugs.
+Roger. Das L-Band im Transponder ist deaktiviert.
+Roger. Danke. Und würden Sie die ECS-O2-Heizung ausschalten?
+Okay. Ich bin dann mal weg.
+Roger. Und T/M hier unten sagt, dass der Schutzschalter für die Brennstoffzellen-O2- und H2-Heizung während der Pazifikpassage ausgelöst hat, und wir möchten wissen, ob Dave diesen Schutzschalter geöffnet vorgefunden hat und ob er ihn nach Hawaii zurückgesetzt hat?
+Das stimmt. Er fand es geöffnet vor und hat es nach Hawaii wieder zurückgesetzt.
+Roger. Big Brother beobachtet dich.
+Sag es noch einmal.
+Könnten Sie uns bitte die OAMS-Treibstoffmenge anzeigen?
+Okay. Im Moment 51 Prozent.
+Roger. 51 Prozent. Danke.
+Jetzt haben wir eine 180-Grad-Drehung für die Parallelitätsprüfung gemacht. Es ist wirklich gut gelaufen.
+Verstanden. Sie haben für die Parallelitätsprüfung eine Drehung um 180 Grad durchgeführt.
+Rechts.
+Tananarive hat Sichtverbindung.
+Gemini VIII, CSQ CAP COM. Com Check. Wie liest du?
+Wir haben hier ernsthafte Probleme. Wir geraten hier völlig aus dem Gleichgewicht. Wir sind von der Agena abgekoppelt.
+Okay. Wir haben Ihre Information zur Raumschifffreiheit hier erhalten.
+Sag es noch einmal.
+Wir zeigen Ihnen Ihr Raumschiff kostenlos.
+Was scheint das Problem zu sein?
+Wir rollen an und können nichts abstellen.
+Ständig zunehmend in einer Linksrolle.
+Roger.
+Gemini VIII, CSQ.
+Stehen zu.
+Wir haben hier im Moment eine heftige Linksrollbewegung und wir können die RCS nicht abschalten, wir können nicht feuern, und wir haben definitiv eine Rollbewegung... klemmt bei der Handsteuerung.
+Roger.
+Okay. Wir erlangen langsam wieder die Kontrolle über das Raumschiff, im RCS DIRECT-Modus.
+Roger. Verstanden.
+Wir pulsieren den RCS hier ziemlich langsam, daher kontrollieren wir die Rollbewegung nicht richtig. Wir versuchen, unsere Rollrate zu minimieren.
+Okay. Gut. Mach weiter.
+VIII, CSQ. Wie viel RCS haben Sie verwendet und sind Sie nur auf einem Ring?
+Ganz genau. Wir befinden uns auf einem Ring und versuchen, den anderen zu retten. Wir begannen mit zwei Ringen, aber jetzt befinden wir uns auf einem.
+Roger. Wie sieht es mit der RCS-Nutzung aus?
+Okay. Wir sind jetzt bei RCS B bei 1700 Pfund.
+Roger.
+Wir haben jetzt ungefähr 2350 auf A.
+Okay. Verstanden.
+VIII, CSQ. Wie geht es Ihnen?
+Wir arbeiten daran.
+Okay. Entspann dich. Alles ist in Ordnung.
+Die Kombination aus Raumschiff und Agena hob ab. Gieren und Rollen, und wir hatten ACS AUS und bestätigten 7 Stunden.
+Roger. Verstanden. Können Sie die Agena jetzt sehen?
+... hoch. Wir haben das Raumschiffsystem eingeschaltet, versucht, es zu stabilisieren, und dabei möglicherweise unsere unteren linken Triebwerke überlastet.
+Okay. Verstanden. Können Sie – haben Sie die Agena im Moment visuell gesehen?
+Nein. Wir haben die Agena seit unserem Abdocken vor einer Weile nicht mehr gesehen.
+Okay.
+Der... - -
+- -... ACS wurde abgeschaltet und ein MAP-Wert erreicht.
+Roger.
+Gemini VIII, Hawaii.
+Hallo Hawaii, Zwillinge VIII.
+Roger. Wir benötigen eine Anzeige Ihrer Schalterstellungen und des OAMS-Werts sowie den verbleibenden OAMS-Wert. Ende.
+Okay. Die Anzeige zeigt 22 Prozent an. Wir haben keine Gier- oder Rollsteuerung und können die Giertriebwerke anscheinend nicht wieder unter Kontrolle bringen. Die Nicktriebwerke funktionieren aber anscheinend. Und wir nähern uns langsam wieder der richtigen Fluglage.
+Roger. Verstanden, Gemini. Zur Info: Sie planen, in einen -3-Bereich vorzudringen. Aktuell prüfen sie den Bereich 6 oder 7-3. Sie möchten, dass Sie Modul 4 und den Geldautomaten-Computer aufrufen. Ende.
+Okay. Wir werden das dann tun.
+Und steige so schnell wie möglich in die Retro-Szene ein. Ende.
+Gemini VIII, Hawaii.
+Fortfahren.
+Roger. Welche Systeme verwenden Sie derzeit? OAMS oder RCS?
+Wir sind gerade auf OAMS.
+Roger. Und haben Sie irgendwelche Probleme mit der RCS-Steuerung?
+Im DIRECT-Modus funktioniert alles. Wir haben den RCS noch nicht wirklich gründlich geprüft. Nur so konnten wir ihn vor einiger Zeit zum Laufen bringen.
+Roger. Verstanden.
+Gemini VIII, Hawaii.
+Fortfahren.
+Roger. Wir möchten Sie bitten, Ihr C-Band-Bakensignal auf „Dauerhaft“ zu stellen. Flight empfiehlt persönlich die Einstellung 7-3. Dadurch gewinnen Sie etwa 1,5 Stunden mehr Zeit.
+Okay. Wir haben das Raumschiff derzeit unter Kontrolle. Wir befinden uns in einem langsamen Driftflug und haben noch eine gewisse Kontrolle. Die RCS-B-Anzeige zeigt 1550 Pfund und die A-Anzeige 2400 Pfund an.
+Bitte wiederholen Sie Punkt B.
+Kopie.
+Gemini VIII, Hawaii.
+Fortfahren.
+Haben Sie eine Ahnung, wie die Position der Agena derzeit aussieht? Ende.
+Wir haben es vor etwa 10 Minuten gesehen. Es schien ungefähr eine Meile unter uns zu sein.
+Roger. Verstanden. Könnten Sie bitte Ihren T/M-Schalter auf Echtzeit/ACQ-AID stellen?
+REAL-TIME/ACQ-AID.
+Könnten Sie uns bitte den genauen Ablauf des Geschehens schildern? Ende.
+Es geschah, als wir uns in der Agena-Raumschiff-Konstellation 0°, 180°, 0° befanden und dort stabilisiert waren. Die Lageregelung im Raumschiff und die Lageregelung des OAMS waren ausgeschaltet, und wir sendeten den Befehl 041 an Agena, um den Rekorder einzuschalten. Die Kombination aus Raumschiff und Agena begann eine heftige Rollbewegung.
+Gemini VIII, RKV CAP COM.
+Nur zu, RKV, Zwillinge VIII.
+Roger. Hast du eine Ahnung, wo die Agena ist?
+Nein, wir haben es nicht gesehen.
+Okay.
+Über Hawaii hatten wir Sichtkontakt, als Sie uns Ihre Schalterstellungen durchgaben. Wir haben die Meldung bis zu Ihrem Befehl 041 „RECORDER ON“ empfangen, und zu diesem Zeitpunkt begann das Raumschiff zu rollen. Könnten Sie bitte von dort aus fortfahren und uns genau Ihre Schalterstellungen an Bord sowie Ihre weiteren Aktionen beschreiben?
+Wir hatten die Lageregelungsleistung eingeschaltet und sind auf RATE COMMAND umgeschaltet.
+Roger.
+Und als wir anfingen zu gieren – es scheint, dass es am Agena-Steuerungssystem lag.
+Roger.
+Da wir keines unserer Triebwerke feuern hörten.
+Roger.
+Stehen zu...
+Wir haben ACS ausgeschaltet, die Stromversorgung des Raumschiffs und von OAMS eingeschaltet und versucht, die Kontrolle über die Kombination wiederzuerlangen.
+Roger.
+Wir konnten uns gerade noch so behaupten, aber die Raten waren zu hoch für ein Abdocken, also versuchten wir weiterhin, einen ACS-OFF-Zyklus zu senden... und überprüften gleichzeitig unsere OAMS-Schalterposition.
+Roger.
+Wir haben umgeschaltet – wir haben versucht, unser eigenes Raumschiff-Steuerungssystem auszuschalten, aber die Kombination drehte sich immer weiter hoch, also mussten wir es wieder einschalten, bevor die Raten unerträglich wurden.
+Roger.
+Nachdem wir die Raten so weit reduziert hatten, dass wir uns sicher fühlten, abzudocken, taten wir dies und manövrierten uns so schnell wie möglich mit wenigen Metern pro Sekunde von der Agena weg. Wir hatten beobachtet, wie unser Treibstoffvorrat von 50 auf unter 30 Prozent sank. Nachdem wir das OAMS abgeschaltet hatten und weiterhin im Bias-Betrieb waren – die Motorventile waren abgeschaltet –, rollten wir immer noch; wir aktivierten das RCS. Es gab keine ACME-Bewegungen, und wir erlangten die Kontrolle über das Raumschiff im DIRECT-Modus langsam zurück.
+Roger.
+Nachdem wir uns stabilisiert hatten, überprüften wir unser gesamtes Schubregelungssystem und stellten fest, dass wir keine Gier- oder Rollsteuerung hatten – oder dass wir keine Giersteuerung der Giertriebwerke hatten, da unsere Rollbewegung von den Giertriebwerken gesteuert wurde, und danach –
+ACS war wirklich in vollem Gange.
+- - wir hatten - Sicht; wir konnten sehen, wie die ACS-Triebwerke der Agena feuerten, als wir ACS ausgeschaltet hatten, also hatten wir das Gefühl, dass definitiv etwas nicht stimmte.
+Roger.
+Nach Überprüfung der Systeme des Raumschiffs stellten wir fest, dass Triebwerk Nummer 8 anscheinend derzeit nicht geöffnet ist. Dies könnte auch zum Zeitpunkt des Vorfalls der Fall gewesen sein, wir können dies jedoch zum jetzigen Zeitpunkt nicht bestätigen.
+Roger. Bitte warten Sie. Wir werden die neue TR-Zeit aktualisieren.
+Habe es.
+Okay. Und ich möchte Ihnen auch Ihre Ladung senden.
+Wiedereintrittslast.
+DCS-Leuchte leuchtet.
+Funktioniert der Geldautomat?
+Der Geldautomat hat Modul 4A geladen und 4A verifiziert.
+Roger...
+Roger. Wir haben Verbindungsprobleme. Ihre Auslastung und Transportdaten wurden nicht aktualisiert.
+Okay.
+Okay. Hatte er das?
+Was ist die TR?
+Die TR-Zeitangabe bezieht sich auf Bereich 7-3, der in etwa einer Stunde und 15 Minuten liegt.
+Was ist unser nächster AOS?
+Der nächste AOS sollte CSQ sein.
+Bitte geben Sie uns dafür einen Zeitpunkt.
+8 52, TR ist bei 9 - -
+Roger. Es sollten 8 Stunden und 52 Minuten sein – 8 Stunden und 52 Minuten.
+Okay. Danke.
+Wir sind gerade dabei, uns für die Wiedereingliederung vorzubereiten.
+Gemini VIII, RKV. Haben Sie den OAMS-REG-Schalter durchgebrannt?
+Nein, noch nicht. Wir haben darüber nachgedacht, aber ich denke, es ist noch nicht nötig.
+Roger.
+Mist! Wie soll ich denn bloß das Visier verstauen? Ich muss ja auch noch den Fernsehmonitor reinstellen.
+Ja, ich weiß, dass du das tust.
+Möchtest du das erledigen, bevor du zu sehr in Zeitnot gerätst?
+Wir hätten sie nach der Spülung der Brennstoffzellen fragen sollen.
+Ja. Gut, dann lasst es uns tun.
+Die Brennstoffzellen werden nach 8 Minuten und 8 Sekunden gespült – Korrektur: nach 8 Stunden und 18 Minuten.
+Zwillinge VIII, CSQ. Com-Check. Wie liest du?
+Ich verstehe dich laut und deutlich. Wie geht es uns?
+Wir haben Sie verstanden. Wir haben einen neuen Transportauftrag und eine neue Ladung für Sie.
+Okay. Die TR, die wir haben, zählt hoch.
+Sag es noch einmal.
+Die TR, die wir haben, zählt hoch.
+Ihr TR zählt hoch. Unserer zählt runter, also keine Sorge. Prüfen Sie, ob Modul 4A geladen ist.
+Wir haben es geladen und überprüft....
+Okay. Ist Ihre Checkliste für die Vorbereitung auf die Retro-Umstellung vollständig?
+Wir haben es soeben abgeschlossen; die Verstauungsprozedur wird fortgesetzt.
+Okay. Wie sieht es mit Ihrer linken sekundären O2-Ventil aus? Überprüfen Sie, ob es geöffnet ist.
+Okay. Ich werde Ihnen jetzt einen TR übermitteln.
+Okay. Nur zu. Verstanden.
+Roger. Vor Ort bestätigt. Sendet eine Last.
+Okay. Ich habe einige MDIU-Werte für Sie. Schauen wir uns zunächst die... Nachricht an.
+Einen Moment bitte.
+Okay.
+Der TR ist...
+Roger.
+Okay. Bereich 7-3 GET RC, 10 04 47; RET, 400K, 22 plus 02; RET RB, 28 plus 15; Bank links 50, Bank rechts 60. Hast du es verstanden?
+Roger. Verstanden. Bereich 7-3 GET RC, 10 04 47; RET 400K, 22 plus 02; RET RB, 28 plus 15; Bank links 50, rechts 60.
+Roger. Ich habe ein paar MDIU-Kerne für dich.
+Fortfahren.
+Core 03,33649; Core 04,64690; Core 65,01059; Core 66,65460; Core 07,34726; Core 08,40866; Core 09,31745; Core 10,02510; Core 11,13600. Können Sie kopieren?
+Roger. War das dritte die Nummer 654 oder 054?
+Okay. Zurück zu Ihnen 03,33649; 04,64690; 65,01059;.., 07,34726; 08,40866; 09,31745; 10,02510; 11,13600.
+Okay. Eine Korrektur. Es handelt sich um Core 66,65460.
+Roger. 65460.
+Das ist bejahend.
+Wie wäre es mit 669?
+Können Sie bitte überprüfen, ob Ihr TR-256-Leistungsschalter geschlossen ist?
+Es ist derzeit geöffnet.
+Okay. Würden Sie es bitte schließen?
+Okay. Schließung in Kürze.
+Okay. Wir möchten gerne wissen, was Sie bevorzugen – welchen Attitude Control Mode Sie bei Retrofire bevorzugen.
+Ich schätze, uns bleibt keine andere Wahl. Okay. Wir versuchen es mit ACME, und wenn das funktioniert, schalten wir auf RATE COMMAND im RCS um. Okay. Wir richten die Plattform aus.
+Okay. Haben Sie die Auswertung am RCS in der ACME-Position durchgeführt?
+Wir schließen die Wiedereinlagerung ab. Die Wiedereinlagerung ist im Wesentlichen abgeschlossen. Die Konfiguration wird praktisch der Startkonfiguration entsprechen, oder zumindest...
+Okay. Bitte stellen Sie Ihren Event-Timer auf 15 Minuten ein, RKV übernimmt dann die Zählung für Sie.
+Okay. Wann war denn nochmal diese Retrofire-Zeit?
+Okay. GET RC, 10 04 47.
+Okay. In etwa einer Stunde....
+Roger.
+Ich kann Ihnen die RKV-Beschaffungszeit mitteilen, wenn Sie möchten.
+Ja. Bitte fahren Sie fort.
+Okay.
+Okay. 09 44 37.
+Roger. Wie wäre es mit einem GET-Zeit-Hack?
+Okay. Wir geben euch den GET-Zeit-Hack um 09:01:00.
+Ich gebe Ihnen einen Mark um 45. Wir haben gleich LOS.
+MARKIEREN.
+Wir stehen an eurer Seite.
+Okay.
+Wir verzichten auf die IVIs, MIs und aktualisieren den Kanal und all den anderen Kram von RKV.
+Gemini VIII, Hawaii CAP COM.
+Nur zu, Hawaii. Zwillinge VIII.
+Roger. Die Lichter der Agena-Übernahme sind eingeschaltet, und falls Sie sie sehen, würden wir uns über eine ungefähre Angabe ihres Standorts freuen.
+Roger. Verstanden.
+Wir möchten außerdem wissen, ob Sie den Rate Command Mode überprüft haben. Ende.
+Bestätigt. Wir haben den Rate Command Mode überprüft.
+Roger. Und ich habe einige Wiedereintrittsdaten, die Sie kopieren können, sobald Sie bereit sind.
+Fortfahren.
+Roger. IVI achtern, 292; links-rechts, 0; oben-unten, 100.
+Ist das nach oben oder nach unten?
+Das sollte unten sein.
+Das sind 110... nach oben.
+Achtern 292, runter 100.
+Korrektur. Das sind 110 nach oben.
+Nein! Runter!
+Das sind wahrscheinlich 110 runter.
+Okay. Das stimmt, Gemini. Flight hat korrigiert, dass es offline ist.
+Okay. RN, RP, plus 77, Steigwinkel bei nominal 400 Fuß; Korrektur, nominal 400.000 Fuß; RET 400.000 Fuß, 22 plus 02; Beginn der Verdunkelung, 24 plus 43; Ende der Verdunkelung, 30 plus 01; Bremsfallschirm, 31 plus 37; Hauptfallschirm, 32 plus 58. Und ich habe die Wetterdaten für Ihr Bergungsgebiet usw. für Sie, falls Sie sie übernehmen möchten.
+Ich lese Ihnen das noch einmal vor. RN minus RP, plus 77; Steigung für 400K, nominal; RET 400K, 22 plus 02; ETO, 24 plus 43; Ende der Verdunkelung, 30 plus 01; Bremsfallschirm, 31 plus 37; Hauptfallschirm, 32 plus 58.
+Das ist richtig.
+Okay. Ich bin bereit für den Rest.
+Eins bereitstellen.
+Gemini VIII. RN minus RP plus 77 befindet sich in einem Bankwinkel von 50.
+Roger. Verstanden. Der Bankwinkel beträgt 50 Grad.
+Ich verstehe, dass Sie bereit sind, Ihre Landingpage zu kopieren.
+Fortfahren.
+Roger. 5.000 verstreut; Wind aus Nordwest 10 Knoten; Wellenhöhe 3 Fuß; Höhenmesser 2986; Rufzeichen der Bergungskräfte: Naha RESCUE 1, GMT 02:58; Nahe SEARCH 1, GMT 03:44; Zerstörer USS Mason, keine voraussichtliche Ankunftszeit; Sonnenaufgang am Raumschiff nach 10:08:40 Minuten; dunkler Horizont bei Retrofire. Heller Horizont bei 400K. Und Ihre Bordkurve – Korrektur – Ihre Bordkurve zur Berechnung der Rückwärtsneigung und Ihrer anfänglichen Ablenkung in Flugrichtung sind gültig. Verstanden?
+Okay. Verstanden. Retrofire starten,... Sonnenaufgang 10.08.40. Und bitte Wetterdaten kopieren, Höhenmesser 2986, Bergung Naha RESCUE 1 um 02:58 Uhr GMT; Naha SEARCH 1 um 03:44 Uhr GMT; Zerstörer Mason, keine voraussichtliche Ankunftszeit.
+Das ist alles richtig. Das ist Naha SEARCH 1.
+Okay. Verstanden.
+Gemini VIII, Hawaii. Ich habe eine voraussichtliche Ankunftszeit für die USS Mason.
+Fortfahren.
+Das ist GMT 06 54.
+Bitte beachten Sie, dass die MDI-Messwerte die Funktionsfähigkeit Ihres OAMS bestätigen.
+Gemini VIII, Hawaii.
+Fortfahren.
+Roger. Haben Sie den Wiedereintrittsraten-Befehlsmodus überprüft? Ende.
+Nein, noch nicht, aber das werden wir.
+Roger. Verstanden.
+VIII -
+Gemini VIII, wir haben nichts Weiteres. Wir stehen bereit.
+Roger. Wir haben die Giersteuerung wieder. Wir haben gerade die Befehle für die Gierrate und die Wiedereintrittsrate zurückerhalten.
+Wunderbar!
+Sie wissen, dass wir jetzt OAMS haben, um die Plattform auszurichten?
+Verstanden. Sie haben OAMS zur Aline-Plattform. Ist das eine Bestätigung?
+Das ist richtig. Wir haben OAMS.
+Sehr gut. Danke.
+Gib mir SCANNER-PRIMARY.
+OAMS-Einstellungskontrolle (POWER-ON).
+Okay. Möchtest du jetzt zu BEF wechseln oder dabei bleiben?
+Es ist aus.
+Sagen wir mal, wir sind hier in einer ziemlich guten Lage...
+Wir sind fast bereit, mit der Ausrichtung zu beginnen.
+Was steht in der Checkliste?
+Das lassen wir mal – kommen wir zum nächsten Punkt.
+FDM - Rate
+Einstellungskontrolle-Direkt
+... Kontrolle...
+Steuerung der Raumfahrzeuglage auf 0°, 180°, 0°.
+Wir wollen den Adapter nicht beschädigen.
+Das ist gefährlich, nicht wahr?
+Ja....
+Ich würde es so lassen.
+Okay. Raumschifflage auf 0°, 180°, 0° steuern. Lageregelung, Horizontabtastung.
+Wenn die Plattform blockiert ist, dann gehen Sie zu BEF...
+Was?
+Eingesperrt.
+FDR-PLAT; FDM-ATT
+... LAGEKONTROLLPLATTE und dann Aline-Plattform.
+Okay. Lagern Sie die Ausrüstung gemäß der Wiedereinlagerungstabelle.
+Verstaut.
+Verstaut.
+Wir werden es nicht einbauen.
+Überlebensleine - Anbringen.
+Los geht's, Flug.
+Schultergurt und Beckengurt verbinden.
+Okay. Legen Sie eine neue Sprachaufnahme ein, steht hier.
+Hast du einen?
+Ich besorge dir eins.
+Linke sekundäre O2-Flasche - GEÖFFNET.
+Okay. Es ist geöffnet.
+Das kommt hierher.
+Ja.
+... zum Öffnen.
+Es ist geöffnet.
+Okay. Linker Sicherungsautomat - geschlossen.
+Ja, es ist geschlossen.
+TR-256 Leistungsschalter - geschlossen.
+Es ist geschlossen.
+ATT IND - mit ausländischen Direktinvestitionen.
+Roger.
+Okay. Nun zum RCS-Check, den haben Sie vermutlich schon durchgeführt?
+Ich habe den A-Ring noch nicht gemacht. Werde ich aber.
+Ich werde mit der Auswahl noch eine Weile warten.
+... Steuerleistung, Plattform-Orbitrate und stabil; RCS-Druck, Lageregelung wieder eingeschaltet, Plattform BEF. Die BIT-Zeit beträgt 15 Minuten – die BIT-Zeit am Dampfventil. Verstanden?
+Verstanden.
+Frontplatte - geschlossen.
+Wir werden uns später daran erinnern.
+Ja. Okay. Alle Höhenleistungsschalter geschlossen?
+Roger.
+Beide Kühlkreisläufe - EIN.
+Roger.
+Wollen Sie sich mit der Logik von PRIMARY ACME und der Macht von PRIMARY BIAS und all dem Drumherum beschäftigen?
+Wir lassen es dabei bewenden.
+Ich denke, wir lassen es so, wie es ist.
+Das hat nicht funktioniert.
+Ja. Fans 1 und 2.
+Das sollten wir besser tun.
+Ja.
+Oh, oh! Der Schutzschalter des Sequenzsystems hat ausgelöst!
+Da gehen sie.
+Ich setze es zurück.
+Mann, oh Mann! In letzter Zeit knallen die Sicherungen ständig raus!
+C - Wiedereintritt, kontinuierlich.
+T/M, Echtzeit; ACQ-AID und ANTENNA-SELECT, Wiedereintritt.
+Wozu?
+WIEDEREINTRITT.
+Überprüfen Sie meine Batterien.
+Dann kannst du die HF-Antenne auch gleich einziehen, Gemini.
+Außenbeleuchtung aus.
+Okay. Wir sind bereit für TR minus 15.
+Okay. Ich hätte gerne einige dieser Zahlen.
+Ja. Die GET RC lautet 10 04 47.
+Okay.
+400K sind 22 plus 02.
+In Ordnung.
+Links abbiegen 50; rechts abbiegen 60.
+Okay.
+RET RB, 28 plus 15.
+Okay.
+Stromausfall beginnt 24 plus 43.
+Ende des Stromausfalls, 30 plus 01; Drogue, 31 plus 37; Main, 32 plus 58; und Sonnenaufgang 1 Minute nach Retrofire.
+Okay. Wo ist denn die Agena?
+Mal sehen – schalten wir das Radar ein; vielleicht bekommen wir eine Entfernungsangabe.
+Das konnten wir nicht.
+Oh, mal sehen – noch eine Sache. Haben Sie die Koordinaten für den Landepunkt?
+136° Ost, glaube ich.
+Wir haben nur die Quoten 45-1 und 16-1.
+Nein, das ist es nicht. Die, die sie dir gegeben haben.
+... Stehen zu.
+Dieser Kern.
+Ja, das stimmt.
+50, 10 und 11. Stimmt's?
+Ja, ja! 25 10, 25.
+Ja.
+Und 13600.
+1 – Was ist es? 36?
+Ja.
+Und tatsächlich.
+Es ist genau da, wo sie es gesagt haben.
+7-3 liegt genau in der Mitte.
+Das war -3. Das war die dritte Wahl, abgelegene Gebiete.
+Roger.
+Mal sehen, ob du es schaffst...
+Ich muss eine Weile suchen.
+Was?
+Ich muss eine Weile suchen.
+Hast du die Rufzeichen und den ganzen Kram bekommen?
+Ja. Naha RESCUE 1 und Naha SEARCH 1.
+Sie sollten ungefähr zur gleichen Zeit da sein, zu der wir da sind – planmäßig.
+Klingt ganz nach ihnen.
+Okinawa.
+Begnadigung?
+Okinawa.
+Ich würde ja gerne mit ihnen über die Heimreise diskutieren, aber ich weiß nicht, wie das gehen soll.
+Ja.
+Ich würde nur ungern weit draußen in der Wildnis landen.
+Oh, Mist!
+Schultergurt?
+Ich habe einen Krampf in der Schulter.
+Möchtest du noch etwas Wasser, bevor wir runtergehen?
+Ja. Sag mal, wir sollten das Ding besser verstauen!
+Hast du deins angeschlossen?
+Ja.
+Sprachaufzeichnung installieren?
+Ja.
+Dann weiter zu TR-1.
+Gemini VIII, RKV CAP COM.
+Fortfahren.
+Roger. Gemini VIII, wir haben eine medizinische Aktualisierung für Sie. Erstens: Trinken Sie vor und nach dem Retrofire Wasser. Zweitens: Nehmen Sie eine Tablette Merazin ein. Code Alpha vor dem Retrofire eingeben. Wenn Sie das Raumschiff verlassen, lassen Sie den Sanitätskasten unberührt. Verstanden?
+Okay...
+Negativ.
+Roger.
+... RET 400K für Sie.
+Okay.
+RET von 100K - RET von 100K ist 30 plus 38.
+Verstanden. Danke....
+Roger. Haben Sie Ihre Checkliste für die Vorbereitung der Retro-Maßnahmen ausgefüllt?
+Roger. Haben wir.
+Roger. Wie beurteilen Sie das REENTRY RATE COMMAND?
+Es sieht gut aus.
+Roger. Verstanden.
+Roger, Gemini VIII. Und noch ein medizinischer Hinweis: Falls Sie das Raumschiff verlassen, sollten Sie das Erste-Hilfe-Set mitnehmen.
+Positiv.
+Das ist bejahend. Roger.
+Gemini VIII, sie werden über Ascension mit Ihnen sprechen. Die Ascension-Akquisezeit ist 09:52:10.
+Das sollte in ein paar Minuten soweit sein.
+Roger. Bestätigt. 2 Minuten.
+Okay. Die Agena scheint sehr stabil zu sein. Der ACS-Gasdruck liegt weiterhin bei etwa 200 Pfund.
+Gemini VIII, RKV. Haben Sie schon etwas von der Agena gesehen?
+Nein, und unser Radar ist eingeschaltet, aber es hat kein Ziel erfasst. Wir haben nichts gesehen, Fluglotse.
+Roger.
+Sie haben noch etwa eine Minute Zeit.
+10 Sekunden, 3, 2, 1,
+MARKIEREN.
+Habe es.
+Roger. Und seien Sie darauf hingewiesen, dass Ihre TR auf dem Raumschiff synchronisiert ist.
+Verstehen.
+Roger. Könntest du mir in 14 Minuten einen weiteren Hack geben?
+Roger. Wir sind fast am Ziel. Wir versuchen es.
+Fortfahren.
+MARK. 14 Minuten.
+Habe es.
+Danke, Flight.
+Roger.
+Roger. Los.
+Roger. Wir verstehen.
+Gemini VIII, ich habe neue Rettungsdaten für dich. Bist du bereit, sie zu kopieren?
+Fortfahren.
+Roger. Naha RESCUE 1 wird bei der Wasserung mit Fallschirmspringern und Schwimmkragen vor Ort sein. Die USS Mason wird etwa drei Stunden nach der Wasserung eintreffen. Zur Erinnerung: Core 86 steht für die Breitengrade und 87 für die Längengrade bei Ihrer Überprüfung zwischen 80 und 50K.
+Okay....
+Und ich habe einen alternativen Gierwinkel für dich für Retrofire minus 4 Minuten. Sirius wird 4 Grad rechts von der Flugbahn sein.
+Roger.
+Und wir zählen blind mit Kano für Ihr Retrofire.
+Gemini VIII, Houston. Haben Sie mich verstanden?
+Roger.
+Houston steht bereit.
+Gemini VIII, Houston. Nach Retrofire besteht kein Kontakt mehr zu uns. Wir könnten Sie nach dem Stromausfall über das CSQ erreichen. Nach dem Wassereintritt sind wir für HF bereit.
+Roger. Verstanden.
+Gemini VIII, Houston CAP COM. Noch eine Minute bis zur Landung. Wir warten auf Ihre Bestätigung (TR minus 1).
+Ascension LOS.
+Okay. Das hatten wir noch nicht.
+Nein. Lass es einfach da stehen.
+Okay. Ich schalte jetzt auf RCS und OAMS auf OFF.
+Okay....
+Ich bin im RATE COMMAND ACME.
+Okay.
+Lasst uns hier einen Zeittrick anwenden.
+Okay.
+Okay. Jetzt.
+Gut.
+Gemini VIII, Houston CAP COM. Bitte überprüfen Sie, ob Ihre TR minus 4 16 vollständig ist. Wir sind bereit für Ihre SEP ADAPT.
+Roger. Es ist fertig.
+Roger.
+Wir haben kein TR minus 2 56 Signal erhalten, aber unser TR ist synchronisiert.
+Roger.
+Okay. Ungefähr eine Minute.
+Okay.
+Okay.
+Bitte warten Sie auf eine Markierung in einer Minute. Bitte warten Sie 60 Sekunden – 60 Sekunden.
+Roger. Wir haben SEP OAMS, SEP ELECT und SEP ADAPT.
+Okay. 41 Sekunden.
+Okay.
+30 Sekunden.
+Ich nutze AUTO RETRO.
+Okay. Mach das noch nicht.
+Retro Rocket Squibs (4) - ARM.
+1, 2, 3, 4, LICHT.
+Okay.
+RETROFIRE.
+Requisiten AUS.
+Halt durch.
+Okay. Vier Retro-Raketen wurden im AUTO RETROFIRE-Modus und 292, achtern 000 und 114 abgefeuert.
+Roger. AUTO RETROS. Vier Retros.
+... nach 000 und 114 unten.
+Sagen Sie noch einmal die IVI's.
+Das ist großartig.
+Okay. Willst du -
+Plus 1,3.
+Gemini VIII, Houston. Sagen Sie Ihre IVIs noch einmal.
+Okay. Schau mal bei Retro nach.
+Okay. Schau mal bei Retro nach.
+Nur zu. Fang an.
+Retro, check.
+Daran hat sich nichts geändert.
+Bei den IVIs gibt es keine Änderungen.
+Ich habe einen ACME OFF auf dem Pulse bekommen.
+Okay. Jetzt möchte ich meine Uhr einstellen.
+Okay.
+Hat der GET-Timer begonnen?
+Ja.
+Okay.
+Bereit für die Checkliste nach dem Retro-Projekt?
+Ja.
+Okay. RETRO-POWER, SICHER.
+RETRO-POWER, SICHER.
+RETRO-JETT, SICHER.
+SICHER.
+RETRO-ROCKET-Zündhütchen, SICHER.
+AUS 2, 3, 4, SICHER.
+FDR, COMP.
+Roger. FDR, COMP.
+FDM, RATE.
+RATE.
+FDI-Skalenbereich, LO.
+LO.
+EINSTELLUNGSKONTROLLE, PULS.
+Wir sind bei PULSE, 1 Ring.
+BOOST INSERT CONTROL 1 und 2 Leistungsschalter, ÖFFNEN.
+BOOST INSERT 1 und 2 sind geöffnet.
+Rückwärtssequenzsteuerung 1 und 2 Leistungsschalter, GEÖFFNET.
+Retro Sequence 1 und 2 sind geöffnet.
+RCS B Lageregelungsstrom, AUS. An System A eingeschaltet.
+Scanner aus.
+Verstanden. Scanner aus.
+Gurtzeug festziehen und verriegeln.
+Der Rückhaltegurt rastete nicht ein.
+Okay. Das stimmt, aber ich muss es lockern, um die Stifte herauszuziehen.
+Roger.
+Lass uns gehen.
+Okay.
+... Ring...
+Okay. Du bekommst deins zuerst. Lass uns das hier der Reihe nach machen.
+Okay.
+Ich hole mir meins.
+Hast du deins an?
+Ja. Noch eine Minute.
+Okay. Ich ziehe meine jetzt an.
+Okay. Ich ziehe es einfach an meiner Seite fester an...
+Hast du sie verstaut?
+Nein, ich habe dieses kleine... nicht verstaut.
+Ich denke, ich sollte jetzt fortfahren.
+Es ist schwer zu erkennen.
+PRI O2 Heizungs-Leistungsschalter, OFFEN.
+Es gibt Sonnenlicht.
+Schau dir die Sachen aus dem rechten Fenster an!
+Wunderschön! Wow! OAMS CONTROL PROP-Leistungsschalter, OFFEN.
+CALIB-Leistungsschalter, OFFEN. TASCHENANLAGENSTEUERUNG, OFFEN.
+ECS O2 HEIZUNG, AUS.
+Die Brennstoffzellenheizung für Sauerstoff und Wasserstoff ist ausgeschaltet.
+In Abschnitt 1 und 2 ist der Strom abgeschaltet.
+1A, 1B, 1C, 2A, 2B, 2C - AUS.
+FDM, RATE.
+LSF - AUS.
+... Kabelbaum... Ventile...
+Richten Sie die Lage des Raumfahrzeugs auf 180° Gierwinkel und 170° Rollwinkel aus.
+Horizont am oberen Fensterrand.
+Das ist richtig. Versuchen Sie es noch einmal.
+... Nächster Schritt: 400.000.
+Und es dauert noch eine ganze Weile.
+Ja.
+Können Sie mir bitte eine Uhrzeit nennen.
+Okay. Ich könnte ein paar Sekunden danebenliegen, aber es wird ungefähr hinkommen.
+Das ist in Ordnung.
+Ich gebe Ihnen – können Sie 630 überprüfen?
+Überprüfen.
+Okay. Es hat geklappt.
+MARKIEREN.
+Fantastisch! Nahezu perfekt!
+Richtig.
+Rechts.
+Das alles schwebt im Wasser.
+Ja.
+Okay. 400K ist TR plus 22.
+B-Ring hatte etwa 1300 Pfund weniger.
+Wie bitte?
+B-Ring hatte etwa 1300 Pfund weniger.
+Ich denke schon.
+... steigt weiter.
+Ich habe immer wieder das Gefühl, dass wir etwas vergessen haben, aber ich weiß nicht, was es ist.
+Soweit ich weiß, haben wir alles getan.
+Roger.
+Sag es noch einmal.
+Hier gibt es ziemlich viel Blendung.
+Ich muss also gute Arbeit leisten, damit wir in der Nähe des Rettungsstandorts landen... wie wäre es damit?
+Ich bin deiner Meinung.
+Nominaler Nickwinkel hier.
+Ja.
+Was ist das?
+Ich sagte, es sei nur ein Nominalwert.
+400.000.
+Ich habe die Nadel genau bei 45 positioniert....
+Sag mal, bist du in der richtigen Stimmung?
+Ja. Ich bleibe noch eine Weile bei RATE und zähle mit...
+Okay.
+Jetzt nicht zu viel gähnen.
+Noch 52 übrig.
+Gier nach rechts halten.
+Das ist 52. 52 sollte... richtig sein. 52 sollte sein...
+Siehst du es?
+Das muss... hell sein. Es sind 55 Grad plus/minus 3.
+Hoffen wir es.
+Begnadigung.
+Ich habe noch 1 Minute bis zur Beratung.
+Wie sieht es für dich aus?
+Der Adapter brennt links durch. Ich kann zusehen.
+Können Sie das wirklich?
+Ja. Verstanden... Siehst du es? Es wird grün.
+Ja.
+Okay. Sollte... in Kürze soweit sein. Da ist es! Verstanden?
+Für den Anfang schon recht vernünftig.
+Soll 77 plus/minus 50 sein.
+Ja.
+Lassen Sie es hier etwa 30 Sekunden lang laufen.
+Jetzt dringt ein wenig Licht durchs Fenster.
+Ich werde den Wiedereintrittsratenbefehl ausführen.
+Okay.
+Behalten Sie diesen Druck im Auge.
+Roger.
+Sie glauben, dass es bei welchem ​​Zeitpunkt aussterben wird?
+Ja.
+Es gibt 30 Sekunden Anleitung.
+Sieht schön und stabil aus, nicht wahr?
+Ja, das tut es.
+Würdest du das kaufen?
+Ja, ich werde es kaufen, sobald es da ist.
+Wir haben fast eine Minute Anleitung.
+Okay. Ich gehe rüber und hole das...
+Verdammt nochmal, dieser Sitz...
+Fuß in den Steigbügeln.
+Super gemacht!
+Gemini VIII, CAP COM auf UHF. Ende.
+Da ist etwas aus dem Fenster, nicht wahr?
+Ja....
+Gemini VIII, CSQ CAP COM. Lesen Sie? Ende.
+Der Stromausfall endet nach 30 Minuten.
+... du bist dran.
+Ja. Wahrscheinlich...
+Sag es noch einmal.
+Sie müssen mir die Höhenangaben mitteilen, da ich nichts sehen kann.
+Gemini VIII, CSQ CAP COM auf HF. Lesen Sie? Ende.
+Sieht der Pitch gut aus?
+Ihre Grenzen?
+Gemini VIII, CSQ CAP COM auf UHF. Lesen Sie? Ende.
+Gemini VIII, Gemini VIII, CSQ CAP COM auf UHF. Lesen Sie? Ende.
+Ich kann keine Wiedereintrittsrate abrufen...
+Okay… Sieht hier ganz gut aus…
+Behalten Sie das Drucksystem im Auge. Wir haben nur eine bestimmte Menge Treibstoff.
+Okay. Sag mir, wann ich ihn anrufen soll.
+Gemini VIII, Gemini VIII, CSQ CAP COM auf UHF. Lesen Sie? Ende.
+Okay. Jetzt ziehen wir den B-Ring an...
+Du hast es verstanden.
+... ist ausgeschaltet.
+Um...
+Ungefähr 5 g.
+Okay. Ungefähr 30 Sekunden bis 100.000.
+5 g.
+Es geht jetzt runter.
+Es sollte hinter mir sein.
+Funktioniert der Höhenmesser?
+Sinkende Tonhöhe.
+Verzeihen Sie.
+Vergiss nicht...
+Richtig. LANDUNG - ARM, 70.000 Fuß.
+Okay.
+Okay. 50.000. Bereit für den Bremsfallschirm.
+Rechts.
+Ja.
+Wir haben einen guten Drogue.
+Ja. Okay. Gehen wir zu RATE COMMAND.
+Okay. 30.000.
+Okay. Sie können auf O2 HI RATE umschalten.
+Roger.
+Sie können... jederzeit jetzt.
+... liest.
+Okay. Hände lassen los...
+Ich habe eine 40K-Lampe.
+Okay.
+Okay. Was ist das? Ungefähr 20.000?
+Houston, Gemini liest 86, 02505; 87, 13609; guter Drogue.
+Die sehen alle richtig gut aus.
+10.000.000
+Fallschirm bereit?
+Ja.
+Auf geht's!
+Los geht's! Los geht's!
+Ach du meine Güte!
+Sie haben sie erwischt!
+Gute Show!
+Mir ist die Nase geplatzt.
+Soll ich meinen Helm öffnen?
+Kannst du es sehen?
+Darf ich meinen Helm öffnen, Trainer?
+Okay - -
+Chef, ich muss meinen Helm öffnen.
+Okay. Machen wir uns bereit für die Landeposition.
+Besorg dir zuerst die Triebwerke.
+RCS A und B PROP MOTORVENTILE - GESCHLOSSEN.
+Ja.
+Mit Triebwerken.
+Sie sind alle ausverkauft.
+Fortfahren.
+Okay. Bereit?
+Ja.
+Sehr gut.
+Gar nicht so schlecht.
+Okay. Wir sind bei 5 Kilometern.
+Okay. Sie möchten das Wasser überprüfen?
+Mann, ist das widerlich!
+Was?
+Im Cockpit.
+Was ist das?
+Im Cockpit befinden sich viele Abgase.
+Ja. Okay.
+Okay. Der Hauptfallschirm ist geöffnet. Er ist entkoppelt; die Einpunktauslösung ist aktiviert. Landeschutzschalter für den Lageanzeiger – OFFEN.
+... Okay. Es ist GEÖFFNET.
+Fortfahren.
+Okay. Bergungskräfte rufen.
+Okay. Du rufst sie an; du kennst ihr Rufzeichen.
+Ja. Okay.
+Hallo, Naha RESCUE 1, Naha SEARCH 1, Gemini VIII.
+Gibt es bei euch dort Wasser?
+Ich sehe nur Dunst. Oh ja, da ist Wasser! Es ist Wasser!
+Okay. Stellen Sie Ihren Höhenmesser auf 2986 ein.
+2986. Okay. Wir sind startklar. DRÜCKEN - ÖFFNEN.
+Sind wir schon unten?
+Ja.
+Zum Schluss. Wassersperre - UNTEN (geschlossen).
+Ja. Nach links gieren.
+Wir werden also eine kleine Drehung machen, wenn wir ankommen.
+Okay. Wie hoch befinden Sie sich auf Ihrer Höhe?
+1500 Fuß.
+... ist eingeschaltet.
+RCS-Heizung schaltet sich ab. Der Schutzschalter der Scan-Heizung ist ausgelöst. Computer ist ausgeschaltet. Plattform - -
+Die Drehratensensoren sind deaktiviert.
+Hallo Naha, hier spricht Gemini VIII. In guter Verfassung, sinkt sehr schnell, 1.000 Fuß.
+Okay. Dann sollten wir uns wohl besser vorbereiten. Stimmt's?
+Okay. Schnorchel ist oben und GESCHLOSSEN.
+Wasserdichtung.
+Die Wassersperre wird gesenkt – GESCHLOSSEN.
+100 Fuß.
+Kabine REPRESS - ÖFFNEN.
+Möchten Sie den Fallschirm abwerfen?
+Ja.
+Okay.
+Okay.
+Okay.
+Alles ist in Ordnung.
+So weit, ist es gut.
+LANDUNG - SICHER.
+SICHER.
+Okay.
+Kabinenlüftung – unten (geöffnet). Schnorchel – geöffnet.
+Ich hab's geöffnet. Den Schnorchel. Ist er offen?
+Ja.
+HF-Peitschenschutzschalter - GESCHLOSSEN.
+Der Strom ist abgestellt.
+Ja.
+Diese Hauptrutsche war schon etwas knifflig – da muss man doch nochmal drüber nachdenken, oder?
+Ja.
+Das hast du gut gemacht, Junge!
+Wo ist es? Irgendwo im Wasser?
+Ja.
+Ich war nie besonders begeistert von der Marine, aber weiter so!
+LANDUNG - SICHER.
+Roger. LANDUNG – SICHER.
+... 16 Sekunden.
+Wir aktualisieren den Landing Bus - ARM?
+Ach ja.
+Okay?
+Ja.
+Du willst es rausholen? Okay. Du willst HF einschalten?...
+Wir sind unterwegs.
+Hast du dort angerufen? Helm abgenommen und verstaut... Armlehnen verstaut, Beckengurt gelöst und verstaut. Schultergurte verstaut.
+Ich kann dich nicht hören.
+Versuch es noch einmal.
+Helm abgenommen und verstaut.
+Möchtest du das tun oder lieber warten, bis sich die Lage etwas beruhigt hat?
+Ja, ich denke schon.
+Wir sind verdammt nah dran...
+Wir sind 5 Minuten nördlich – ja, 9 Minuten nördlich, 9 Meilen…

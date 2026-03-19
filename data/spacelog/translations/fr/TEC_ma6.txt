@@ -1,0 +1,1748 @@
+Roger. L'horloge fonctionne. Nous sommes en route.
+Écoutez fort et clair.
+Roger. On programme en mode roll, d'accord.
+C'est un peu cahoteux par ici.
+Roger.
+Attendez 20 secondes.
+Roger.
+2 -- 1, marque.
+Roger. L'horloge de secours est démarrée.
+Carburant 102-101 [pourcentage], oxygène 78-100 [pourcentage], ampères 27.
+Roger. Parfaitement reçu. Trajectoire de vol bonne, 69 degrés.
+Roger. Vérifications OK. La mienne était à 70 degrés, comme tu l'as indiqué.
+Une zone de vibrations apparaît ici.
+Roger. Je vous comprends parfaitement.
+Roger. On passe un peu en haute fréquence; et une petite traînée de condensation est passée devant la fenêtre ou quelque chose comme ça.
+Roger.
+Carburant 102-101 [pourcentage], oxygène 78-101 [pourcentage], ampères 24. Toujours bon.
+On est en train de régler certains problèmes, de sortir de la zone de vibrations.
+Roger. Terminé. Votre trajectoire de vol est....
+Roger. Ça fait du bien, et ça se lisse vraiment bien.
+La pression en cabine a baissé de 7,0, c'est bon; le vol est maintenant très agréable.
+Le ciel est très sombre dehors.
+La pression en cabine se maintient à 6,1, c'est bon.
+Roger. La pression cabine se maintient à 6,1.
+Roger. Il y a eu quelques oscillations, mais elles semblent s'amortir correctement maintenant.
+On approche des deux minutes, le carburant est à 102-101 %, l'oxygène à 78-102 %. La force g augmente jusqu'à 6.
+Roger. Je vous reçois parfaitement. La trajectoire de vol semble bonne. Inclinaison de 25 degrés. En attente.
+Roger, retour à 1,5 g. La tour a tiré; je n'ai pas pu la voir partir. J'ai vu la fumée passer par la fenêtre.
+Roger. Nous confirmons la mise en place sur TM.
+Roger.
+Il me reste encore environ 1,5 g. Programmation terminée.
+La tour a disparu à ce moment-là. On la voyait de loin. On pouvait la voir partir. La tour larguée est verte.
+Roger.
+1,5 g.
+Roger, Seven. Je vous reçois toujours parfaitement. La trajectoire de vol semble bonne.
+Roger. Le système de rétro-éjection automatique est désactivé; le fusible de rétro-éjection d'urgence est désactivé; le fusible de rétro-éjection est désactivé.
+UHF/DF à normal.
+La trajectoire de vol est bonne; le pilotage est bon.
+Roger. Je comprends, tout semble bien se passer; la force g recommence à se rétablir un peu.
+Roger.
+Friendship Seven, les Bermudes vous ont.
+Roger. Bermudes en attente. Ici Friendship Seven. Carburant 103-101 %, oxygène 78-100 %. Toutes les tensions sont supérieures à 25 V, l'intensité est de 26 A.
+Roger. Je vous reçois toujours parfaitement. Trajectoire de vol excellente. Inclinaison: -3 degrés.
+Roger.
+Mon angle de tonalité est de -7 [degrés] sur votre -3 [degrés].
+Roger, Sept.
+Friendship Seven. Carburant 103-101 [pourcentage], oxygène 78-100 [pourcentage], ampères 25, pression cabine maintenue à 5,8.
+Roger. Je vous reçois parfaitement. Sept, Cap est prêt; nous sommes à votre disposition.
+Roger. Cap est opérationnel et je le suis aussi. La capsule est en bon état. Carburant: 103-102 %, oxygène: 78-100 %, pression cabine stable à 5,8, ampères: 26. Tous les systèmes sont opérationnels.
+Roger. 20 secondes à.
+Roger.
+Indiquant 6 g.
+Répétez.
+Ça a toujours l'air bien.
+Roger.
+, les positifs ont bien tiré.
+Roger, lève-toi....
+Roger. En apesanteur, je me sens bien. La capsule est en train de se retourner.
+Oh, cette vue est formidable!
+Roger. Le redressement a commencé.
+Roger. La capsule est en train de faire demi-tour et je peux voir le propulseur d'appoint pendant la manœuvre, à quelques centaines de mètres derrière moi. C'était magnifique.
+Roger, Seven. À toi d'essayer, au moins 7 orbites.
+Roger. Compris. Allez-y pendant au moins 7 orbites.
+Voici Friendship Seven. On voit clairement derrière; une grande formation nuageuse se dessine au loin, en direction du cap. Magnifique spectacle.
+Roger, je vous reçois parfaitement. Prochaine transmission, Bermudes.
+Roger. Bonne transmission pour la prochaine fois, Bermudes. La capsule a bien amorti l'atterrissage et a fait demi-tour. Le télescope s'est déployé, c'est bon. Je retire le filtre que j'avais installé avant le lancement.
+Effectuer un contrôle électrique.
+Toutes les batteries de 25 A ou plus, sur le système principal. Vérification de la liste de contrôle orbitale.
+Roger, Friendship Seven. Liste de contrôle de l'orbite.
+Le sac d'atterrissage est désactivé. La rétroaction d'urgence est désactivée. Le déploiement d'urgence du drone est désactivé.
+Le sac d'atterrissage d'urgence est le prochain sur la liste.
+Roger. Le coussin d'atterrissage était déjà décollé. Je l'ai remarqué en premier et je l'ai signalé. Le mode manuel est désactivé, et tout est prêt. C'est très confortable en apesanteur. Je n'ai que d'excellentes sensations. C'est tout simplement très normal et très agréable.
+Amitié Sept. Préparez-vous pour les rétrospectives.
+Roger. Prêt à copier.
+Roger. 1B,.
+Roger. 1 Bravo vaut 00 plus 17 plus 50.
+Fin de l'orbite,.
+Roger, 01 plus 28 plus 54.
+Roger, fin de la mission.
+Roger. 04 plus 32 plus 47. Ai-je le droit de réinitialiser l'horloge? Terminé.
+Non, ne réinitialisez pas l'horloge. Votre V/VR est égal à 1, votre altitude d'apogée est de 138 milles nautiques. Êtes-vous en train de démarrer la vérification de vos systèmes de contrôle?
+Roger. Dès que cette transmission sera terminée, je comprends que je suis autorisé à effectuer le contrôle des systèmes.
+Roger. Vérification des commandes en cours.
+Vérification des commandes en cours.
+Votre attitude semble correcte ici.
+Friendship Seven. Des informations à signaler concernant les contrôles des systèmes de contrôle.
+Pas encore, tout semble bien se passer. Je suis maintenant à la vérification du lacet. Tout se déroule comme prévu.
+Très bien, très bien.
+Le contrôle est excellent jusqu'à présent. Très bon, aucun problème de contrôle à signaler.
+Roger.
+Aux Damp s'adapte parfaitement à chaque fois. Aucun problème.
+Très bien.
+Friendship Seven, Bermudes. Vous lisez encore?
+Roger, Bermudes, je vous reçois parfaitement. Vérification du contrôle en cours. Aucun problème à signaler pour le moment.
+Roger, vous êtes toujours parfaitement audible.
+Roger.
+Voici Friendship Seven. Le test de contrôle s'est déroulé sans accroc, et le processus s'est déroulé exactement comme avec le simulateur de procédures. Tout est très fluide, j'ai vérifié…
+Sur les ondes UHF, si vous lisez, passez aux ondes HF.
+Roger. Je pars.
+Friendship Seven, Bermuda CapCom sur HF.
+Bonjour, bonjour, Bermudes. Je vous reçois parfaitement; comment ça va?
+Friendship Seven, Friendship Seven, Bermuda CapCom sur HF.
+Allô, Bermudes, allô, Bermudes CapCom. Friendship Seven vous reçoit parfaitement. Allô, Bermudes, Friendship Seven. Comment ça va?
+Friendship Seven, ce CapCom des Bermudes sur HF.
+Bonjour Bermuda CapCom, ici Friendship Seven. Je vous reçois parfaitement; comment ça va?
+Bonjour Canary, Friendship Seven. Terminé.
+Friendship Seven, Friendship Seven, ici Canary de CapCom. Je vous ai bien reçus. Terminé.
+Canary, Friendship Seven. Bien reçu. Contrôle terminé. Capsule en place et en attente. J'aperçois le propulseur par le hublot. Il est probablement à environ 1,6 km et descend sous ma position, légèrement sur ma gauche. Terminé.
+Ici Friendship Seven. Tout est en ordre. La capsule est en parfait état. Pression de maintien à 5,8. Terminé.
+Friendship Seven, Friendship Seven, ici Canary Cap Com. Vous m'entendez? Terminé.
+Bonjour, Canary Cap Com, je suis bien positionné sur HF. Comment ça va? À vous.
+J'ai bien compris. Pourriez-vous me donner les détails concernant le contrôle de vos systèmes de contrôle.
+Roger. Ici Friendship Seven. Le test des systèmes de contrôle était parfait. Les vérifications des systèmes de contrôle sont parfaites. Terminé.
+Roger, de Friendship Seven, a parfaitement compris que la vérification des systèmes de contrôle était impeccable.
+C'est affirmatif.
+Friendship Seven, ici Canary Cap Com. Pourriez-vous commencer votre rapport de station? Terminé.
+Bonjour, Canari, Ami Sept. Répétez s'il vous plaît. À vous.
+Quel est l'état de votre station spatiale, de votre vaisseau spatial, de votre rapport de situation?
+Ici Friendship Seven. Veuillez patienter. Je sors du matériel. À vous.
+Bonjour Canary, Friendship Seven, passage en UHF. À vous.
+Friendship Seven, Friendship Seven, Canary Cap Com. Répétez.
+Friendship Seven, Friendship Seven, Canary Cap Com. Je vous lis.
+Bonjour Canary, Friendship Seven sur UHF. Comment ça va? Terminé.
+Je vous ai compris parfaitement.
+Roger, compris parfaitement. Je vous comprends beaucoup mieux qu'à l'antenne. Terminé.
+Pareil ici.
+Ici Friendship Seven, tout va bien.
+Je rassemble une partie du matériel. Terminé.
+Roger.
+Friendship Seven, Friendship Seven. Quel est votre rapport de situation? Terminé.
+Bien reçu. En attente, je vous ferai un compte rendu. Je suis en orbite pour votre suivi. Voici le compte rendu: tous les fusibles sont en position 1, sauf celui de la tour de largage, en position 2. La rétroséquence d'urgence, le largage d'urgence et le parachute de secours sont en position centrale d'arrêt. Le dispositif anti-retour est armé. Le largage automatique est désactivé. Le système est normal (automatique et gyroscopique). Toutes les poignées en « T » sont en position « entrée ». Le délai de rétroséquence est normal. Les deux éclairages de cabine sont allumés. Les projecteurs photo sont toujours allumés. La télémétrie basse fréquence est activée. Les aides au sauvetage sont en mode automatique. Les lumières de la tour de largage et de la capsule de séparation sont éteintes. Le régulateur de pression est toujours en position « entrée ». Le contrôle de lancement est activé. Tous les panneaux de séquence sont en position normale, sauf le coussin d'atterrissage qui est désactivé. Vous recevez? Terminé.
+Compris. Nous disposons de données télémétriques fiables.
+Roger, tu as des données télémétriques solides.
+Le carburant de contrôle est de 90 à 98 % [pour cent], je répète, 90 à 98 % [pour cent].
+Le carburant automatique est à 90 [pourcentage], 98 [pourcentage].
+C'est exact. Attitude: roulis 0 degrés, lacet 2 degrés à droite, tangage -33 degrés. Tous les taux indiquent zéro. Je suis en service à l'heure actuelle. L'horloge est toujours réglée sur l'heure de retour, pour un temps rétrograde de 04 + 32 + 28. J'ai les temps rétrogrades corrects depuis les Bermudes. La pression cabine se maintient à 5,7. Température de l'air cabine: 90 degrés. Humidité relative: 30 %. Quantité de réfrigérant: 68 %. Pression ambiante de la combinaison: 65. La pression de la combinaison indique 5,8. Température de la vapeur: 60 degrés dans la combinaison. Je suis très à l'aise. Cependant, je ne souhaite pas encore réduire la pression. Oxygène primaire: 78 %; secondaire: 102 %. Bus principal: 24. Bus numéro un: 25, 25, 25. Bus de secours 1: 26; bus de secours 2: 25. Isolé, 29, et de retour sur le circuit principal. L'ampèremètre indique 23. est 112. Les ventilateurs sont à 112. Terminé.
+Je comprends, je comprends que votre période de rétroaction est terminée.
+C'est exact. C'est ce qui est indiqué sur l'horloge. L'horizon est d'un bleu éclatant. Là, j'ai le continent en vue à l'heure actuelle, pointant vers le haut sur le télescope, et j'aperçois des Canaries par la fenêtre; je les ai repérées sur le télescope juste avant de les voir par la fenêtre. Terminé.
+Roger, Friendship Seven. Ici Canary CapCom. Contrôle de la tension artérielle répété.
+Roger, je reprends la prise de tension. Ça démarre, on monte.
+Voici Friendship Seven. La vue sur la côte africaine est magnifique, aussi bien à travers la lunette astronomique que par la fenêtre. La vue par la fenêtre est de loin la plus belle.
+Une partie des Canaries était cachée par les nuages.
+Roger, je vous ai compris. On commence à avoir la tension.
+Roger, l'amitié sept.
+Friendship Seven, ici Canary de CapCom. Votre état de santé est au vert; tout semble normal.
+Roger. Ici Friendship Seven. Qu'est-ce que la pression artérielle? Terminé.
+Attendre.
+Amitié Sept. Votre tension artérielle est de 120 sur 80, je répète 120 sur 80.
+Roger.
+Friendship Seven, ici Canary CapCom. Votre onduleur de 150 volts-ampères est à 175° et fonctionne correctement.
+Roger. L'amitié sept.
+La température de votre onduleur de 250 volts-ampères est de 150 [degrés] et se maintient.
+Amitié Sept. Roger.
+La température de votre conduite de carburant automatique est de 70°, celle de votre conduite de carburant manuelle est de 100°.
+Répétez après les températures du carburant. Terminé.
+Négatif, la température de votre conduite de carburant était de 70°, 70°.
+Roger, très bien.
+Roger.
+Ici Friendship Seven, à l'écoute. J'ai un peu de retard sur ma liste de tâches pour le moment. Je rattraperai mon retard au plus vite.
+Roger, ici Canary CapCom, à votre écoute.
+Ici Friendship Seven, toujours en direct. Je vois des tempêtes de poussière qui balaient le désert, il y a énormément de poussière; par endroits, on distingue difficilement le sol. Terminé.
+Sept, tu t'évanouis; comment moi? Terminé.
+Friendship Seven, ici Kano Cap Com. Je vous reçois parfaitement. Comment me recevez-vous? Terminé.
+Roger, Kano, c'est clair et net; comment moi?
+Bien reçu. Quel est votre statut? Terminé.
+Ici Friendship Seven. Tout va bien. Je me sens bien. Terminé.
+Roger. J'ai écouté une partie de votre conversation via Canary et j'ai entendu vos commentaires sur la météo en Afrique. Pouvez-vous nous donner un compte rendu? À vous.
+Roger, ici Friendship Seven. Carburant: 90-98 %. Oxygène: 78-100 %. Pression cabine: 5,6. Très peu de poussière en suspension dans la capsule, je préfère prendre un comprimé de xylose. Décollage du joint, je vais décoller le panneau frontal. Terminé.
+Roger, Friendship Seven. Veuillez indiquer la température des gaz d'échappement. À vous.
+Répétez. Un exemplaire en attente, sous xylose.
+Friendship Seven, ici Kano Cap Com. Pouvez-vous nous indiquer la température de vos gaz d'échappement?
+Répète, Kano. Terminé.
+Lecture de la température de vos gaz d'échappement.
+Roger. La température de la vapeur est de 59 degrés. Terminé.
+Roger. Friendship Seven. Nous avons la transmission TM en place. Si vous le souhaitez, nous restons en attente pendant votre manœuvre de lacet et la vérification de vos systèmes.
+Roger. Amitié Sept. Je prends des comprimés de xylose en ce moment.
+Roger, les Sept de l'Amitié, je comprends.
+Ici Friendship Seven, en direct sur UHF basse fréquence. Terminé.
+Roger, l'amitié sept.
+Bonjour Kano. Friendship Seven. UHF basse; comment ça va? Terminé.
+Friendship Seven, ici Kano Cap Com. Répétez.
+Ici Friendship Seven sur UHF basse. Comment me recevez-vous? À vous.
+Friendship Seven, ici Kano. Je vous reçois parfaitement.
+Roger, Kano, retour sur UHF. À vous.
+Roger.
+Nous avons une température de 189° sur votre onduleur de 150 volts et de 150° sur votre onduleur de 250 volts.
+Roger. Ici Friendship Seven sur UHF. Bonjour à nouveau. Comprendre les températures des onduleurs.
+Roger, Friendship Seven. Nous restons en attente pendant votre manœuvre de lacet. À vous.
+Roger, ici Friendship Seven, début de la manœuvre de lacet. J'ai environ 40 secondes de retard. Début de la manœuvre de lacet. À vous.
+Roger, compris.
+Passage en mode manuel.
+Correction, passage en mode commandes de vol électriques. Terminé.
+Roger, je comprends le fonctionnement des commandes de vol électriques pour la manœuvre de lacet.
+C'est affirmatif.
+Ici Friendship Seven, pilotage sans problème grâce aux commandes de vol électriques. La dérive est d'environ 1° par seconde, et l'assiette est bien maintenue sur les autres axes. À vous.
+Roger. Vérifiez la dérive à 1° par seconde et le maintien de l'attitude sur tous les axes. J'ai votre temps de rétroséquence pour la zone 1, Charlie.
+En attente. Je répondrai plus tard; je suis en pleine manœuvre de lacet. À vous.
+En attente.
+Ici Friendship Seven, en lacet à droite à 60°, et en attente temporaire. Terminé.
+Roger. Lacet à droite de 60° et maintien.
+Les assiettes sont toutes parfaitement dans les limites. Je n'ai absolument aucun problème à maintenir l'assiette grâce aux commandes de vol électriques. C'est très facile. Terminé.
+Roger, vérifier les commandes de vol électriques est très simple. Notre système de télémétrie vérifie que tous vos systèmes fonctionnent correctement. Êtes-vous prêt pour la rétroséquence?
+Négatif, pas encore. Je reprendrai la communication à la prochaine station si je perds le contact. Je suis toujours en pilotage manuel (commandes de vol électriques). À vous.
+Comprendre.
+Ici Friendship Seven, retour en orbite grâce à des commandes de vol électriques. Terminé.
+Roger, Friendship Seven, je vérifie votre attitude de retour en orbite.
+Roger, ici Friendship Seven. Par la fenêtre, on aperçoit des feux au sol, de longues traînées de fumée à la lisière du désert. Terminé.
+Roger. Nous avons eu un temps poussiéreux ici, et d'après ce que nous pouvons voir, une grande partie de cette région d'Afrique est recouverte de poussière.
+C'est exactement ce que l'on voit d'ici aussi.
+Roger. Tu veux bien te tenir prêt pour la rétrospective, Charlie de la Zone 1?
+Roger. Je reprends. Test de lacet concluant. Je peux assez bien détecter le lacet dans le télescope. L'affichage est un peu différent de ce à quoi je m'attendais, mais le test est concluant et je peux détecter le lacet. Je dois être à environ 5° de lacet avant de vraiment le percevoir. À vous.
+Sept, tu faiblis rapidement. Je vais diffuser cette fois-ci à l'aveugle pour la zone 1 Charlie,,.
+Ça confirme? Terminé.
+Ici Friendship Seven. Bonjour Zanzibar, Friendship Seven. Vous me recevez? À vous.
+Friendship Seven, Friendship Seven, ici Zanzibar Com Tech, transmission sur HF, UHF, vous me recevez? Terminé.
+Roger, technicien des communications de Zanzibar, bien reçu. Niveau de carburant: 90-98 %, pression cabine: 5,6; maintien de la pression; oxygène: 75-100 %. Terminé.
+Ici Friendship Seven, à l'affût pour l'enregistrement. Une grande partie de l'Afrique de l'Est est recouverte de nuages, des sortes de cirrus d'altitude, fins et vaporeux. On ne voit pas grand-chose en dessous, à part les nappes de nuages ​​elles-mêmes. On aperçoit le sol de temps en temps.
+Friendship Seven, ici Zanzibar Cap Com, je vous reçois parfaitement.
+Roger, Zanzibar.
+Message du commandant du commandement: il ne lancera pas de fusées éclairantes par ballon sur cette orbite. Il tirera à la place des fusées éclairantes à parachute. Vous avez reçu? Terminé.
+Roger, ici Friendship Seven, compris.
+Friendship Seven, ici Zanzibar Cap Com. Nous avons un contact télémétrique stable, veuillez nous communiquer votre statut. Terminé.
+Roger, ici Friendship Seven. Carburant 90-98 %, pression cabine 55 et maintien, oxygène 75-100 %, ampères 24. Terminé.
+Roger, Friendship Seven, ici le capitaine de Zanzibar. Reportage de 30 minutes. Terminé.
+Roger, ici Friendship Seven. En attente.
+Voici l'Amitié Sept, la tension artérielle.
+Friendship Seven, Friendship Seven, ici le chirurgien Zanzibar. Votre tracé de tension artérielle est bon. Il indique la pression systolique et diastolique; s'il n'est pas nécessaire de le refaire, vous pouvez vous en passer.
+Roger, ici Friendship Seven, en pleine séance d'exercice.
+Voici l'Amitié Sept. Exercice terminé, mesure de la tension artérielle répétée.
+Bonjour Friendship Seven, ici le chirurgien de Zanzibar. Votre tension artérielle était de 136/80 avant l'effort. L'électrocardiogramme enregistré pendant l'exercice était bon et votre tension artérielle est maintenant en baisse. Terminé.
+Roger, ici Friendship Seven.
+Friendship Seven, ici Zanzibar Surgeon. Tension artérielle systolique à 136 après l'effort, enregistrée correctement et en baisse à un peu moins de 90 pour la diastolique. Les deux tracés sont d'excellente qualité. Votre électrocardiogramme est également excellent. Tous les indicateurs sont excellents sur le plan aéromédical. Terminé.
+Roger, Friendship Seven. Passage au contrôle de 30 minutes,
+Voici Friendship Seven. Les mouvements de la tête n'ont provoqué aucune sensation, absolument aucune. Je me sens bien. Test de portée: je peux atteindre directement n'importe quel point. Je n'ai aucun problème pour atteindre les boutons et je me suis adapté à l'apesanteur très facilement, bien plus facilement que je ne l'aurais cru. Ma vision des graphiques est excellente, sans astigmatisme ni aucun dysfonctionnement.
+Roger. Tu devrais le recevoir maintenant, d'accord.
+Merci.
+Friendship Seven, ici le chirurgien de Zanzibar. Nous avons bien reçu votre rapport indiquant une bonne précision de la portée. Aucun trouble lié aux mouvements de la tête, bonne acuité visuelle (test d'astigmatisme inclus) et bonne réponse à l'effort. Terminé. Pourriez-vous…...?
+Roger, ici Friendship Seven. Êtes-vous prêt pour le résumé des panels? À vous.
+Roger, Friendship Seven. Ici Zanzibar CapCom. À vous de jouer.
+Ah, Roger, Zanzibar CapCom. Friendship Seven. Tous les fusibles sont inchangés; je n'en ai changé aucun. Le propulseur est armé. Le largage automatique est désactivé. Le système est en mode normal, automatique, gyroscopique normal. Toutes les poignées en « T » sont rentrées. Le délai de rétrogradation est normal. Le panneau de séquence est normal. Le sac d'atterrissage est désactivé. Le niveau de carburant est de 90 à 98 %. L'EPI indique un vol quasiment conforme au programme. Mon assiette est de 5 degrés à gauche, 3 degrés à droite et -33 degrés en tangage. L'heure de rétrogradation est toujours réglée sur 04 + 32 + 28. Vous me recevez? À vous.
+Roger, Friendship Seven. Poursuivez le reportage.
+Bien reçu. Ici Friendship Seven. Le hublot, les indicateurs d'assiette et le périscope sont tous en bon état. Je vois la face cachée apparaître dans le périscope derrière moi. La pression cabine est de 5,5 et se maintient. La température cabine est de 95 degrés. L'humidité relative est de 28 %. J'ai réglé la température de la cabine (et de ma combinaison) sur la position « eau chaude » pour un refroidissement accru. La température de la vapeur est actuellement de 61 degrés. Le taux d'oxygène est de 75 à 100 %. Je n'ai pas communiqué la température de la combinaison. La température d'entrée d'air est de 65 degrés et la pression est de 5,8. À vous.
+Roger, Friendship Seven. Poursuivez le reportage.
+Roger. Tous les autres interrupteurs du panneau de droite sont normaux, à l'exception des interrupteurs de fusibles Retrojettison et Retromanual en position arrêt. Terminé.
+Roger, Friendship Seven. Pourriez-vous me donner la température des gaz d'échappement de la combinaison? Terminé.
+Roger. Température de la vapeur d'échappement: 61 degrés. Je viens de la baisser. À vous.
+Roger, Friendship Seven. Poursuivons avec les tensions des batteries. Terminé.
+Roger. Tensions des batteries: Principale: 24 V, Numéro 1: 25 V, Deuxième: 25 V, Troisième: 25 V. Veille 1: 25 V, Veille 2: 25 V, Isolée: 29 V. Ampèremètre: 22 V, 112 V; ventilateurs: 113 V. Terminé.
+Roger, Friendship Seven. Êtes-vous prêt à copier l'heure de rétroséquence Delta de votre zone de contingence 1? Terminé.
+Roger. Dis 1 Delta.
+1 Delta est. Avez-vous reçu? Terminé.
+Roger. pour 1 Delta.
+Roger, la température de votre onduleur est de 188° pour un onduleur de 150 volts et de 158° pour un onduleur de 250 volts.
+Roger, Roger, j'ai bien reçu les températures de l'onduleur.
+Friendship Seven, ici Zanzibar Cap Com. La télémétrie indique que tous les systèmes sont opérationnels. L'état médical est bon... même constat, nous avons quelques pertes de données télémétriques... Veuillez patienter, nous reprendrons la communication dans environ 3 minutes. Fin de transmission Zanzibar Cap Com.
+Roger, Zanzibar.
+Bonjour, Friendship Seven, Friendship Seven. Ici Indian Com Tech....
+Voici Friendship Seven, qui passe ensuite au cache-œil.
+Bonjour, Friendship Seven. Friendship Seven, Com Tech. Terminé.
+Bonjour, Com Tech, Friendship Seven. Allez-y.
+Friendship Seven, Friendship Seven. Ici Indian Com Tech sur HF UHF. Vous nous recevez? Terminé.
+Ici Friendship Seven. Vous m'entendez? Terminé.
+Friendship Seven, Friendship Seven. Ici Indian Com Tech sur HF UHF. Comment recevez-vous? Terminé.
+Indian Com Tech. Je vous reçois parfaitement sur HF. Terminé.
+Bonjour Friendship Seven, Friendship Seven. Ici Indian Com Tech sur HF UHF. Vous nous recevez? À vous.
+Indian Com Tech, Friendship Seven. Fort et clair, comment moi?
+Roger, Friendship Seven, je vous reçois très clairement--
+Voici Friendship Seven. Le coucher de soleil était magnifique et on pouvait voir la lumière presque jusqu'à l'horizon nord.
+L'amitié sept, l'amitié sept,... Terminé.
+Commandement du capitaine indien, je vous reçois de manière très confuse. À vous.
+Roger, maintenant. Terminé.
+Friendship Seven, Friendship Seven, ici Indian Cap. Terminé.
+Allez-y, Indian Cap Com. Je vous ai bien compris maintenant. Terminé.
+Roger. Veuillez poursuivre votre message. Terminé.
+Répétez, Indien. Terminé.
+Pourriez-vous me communiquer votre statut et vos consommations, s'il vous plaît? Terminé.
+Roger. Ici Friendship Seven. Tout va bien. Je me sens bien. Niveau de carburant: 90-98 %, oxygène: 75-100 %, ampérage: 21 ampères, heure actuelle: 21, pression cabine: 5,5. À vous.
+Roger, compris, je vous reçois parfaitement. Terminé.
+Bien reçu, c'est clair et net.
+Ici Friendship Seven. À l'heure actuelle, MARK, je distingue encore quelques nuages ​​en contrebas. Le coucher de soleil était magnifique. Il a été très rapide. Une bande bleue éclatante traverse encore l'horizon, couvrant presque toute ma fenêtre. Je peux encore apercevoir les teintes rouges du crépuscule à travers quelques nuages, loin à gauche de ma trajectoire. Terminé.
+Roger, sous....
+Le ciel est d'un noir absolu, complètement noir. Je distingue pourtant des étoiles. Je n'ai encore identifié aucune constellation. Terminé.
+Roger, comprends Friendship Seven.
+Amitié Sept. Pourriez-vous confirmer avoir reçu le message rétroactif 1 Delta de Zanzibar? Terminé.
+Ici Friendship Seven. Roger, 1 Delta est là.
+Roger. J'ai les zones 1 Echo, Foxtrot et Hotel. Êtes-vous prêt à prendre la parole? À vous.
+En attente.
+Roger. Prévenez-moi.
+Très bien, allez-y pour les retours en arrière. Terminé.
+Roger. Écho de la zone 1: 1 heure, 15 minutes et 42 secondes. Je répète: 1 heure, 15 minutes et 42 secondes. Terminé.
+Roger. Un Echo, c'est 01 plus 15 plus 42.
+Roger. Le Foxtrot d'Area dure une heure, 28 minutes et 50 secondes. Je répète: une heure, 28 minutes et 50 secondes.
+Roger. Le foxtrot, c'est 01 plus 28 plus 50.
+C'est exact. Durée de l'hôtel Area: 4 heures, 32 minutes et 42 secondes. 4 heures, 32 minutes et 42 secondes. Terminé.
+Roger. 04 plus 32 plus 42. Terminé.
+Roger. C'est exact. Terminé.
+Roger. Ici Friendship Seven. Je n'ai aucun mal à distinguer l'horizon nocturne. Je pense que la lune se lève derrière moi. Oui, je la vois dans le télescope, elle projette une lumière blanche éclatante sur les nuages ​​en contrebas. À vous.
+Roger, compris.
+Friendship Seven, nous avons lancé notre fusée éclairante. Vous comprenez que c'est... terminé.
+C'est affirmatif.
+On nous a signalé un incendie. Voyez-vous quelque chose? Terminé.
+Ici Friendship Seven. Négatif. Je n'ai rien dans le champ de vision ni à l'extérieur.
+Roger, compris.
+Friendship Seven, ici Indian Cap Com. Ressentez-vous une sensation d'apesanteur? Terminé.
+Ici Friendship Seven. Négatif, je me sens bien pour le moment. Terminé.
+Roger, compris.
+Ici Friendship Seven. Je retourne la combinaison pour augmenter sa position. La température de la vapeur est toujours d'environ 60 degrés. Terminé.
+Roger, compris.
+Je suis maintenant réglé sur la température de ma combinaison à 1,7. Terminé.
+Roger, compris. Quel est votre mode de contrôle? Terminé.
+Le mode de contrôle est automatique. Terminé.
+Roger, compris.
+Roger. La nuit est suffisamment éclairée; je peux même distinguer l'horizon par le périscope. Terminé.
+Roger. Terminé.
+Amitié Sept, Roger.
+Friendship Seven, ici Indiana CapCom. À vous de jouer.
+Roger, compris.
+Vos transmissions vocales commencent à s'affaiblir fortement. Terminé.
+Roger. L'amitié sept.
+... clair, Cap Com. Out.
+Roger.
+Ici Friendship Seven, en direct de nuit. Un instant. Friendship Seven, en direct de nuit, effectue des observations nocturnes. Il semble y avoir une couche nuageuse très élevée au-dessus de l'horizon, bien plus haute que tout ce que j'ai pu observer de jour. Les étoiles semblent la traverser avant de redescendre vers l'horizon. Elle paraît avoir une largeur d'environ 7 ou 8 degrés. Je distingue les nuages ​​en dessous, puis une bande sombre, puis une bande plus claire que les étoiles traversent en descendant vers l'horizon. Je peux identifier les constellations du Bélier et du Triangle.
+Friendship Seven, Muchea Com Tech. Nous vous lisons. Et vous.
+Bonjour Muchea Com Tech. Ici Friendship Seven, je vous reçois parfaitement. Comment ça va?
+Roger, Friendship Seven. Muchea Cap Com. Comment moi? Terminé.
+Roger. Comment vas-tu, Gordo? Ici, tout va très bien. Tout se passe à merveille. À toi.
+John, tu as l'air bien.
+Roger. Le niveau de carburant est de 90 à 100 %, celui d'oxygène de 75 à 100 %, l'ampérage de 22 ampères, tous les systèmes fonctionnent correctement. Aucun problème à signaler. Le système de contrôle fonctionne parfaitement. Terminé.
+Roger. Avez-vous déjà des observations sur les étoiles, la météo ou des points de repère? À vous.
+Roger. Je faisais juste quelques enregistrements. La seule chose inhabituelle que j'ai remarquée est une couche de brume assez haute, à environ 7 ou 8 degrés au-dessus de l'horizon, côté nuit. Je peux voir les étoiles à travers, car elles descendent vers l'horizon, mais il s'agit d'une bande ou d'une couche unique très visible, bien au-dessus de l'horizon normal. Terminé.
+Roger, très intéressant.
+Ici Friendship Seven. J'avais une épaisse couche de nuages ​​en provenance d'Afrique. Elle s'est considérablement éclaircie maintenant et, même si je ne vois pas clairement l'océan, le clair de lune se reflète sur les quelques nuages ​​présents. Terminé.
+Roger. Votre coupure était excellente, John. Votre vitesse était inférieure de 8 pieds par seconde à la valeur cible. V sur VR, 1,0002. Pouvez-vous confirmer votre rétroséquence 1 Easy, Foxtrot et Hotel depuis le navire de l'océan Indien? Terminé.
+C'est affirmatif. Je l'ai fait.
+Roger. Votre contrôle de lacet au-dessus d'ATS était bon. Votre lacet lorsque vous étiez en mode commandes de vol électriques était excellent.
+Roger.
+Avons-nous le feu vert pour vous envoyer un calibrage Z et R? Terminé.
+Roger.
+Z Cal arrive maintenant.
+Roger. Vous devriez bientôt apercevoir des lumières là-bas. Voulez-vous vérifier ce qui se trouve à votre droite? Terminé.
+Roger. Je suis prêt à voir si je peux les apercevoir.
+Roger. Votre visière est bien baissée. À vous.
+C'est exact. Je l'avais laissé ouvert un instant; il est fermé maintenant. La pression en cabine est stable. Terminé.
+Roger, Z Cal est hors service. R Cal prend le relais.
+Roger.
+Avez-vous des symptômes de vertiges ou de nausées? Terminé.
+Négatif, aucun symptôme. Je me sens bien. Terminé.
+Très bien.
+Roger. Ton onduleur de 150 VA est à 180°. Il semble bien fonctionner.
+Roger. On dirait que ça tient bien.
+R Cal est désactivé.
+Roger.
+Quelle journée courte.
+Répétez, Friendship Seven.
+Ce fut sans doute la journée la plus courte que j'aie jamais vécue.
+Ça passe vite, hein.
+Oui Monsieur.
+Bien.
+D'accord. Avez-vous d'autres points de repère ou observations à faire? À vous.
+Ici Friendship Seven. J'aperçois les Pléiades, elles sont très nettes. Je distingue quelques constellations. C'est un peu mieux qu'au large de l'Afrique.
+Roger, je comprends que vous avez les Pléiades en vue. Avez-vous déjà aperçu Orion? À vous.
+Négatif. Nous n'avons pas encore Orion en vue.
+En quelques secondes, vous devriez apercevoir Orion et Canopus, et Sirius probablement très peu de temps après. La lune sera éteinte....
+Roger.
+Avez-vous le temps de nous envoyer votre mesure de tension artérielle? Terminé.
+Roger. En attente.
+Roger.
+Roger. Les chirurgiens sont prêts à prendre votre tension artérielle dès que vous serez prêt.
+Roger. Je l'envoie déjà. L'ont-ils reçu? Terminé.
+Roger. Ils l'ont en bon état.
+Roger. Je vois bien les lumières au sol. À vous.
+Roger. C'est juste là, sur votre droite?
+C'est exact. Juste à ma droite, je vois un grand faisceau de lumières, apparemment tout près de la côte. Je distingue les contours d'une ville et une lumière très vive juste au sud. Et je continue vers le bas…
+Perth et Rockingham, vous voyez là-bas.
+Roger. Les lumières ressortent très bien, et merci à tous ceux qui les ont allumées, s'il vous plaît?
+Bien sûr, John.
+Très bien. Plus au sud, vers l'intérieur des terres, j'aperçois d'autres lumières. Il y a deux, enfin quatre motifs, dans ce secteur. Et j'en vois une autre par la fenêtre, presque en dessous de moi. Les lumières sont très nettes d'ici.
+Roger. Ça me va.
+Friendship Seven, Friendship Seven. Ici Woomera Cap Com, je vous reçois parfaitement. Notre marque est intacte. Woomera à votre écoute.
+Roger, Woomera.
+Friendship Seven. Nous avons votre tension artérielle: 126/90. Quels sont les résultats de vos tests physiologiques? Terminé.
+Voici Friendship Seven. Je n'ai ressenti aucun effet indésirable jusqu'à présent suite à l'apesanteur. C'est même très agréable. Mon acuité visuelle est toujours excellente. Aucun astigmatisme. Les mouvements de la tête n'ont provoqué aucune nausée ni gêne. Terminé.
+Roger, Friendship Seven. Commençons ce rapport de 30 minutes, s'il vous plaît, par l'emplacement du panneau de fusibles. À vous.
+Roger. Voici le rapport de 30 minutes. J'ai effectué des mouvements de tête sans ressentir le moindre effet. Le test de portée s'est déroulé sans problème. Mon orientation est bonne et ma vision est nette. Le fait de suivre une cible mobile, un point lumineux que je fixe d'avant en arrière, ne provoque aucun trouble. Le test d'éclairage est en cours et tous les voyants de la capsule sont fonctionnels. Je survole actuellement une importante nappe de nuages, qui s'étend presque à gauche de ma trajectoire, c'est-à-dire vers le sud. Terminé.
+Roger, Friendship Seven. Continuons ce reportage de 30 minutes.
+Roger. Voici le compte rendu du panneau: les fusibles du panneau de gauche sont tous dans la position indiquée précédemment. Le propulseur d'appoint est armé. Le largage automatique est désactivé. Le sélecteur de mode est en mode normal (auto) et le gyroscope est en mode normal. Toutes les poignées en « T » sont enfoncées. Le délai de rétrogradation est normal et les deux éclairages de cabine sont allumés. Les filtres rouges sont activés. La fréquence basse du télémètre est activée. Les aides au sauvetage sont en mode automatique. Tous les éléments du panneau de séquence sont normaux, sauf le coussin d'atterrissage qui est en position centrale (arrêt). Le niveau de carburant est de 90 à 100 %. Les indications d'assiette sont de 5 degrés à droite, 3 degrés à gauche et 36 degrés vers le bas. L'indicateur EPI est assez précis et indique que le pilote est presque au-dessus de Woomera. Le temps de décollage à mon repère sera de 58 + 15. En attente - REPÈRE. Le temps de rétrogradation est toujours réglé à 04 + 32 + 28.
+La pression cabine se maintient à 5,5. La température cabine est de 100 degrés. L'humidité cabine est de 25 %. La quantité de réfrigérant est de 67 %. La température ambiante de la combinaison est de 62 degrés. Pression d'entrée. Température d'entrée… La pression sur la combinaison est de 5,8. La température de la vapeur est de 57 degrés et diminue depuis que je l'ai réduite. Le taux d'oxygène est de 74 à 101 %. Ampérage: 23. Vous me recevez toujours? Terminé.
+Affirmative, Amitié Sept. Allez-y.
+Roger. Bus principal: 24, bus 1: 25, 25, 25. Bus de secours: 25, 25. Bus isolé: 29, et bus principal: 24 à nouveau. Ventilateurs: 113, 113. Tous les fusibles à droite sont activés, sauf ceux de Retrojettison et Retromanual, qui sont en position centrale (arrêt). Tous les autres interrupteurs sont normaux. Terminé.
+Bonjour. Roger, Friendship Seven. Je vous reçois parfaitement. Tous les systèmes sont opérationnels. Vos horloges sont synchronisées. Les lumières de l'aéroport de Woomera sont allumées. Vous me recevez? Terminé.
+Ici Friendship Seven. Malheureusement, je n'ai pas d'aurores boréales; la couverture nuageuse est trop importante dans cette zone. J'avais de bonnes images des aurores boréales à Perth; elles étaient très nettes, mais je n'en ai pas à Woomera; désolé. Terminé.
+Roger, l'amitié sept.
+Friendship Seven, un autre contrôle de tension, s'il vous plaît. Terminé.
+Amitié Sept, Roger.
+Bonjour, Friendship Seven, Woomera Cap Com. Lecture de température de l'onduleur 150 volts: 195 degrés; lecture de température de l'onduleur 250: 172 degrés.
+Roger.
+Friendship Seven, ici Woomera Cap Com. Quelle est la température en cabine? À vous.
+Woomera, veuillez patienter un instant.
+Répétez. Vous vouliez la température de l'habitacle?
+Roger, l'amitié sept.
+Température cabine 100 [degrés]. Terminé.
+Roger, Friendship Seven. La température de votre ligne Roll Auto est de 110 [degrés].
+Roger.
+La température est de 95 degrés. Terminé.
+Roger, l'amitié sept.
+Ici Friendship Seven. On prend des photos de la star. Terminé.
+Roger, l'amitié sept.
+Salut Friendship Seven, Woomera Cap Com. Vous me recevez? Terminé.
+Roger, commandant de Woomera. Je vous reçois parfaitement. Comment ça, moi?
+Signal faible mais lisible, Friendship Seven. Tous les systèmes semblent fonctionner correctement. Tension artérielle: 125/90. Un contrôle HF aura lieu dans environ 2 minutes et 30 secondes, et l'acquisition Canton dans environ 7 minutes. Terminé.
+Roger, Friendship Seven. Merci beaucoup. Tous les systèmes sont opérationnels pour le moment. Passage en HF. Terminé.
+Roger, Friendship Seven. Ici Woomera Cap Com. Terminé.
+Bonjour Woomera, Friendship Seven sur HF. Vous me recevez? À vous.
+Ici Friendship Seven. Ici Friendship Seven, en direct sur le réseau Mercury. 1, 2, 3, 4, 5. Ici Mercury Friendship Seven. Terminé.
+Ici Cap Com de Canaveral, test des HF. GMT 15 52 05, MARK. Je n'ai pas lu la capsule. Cap, terminé.
+Friendship Seven, ici Kano. 15 h 53 min 02 s GMT. Je n'ai pas reçu votre transmission. Kano, terminé.
+Friendship Seven, ici Zanzibar Cap Com... Ici Zanzibar Cap Com, terminé.
+Amitié Sept. Ici Canton Com Tech. Vous m'entendez? Terminé.
+Bonjour Canton. Bonjour Canton. Ici Friendship Seven. Je vous reçois fort et clair. Terminé.
+Bonjour Canton. Bonjour Canton, Friendship Seven. Je vous reçois parfaitement. Comment ça va? Terminé.
+Friendship Seven, Canton Com Tech. Nous vous recevons également. Soyez prêts pour Cap Com.
+Roger. Ici Friendship Seven. Com Tech Canton. Combustible 90-100 [pourcentage], oxygène 73-101 [pourcentage].
+Sept, ici Canton Cap Com. À vous. Terminé.
+Roger, commandant de Canton Cap. Voici mon rapport: carburant 90-100 % [pourcentage], oxygène 73-100 % [pourcentage], ampères 22, pression cabine stable à 5,5 Over.
+Friendship Seven, ici Canton Cap Com. Pourriez-vous répéter, s'il vous plaît?
+Roger, Canton. Amitié Sept, je répète. D'abord, avez-vous bien la MT solide? Terminé.
+Friendship Seven, ici Canton. Affirmative, nous avons bien de la TM solide.
+Roger, message suivant: Contrôlez le carburant entre 90 et 100 %, l’oxygène entre 73 et 100 %, l’ampérage à 22 A et la pression cabine à 5,5 bars (stable). Terminé.
+Ah, Roger, Friendship Seven. Quel est votre mode de contrôle actuellement? À vous.
+Ici Friendship Seven. Toujours en mode automatique. Terminé.
+Roger, Friendship Seven. Canton en attente.
+Roger, l'amitié sept.
+Friendship Seven. Ici Canton Cap Com. Tous les systèmes au sol semblent opérationnels. La température de votre onduleur de 150 volts-ampères est actuellement de 188°. Je répète: 188°. Vos horloges sont synchronisées. Terminé.
+Roger, Friendship Seven. Merci.
+Ici Friendship Seven, prêt à manger. Terminé.
+Roger, l'amitié sept.
+Ici Friendship Seven. J'ai aperçu un gros orage au sud, bien sûr, pendant un petit moment, et des éclairs zébraient le ciel. Je le voyais très clairement. Terminé.
+Roger.
+Ici Friendship Seven. J'ouvre la visière, je vais manger. Terminé.
+Roger, l'amitié sept.
+Ici Friendship Seven. Je mange sans problème, c'est parfait. Dans le périscope, je vois l'horizon d'un bleu éclatant se lever derrière moi; le soleil se lève. Terminé.
+Roger, Friendship Seven. Tu as beaucoup de chance.
+Tu as raison. C'est magnifique.
+Ici Friendship Seven. J'ai avalé une gourde et refermé la visière. Je n'ai eu aucun problème pour manger. Oh, le soleil se lève derrière moi dans le périscope, d'un rouge éclatant. Terminé.
+Roger.
+Voici Friendship Seven. C'est éblouissant à travers le viseur en mode clair. Ça a commencé juste au moment où je vous ai donné le signal; je vais passer en mode sombre pour observer son apparition.
+Roger.
+Ici Friendship Seven. Je vais essayer de vous décrire ce qui se passe ici. Je suis au milieu d'un amas de particules minuscules, qui brillent d'une lumière intense, comme si elles étaient luminescentes. Je n'ai jamais rien vu de pareil. Elles s'arrondissent légèrement; elles passent près de la capsule et ressemblent à de petites étoiles. Une véritable pluie d'étoiles déferle.
+Elles tournoient autour de la capsule et passent devant le hublot, toutes illuminées de mille feux. Elles sont probablement espacées d'environ 2 mètres, mais je peux aussi les voir toutes en contrebas.
+Roger, Friendship Seven. Entendez-vous un impact avec la capsule? À vous.
+Négatif, négatif. Ils sont très lents; ils ne s'éloignent pas de moi à plus de 5 ou 6 kilomètres par heure. Ils roulent à peu près à la même vitesse que moi. Ils sont à peine en dessous. Terminé.
+Oui, leur mouvement est différent du mien car ils tournoient autour de la capsule puis repartent dans la direction où je regarde.
+Vous recevez? Terminé.
+Il y en a littéralement des milliers.
+Ici Friendship Seven. Suis-je en contact avec quelqu'un? À vous.
+Cela dure depuis environ 13h15. Terminé. Juste après avoir fait une remarque sur le coucher de soleil, j'ai relevé les yeux et regardé par la fenêtre: un tourbillon de particules défilait. Terminé.
+Ici Friendship Seven. Ici Friendship Seven, en direct à l'aveugle sur HF.
+Ici Friendship Seven, en direct de l'obscurité. Le soleil se lève derrière moi, dans le périscope. Il était d'un rouge éclatant à l'horizon, brillant de mille feux. Au moment où j'ai regardé par le hublot, j'ai aperçu des milliers de minuscules particules lumineuses tourbillonnant autour de la capsule et s'éloignant de moi à une vitesse de 5 à 8 km/h. Maintenant que je suis en plein soleil, elles semblent avoir disparu. C'était juste au lever du soleil. J'en distingue encore quelques-unes, même si le soleil est à environ 20° au-dessus de l'horizon.
+Friendship Seven, Friendship Seven. Ici Guaymas Com Tech, Guaymas Com Tech, transmission sur HF-UHF. Vous m'entendez? Terminé.
+Bonjour, technicien de Guaymas Com, technicien de Guaymas Com. Ici Friendship Seven. Bonne réception HF. Comment ça va? Terminé.
+Friendship Seven, Friendship Seven. Ici Guaymas Cap Com. Votre voix est un peu confuse, mais je comprends. Quel est votre statut? Terminé.
+Ici Friendship Seven sur HF. Tout se déroule comme prévu. Le niveau de carburant est de 90 à 100 %, celui d'oxygène de 72 à 101 % et l'intensité de 22 ampères. À vous.
+Roger, Friendship Seven. Pourriez-vous répéter votre oxygène, s'il vous plaît? Terminé.
+Ici Friendship Seven. Taux d'oxygène: 72-101 %. Terminé.
+Roger.
+Friendship Seven, Guaymas Cap Com. Tout semble normal d'ici.
+Roger. Ici Friendship Seven. Tout semble normal.
+… 110. La température de votre onduleur principal augmente légèrement, mais tout est rentré dans l’ordre. Terminé.
+Roger. L'amitié sept.
+Voici Friendship Seven. Il reste encore quelques très petites particules autour de la capsule. Terminé.
+Friendship Seven, Guaymas Cap Com. Répétez, s'il vous plaît. Terminé.
+Ici Friendship Seven. Au lever du soleil, des particules d'une luminosité exceptionnelle tourbillonnaient autour de la capsule. Je n'en vois plus aucune; j'en avais aperçu quelques-unes il y a un instant, lors de ma transmission. À vous.
+Roger, l'amitié sept.
+Voici Friendship Seven. Pour information, le deuxième film que j'insère dans l'appareil est le quatrième.
+Friendship Seven. Guaymas Cap Com. Il nous reste environ 3 minutes avant de recevoir les données télémétriques. Je vais vous donner les temps de rétroséquence pour les zones 2 Alpha, Golf et Hôtel. La zone 2 Alpha est…
+Ici Friendship Seven. Veuillez patienter. Je ne suis pas encore prêt à enregistrer; je change la pellicule. Terminé.
+Roger, nous sommes à votre disposition.
+Voici Friendship Seven, je vais revenir en arrière et utiliser le rouleau numéro 2 si je peux le récupérer.
+Non, le numéro 2 est manquant; j'utilise le numéro 3.
+Friendship Seven, Guaymas Cap Com. Répétez, s'il vous plaît.
+Ici Friendship Seven, je faisais une transmission pour les archives concernant le film que je chargeais. Terminé.
+Roger.
+Friendship Seven, Guaymas Cap Com. Pourriez-vous passer en UHF maintenant?
+Roger. Ici Friendship Seven, en diffusion UHF.
+Bonjour Guaymas, Friendship Seven sur UHF. Vous me recevez? Terminé.
+Roger, Friendship Seven, bien reçu. Terminé.
+Bonjour Roger, ici Friendship Seven. Je vous reçois parfaitement. Sommes-nous toujours en ligne avec le centre de contrôle? À vous.
+Roger, on continue.
+Roger. Friendship Seven. Tous les systèmes sont opérationnels dans la capsule. Je vois encore de temps en temps quelques petites particules autour de la capsule. Je les distingue sur le fond noir du ciel, même du côté jour. Terminé.
+Roger, compris.
+Friendship Seven, Guaymas. Vous voulez vos créneaux horaires de contingence maintenant? Terminé.
+Voici Friendship Seven. Prêt à copier.
+Zone 2 Alpha. Zone Golf.
+Répétez « Area Golf », s'il vous plaît.
+Golf dans la région.
+Roger, le terrain de golf de la région est à 03 plus 00 plus 41. Est-ce exact?
+C'est exact. L'hôtel Area l'est.
+Roger, 04 plus 32 plus 40 pour l'hôtel.
+Friendship Seven, Guaymas. Si vous avez un moment, pourriez-vous prendre notre tension? Terminé.
+Roger. Amitié Sept. Je vais faire une prise de tension. Il me reste encore quelques particules non identifiées qui circulent de temps en temps autour de la capsule. Terminé.
+Roger. Quelle est la taille de ces particules?
+Très petites, je dirais de l'ordre de 1,5 mm, voire moins. Elles dérivent devant la fenêtre et je les distingue sur le ciel sombre. Au lever du soleil, il y en avait des milliers. On aurait dit une myriade d'étoiles. Terminé.
+Roger. Se déplacent-ils à côté de vous ou flottent-ils avec vous? À vous.
+Certains flottent presque à mes côtés. La plupart semblent se déplacer à une vitesse d'environ 5 à 8 km/h. Je vais un peu plus vite qu'eux. Terminé.
+Roger.
+Friendship Seven, Guaymas Cap Com. Nous avons une indication de rétraction de la lunette au sol. Nous pensons qu'il s'agit d'une panne au sol. Terminé.
+C'est exact. Le champ d'application est étendu. Le champ d'application est étendu. Terminé.
+Roger.
+Ici Friendship Seven. Beaucoup de nuages. Je ne vois pas encore la terre. Terminé.
+Ici Friendship Seven. Le lacet dérive hors de son orbite et va la remettre en place. Terminé.
+Roger.
+Friendship Seven, Guaymas. J'ai dit que j'avais une indication de rétraction de la lunette. Vous dites que votre lunette est sortie, pourtant? Terminé.
+C'est affirmatif.
+Roger.
+Friendship Seven, California Cap Com. Nous avons étendu votre champ d'action.
+C'est affirmatif, Cal, le champ d'application est étendu.
+Roger, nous sommes d'accord.
+Roger.
+Ici Friendship Seven. Le lacet a dévié d'environ 20 degrés vers la droite. Je le ramène manuellement sur la bonne voie. Terminé.
+Roger.
+Voici Friendship Seven. C'est reparti.
+Friendship Seven, Guaymas. Tu étais à l'antenne quand la connexion a commencé à se couper. Terminé.
+C'est affirmatif.
+Ici Friendship Seven. Commandes de vol électriques en marche pour maintenir l'attitude orbitale.
+Ici Friendship Seven. J'aperçois la terre par le hublot. Commandes manuelles, en mode fly-by-wire.
+Amitié Sept. Ça va maintenant? Terminé.
+Je vais le rallumer maintenant et voir.
+Voici Friendship Seven. Négatif. Il semblerait qu'il soit, enfin, en attente.
+Ici Friendship Seven. Affirmative. Semble avoir pris le contrôle. Il pourrait toutefois y avoir une légère dérive à droite. Terminé.
+Roger.
+Voici Friendship Seven. Il dérive d'environ 20° vers la droite, puis reçoit une forte impulsion qui le ramène vers la gauche. Il rentre ensuite à une vitesse d'environ 3 degrés par seconde vers la gauche.
+Il dérive à nouveau en lacet. Terminé. Et une fois de plus, il s'en sort.
+Cape Com Tech. Vous avez lu? Terminé.
+Roger, Cape Com Tech. Amitié Sept. Terminé.
+Bonjour, Cape Com Tech. Amitié Sept. Terminé.
+Friendship Seven, ici Cape Com Tech, Cape Com Tech. Vous m'entendez? Terminé.
+Roger, Cape Com Tech. Sept d'amitié.
+Bonjour, Cape Com Tech. Amitié Sept. Terminé.
+Friendship Seven, ici Canaveral Com Tech. Comment recevez-vous? À vous.
+Amitié Sept à destination de Canaveral. Bien reçu. Comment ça va? Terminé.
+Friendship Seven, Canaveral Com Tech. Bien reçu. En attente de Cap Com. Terminé.
+Roger.
+Friendship Seven, Cap Com. Pourriez-vous nous décrire les difficultés que vous rencontrez avec le lacet dans ASCS? Terminé.
+Roger. Ici Friendship Seven. Je passe en mode de commandes de vol électriques pour un pilotage plus précis. Le problème a commencé à mon arrivée à Guaymas: l'appareil semble dériver vers la droite à environ 1° par seconde. Il atteint une assiette d'environ 20° et s'y maintient. À ce stade, il passe en mode d'orientation et revient à zéro, oscillant ainsi de manière répétée. Je suis maintenant en mode de commandes de vol électriques et je pilote manuellement. À vous.
+Roger. Compris. Avez-vous un temps de rétro-allumage pour 2 Bravo et 2 Charlie?
+Voici l'amitié sept. Négatif.
+OK, 2 Bravo,; 2 Charlie,. Terminé.
+Ah, voici Friendship Seven. Comprenez bien: 1 Bravo = 01 + 50 + 00; 2 Charlie, correction: 2 Bravo = 02 + 05 + 59. C'est bien ça?
+C'est exact. Veuillez patienter.
+Ici Friendship Seven. Il semblerait que je n'aie pas de poussée d'une livre en lacet gauche. L'appareil dérive donc hors limites, puis atteint sa cible avec la poussée maximale. Terminé.
+Roger, Seven, nous sommes d'accord. Nous vous recommandons de conserver les commandes de vol électriques.
+Roger, toujours en mode commandes de vol électriques.
+Sept, ici Cape. Le Président va vous parler et pendant qu'il parle, j'enverrai des appels Z et R.
+Ah - Président.
+Allez-y, Monsieur le Président.
+Ici Friendship Seven, en attente.
+Roger, Seven. J'ai un peu de mal. Commencez par votre rapport de 30 minutes.
+Roger. Ici Friendship Seven, pilotage manuel en mode fly-by-wire, sans problème. Très doux et facile; les commandes sont très précises. Les fusibles sont toujours les mêmes sur le panneau de gauche. Le lanceur est armé. Le largage automatique est désactivé. Le mode fly-by-wire est automatique, le gyroscope est normal. Tout le carburant est présent, toutes les poignées en « T » sont enclenchées, le délai de rétro-largage est normal. J'ai une vue magnifique sur la côte par le hublot. Je viens de décoller. Je peux voir l'horizon au sud, à travers la Floride. Je ne distingue pas encore le Cap.
+Roger.
+Suite du rapport. Aucun voyant du panneau de séquence n'est allumé. Seule une position anormale est signalée. Le coussin d'atterrissage est désactivé. L'EPI indique un fonctionnement normal. Le contrôle du carburant est réglé sur 80 % en mode automatique et 100 % en mode manuel. L'heure de rétrogradation est réglée sur 04 + 32 + 28. Terminé.
+Roger, je te lis toujours.
+Roger. Sommes-nous en communication? Terminé.
+Répète, Sept.
+Roger. Je serai bientôt injoignable. Je pensais que si l'autre appel était arrivé, j'annulerais le contrôle. Terminé.
+Pas encore, on vous aura la prochaine fois.
+Roger. Suite du rapport. Pression cabine: 5,5 et stable. Température de l'air: 95 °F (35 °C); humidité relative: 20 %; quantité de liquide de refroidissement: 67 %; température de la combinaison: 67 °F (19 °C); pression: 5,8; température de la vapeur: 50 °F (10 °C) et en baisse lente. Taux d'oxygène: 70-100 %; intensité: 22 A. Le seul événement vraiment inhabituel jusqu'à présent, outre les problèmes rencontrés, a été la présence de milliers de petites particules lumineuses autour de la capsule, juste au lever du soleil sur le Pacifique. Terminé.
+Roger, Seven, nous avons tout ça. Vous semblez en bonne forme. Restez en mode de commande électrique pour le moment.
+Roger. L'amitié sept.
+Friendship Seven, ici Bermuda Cap Com.
+Allez-y, Bermudes.
+Roger, nous vous avons lu 5 par 5.
+# Canaveral CC
+Sept, ici Cape. Allez aux Bermudes maintenant.
+Roger. Ici Friendship Seven. À vous, Bermudes.
+Roger, Amitié Sept. Votre test oculogyre est à rendre dans une minute et 30 secondes.
+Roger. Ici Friendship Seven. Je contrôle les commandes de vol électriques, heure actuelle. Je n'ai pas de poussée minimale en lacet gauche. À vous.
+Roger, nous comprenons tous vos rapports.
+Roger.
+Sept de l'amitié. Bermudes.
+Allez-y, Bermudes. Les Sept de l'Amitié.
+Avez-vous déjà commencé votre examen oculogyre?
+Non, pas encore. Je suis en train de m'installer.
+Friendship Seven, as-tu déjà commencé ton test?
+Ce groupe des Sept de l'Amitié. C'est un oui, à partir de maintenant.
+Roger.
+C'est l'amitié sept. Je n'obtiens absolument aucun résultat.
+Bonjour, Bermuda Cap Com. Amitié Sept. Terminé.
+L'amitié sept.
+Ici Friendship Seven. Vérification de l'Oculus en cours. Aucun effet détecté.
+...Com. Allez-y.
+Bermuda Cap Com, Friendship Seven. Je n'obtiens aucun résultat avec la vérification oculaire.
+Cap Com. Si vous lisez, allez-y,
+Bermudes, Friendship Seven. Aucun résultat pour le contrôle oculaire. Terminé.
+Friendship Seven, Bermuda Cap Com sur HF.
+Bermudes, ici Friendship Seven. Vous me recevez? À vous.
+Friendship Seven, Bermuda Cap Com. Comment lisez-vous?
+Bonjour, Bermuda Cap Com. Friendship Seven, HF. Vous me recevez? Terminé.
+Concernant l'insuffisance cardiaque, quels sont les résultats du test oculogyre, s'il vous plaît?
+Résultats négatifs. Aucun effet, absolument aucun effet. Terminé.
+Roger. Je ne comprends pas les effets de l'oculogyre. Merci.
+C'est affirmatif.
+Friendship Seven, Bermuda Cap Com. Vous lisez?
+Roger, Bermudes. Bien reçu; comment est-ce moi?
+Roger. Nous vous comprenons toujours parfaitement.
+Roger. L'équipage de Friendship Seven se prépare pour le contrôle 1 plus 44.
+Ici Friendship Seven, en transmission aveugle vers Mercury Network, au large de la côte est, au-dessus de l'Atlantique moyen. Contrôle terminé à 15h.
+# Canaveral CC
+Test sur HF GMT 16 31 59 MARK. J'ai lu le signal de la capsule faiblement, mais lisible. Cap terminé.
+Friendship Seven, ici Bermuda Cap Com sur HF. Nous n'avons pas lu le message. GMT 16:32:15.
+Friendship Seven, Friendship Seven, c'est moi. Il est 16h32min26s. Nous vous recevons parfaitement; nous vous recevons parfaitement..
+Ici Friendship Seven sur UHF. En survolant la zone de récupération, j'ai aperçu un sillage, ce qui semblait être un long sillage dans l'eau. J'imagine qu'il s'agit des navires présents dans notre zone de récupération.
+Amitié Sept… Nous ne vous lisons pas, nous ne vous lisons pas. Terminé.
+# Kano CC
+Friendship Seven, ici Kano. À 16h33 GMT. Nous ne... Ici Kano. Terminé.
+Friendship Seven, Friendship Seven, ici Com Tech. Terminé.
+Salut Canary. Friendship Seven. Je te reçois fort, même si c'est un peu brouillé. Tu me reçois? À toi.
+Friendship Seven, Friendship Seven, ici Com Tech. Terminé.
+Salut Canary, Friendship Seven. Je t'ai bien reçue. Comment ça va? Terminé.
+Friendship Seven, Friendship Seven, ici Com Tech. Terminé.
+Bonjour, Com Tech. Amitié Sept. Comment me recevez-vous? À vous.
+Friendship Seven, Friendship Seven, ici Com Tech. Vous m'entendez? Terminé.
+Roger. Ici Friendship Seven. Je vous ai bien reçu. Terminé.
+Friendship Seven, Friendship Seven, ici Com Tech, Com Tech. Vous m'entendez? Terminé.
+Bonjour, technicien des communications. Roger, je vous ai bien reçu.
+Friendship Seven, ici Com Tech. Je vous reçois parfaitement, sur UHF. En attente.
+Roger. L'amitié sept.
+Friendship Seven, Friendship Seven, Friendship Seven, ici Canary Cap Com. Comment lisez-vous? Terminé.
+Bonjour, Canary Cap Com. Friendship Seven. Je vous ai bien reçu. Comment ça, moi?
+Je vous ai bien reçu. J'ai pour instruction de vous demander de corréler les mouvements des particules entourant votre vaisseau spatial avec ceux de vos propulseurs de contrôle. Avez-vous bien reçu? Terminé.
+Ici Friendship Seven. Je n'ai pas bien entendu. J'ai entendu fort, mais c'était très confus. Terminé.
+Bien reçu. Cap vous demande de corréler les mouvements des particules entourant le véhicule avec la réaction d'un de vos propulseurs de contrôle. Compris? Terminé.
+Ici Friendship Seven. Je ne pense pas que ces tirs proviennent de mes réacteurs de contrôle, négatif. Terminé.
+Roger, je comprends.
+Friendship Seven, Friendship Seven, ici Canary Cap Com. Veuillez compléter votre rapport de situation.
+Ici Friendship Seven. Tout va bien. Je contrôle la capsule (commandes de vol électriques). Niveau de carburant: 80-100 %; niveau d'oxygène: 69-100 %; ampères: 22. Terminé.
+Sachez que votre carburant automatique est à 80 %, votre carburant manuel à 100 %, la sonde lambda principale à 69 % et la sonde lambda secondaire à 100 %. Terminé.
+Roger. Ici Friendship Seven.
+Friendship Seven, tu veux bien respirer profondément?
+Roger. L'amitié sept. Respire profondément.
+C'est bien.
+Ici Friendship Seven. J'aperçois les îles du Cap-Vert sur ma gauche. À vous.
+Roger, je comprends.
+Friendship Seven, votre état de santé est excellent.
+Roger. L'amitié sept.
+Voici Friendship Seven. Le soleil qui entre par la fenêtre est très chaud là où il frappe le costume. Ça me tient pas mal chaud.
+Roger, je comprends
+Amitié Sept, es-tu en train de faire ton bilan journalier?
+Voici Friendship Seven. Répétez.
+Êtes-vous en train de vérifier l'horizon diurne?
+Ici Friendship Seven. Négatif, pas pour le moment. Je vais bientôt commencer à bâiller. Terminé.
+Roger, je comprends.
+Ici Friendship Seven. Correction: vérification de l'horizon temporel effectuée.
+Roger. En attente.
+L'amitié sept, qui arrive à 14°.
+Quand est-ce que tu viens?
+... à venir....
+Répétez. C'est incompréhensible. Ici Friendship Seven.
+Roger. Nous vous avons bien reçu à 3° au sol sur les relevés TM.
+Roger. L'amitié sept.
+Nous avons environ 14 [degrés].
+Ici Friendship Seven. Je n'ai aucun problème à contrôler la situation à l'horizon. Terminé.
+Roger, je comprends que vous n'avez absolument aucun problème à contrôler l'horizon.
+C'est affirmatif.
+Voici Friendship Seven.
+Amitié Sept, je vous lis.
+Friendship Seven, Friendship Seven, ici ATS Cap Com. Terminé.
+Bonjour, ATS Cap Com. Fort et clair; comment ça va?
+Roger, Friendship Seven. Vous aussi, vous êtes parfaitement audible.
+Voici Friendship Seven. Mes problèmes de pian semblent s'être largement résorbés.
+Friendship Seven, on vient de perdre....
+Roger. La situation semble s'être inversée. Terminé.
+C'est exact. Auparavant, je n'avais aucune poussée latérale gauche en lacet; maintenant qu'elle fonctionne, je n'ai plus de poussée latérale droite en lacet. Terminé.
+Roger, pas de lacet à droite, faible poussée. Terminé.
+Roger. Ici Friendship Seven. Virage à 180° vers la droite. Terminé.
+Roger. Démarrage du lacet à 180°. En attente, à vous.
+MARQUE 50°.
+Voici Friendship Seven. Répétez.
+Mon repère était à 50 degrés.
+Roger.
+MARC, cent.
+Roger.
+Ici Friendship Seven. Nous avons effectué un lacet de 165 degrés, tout en maintenant notre attitude orbitale en roulis et en tangage. À vous.
+Roger, je confirme, je confirme vos valeurs. Terminé.
+Roger. L'amitié sept.
+Ici Friendship Seven, en lacet à 180°. Terminé.
+Roger, maintenant un lacet de 180°.
+Voici Friendship Seven.
+Allez-y, Friendship Seven.
+Ici Friendship Seven. J'aime beaucoup cette approche, elle permet de voir où l'on va. À vous.
+Roger, vous avez aimé votre attitude? Terminé.
+Répétez, s'il vous plaît. Terminé.
+Friendship Seven, ici ATS Cap Com, je vous suggère... Terminé.
+Ici Friendship Seven. J'ai un boulon qui se balade à l'intérieur du périscope.
+Je n'ai pas lu, je n'ai pas lu. Répétez, répétez.
+Ici Friendship Seven, retour en position orbitale. Terminé.
+Roger, retour en position orbitale. Terminé.
+Friendship Seven, ici Kano Cap Com, en attente.
+Bonjour Kano. Roger. Je vous reçois parfaitement.
+Friendship Seven, ici Kano. Dès que vous serez prêts, nous aimerions avoir votre rapport de situation. Nous vous avons bien reçus.
+Roger, Kano. Ici Friendship Seven. Je reviens actuellement en position orbitale après un contrôle de lacet à 180°. À vous.
+Roger, Friendship Seven. Nous avons bien noté votre intervention sur ATS et comprenons que vous appréciez cette approche traditionnelle.
+Non, je préfère de loin une approche tournée vers l'avenir. Par exemple…
+Mais quel est votre statut et votre rapport de poste?
+Ici Friendship Seven. Tout est en ordre. Niveau de carburant: 76-100 %; niveau d'oxygène: 68-100 %; ampères: 25. Terminé.
+Roger, Friendship Seven. Nous surveillons vos onduleurs. Votre onduleur 150 volts 200°, votre onduleur 250, 180°-180°.
+Roger. L'amitié sept.
+Friendship Seven, nous avons bien reçu vos données télémétriques et tous vos systèmes fonctionnent correctement. Nous vous rappellerons de commencer la vérification préalable au passage du côté obscur dès que vous perdrez le contact avec nous.
+Roger. L'amitié sept.
+Ici Friendship Seven, de retour en orbite. Terminé.
+Roger, je comprends l'attitude de retour en orbite.
+Voici Friendship Seven. C'est confirmé.
+Ici Friendship Seven. Je contrôle maintenant la poussée faible à gauche. Je ne contrôle pas la poussée faible à droite. Terminé.
+Roger. Confirmez que vous avez le contrôle en faible poussée vers la gauche, mais pas vers la droite.
+C'est affirmatif. L'amitié sept.
+Nous vous tiendrons au courant. Avez-vous d'autres commentaires ou questions?
+Négatif. Amitié Sept. Je suis en orbite. Je vais essayer de me reconnecter pour voir si ça marche. Terminé.
+Roger. Je reste en attente.
+Roger.
+Voici Friendship Seven. La capsule apparaît....
+Friendship Seven, votre dernière transmission a été interrompue.
+Ici Friendship Seven. La capsule semble tenir le coup, mais je crois que nous avons un léger décalage en lacet. Confirmez-vous? À vous.
+Attendre.
+Notre signal indique que vous êtes à zéro en lacet.
+Ici Friendship Seven. Je vais m'écarter du plan de vol un instant pour tenter de corriger la situation: nous dérivons en lacet. Je désactive le lacet automatique et je vais temporairement prendre le contrôle manuel. À vous.
+Roger, nous confirmons toujours que vous maintenez le lacet, comme lors de notre dernière vérification TM.
+Friendship Seven, ici Kano Cap Com. Je ne crois pas pouvoir vous recevoir, je passe la parole à Zanzibar.
+Roger, ici Friendship Seven.
+Friendship Seven, Friendship Seven, ici Zanzibar Com Tech, transmission sur HF/UHF. Vous m'entendez? Terminé.
+Roger, Zanzibar. Les Sept de l'Amitié.
+Friendship Seven, Friendship Seven, ici Zanzibar Com Tech, transmission sur HF/UHF. Vous m'entendez? Terminé.
+Roger Zanzibar. Bien reçu. Comment ça va? Terminé.
+Zanzibar Com Tech, ici Friendship Seven. Terminé.
+Zanzibar Com Tech.
+Friendship Seven, ici Zanzibar Com Tech, transmission sur HF/UHF. Vous m'entendez? À vous.
+Roger, Zanzibar. Friendship Seven. Je vous entends parfaitement; comment moi?
+Zanzibar, ici Friendship Seven. Vous me recevez? Terminé.
+Friendship Seven, ici Zanzibar Cap Com. Nous vous recevons faiblement, mais nous sommes bien audibles. Nous avons un contact télémétrique stable. Veuillez nous communiquer votre statut. Terminé.
+Bien reçu. Ici Friendship Seven. Mon statut: je suis en ligne, mais la connexion n'est pas stable. Mon problème de lacet s'est inversé. Au début du vol, lorsque j'ai rencontré des difficultés au-dessus de la côte ouest des États-Unis, j'avais un problème de lacet, sans poussée minimale à gauche; maintenant, j'ai de la poussée dans cette direction, mais pas à droite. Lorsque la capsule dérive dans cette zone, elle atteint sa poussée maximale et passe temporairement en mode d'orientation. À vous.
+Roger, Friendship Seven. Ici Zanzibar Cap Com. Poursuivez votre reportage de 30 minutes. Terminé.
+Roger. Ici Friendship Seven. Rapport des trente minutes: les mouvements de tête ne provoquent ni nausées ni aucun malaise. Je suis surpris de pouvoir regarder le soleil d'aussi près; il brille directement sur mon visage et je n'ai qu'à me protéger les yeux avec mes sourcils. Tous les interrupteurs de fusibles sont toujours dans la position indiquée précédemment sur le panneau de gauche. Le sélecteur de mode est normal (auto), le gyroscope est normal: le dispositif anti-retour est armé, le rétrolâchement automatique est désactivé. Toutes les poignées en « T » sont en position basse, sauf la poignée manuelle, que j'ai tirée pour pouvoir passer immédiatement en mode manuel en cas de dysfonctionnement. Les aides au sauvetage sont normales. Le sac d'atterrissage est désactivé. Tous les autres éléments du panneau de séquence sont en position normale. Le niveau de carburant est de 68 à 100 % (répétition: 68 à 100 %). L'EPI indique ma position approximative. Il est 2 h 06 min 30 s depuis le décollage. L'heure rétrograde pour la zone H est toujours réglée sur 04 + 32 + 28. Je voudrais savoir si Canaveral souhaite que je la modifie dans l'horloge. Terminé.
+Pour remettre l'heure à l'heure. Terminé.
+En attente, numéro un, Friendship Seven.
+Roger.
+Friendship Seven, ici le capitaine de Zanzibar. Nous n'avons reçu aucune instruction de Canaveral nous demandant de vous demander de changer l'heure pour le moment.
+Roger, Roger.
+Friendship Seven, poursuivez avec un reportage de 30 minutes.
+Roger. Ici Friendship Seven. Le rapport de trente minutes se poursuit. La pression cabine est de 5,6 et se maintient. La température cabine est de 95 degrés et diminue lentement. L'humidité relative est de 20 %, la quantité de réfrigérant est de 67 %, et la température ambiante de la combinaison est de 68 degrés. La pression est de 5,8. La température de la vapeur est de 47 degrés, et je la réduis encore un peu. Le taux d'oxygène est de 68 à 100 %; l'intensité est de 22 ampères; les tensions: principale 24, 25, 25, 25; de secours 1, 25, 25. Le voyant d'excès d'eau cabine est allumé, je réduis la tension. Terminé.
+Roger, Friendship Seven. Continuez.
+Roger. L'amitié sept.
+Un instant, je dois réorienter la capsule. On s'éloigne trop. À vous.
+Roger.
+Ici Amitié Sept. Soleil, je veux faire une marque ici au coucher du soleil. Le soleil est à l'horizon, un bleu éclatant l'entoure de chaque côté. Je ferai une marque à la fin. Le soleil se couche. Prêt? MARQUE (2:09:06). Un bleu éclatant entoure le soleil, presque d'un horizon à l'autre. Je vois un orage quelque part en contrebas, et des éclairs.
+Et comme je ne suis pas encore adapté à la nuit, je ne peux pas voir la lumière zodiacale.
+Friendship Seven, ici Zanzibar Cap Com. Temps d'intervention pour la zone 2 Delta. Vous avez bien reçu? Terminé.
+Répétez après: temps de contingence. Terminé.
+. Sur
+, Roger.
+# "comment an", ne devrait-on pas dire "comment on"? - jah
+Friendship Seven, ici Zanzibar Cap Com. Veuillez indiquer votre portée, votre précision et votre acuité visuelle. Terminé.
+Très bien, mon acuité visuelle est bonne. Je n'ai aucun problème pour lire les cartes, ni avec mon astigmatisme. Je n'ai aucune difficulté non plus à maintenir l'assiette. Je suis toujours en mode de commandes de vol électriques. Je suis en mode normal, mais je passe en mode manuel en cas de besoin. Terminé.
+Roger, Friendship Seven. Nous avons une tolérance à la tonalité intermittente.
+La température de l'onduleur est de 205 °C pour les ventilateurs inversés et de 190 °C pour l'onduleur lui-même. Nous perdons le contact télémétrique. Veuillez patienter, nous vous recontacterons. Zan.
+Roger. L'amitié sept.
+Ici Friendship Seven, à Zanzibar. Cape recommande-t-il une intervention concernant les onduleurs? Terminé.
+Ici Friendship Seven. Je suis sous une pluie d'éclairs en ce moment.
+Voici Friendship Seven. La lumière est encore très vive à l'horizon: orange en bas, une couche jaunâtre, puis bleue, et enfin très sombre au-dessus.
+Friendship Seven, Friendship Seven, ici Indian Com Tech sur HF et UHF. Comment recevez-vous? Terminé.
+Ici Friendship Seven. Je vous reçois, Indian Com Tech. Ici Friendship Seven. Je suis actuellement en mode manuel. J'ai 92 % de carburant. Terminé. En mode manuel, le niveau de carburant est à 64 %. Terminé.
+Friendship Seven, Friendship Seven, ici Indian Cap Com. Votre signal est intermittent. Veuillez confirmer votre position de ravitaillement. Terminé.
+Ici Friendship Seven. En attente.
+Roger à l'écoute.
+Ici Friendship Seven. La capsule est repassée en mode d'orientation. Je l'ai reprise en main et je suis en train de la réorienter. Terminé.
+Roger, je comprends que vous vous réorientez en mode manuel. À vous.
+Bien, il est passé en mode d'orientation. Le voyant de niveau de carburant est allumé en mode automatique. Tout va bien pour le moment. Je contrôle la capsule et j'utilise le mode manuel. Terminé.
+Roger, compris. Pourriez-vous me donner la liste de vos consommables, s'il vous plaît? Terminé.
+Roger. Un seul en attente.
+Ici Friendship Seven. Carburant, 62-90 %; oxygène, 68-100 %; ampères, 20. Terminé.
+Roger, Roger. Vous me recevez parfaitement, parfaitement. Terminé.
+Roger. Ici Friendship Seven. La visibilité nocturne est bonne, le contrôle est correct de nuit.
+Roger, compris.
+Sept de l'Amitié. Ce Capitaine Indien. Pouvez-vous voir des constellations et les identifier? Terminé.
+Ici Friendship Seven. Bien reçu. Je tente d'identifier certains d'entre eux. En orbite, la capsule ne permet pas de voir grand-chose du ciel. Terminé.
+Roger, compris.
+Friendship Seven, ici Indian Cap Com. Êtes-vous prêt à copier votre temps de rétroséquence? Terminé.
+Ici Friendship Seven. En attente.
+Roger.
+Friendship Seven, ici Indian Cap Com. Attention, nous avons procédé à l'allumage d'une fusée éclairante. Terminé.
+Bien reçu. Ici Friendship Seven. Je ne l'ai pas en vue; la couverture nuageuse est épaisse en dessous. Terminé.
+Roger, compris.
+Ici Friendship Seven, avez-vous des informations sur la température du carburant? À vous.
+En attente.
+Friendship Seven, ici Indian Cap Com. Température du carburant: 95° pour le mode automatique et 95° pour le mode manuel. En attente.
+Roger.
+Nous avons relevé 65° sur le manuel de température du carburant. Terminé.
+Roger, je comprends que la température du carburant affichée sur le manuel est de 65°.
+C'est exact. Nous avons un message vous demandant de maintenir l'interrupteur du sac d'atterrissage en position d'arrêt. Terminé.
+Roger. Ici Friendship Seven.
+Roger. Êtes-vous prêt à copier les temps de rétroséquence? Terminé.
+En attente.
+D'accord. L'amitié sept....
+Roger. Avez-vous l'heure de la Zone 2 Delta, Zone 2 Delta? Terminé.
+Amitié Sept. Négatif.
+Roger. L'heure de la zone 2 Delta est de 2 heures, 38 minutes et 31 secondes. Je répète: 2 heures, 38 minutes et 31 secondes. Terminé.
+Roger. L'amitié sept. 2 plus 38 plus 31.
+Roger. L'écho de la zone 2 est de 2 heures, 48 ​​minutes et 59 secondes.
+Dire,
+48 minutes et 59 secondes. Terminé.
+2 heures plus 48 minutes plus 59 secondes pour 2 échos.
+Roger. Fin de la zone orbitale. Golf: 3 heures + 00 minutes + 39 secondes. Je répète: 3 heures + 00 minutes + 39 secondes. Terminé.
+Roger, 03 plus 00 plus 39 secondes.
+Roger, c'est affirmatif.
+Friendship Seven, ici Indian Cap Com. Avez-vous déjà repéré des constellations? À vous.
+Ici Amitié Sept. Négatif. J'ai quelques soucis avec ça. Mon attitude ne correspond pas à ce que je vois par la fenêtre. J'y ai prêté une attention particulière; je n'ai pas identifié les étoiles. Terminé.
+Roger, compris.
+Friendship Seven, Friendship Seven, ici Muchea Com Tech. Friendship Seven, ici Muchea Com Tech. Vous m'entendez?
+Bonjour, Muchea Com Tech, Friendship Seven. Terminé.
+Friendship Seven, Friendship Seven, ici Muchea Com Tech. Voici vos données de télémétrie. Muchea Com Tech. Vous m'entendez?
+Bonjour, Muchea Com Tech. Amitié Sept. Je vous reçois parfaitement; comment ça va?
+Friendship Seven, Friendship Seven, ici Muchea Com Tech. Friendship Seven, ici Muchea Com Tech. Vous m'entendez? Terminé.
+Bonjour, Muchea Com Tech, Friendship Seven. Je vous ai bien reçus; comment moi?
+Muchea Com Tech, Friendship Seven. Maintien de l'attitude sur Orion. Terminé.
+Friendship Seven, Friendship Seven, ici Muchea Com Tech, en communication HF et UHF. Friendship Seven, ici Muchea Com Tech. Vous m'entendez?
+Bonjour Muchea, bonjour Muchea. Friendship Seven sur HF. Terminé.
+Friendship Seven, ici Muchea Com Tech. Vous m'entendez?
+Roger, Muchea. Septième amitié. Je vous ai bien compris; comment moi?
+L'amitié sept, vous répétez?
+Ici Friendship Seven, Muchea. Je vous ai bien reçu. Terminé.
+Roger, Friendship Seven. Je vous reçois parfaitement sur HF. Terminé.
+Roger.
+Amitié Sept, Muchea Cap Com. Comment moi? Terminé.
+Roger, Muchea Cap Com. Message clair et net. Carburant: 62-85 %; oxygène: 65-100 %; ampères: 22. Terminé.
+Roger. Je n'ai pas reçu votre carburant. Pourriez-vous nous le redonner? Terminé.
+Roger, le niveau de carburant est de 60 à 85 %. Terminé.
+Friendship Seven, comment nous recevez-vous sur UHF? À vous.
+Bien reçu. Je suis toujours sur HF. Terminé.
+Friendship 7, Muchea Cap Com. Nous vous recommandons d'utiliser la UHF. Terminé.
+Roger, je passe en UHF.
+Friendship Seven, Muchea Cap Com. Comment ça va? Terminé.
+Friendship Seven, ici Muchea Cap Com. Comment allez-vous maintenant? Terminé.
+Bonjour Muchea. Amitié Sept. Je te reçois parfaitement; comment ça va?
+Bien reçu. Votre signal était légèrement brouillé. Pourriez-vous nous indiquer votre carburant, votre oxygène et votre ampérage? Terminé.
+Roger. Carburant, 60-85 [pourcent]; oxygène, 65-100 [pourcent]; ampères, 22. Terminé.
+Roger. Température des gaz d'échappement?
+Température des gaz d'échappement 50 [degrés]. Terminé.
+Roger. Êtes-vous en mode commandes de vol électriques?
+Non, je suis en mode manuel. Il me reste 60 % de carburant en mode automatique, je l'ai donc coupé et je suis repassé en mode manuel. Terminé.
+Roger. Comment va votre problème de propulseur de lacet? À vous.
+Ici Friendship Seven. Je reçois des indications erratiques sur tous les axes. Lorsque je corrige l'attitude orbitale à l'aide des instruments, je suis considérablement décalé par rapport à ma position idéale. Je suis incliné d'environ 20° vers la droite; je suis également légèrement dévié vers la droite. À vous.
+Roger, compris. Êtes-vous satisfait des systèmes de commandes de vol électriques et proportionnelles manuelles? Terminé.
+Le système de commande de vol électrique ne fonctionne pas en lacet bas à droite. Terminé.
+Roger, faible lacet à droite.
+C'est exact. Au début, le problème venait du lacet gauche à faible vitesse; maintenant, le lacet gauche fonctionne correctement, mais le lacet droit à faible vitesse ne fonctionne pas. Terminé.
+Roger. As-tu essayé de mettre tes gyroscopes en cage et de les réinstaller? Qu'en penses-tu? À toi.
+Négatif, pas encore. Je compte faire un réglage dès que la lumière du jour sera de retour et m'en occuper. Je pense que… enfin, je ne suis probablement pas sûr… mes scanners ne fonctionnent sans doute pas correctement. Terminé.
+Roger. Pouvez-vous confirmer que l'interrupteur du sac d'atterrissage est en position arrêt? Terminé.
+C'est exact. L'interrupteur du sac d'atterrissage est en position centrale d'arrêt.
+Vous n'avez pas entendu de bruits de claquement ou quoi que ce soit de ce genre à des fréquences plus élevées?
+Négatif.
+Ils voulaient cette réponse. Avez-vous votre rétroséquence fois 2 Dog, Easy et Golf du navire de l'océan Indien?
+En veille. Oui, 2 Easy et Golf, oui, je les ai.
+Roger.
+Vous en avez? Êtes-vous prêts pour Z et R Cal? Terminé.
+Affirmative, allez-y.
+Cal arrive.
+Des commentaires sur l'apesanteur, etc.
+Non, je ne ressens aucun effet indésirable. Je ne m'en rends même plus compte. Je me sens tout simplement très bien.
+Bien.
+J'ai la constellation d'Orion ici, à la fenêtre. Je la fixe du regard.
+Roger, bien. Votre 150 VA correspond à 200 degrés; votre 250 VA correspond à 190 degrés. À vous.
+Roger.
+R Cal, disponible dès maintenant.
+Friendship Seven, Muchea Cap Com. Avez-vous toujours les deux propulseurs à commande électrique en mode fly-by-wire? Terminé.
+C'est affirmatif, je le crois.
+Roger.
+Friendship Seven, Woomera Cap Com. Nous avons un contact, TM et UHF solides. Terminé.
+Roger, Woomera.
+Friendship Seven, êtes-vous prêts à commencer ce rapport de 30 minutes? Terminé.
+Négatif, et pas seulement pour le moment. Restez à l'écoute.
+Roger, l'amitié sept.
+Amitié Sept, Muchea. Juste un petit rappel: pensez à faire votre exercice après la prise de tension. À vous, Woomera.
+Roger.
+Friendship Seven, Woomera Cap Com. Vous lisez? Terminé.
+Vas-y, Woomera.
+Le Cap recommande d'effectuer ce contrôle de l'horizon et de verrouiller les gyroscopes avant la Californie.
+Répétez, s'il vous plaît, Woomera n'a pas compris.
+Cape vous recommande d'effectuer cette vérification de l'horizon et de mettre les gyroscopes en cage avant tout contact avec la Californie. Terminé.
+Roger, veuillez comprendre avant de contacter la Californie.
+Roger. Je souhaite confirmer l'état de vos systèmes de commande; le système de commande de lacet à droite basse par commandes de vol électriques est hors service.
+C'est affirmatif.
+Bon sur tous les plans. Terminé.
+C'est affirmatif.
+Pouvez-vous nous donner l'état de votre système? Terminé.
+Voici Friendship Seven. Au démarrage, il passait en mode d'orientation en lacet, ce qui désorientait les autres axes. Il a continué ainsi un certain temps, dérivant lentement vers la droite, sans correction possible jusqu'à atteindre environ 20° d'écart. Il revenait alors rapidement sur ses roues et se corrigeait de son attitude de 20° à droite, avant de repasser en mode d'orientation sur la gauche. Cela a duré un moment. J'ai pris les commandes, juste après Guaymas. Au moment où j'ai survolé l'Afrique, la situation s'était inversée. Le même phénomène, mais dans l'autre sens. Terminé.
+Roger, je comprends.
+Friendship Seven, si vous êtes prêts, pouvons-nous procéder à ce rapport de 30 minutes? Terminé.
+Friendship Seven. Roger. Tous les fusibles sont toujours dans la même position. Le dispositif d'amorçage est armé. Le rétrolargage automatique est désactivé. Le sélecteur de mode est normal, la commande de vitesse, le gyroscope sont normaux. La poignée de carburant manuel est tirée. Le carburant automatique est toujours activé. Le délai de rétrolargage est normal, le sac d'atterrissage est désactivé. Tout le reste sur le panneau de séquence est normal. Carburant....
+Pourrions-nous procéder à une vérification de la tension artérielle? Appuyez sur le bouton, puis faites travailler l’élastique, puis recommencez la vérification. Terminé.
+Roger. Amitié Sept. La tension monte.
+Roger, Friendship Seven. Nous prenons votre tension artérielle. Quel est le résultat de votre test d'acuité visuelle? Terminé.
+Roger. Amitié Sept. Acuité visuelle toujours bonne. Je peux lire les mêmes lignes qu'à mes débuts. Terminé.
+Roger. Je voudrais revoir ce rapport de 30 minutes, en commençant par le commutateur Auto Retro-jett. Allez-y.
+Le système d'éjection automatique est activé. Je dois interrompre la transmission car je dois constamment regarder par la fenêtre pour une meilleure précision. Terminé.
+Roger, Friendship Seven... discussion terminée.
+Roger.
+Ici Friendship Seven. L'éjection automatique est désactivée. Le sélecteur de mode est normal, la commande de vitesse et le gyroscope sont normaux. Toutes les poignées « T » sont enfoncées, sauf la poignée manuelle, qui est sortie. Je pilote actuellement en mode manuel. L'interrupteur du sac d'atterrissage est éteint. Le panneau de séquence est normal, sauf celui-ci. Le niveau de carburant est de 60 à 82 %. En mode manuel, les attitudes sont actuellement: roulis de 5° à droite, lacet de 15° à droite et tangage de -34° en orbite. Mon temps depuis le lancement est de 2 h 33 min 60 s. Correction: 2 h 34 min. Avez-vous reçu? À vous.
+Oui.
+Roger. La pression cabine est de 5,5 et se maintient. La température de l'air en cabine est de 95 degrés. Le voyant d'excès d'eau en cabine reste allumé. Je vais encore baisser un peu la pression.
+L'humidité relative en cabine est de 20 %. Le niveau de réfrigérant est de 66 %. La température de la combinaison est de 68 degrés, la pression indiquée est de 5,8, la température de la vapeur est de 50 degrés dans le circuit de la combinaison et est confortable. L'oxygène est entre 65 et 100 %. L'intensité est de 24, 25, 25, 25 sur le circuit principal; de 25, 25 sur le circuit de secours; de 29 sur le circuit isolé; puis de nouveau sur le circuit principal. Les ventilateurs fonctionnent à 113, 113. Deux voyants d'alerte sont allumés: excès d'eau en cabine et niveau de carburant. Terminé.
+Roger, Friendship Seven. Aeromed aimerait savoir si vous avez effectué votre exercice avec un élastique. Terminé.
+Non, je ne l'ai pas fait récemment. Je vais le faire maintenant dans le cadre de cet examen. Vous avez eu une prise de tension.
+Vous êtes en train de disparaître. Rendez-vous à Canton dans quelques minutes. Ici Woomera Cap Com, terminé.
+OK, exercice terminé. La tension artérielle commence à monter.
+Ici Friendship Seven. Woomera, vous me recevez toujours? À vous.
+Voici Friendship Seven.
+Sept de l'Amitié, Canton Com Tech.
+Bonjour Canton Com Tech. Friendship Seven. Comment avez-vous reçu UHF-HI? Terminé.
+Friendship Seven, Canton Com Tech. Nous vous recevons parfaitement. En attente de Cap Com.
+Roger. Canton Cap Com, Friendship Seven. Carburant 62-75 [degrés], oxygène 65-98 [pourcentage], correction 65-100 [pourcentage], ampères 23. Je suis en bonne condition. Le soleil se lève sur la capsule en ce moment. Terminé.
+Roger, Friendship Seven. Ici Canton. Nous avons la transmission TM; à vous.
+Roger. Ici Friendship Seven, et maintenant que le soleil commence à se lever, je vois à nouveau toutes ces petites particules qui entourent la capsule, juste au lever du soleil.
+Roger, l'amitié sept.
+Je peux aussi voir la lumière sur mon, sur la vapeur du propulseur lorsque je l'actionne. Terminé.
+Roger, Friendship Seven. Vos propulseurs fonctionnent-ils correctement? Tous vos propulseurs haute vitesse fonctionnent-ils correctement? À vous.
+Ce groupe de sept amis. Affirmatif, tout fonctionne correctement.
+Ici Friendship Seven. Je crois apercevoir de temps en temps un peu de vapeur s'échapper du propulseur manuel à piquer vers le ciel sombre. Terminé.
+Roger.
+Voici Friendship Seven. Toutes ces petites particules; il y en a des milliers; et elles ne proviennent pas de la capsule. Elles sont déjà là-haut, car elles sont partout dans le ciel. Je peux les voir de très loin, presque aussi loin que porte mon regard dans toutes les directions.
+Roger, l'amitié sept.
+Friendship Seven, ici Canton. Nos données télémétriques indiquent que tout va bien. Terminé.
+Roger, l'amitié sept.
+Friendship Seven, ici Canton. Notre équipe médicale souhaite recueillir vos commentaires concernant l'apesanteur, les nausées, les vertiges et les modifications du goût et de l'odorat. À vous.
+Amitié Sept, je ne ressens absolument rien d'anormal à l'apesanteur, si ce n'est une sensation très agréable. Aucun effet indésirable, je ne suis pas malade; je me sens bien. J'ai effectué les tests de la tête et des mouvements de tête, et tout est normal. J'ai également effectué le test oculogyre, et là aussi, tout est normal. Cependant, je n'ai pas pu utiliser beaucoup d'équipement durant cette orbite. Mon principal souci a été ce problème de contrôle. Terminé.
+Roger, Friendship Seven. Nos quantités de carburant correspondent aux vôtres. La température de notre onduleur de 150 ventilateurs est de 200 degrés. La température est de 190 degrés. Sortie
+Roger, l'amitié sept.
+Friendship Seven, ici Canton. Vous avez tout ce qu'il vous faut pour une ambiance rétro? Terminé.
+C'est Friendship Seven. Je crois bien. J'ai du Foxtrot qui arrive, enfin, du Golf qui arrive. C'est bien ça?
+En attente.
+Ici Friendship Seven. J'essaie de prendre des photos de ces particules qui se trouvent dehors. À vous.
+Amitié Sept, notre temps de golf est terminé.
+Roger.
+Friendship Seven, ici Canton. Nous n'avons aucune indication que votre sac d'atterrissage soit déployé. À vous.
+Roger. Quelqu'un a-t-il signalé que le sac d'atterrissage pourrait être au sol? Terminé.
+Non, nous avions reçu une demande de surveillance et on nous a demandé si vous aviez entendu des bruits de battement d'ailes lors des pics de fréquence des capsules....
+Négatif.
+…c’était. Terminé.
+Eh bien, je pense qu'ils ont probablement cru que ces particules que j'ai vues provenaient de là, mais il y en a des milliers, et elles s'étendent sur des kilomètres dans toutes les directions, et elles passent très lentement. Je les ai vues au même endroit lors de la première orbite. Terminé.
+Roger.
+Friendship Seven, dans quel mode de contrôle êtes-vous actuellement?
+Ici Friendship Seven. Je suis en mode manuel. En mode obscur, je me suis aligné sur l'horizon, puis j'ai atteint 0 0 0, j'ai verrouillé les gyroscopes et je les ai déverrouillés. Terminé.
+Roger, Friendship Seven. Le contact va se perdre d'une minute à l'autre. Vous devez effectuer des vérifications de rentrée et il reste environ 10 minutes avant le contact avec la Californie. Terminé.
+Roger, l'amitié sept.
+Friendship Seven, ici Hawaii Com Tech sur les bandes UHF et HF. Vous nous recevez? À vous.
+Répétez, Com Tech, quelle station?
+Friendship Seven, Hawaii Com Tech sur UHF et HF. Vous nous recevez? Terminé.
+Bonjour Hawaï. Fort et clair; comment ça va? Terminé.
+Bonjour Hawaï. Friendship Seven. Fort et clair; comment ça va? Terminé.
+Friendship Seven, ici Hawaii Cap Com, je vous reçois parfaitement. Quel est votre rapport de situation? Terminé.
+Roger, Friendship Seven, ah.
+Il a établi le contact, nous mettons en place une liaison air-sol.
+Ceci est Friendship Seven. Carburant 62-74 [pourcentage], oxygène 64-98 [pourcentage], ampères 23. Terminé.
+Roger, Friendship Seven. La première partie de votre transmission s'est cassée; pourriez-vous répéter, carburant?
+Roger, carburant 62-74 [pourcentage]. Terminé.
+Roger. Lecture 62-74 [pourcentage], Friendship Seven. Cape aimerait savoir si vous avez déjà effectué la vérification visuelle des gyroscopes?
+C'est exact. Pendant la phase critique, j'ai essayé de réduire le signal à 0, 0, 0, et j'ai activé et désactivé les gyroscopes. Je vérifie cela actuellement. Terminé.
+Roger. Je reste à votre disposition jusqu'à ce que vous ayez terminé vos vérifications et nous aimerions obtenir les résultats.
+Roger, l'amitié sept.
+Hawaï, ici Friendship Seven. Est-ce que le scanner est ignoré? À vous.
+Aucun signe d'ignorance n'est à signaler sur le terrain pour le moment, Friendship Seven. Hawaï. Terminé.
+Roger. Ici Friendship Seven. Dès que je me suis aligné, préparez-vous.
+Ici Friendship Seven. Le roulis semble être d'environ 20°. Actuellement, j'indique un roulis de 20° à droite lorsque je suis parfaitement aligné avec l'horizon. À vous.
+Roger, Friendship Seven. Je comprends que vous avez toujours une erreur de 20° dans votre indication d'attitude après la mise en cage des gyroscopes.
+Ici Friendship Seven. C'est exact. Il a encore dévié. Il était correct à ce moment-là; apparemment, il a dévié. Il y a un décalage d'environ 20° en roulis.
+Friendship Seven, pourriez-vous nous fournir des données sur les trois axes? Nous aimerions comparer les relevés au sol.
+Roger, Friendship Seven. Le roulis indique 19 degrés à droite, le lacet 2 degrés à gauche, le tangage 22 degrés. Terminé.
+Roger, Friendship Seven. Je vous ai bien reçu.
+Friendship Seven, Hawaii Cap Com. Pouvez-vous estimer les taux de dérive que vous obtenez?
+Voici Friendship Seven. Les taux de dérive sont très difficiles à mesurer, pour une raison inconnue. Je n'ai pas réussi à obtenir des taux de dérive vraiment précis. J'ai l'impression que…
+Te considères-tu toujours comme GO pour la prochaine orbite?
+C'est affirmatif, je suis prêt pour la prochaine orbite.
+Roger, je comprends. Le terrain le confirme pour le moment.
+Roger.
+Pourriez-vous, s'il vous plaît, me donner une mesure de la température des gaz d'échappement?
+Amitié Sept. Roger. Température des gaz d'échappement, 47 [degrés].
+Friendship Seven, Hawaii Cap Com. Pourriez-vous me lire la température des gaz d'échappement, s'il vous plaît?
+Roger. Température des gaz d'échappement 47 [degrés].
+Roger. Compris 47 [degrés].
+Le chirurgien demande une prise de tension artérielle si cela est possible à ce moment-là.
+Roger 47 [degrés].
+Correction, Roger, pression artérielle, 47 [degrés] sur la température de la vapeur, pression artérielle activée.
+Ici Friendship Seven. Le contrôle du lacet est plutôt bon. Je pense qu'il est assez précis. Le roulis est décalé d'environ 20° vers la droite actuellement.
+Roger, Friendship Seven. Le roulis est décalé de 20° vers la droite; le lacet semble correct. Hawaï. Terminé.
+C'est affirmatif.
+Friendship Seven, Hawaii Cap Com., confirme qu'ils sont actuellement en phase de lancement pour leur troisième orbite.
+Roger. L'amitié sept.
+Friendship Seven, Hawaii Cap Com. Vous avez lu? Terminé.
+Roger, Hawaï. Bien clair, comment ça va?
+Êtes-vous prêt à copier?
+L'amitié sept. Allez-y.
+Voici Friendship Seven. Je pense avoir un meilleur alignement côté jour, sur ces réglages, sur l'attitude. Je vais probablement encore activer et désactiver les gyroscopes. Terminé.
+Friendship Seven, Friendship Seven, ici California Com Tech, California Com Tech. Vous m'entendez? Terminé.
+Roger, technicien informatique en Californie. Bien reçu. Comment ça va? Terminé.
+Bonjour, California Com Tech. Amitié Sept. Comment ça va? Terminé.
+Friendship Seven, Friendship Seven, ici California Com Tech, California Com Tech. Vous m'entendez? Terminé.
+Roger, technicien informatique californien. Amitié Sept. Comment moi? Terminé.
+Friendship Seven, Friendship Seven, ici California Com Tech, California Com Tech. Vous m'entendez? Terminé.
+Bonjour, California Com Tech. Friendship Seven. Fort et clair; comment moi?
+Friendship Seven, Friendship Seven, ici California Com Tech, California Com Tech. Vous m'entendez? Terminé.
+Bonjour, California Com Tech. Friendship Seven. Fort et clair; comment moi?
+Friendship Seven, California Cap Com. Je vous ai bien reçu, John.
+Répétez. Vous avez mal parlé la dernière fois. Ici Friendship Seven.
+Friendship Seven, ici California Cap Com. Nous vous recevons parfaitement; comment ça se fait?
+Roger. Je te reçois beaucoup mieux maintenant, Wally. Très bien. Le carburant est à 62-62 %, l'oxygène à 62-95 % et l'ampérage à 25 A. Tous les systèmes fonctionnent correctement. J'ai eu quelques ratés. J'ai activé et désactivé le système de nuit et il semble fonctionner assez bien maintenant, même si j'ai de nouveau dérivé en roulis il y a un instant. Il semble que le roulis se soit corrigé de lui-même, sans que j'aie besoin de réactiver le système. À toi.
+Bien, John. On va tout vérifier. Je voudrais te donner les températures de l'onduleur. Tes ventilateurs sont à 215 degrés et ton onduleur à 198 degrés. On ne va rien y faire. Ça a l'air très bien.
+D'accord, très bien.
+Pourriez-vous me faire part de vos opinions et nous les vérifierons sur le terrain.
+Bien reçu. Je reprends l'attitude orbitale, en dérivant vers celle-ci. Le TM est-il stable maintenant? À vous.
+Bien ici.
+Roger. Le roulis est de 5 [degrés] à gauche, le lacet de 3 [degrés] à droite, le tangage de 32 [degrés], actuellement.
+Roger, voici tes lectures.
+John, nous avons presque exactement raison concernant vos attitudes, à 2° près.
+Roger. Il semble toutefois que j'aie encore un léger décalage au niveau de la lunette.
+Roger. Vous n'avez probablement pas encore de bonne référence, n'est-ce pas?
+En fait, détecter une dérive est plus difficile que je ne le pensais. Le mieux est de regarder par la fenêtre et d'essayer de repérer quelque chose qui s'éloigne de vous.
+Roger, je t'ai eu.
+Vous comprenez que le temps écoulé de votre capsule est environ une seconde plus lent que le temps GET.
+Non, je ne l'ai pas fait; je n'en avais pas connaissance au moment où cela s'est produit.
+Roger. Cela aura une incidence sur le temps de séquencement. Je vous donnerai 3 Alpha si vous êtes prêt à copier.
+Attendre.
+Roger, prêt à copier 3 Alpha.
+Roger. 3 Alpha corrigé pour la deuxième erreur sera 03 plus 11 plus 26. Terminé.
+Roger,.
+Vous avez votre heure de fin de vie, et cela n'a pas changé, et je crois que vous avez également l'accès à Area Golf.
+C'est exact. J'ai Golf à 03 + 00 + 39 et Hôtel à 04 + 32 + 40.
+C'est exact. Vous pouvez corriger votre score de golf en zone en soustrayant une seconde, et soustrayez également une seconde à votre score d'hôtel.
+Roger. Si je comprends bien, ma rétroséquence pour la fin de mission est 04 + 32 + 39. Est-ce correct?
+Négatif. Cela devrait être 04 plus 32 plus 38.
+Plus 38. Roger. Cape veut-il que je règle l'heure sur l'horloge? Terminé.
+Non, nous n'avons pas reçu ces instructions. Je vais demander à Arnie de vérifier.
+Roger. Je travaille toujours sur la base d'un délai de pré-lancement de 04 + 32 + 28. Terminé.
+Comprendre.
+Voici Friendship Seven. Nous traversons actuellement le golfe de Basse-Californie.
+Roger.
+John, pour information, les horloges seront réglées au-dessus de Canaveral.
+Roger, si je comprends bien, les horloges seront réglées sur commande, c'est bien cela, ou bien veulent-ils…
+C'est négatif. Dès qu'ils contacteront Al, ils vous demanderont de changer l'horloge.
+Roger, compris. L'amitié sept.
+Pour information, votre capteur d'oxygène fonctionne correctement. Il semble fonctionner; il mesure environ
+Roger, Friendship Seven. La température en cabine se maintient à environ 90 degrés. Le voyant d'eau en excès reste allumé, alors que l'eau en cabine est presque complètement coupée.
+Roger, on dirait que tout se passe bien en tout cas.
+Roger, tout va bien. On va faire une orbite de plus, d'accord.
+Je suppose que vous êtes toujours en mode proportionnel manuel; c'est bien cela?
+C'est exact, je suis toujours en mode manuel.
+Friendship Seven, Guaymas Cap Com, vous a bien reçu. Terminé.
+Roger, Guaymas. Je vous ai bien reçu.
+John, les Aeromeds sont vraiment contents de toi; tu as vraiment bonne mine là-haut.
+Ali, c'est bon, je suis content que tout aille bien. Je me sens vraiment bien, Wally. Aucun problème.
+Friendship Seven, Friendship Seven, ici Texas Com Tech. Vous m'entendez? Terminé.
+Bonjour Texas, ici Friendship Seven. Je vous reçois parfaitement. Comment ça va? Terminé.
+Roger, je vous reçois sur HF. Essayons l'UHF. À vous.
+Ici Friendship Seven, je suis sur UHF. À vous.
+Roger, Friendship Seven, Roger. En attente pour Cap Com.
+Roger.
+Ici Texas Cap Com, Friendship Seven. Vous m'entendez?
+Roger, Texas Cap Com. Fort et clair. Comment ça va?
+C'est clair et net. Nous n'avons aucune question. Veuillez poursuivre vos observations.
+Roger. Ici Friendship Seven. Tous les systèmes fonctionnent normalement. J'ai redonné les quantités. Inutile de s'attarder davantage. Je descends à environ 60° pour effectuer une observation. À vous.
+Roger, nous confirmons ici sur la TM. Terminé.
+Roger.
+Ici Friendship Seven. Nous venons de survoler El Paso en bon état. On pouvait apercevoir la ville à travers quelques nuages. Terminé.
+Friendship Seven survole actuellement une couche de nuages ​​complète.
+Je pique du nez à 60° actuellement. Attitude orbitale en roulis et en lacet.
+C'est....
+Canaveral Com Tech. Comment copier? Terminé.
+Bonjour, Canaveral Com Tech. Friendship Seven. Fort et clair; comment moi?
+Roger, Friendship Seven. Ici Canaveral Com Tech. Je vous reçois parfaitement. Veuillez patienter pour Cap Com.
+Roger.
+Bonjour, Cap Com. Amitié Sept. Le carburant est à 62-60 [pourcentage]; l'oxygène est à 62-95 [pourcentage]; 23 ampères. Terminé.
+Friendship Seven, je vous reçois parfaitement. Je vous donne 3 Bravo Time. Terminé.
+Roger, pour 3 Bravo. Est-ce confirmé?
+... 3 Charlie. Terminé.
+Roger, pour 3 Charlie.
+C'est exact. Modifiez maintenant manuellement votre paramètre rétro. Terminé.
+Roger, 04 plus 32 plus 38.
+Roger, l'heure rétrograde est réinitialisée à 04 plus 32 plus 38. Terminé.
+Roger, Seven. Pour la troisième orbite, nous vous recommandons d'utiliser les gyroscopes comme vous le souhaitez, en mode normal ou libre. Ainsi, si avant la rétropropulsion sur cette orbite les scanners ne se programment pas correctement, vous pourrez utiliser vos gyroscopes en position libre comme référence d'attitude. Terminé.
+Roger. Ici Friendship Seven. J'ai un alignement correct sur les gyroscopes, je crois. Le contrôle que j'ai effectué côté nuit était satisfaisant, mais ils ont dérivé à nouveau, apparemment assez rapidement. J'ai refait un contrôle et ils semblent s'être bien stabilisés. Je n'ai pas eu besoin de les neutraliser à nouveau. Terminé.
+Roger, Seven, on comprend. Le seul problème, c'est que vous n'aurez peut-être pas assez de temps d'éclairage avant le rétro-allumage.
+Roger.
+Laissez les gyroscopes fonctionner en position libre si vous le souhaitez. Terminé.
+Roger. L'amitié sept.
+De plus, Seven, nous vous recommandons de laisser la capsule dériver en mode manuel afin d'économiser du carburant. Terminé.
+Roger. L'amitié sept.
+Sept, ici Cape. En attente de Z Cal.
+Roger.
+R Cal.
+Cal off.
+Roger.
+Friendship Seven, ici Bermuda Cap Com. Nous vous avons bien reçus.
+Roger, Bermudes. Je vous reçois parfaitement.
+Sept, ici le Cap. Terminé.
+Allez-y, Cap.
+Corrigez votre 3 Bravo temps à. Terminé.
+Roger, pour 3 Bravo.
+Bon, Seven, j'ai un problème, les secondes devraient être de 32. Terminé.
+Roger,.
+Bon spectacle.
+Roger. Roger.
+Bonjour Bermudes. Friendship Seven. À vous de jouer. Terminé.
+Roger, Friendship Seven. Nous n'avons rien pour vous, vous êtes en pleine forme.
+Roger, ici Friendship Seven. J'aperçois le cap en contrebas. Il est magnifique vu d'ici.
+Rog. Rog.
+Comme tu le sais.
+Oui, vraiment, Sonny.
+Ici Friendship Seven, Flor-, je peux voir tout l'État de Floride étalé comme sur une carte. Magnifique.
+Très bien.
+Même d'ici, je peux encore voir clairement jusqu'au delta du Mississippi.
+Ici Friendship Seven, en direct de l'hôtel Area. La météo est bonne par là. On dirait qu'on n'aura aucun problème pour récupérer.
+Très bien. On se voit à Grand Turk.
+Oui Monsieur.
+En fait, je vois très bien en contrebas, je vois toutes les îles de cette chaîne depuis ici... Je vois bien au-delà et la zone de l'hôtel semble idéale pour la convalescence.
+Sept de l'Amitié, Com de Cap des Bermudes.
+Allez-y, Bermudes.
+Cape recommande de redémarrer en mode manuel pour la sauvegarde.
+Roger, ici Friendship Seven. Compris, je recommande une sauvegarde manuelle.
+Cette opération a été très erratique. Je n'ai pas pu en identifier la cause précise. L'appareil a dévié dans un sens en lacet, puis dans l'autre. J'ai eu l'impression, pendant un court instant, que le tangage dérivait. Il semblait y avoir un léger blocage de la poussée en tangage à un moment donné, et j'ai dû le corriger à plusieurs reprises. Le problème s'est résolu de lui-même, puis l'appareil a dévié en roulis juste après être sorti de la zone d'ombre. Terminé.
+Roger, compris. J'ai tout noté. Pourriez-vous nous donner votre tension artérielle, s'il vous plaît?
+Roger. En attente.
+Friendship Seven, peux-tu me donner ton oxygène primaire et secondaire?
+Roger, l'oxygène primaire est de 62 [pourcent], l'oxygène secondaire est de 94 [pourcent].
+Roger.
+Voici Friendship Seven. Je le laisse dériver légèrement vers la droite pour regarder vers le nord.
+Sept de l'Amitié, Com de Cap des Bermudes.
+Allez-y, Bermudes.
+La température de l'onduleur de vos ventilateurs est de 205 [degrés] et votre température est de 195 [degrés].
+Roger, ça a l'air très bien, Gus, parfait.
+Vous êtes en bonne forme.
+Roger.
+Friendship Seven, vous voulez aller à HF maintenant?
+Roger, Friendship Seven. Direction HF.
+Friendship Seven, Bermuda Cap Com. Comment lisez-vous sur HF?
+Bermudes, Friendship Seven. Fort et clair; comment moi?
+Tu es faible mais lisible, John.
+Roger.
+Friendship Seven, Bermudes, nous avons perdu le contact par messagerie vocale.
+Roger, je comprends le LOS.
+Voici Friendship Seven. J'ai presque atteint le point de demi-tour à nouveau.
+Friendship Seven, Bermuda Cap Com. Êtes-vous toujours en contact?
+Roger, ici Friendship Seven. Je suis à environ 180 degrés. Je suis face à la direction où je me déplace, Gus. Vous me recevez toujours? À vous.
+Friendship Seven, Bermuda Cap Com. Nous ne vous lisons pas.
+Roger, Bermudes.
+Friendship Seven, Friendship Seven, ici Com Tech, Com Tech. Vous m'entendez? Terminé.
+Bonjour, technicien de Canary Com. Sur HF; comment me recevez-vous? Très bien reçu. Terminé.
+Friendship Seven, ici Com Tech. Vous m'entendez? Terminé.
+Roger, Canari.
+Rog, Roger. Je vous lis à cinq, je vous lis à cinq, ici aux Canaries. Terminé.
+Roger, Friendship Seven. Je vous ai bien reçu sur HF également.
+Friendship Seven, Friendship Seven, ici Canary Cap Com. Je vous ai bien reçus.
+Roger, Canary. On entend très bien ici aussi.
+Pourriez-vous me faire un bref compte rendu de la situation à la station? Terminé.
+Ici Friendship Seven. Carburant: 62-54 %. Oxygène: 62-94 %. Ampères: 24. Terminé.
+Sachez que le carburant pour voiture est à 63 % et celui pour boîte manuelle à 94 %. Terminé.
+Négatif. Le niveau de carburant manuel est de 54 %. 54 %. Plus de.
+54 [pour cent]. Plus de.
+Canary, as-tu eu du carburant manuel à 54 [pour cent] cinq quatre? Terminé.
+Roger. Carburant manuel à 54 %.
+Friendship Seven, ici Canary Cap Com. Comment vous sentez-vous?
+C'est Friendship Seven. Je me sens bien; aucun effet secondaire, absolument aucun.
+Amitié Sept. Voyez-vous toujours les particules autour de votre capsule?
+Négatif. Je n'en vois pas par ici. J'en ai aperçu quelques-uns, juste après avoir quitté Canaveral et fait demi-tour. Ils se dirigeaient vers moi à ce moment-là. J'étais en mouvement, donc je sais qu'ils ne provenaient pas de la capsule. J'ai vu ces particules en grande quantité à chaque lever de soleil jusqu'à présent. Terminé.
+Répétez, Friendship Seven.
+Les particules que j'ai vues étaient principalement présentes au lever du soleil, à chaque fois. Terminé.
+Je comprends. Quel mode de contrôle utilisez-vous?
+Ici Friendship Seven. Je suis en mode manuel. Terminé.
+Roger. Compris.
+Friendship Seven, ici Canary Cap Com. L'Aeromed souhaite vous parler. À vous.
+Roger. Allez-y, Aeromed.
+Ici Canary Surgeon. Avez-vous des nausées, ou en avez-vous ressenti pendant tout le vol?
+Ici Friendship Seven. Négatif. Je me suis senti parfaitement bien pendant tout le vol. Je vais bien. Terminé.
+Très bien. Retour à Capcom.
+Friendship Seven, Friendship Seven, souhaitez-vous connaître les températures de votre onduleur à cette heure-ci?
+Roger. Ici Friendship Seven. À vous.
+Roger. Nous vous confions la prise en charge par Canary Systems.
+Friendship Seven, ici Canary Systems. Comment recevez-vous les messages?
+Allez-y, Canary Systems, allez-y.
+Les systèmes au sol semblent fonctionner normalement pour le moment. Les températures sont légèrement élevées, mais rien de critique n'est à signaler. Les derniers rapports indiquent que les onduleurs sont à environ 200 et 210 degrés; cela ne semble pas alarmant. Ils devraient tous se maintenir à ces niveaux. Vous comprenez?
+Roger. L'amitié sept.
+Tous les autres systèmes sont conformes à ce que vous m'avez indiqué.
+Friendship Seven, Friendship Seven, ici Atlantic Ship Cap, Com Tech. Vous m'entendez? À vous.
+Bonjour, Atlantic Cap Com. Je vous reçois parfaitement. Comment ça va? Terminé.
+Friendship Seven, Friendship Seven, ici Atlantic Ship Com Tech. Nous vous entendons faibles mais brisés, faibles mais brisés.
+Roger. Amitié Sept. Carburant 64-54 [pourcentage], oxygène 62-94 [pourcentage], ampères 23. Terminé.
+Bonjour, vaisseau Atlantique: Atlantic Cap Com. Friendship Seven, vous recevez? Terminé.
+Friendship Seven, ici ATS Cap Com. Comment me recevez-vous? À vous. Quel est votre mode de communication? À vous.
+Ici Friendship Seven. Je suis actuellement en HF. Je passerai en UHF si la liaison est bonne. À vous.
+Roger, Friendship Seven. Nous avons un contact TM, nous avons un contact TM. Veuillez passer en UHF.
+Roger, passage en UHF.
+Navire Atlantique, ici Friendship Seven. Terminé.
+Bonjour, navire de l'Atlantique. Amitié Sept. Terminé.
+Friendship Seven, ici ATS Cap Com. Veuillez ne lire que la dernière partie de votre transmission. Répétez, s'il vous plaît.
+Navire de l'Atlantique, ici Friendship Seven. J'espère que vous passerez par le cap. J'ai laissé la capsule dériver jusqu'à la position 180° et je dois me réorienter. Lorsque je suis aligné avec l'horizon et le périscope, mes indications d'attitude sont maintenant très erronées. Mon roulis indique 30° à droite; mon lacet indique 35° à droite; et mon tangage indique +40°. Je répète: +40° lorsque je suis en attitude orbitale. À vous.
+Avez-vous reçu?
+Roger, Friendship Seven. Je vous reçois avec quelques anomalies. Il y a des écarts d'attitude: 30° à droite en roulis, 35° à droite en lacet et +40° en tangage. Veuillez confirmer. À vous.
+C'est exact. Je suis en train de réaligner la capsule et de déverrouiller les gyroscopes avant de passer du côté obscur. Terminé.
+Roger. Nous restons en attente.
+Ici Friendship Seven, ATS. Vous recevez?
+Roger, Friendship Seven. Je vous reçois parfaitement. Terminé.
+Voici Friendship Seven, en orbite actuelle, gyroscopes de confinement.
+Rog.
+Gyros en cage, prêt maintenant.
+Ici Friendship Seven. Les gyroscopes sont de nouveau opérationnels, retour à l'attitude orbitale et tentative en cours. Terminé.
+Roger. En attente.
+Amitié Sept. En route. Prêt maintenant.
+Friendship Seven, ici ATS Cap Com. Vous me recevez? Terminé.
+Roger, ATS.
+Friendship Seven, tu faiblis, tu faiblis. Terminé.
+Ici Friendship Seven. Je ne vous ai pas lu, ATS.
+Friendship Seven, ici Zanzibar Com Tech, transmission sur HF UHF.
+Friendship Seven, Friendship Seven, ici Zanzibar Com Tech, transmission sur HF/UHF. Vous m'entendez? Terminé.
+Bonjour, Zanzibar Com Tech. Zanzibar Com Tech, Friendship Seven. Je vous reçois faiblement mais lisiblement. Comment ça va? Terminé.
+Friendship Seven, Friendship Seven, ici Zanzibar Com Tech, transmission HF/UHF. Votre signal est faible et inaudible. Ne pas recevoir. Terminé.
+Roger. Amitié Sept. Je vous reçois également, mais ma voix est un peu confuse. Mon état est bon. Carburant 5, correction, carburant 64-48 %; oxygène 52-92 %. Terminé.
+Friendship Seven, ici ATS Cap Com. Je vous reçois très clairement. Pourriez-vous m'expliquer les erreurs dans votre attitude, s'il vous plaît?
+Ici Friendship Seven. C'est une bonne question. J'aimerais bien le savoir aussi. Ces erreurs ont été intermittentes tout au long du vol. J'ai verrouillé et déverrouillé les gyroscopes. Je suis de retour en orbite, mais ce n'est pas le cas: les indicateurs d'assiette le confirment. En regardant l'horizon, je suis à environ 20° à droite en roulis et à 20° trop haut en tangage. Visuellement, je suis à environ 55° en tangage et à environ 20° à droite en roulis. Le lacet semble correct maintenant. À vous.
+Amitié Sept, ATS Cap Com.
+Navire Atlantique, ici Friendship Seven. Terminé.
+Voici Friendship Seven, à l'approche du coucher du soleil.
+Friendship Seven, Friendship Seven, ici Zanzibar Com Tech, transmission sur HF/UHF. Veuillez accuser réception sur HF. Terminé.
+C'est l'enregistrement de Friendship Seven. Il y a beaucoup de poussière sur les vitres à cause du rétroéclairage et plein de trucs ici. On dirait qu'on a écrasé des insectes en quittant la plateforme. On dirait du sang sur la vitre extérieure, peut-être. Ça rend la chose très concrète, c'est vraiment difficile d'observer quoi que ce soit quand ils se déplacent du côté ensoleillé.
+Amitié Sept. Le soleil se couche déjà. Je désactive le mode automatique en lacet et effectue une légère rotation vers la gauche pour l'observer.
+Mark, le soleil est couché.
+Et on ne distingue pratiquement aucune lumière zodiacale pour le moment.
+Voici Friendship Seven, en vol avec la manette de lacet tirée. Contrôle manuel du lacet.
+L'horizon se présente comme une bande très orangée. Au coucher du soleil, s'étendant loin de part et d'autre, à environ 45° de chaque côté, il vire au jaune clair, puis au bleu très foncé, puis au bleu très clair, jusqu'au noir du ciel.
+Une fois de plus, je vois très clairement des éclairs jaillir sous mes pieds.
+Friendship Seven, Friendship Seven, ici Zanzibar Com Tech, transmission sur HF/UHF. Veuillez accuser réception sur HF. Terminé.
+Bonjour, Zanzibar Com Tech. Friendship Seven sur HF. Vous me recevez? Terminé.
+Friendship Seven, ici Zanzibar Cap Com, je vous lis faiblement mais inintelligiblement.
+Roger. Comprenez que je me lis faiblement et de façon incohérente.
+Ici Friendship Seven. J'ai désactivé le mode automatique en lacet pour me déplacer vers la gauche et admirer le coucher du soleil. Le mode automatique est de nouveau activé sur les trois axes; je le contrôle manuellement. À vous.
+Roger, Friendship Seven, je comprends que vous êtes en mode automatique sur les trois axes, avec possibilité de passage en mode manuel. C'est bien cela? Terminé.
+C'est affirmatif.
+Il y a une zone d'orage assez importante en dessous de moi. Elle doit s'étendre jusqu'à l'horizon, à droite, où je vois des éclairs. J'en ai aussi presque directement sous moi. Ils sont très brillants ici, du côté obscur, la nuit. On dirait des pétards qui explosent. Terminé.
+Zanzibar, ici Friendship Seven. Avez-vous récupéré mon carburant après mon signalement? Terminé.
+Répétez votre dernière transmission. Terminé.
+Roger. Ici Friendship Seven. Le carburant est à 60-55 %, l'oxygène à 60-92 %, l'ampérage à 22. Terminé.
+Ici Friendship Seven. Toutes les tensions sont de 25 volts ou plus. Terminé.
+Ici Friendship Seven, vol 3°42. Nous devrions être au-dessus de Johannesburg. Je ne vois rien de l'Afrique australe sur cette trajectoire. Terminé.
+Zanzibar Cap Com. Vous avez lu? Terminé.
+Roger, Zanzibar. Je te lis faiblement mais compréhensible.
+Zanzibar Cap Com, Friendship Seven sur HF. Je vois de longs nuages ​​striés en contrebas, qui s'étendent vers ma droite pour former une sorte de zone météorologique générale. Il est 3°44'.
+Ici Friendship Seven. Observation concernant le fonctionnement du système de commandes: il semble que chaque fois que je passe en mode manuel (commandes électriques) et que je manœuvre pendant une période prolongée, nous introduisons des erreurs considérables dans le système gyroscopique. Je me retrouve avec toutes sortes d'attitudes. Par exemple, cette fois-ci, lorsque j'ai effectué un lacet d'environ 180°, que j'ai maintenu cette position un court instant, puis que je suis revenu à la position initiale, j'ai constaté des erreurs de 30° en roulis, 35° en lacet et +40° en tangage.
+Ici Friendship Seven, passage en mode manuel.
+Voici Friendship Seven. À plusieurs reprises, j'ai eu l'impression qu'un propulseur à cabrer était partiellement bloqué ou qu'il ne fonctionnait que partiellement. Soudain, alors que la vitesse de cabrage était activée, j'ai ressenti une poussée vers le bas et l'avion a piqué du nez. Le même problème s'est reproduit, je pense donc que mon propulseur à cabrer se bloque occasionnellement.
+Friendship Seven, Friendship Seven, ici Indian Com Tech. Vous nous entendez? Terminé.
+Bonjour, Indian Com Tech, Friendship Seven. Terminé.
+Friendship Seven, ici Indian Com Tech. Je vous reçois très faiblement, très faiblement, le signal est inintelligible. Je passe la main à Cap Com sur UHF. À vous.
+Roger. L'amitié sept.
+Friendship Seven, Friendship Seven, ici Indian Cap Com sur UHF. Vous m'entendez? Terminé.
+Roger, commandant du capitaine indien. Je vous ai bien reçu. Comment ça, moi?
+Environ 3 par 3. Tu arrives plus fort. Terminé.
+Roger. Amitié Sept. Le carburant est à 60 45 [pour cent], l'oxygène est à 60 92 [pour cent], les ampères 23. Terminé.
+Répétez votre oxygène. Terminé.
+Roger. Taux d'oxygène: 60-92 %. Terminé.
+Roger, compris.
+Friendship Seven, ici Indian Cap Com. Quel est votre mode de contrôle? À vous.
+Ici Friendship Seven. Je suis allumé, mais son fonctionnement est très erratique. Je le sauvegarde actuellement avec le manuel. J'essaie de le configurer correctement pour le rétroéclairage. À vous.
+Roger, compris.
+Ici Friendship Seven. Je peux le contrôler manuellement. Je ferai une sauvegarde manuelle et reprendrai le contrôle si nécessaire. Terminé.
+Roger, compris.
+Friendship Seven, ici Indian Cap Com. J'ai vos horaires de rétroséquence. Êtes-vous prêt à copier? Terminé.
+Ici Friendship Seven. En attente.
+En attente.
+L'amitié sept. Allez-y.
+Roger. Zone 3 Delta, Zone 3 Delta: 4 heures, 12 minutes, 32 secondes.
+Roger.
+La zone 3 Delta est 04 plus 12 plus 32. Est-ce exact?
+Affirmatif. Écho de la zone 3, Écho de la zone 3: 4 heures, 22 minutes et 12 secondes. Je répète: 4 heures, 22 minutes et 12 secondes. Terminé.
+Roger. L'écho de la zone 3 est 04 plus 22 plus 12.
+Roger. Area Hotel: 4 heures, 32 minutes et 37 secondes. Répétez: 4 heures, 32 minutes et 37 secondes. Terminé.
+Roger. 04 plus 32 plus 38. J'ai une correction, plus 37; j'ai réglé 38 sur ma rétroséquence à cause d'une erreur d'une seconde dans mon horloge. Terminé.
+C'est exact. Nous supposons qu'il y a un problème avec votre horloge. Terminé.
+Une erreur d'une seconde, c'est confirmé. Veuillez confirmer auprès du Cap que j'ai bien 04 + 32 + 38 comme heure rétrograde correcte. Terminé.
+Roger. C'est exact.
+Ici Friendship Seven. Le vaisseau dérive à nouveau. Je signale un lacet de 25° à droite. Terminé.
+Roger, compris.
+Ici Friendship Seven. Le ciel est presque entièrement couvert à perte de vue. Terminé.
+Roger, compris.
+Friendship Seven, ici le commandant indien Surgeon souhaite vous parler. À vous.
+Roger. Ici Friendship Seven.
+Ici le chirurgien. Avez-vous eu recours à l'oxygène secondaire pendant ce vol? À vous.
+Négatif. Je ne comprends pas bien non plus la baisse de la fermentation secondaire, à moins que les bouteilles ne commencent à refroidir, mais elles ne devraient pas refroidir autant.
+Nous lisons 90 % sur le TM. Et vous?
+Je lis également 90 %.
+Environ 65 %. C'est le chirurgien indien. À plus.
+Roger. Ici Friendship Seven. L'appareil passe en mode d'orientation et en mode normal, ce qui entraîne une surconsommation de carburant. Je vais essayer de le maintenir manuellement en orbite. À vous. Ou bien, utilisez les commandes de vol électriques. À vous.
+Roger. Commandes manuelles par commandes de vol électriques. Terminé.
+Roger.
+Ici Friendship Seven. Test des différents modes de commande électrique. Je n'ai pas de poussée minimale à droite. À vous.
+Roger, je comprends qu'il ne doit pas y avoir de poussée basse vers la droite.
+Roger.
+J'ai une faible poussée sur tous les autres axes. Terminé.
+Roger, compris.
+Ici Friendship Seven. En phase d'observation des étoiles.
+Roger. Signalez tout ce que vous voyez. Terminé.
+Roger.
+Friendship Seven, ici Indian Cap Com. Pouvez-vous voir quelque chose? Terminé.
+C'est l'Amitié Sept. Affirmative. J'ai Orion pile au milieu de la fenêtre en ce moment, ce qui est parfait pour maintenir mon attitude. Je l'utilise comme référence pour l'horizon.
+Friendship Seven, ici Muchea Com Tech. Comment recevez-vous les messages? À vous.
+Bonjour, Muchea Com Tech. Bien reçu. Un instant. Je suis en pleine opération.
+Friendship Seven, Friendship Seven, Muchea Com Tech. Vous avez lu? Terminé.
+Bonjour, Muchea Com Tech. Roger. Je vous ai bien reçu. Comment ça va?
+Friendship Seven, Friendship Seven, Muchea Com Tech. Vous avez lu? Terminé.
+Bonjour, Muchea Com Tech, Muchea Com Tech. Roger. Friendship Seven. Bien reçu. Comment ça va?
+Sur.
+Roger. Ici Friendship Seven.
+Roger, Friendship Seven. Je vous reçois par groupes de trois sur HF. Terminé. Pourriez-vous rappeler?
+Roger, Friendship Seven, je vous reçois parfaitement sur HF. Terminé.
+Friendship Seven, Friendship Seven, Muchea Com Tech, répétez.
+Roger, Muchea Com Tech. Amitié Sept. Fort et clair. Comment moi?
+Friendship Seven, Friendship Seven, ici Muchea Com Tech. Vous m'entendez?
+Roger, Muchea Com Tech, Friendship Seven. Je vous reçois parfaitement. Comment ça, moi?
+Roger, Friendship Seven. Vous êtes 3 par 3. Allez-y, Cap Com.
+Roger. Salut Cap Com, Friendship Seven. Comment ça va?
+Bonjour, Muchea Cap Com, Muchea Cap Com, Friendship Seven. Terminé.
+Bonjour, Muchea Cap Com, Muchea Cap Com. Terminé.
+Comment moi? Terminé.
+Friendship Seven, Muchea Cap Com. Comment ça va? Terminé.
+Muchea Cap Com: Friendship Seven. Fort et clair. Comment moi?
+Roger. Votre signal est faible. Voulez-vous passer en UHF? À vous.
+Roger. Passage à la bande UHF.
+Friendship Seven, Muchea Cap Com, comment lisez-vous? Terminé.
+Roger, Muchea. Fort et clair, comment je suis? Terminé.
+Bonjour Muchea, Friendship Seven. C'est bon, comment ça va? Terminé.
+Muchea Cap Com. Veuillez nous fournir un rapport de 30 minutes.
+Roger. Ici Friendship Seven. Rapport de 30 minutes: problème majeur, toujours en panne. Commandes de vol électriques activées. Manette de vol électrique droite à faible poussée indisponible. À vous.
+Roger, je comprends qu'il n'y a pas de propulseur inférieur droit sur la commande de vol électrique.
+C'est affirmatif. Compris?
+Nous aimerions vous envoyer un étalonnage Z et R à un moment donné pendant votre rapport de 30 minutes....
+Roger. Très bien.
+Vous voulez commencer le rapport de 30 minutes à ce moment-là?
+Ici Friendship Seven. Dans 45 secondes, je vous prie de m'envoyer un message. À vous.
+Je vous prie d'envoyer un message au directeur, au commandant du Corps des Marines des États-Unis, à Washington. Dites-lui que j'ai effectué mes 4 heures de vol mensuelles requises et demandez qu'un bon de vol soit établi pour moi. Terminé.
+Roger. Je m'en occupe.
+Vous pensez qu'ils vont payer?
+Je ne sais pas. Je vais le découvrir.
+Roger. C'est l'heure du vol ou l'heure de la fusée?
+Plus léger que l'air, mon pote.
+Rog.
+Nous vous envoyons un Z et un R Cal, tenez.
+Très bien.
+À venir.
+Vous allez commencer par cette procédure, ou par cette histoire de 30 minutes?
+Oui, tous les interrupteurs de fusibles sont toujours dans la même position, Gordo. Je n'y ai touché. Le système d'éjection automatique est armé, le largage automatique est désactivé. Je suis en mode de commandes de vol électriques, automatique, et le gyroscope est réglé sur la position normale. Toutes les poignées en « T » sont enfoncées. Le panneau de séquence est normal, sauf le coussin d'atterrissage qui est désactivé. L'indicateur d'assiette est assez erratique; il dérive parfois très rapidement, surtout lorsque je fais une manœuvre puis que je reviens sur l'assiette. Il semble alors se dérégler complètement.
+Roger.
+Mon heure rétrograde est de 04 plus 32 plus 38 pour l'heure de la capsule, ce qui corrige une erreur d'une seconde sur cette horloge.
+À ce sujet, il est recommandé de modifier cela peu après avoir terminé avec les autres.
+Roger. OK, la pression cabine se maintient à 5,5. Elle est restée stable depuis notre départ. La température cabine est de 90 %, l'humidité relative est remontée à environ 36 %, la quantité de liquide de refroidissement a légèrement diminué. Il est possible qu'une petite fuite d'eau se soit produite quelque part, car l'humidité avait baissé d'environ 20 % avec cette forte hausse. Notre quantité de liquide de refroidissement est maintenant d'environ 62 %. La température de la combinaison est de 70 degrés à l'entrée; la pression cabine est de 5,8. La température de la vapeur est de 48 degrés. Le taux d'oxygène est de 60 à 90 %. L'intensité est de 24 ampères, elle est de 11 ampères, soit environ 115 ampères maintenant. Le ventilateur tourne à 110 battements. Terminé.
+Roger. Tous vos interrupteurs sont à l'extérieur?
+C'est exact. À droite, tout est à l'extérieur sauf le voyant de niveau de carburant qui est allumé. J'ai placé l'interrupteur correspondant à l'intérieur pour couper le son.
+Les deux seuls fusibles de l'interrupteur situé en position d'arrêt centrale, à droite, sont Retro Jettison et Retro Manual. Terminé.
+Roger. Réglages de confort?
+Réglages de contrôle sur l'eau?
+Rog.
+L'eau est activée, la température de la cabine est réglée sur le niveau 2. Le réglage de la température de la combinaison est supérieur à 1,7. Je répète, supérieur à 1,7, qui est le réglage maximal.
+Roger. Je comprends. Quel est ton avis sur le problème du gyroscope, John?
+Eh bien, je ne sais pas. Je vais commencer à aligner aussi précisément que possible dans une minute et voir si les scanners le détectent et le corrigent pour que nous ayons une bonne orientation pour le rétroéclairage. Si ce n'est pas le cas, je l'alignerai moi-même. À vous.
+Roger. As-tu les horaires de tes trois excursions (chien, facile et hôtel) depuis le navire de l'océan Indien?
+Oui, je l'ai fait. Je les ai bien reçus.
+Et maintenant, je vous ai donné la modification recommandée pour l'horloge rétro. Sur votre appareil rétro, vous utiliserez des propulseurs à couple élevé pour le mode rétrofire. Que pensez-vous de la rétrogradation et de la marche arrière par commandes de vol électriques?
+Eh bien, eh bien, vous ne pouvez pas, vous ne pouviez pas le faire avec une commande de vol électrique. Vous voulez dire en mode manuel.
+Non, je voulais dire que vous pouviez utiliser la commande de vol électrique et la remplacer par une commande proportionnelle manuelle.
+Oui. Si la programmation semble se dérouler correctement et que le système maintient une bonne attitude orbitale, je le laisserai faire et je prendrai le relais en mode manuel. Sinon, si les gyroscopes semblent toujours aussi bien positionnés qu'il y a un instant, je resterai en mode rétro-allumage manuel et je n'y toucherai pas.
+Êtes-vous actuellement en mode de commande proportionnelle manuelle ou en mode de commande électrique?
+Je suis maintenant en mode de commandes de vol électriques.
+Ici Friendship Seven. Je vais adopter une attitude aussi proche que possible de l'orbite depuis la face cachée.
+Friendship Seven, Woomera Cap Com. Nous avons des contacts UHF et TM solides.
+Roger, Woomera, c'est clair et net.
+Le carburant est de 52 à 45 % [pour cent], l'oxygène est de 60 à 90 % [pour cent], l'ampérage est de 25. Terminé.
+Bonjour Wommera, avez-vous reçu? Terminé.
+Roger, Amitié Sept. Le chirurgien recommande, si vous n'avez pas encore mangé, de manger prochainement.
+C'est l'amitié numéro sept. Négatif. Je n'ai pas mangé lors de la dernière manche car j'étais occupé par le problème. Terminé.
+Friendship Seven, veuillez nous communiquer vos relevés de carburant. Terminé.
+Répète, Woonera.
+Veuillez prendre vos relevés de carburant. Terminé.
+Roger. Les relevés de carburant sont de 50-45 [pourcentage], correction 52-45 [pourcentage], au-dessus.
+Roger,... température. Terminé.
+Répétez, s'il vous plaît. Terminé.
+Amitié Sept, votre température diminue... Terminé.
+Roger, la température de la vapeur est de 49-49 [degrés]. Terminé.
+Roger, l'amitié sept.
+Voici Friendship Seven. Je vais augmenter le débit d'eau pour voir si je peux la refroidir un peu plus.
+Ici Friendship Seven. Je remarque un léger crépitement au niveau des commandes de vol électriques lorsque je les actionne; le bruit est audible dans le casque.
+Voici Friendship Seven. Je me suis retourné, j'ai fait un demi-tour pour admirer le lever du soleil et observer ces petits gadgets dont j'ignore la fonction.
+Ils ne semblent pas du tout provenir de la capsule. Il y en a beaucoup trop. Ils sont éparpillés un peu partout; certains semblent même se trouver à des kilomètres de distance.
+Ici Com Tech, Canton Com Tech. Vous m'entendez? Terminé.
+Allez-y, Canton.
+Technicien des communications, Roger, je vous reçois parfaitement. Friendship Seven, ici le technicien des communications de Canton. Votre signal est faible, mais je vous reçois. En attente de Cap Com.
+Roger.
+Ici Canton Cap Com. Terminé.
+Canton Cap Com, patientez, je vous fais un rapport dans une minute. Je renoue avec une approche rétro.
+OK. En attente.
+Friendship Seven, ici Canton Cap Com. Nous ne recevons pas vos transmissions et nous n'avons pas perdu le contact avec vous. Terminé.
+Roger, Canton. J'étais occupé à manœuvrer. Je ne vous ai pas encore transmis votre rapport; je préparais l'éclairage et rangeais tout le matériel pour la manœuvre de rétro-allumage. J'ai 45 % de carburant, 60 à 90 % d'oxygène et 23 ampères. Mon temps de rétro-allumage est toujours réglé sur 04 + 32 + 38. À vous.
+Roger, Friendship Seven. Canton en attente.
+Roger.
+Ici Friendship Seven, Canton. Je me mets en orbite pour pouvoir activer et désactiver les gyroscopes. C'est reparti. Terminé.
+Roger, l'amitié sept.
+Veuillez en informer Cape.
+Friendship Seven, ici Cap Com. Je n'ai pas lu votre dernière transmission. Pourriez-vous la répéter, s'il vous plaît?
+Roger, Canton. Veuillez informer Cap que j'indique un roulis de 10° à droite, un lacet de 10° à droite et un tangage de +15 degrés lorsque je suis en attitude orbitale, sur le hublot et le télescope. Terminé.
+Friendship Seven, Hawaii Com Tech. Comment lisez-vous? Terminé.
+Bien reçu, Hawaii Com Tech. Et moi?
+Roger. Je vous reçois parfaitement sur HF.
+Roger, ici Friendship Seven. On enferme les gyroscopes et on les libère.
+Hawaii Com Tech, Cap Com, ici Friendship Seven. Carburant 43-45 %, oxygène 60-90 %, ampères 23. Terminé.
+Bonjour, Hawaii Com Tech. Vous recevez? Terminé.
+Friendship Seven, technicien des communications de Ttawaii. Roger. Transfert de HF, passeriez-vous en UHF? Terminé.
+Roger. Passage en UHF.
+Friendship Seven, vous nous écoutez sur UHF? Terminé.
+Roger, lisez bien les ondes UHF.
+Friendship Seven, commandement du Capitaine d'Hawaï. Nous vous recevons parfaitement sur UHF.
+Friendship Seven, nous avons détecté une indication au sol sur le segment 51: « Déploiement du sac d'atterrissage ». Nous soupçonnons qu'il s'agit d'un signal erroné. Le Cap vous demande de vérifier en mettant l'interrupteur du sac d'atterrissage en position automatique et de voir si un voyant s'allume. Êtes-vous d'accord? Terminé.
+D'accord. Si c'est ce qu'ils recommandent, on va essayer. Tu es prêt(e) maintenant?
+Oui, quand vous serez prêt(e).
+Roger. Négatif, en mode automatique, aucun voyant ne s'est allumé et je suis de nouveau en position arrêt. Terminé.
+Roger, pas de problème. Dans ce cas, nous allons procéder et la séquence de rentrée atmosphérique se déroulera normalement.
+Roger, la séquence de rentrée sera normale.
+Friendship Seven, avez-vous terminé votre liste de vérification pré-rétro?
+Voici Friendship Seven. Je vais faire une pré-révision, voici la liste de vérification actuelle.
+Roger. Je reste en attente.
+Sept de l'Amitié, Cap Com d'Hawaï.
+Allez-y, Hawaï.
+Avez-vous rempli la liste de vérification préalable à la rétrogradation à ce jour?
+C'est exact. Je suis en train de le terminer.
+Roger. Pourriez-vous nous donner à nouveau votre avis sur ce système d'attitude, notamment en ce qui concerne la référence visuelle? Quel est votre sentiment à ce sujet actuellement?
+Bon, il change constamment d'orientation et consomme du carburant en lacet. Je vais peut-être devoir l'interrompre, je ne sais pas. Il semble se corriger pour le moment, ou peut-être que les scanners le corrigent correctement.
+Roger, dans quel mode es-tu actuellement?
+J'adhère, automatique.
+Comprendre.
+Avez-vous compris que le Cap vous demanderait également de modifier votre horloge d'une seconde?
+Négatif. Je vais le changer immédiatement.
+D'accord. Il est maintenant 4 h 32 min 37 s.
+Nous confirmons avec la lecture TM.
+Roger.
+Tout semble correct au sol. La température des onduleurs est un peu élevée: 225 °F (107 °C) pour le modèle 150 et 212 °F (100 °C) pour le modèle 250. Le reste est en bon état.
+Roger.
+Le chirurgien aimerait savoir si vous êtes toujours à l'aise.
+Roger, je suis en pleine forme. Je vais vous parler des exercices dans une minute, dès que j'aurai terminé ma liste de vérification.
+OK, test d'éclairage en cours. OK, tout est OK.
+OK, 5 minutes pour la rétrogradation, la lumière est allumée.
+Rog, 5 minutes pour la rétrogradation, lumière allumée.
+TM est en train de se dissoudre. Friendship Seven, vous aimeriez un hack d'heure GMT?
+Roger, s'il vous plaît.
+À mon signal, G.m.t. sera 19 plus 15 plus 45--SIGNEUR.
+Roger.
+À vos marques, ce sera 04 plus 2....
+Veuillez répéter le temps écoulé depuis la capsule. Terminé.
+Voici une nouvelle astuce. À mon signal, ce sera 04 plus 28 plus 35, six secondes.
+Roger. Je vais te donner un coup de pouce pour calculer une nouvelle heure rétrograde depuis le Cap. Mon heure de lancement sera de 04 + 28 + 45 à mon signal. Attends, 2, 3, 4, MARQUE.
+Friendship Seven, Hawaii Cap Com. Vous étiez en train de rompre à la fin, je n'arrivais pas à lire votre piratage horaire.
+Roger, ici Friendship Seven. Je vous donne un autre code temporel à 04 + 29 + 10. En attente, 7, 8, 9, MARK.
+Hawaï, avez-vous reçu? Terminé.
+Bonjour Hawaï, avez-vous reçu votre message?
+Bonjour Californie, Friendship Seven. Terminé.
+Bonjour California Cap Com, Friendship Seven. Terminé.
+Bonjour California Cap Com. Amitié Sept. Terminé.
+Friendship Seven, ici California Cap Com. Je vous reçois fort et clair, comment ça va?
+California Cap Com, Friendship Seven, UHF. Vous recevez? Terminé.
+Bonjour California Cap Com, Friendship Seven, UHF. Terminé.
+Friendship Seven, California Cap Com. Comment lisez-vous? Terminé.
+Ici Friendship Seven. Fort et clair. Comment ça va? Terminé.
+Bonjour California Cap Com, Friendship Seven. Terminé.
+California Cap Com, Friendship Seven. Terminé.
+Sept, ici California Com Tech, California Com Tech. Comment recevez-vous? À vous.
+Ici Friendship Seven. Fort et clair. Comment ça va? Terminé.
+Roger, Friendship Seven, ici California Com Tech. Je vous reçois parfaitement sur UHF.
+Roger, ici Friendship Seven. Je vous donne mon temps: 04 + 31 + 35 secondes après le décollage de ma capsule. 2, 3, 4, MARQUE. Pouvez-vous transmettre immédiatement cette information au Cap? Je crois que nous avons quelques secondes de décalage. À vous.
+Roger, on s'en occupe. John, je te donnerai le signal pour le décompte avant la rétro-séquence. Tu es au top.
+Roger. Il ne nous reste que 50 secondes pour rétrograder. Terminé.
+John, je te donnerai une note. 45, NOTE.
+Roger.
+Je suis en train de le sauvegarder manuellement. Terminé.
+Roger, John.
+Mon carburant est à 39 %
+Trente secondes, John.
+Roger. L'alerte rétro est activée.
+Bien.
+John, laisse ton récepteur de retour allumé pendant ton passage au-dessus du Texas. Tu m'entends?
+Roger.
+15 secondes pour séquencer.
+Roger.
+5. 4, 3, 2, 1, MARQUE
+Roger, la séquence rétro est verte.
+Tu as du vert. Tu as l'air d'avoir une bonne attitude.
+L'attitude rétro est verte.
+Un peu plus de 20 ans.
+Répétez.
+Secondes.
+Roger.
+5, 4, 3, 2, 1, feu.
+Roger, les rétros sont en marche.
+Bien sûr que oui.
+Vraiment? J'ai l'impression de retourner vers Hawaï.
+Ne fais pas ça, tu veux aller sur la côte Est.
+Roger. Le voyant rétroéclairé est vert.
+Tous les trois ici.
+Roger.
+Roger, les rétros sont arrêtées. Cent....
+Gardez votre sac à dos rétro jusqu'à ce que vous ayez passé le Texas.
+C'est affirmatif.
+Vérifier.
+D'après ce que nous avons vu, le vol a l'air plutôt bien.
+Roger, tout s'est très bien passé, mis à part ce problème.
+Il semble que votre attitude ait bien tenu. Avez-vous dû la justifier?
+Oh oui, beaucoup. Oui, j'ai eu beaucoup de mal avec ça.
+Suffisant pour travailler pour le gouvernement depuis ici-bas.
+Oui, monsieur, ça a l'air bien, Wally. On se revoit dans l'Est.
+Rog.
+Très bien, mon garçon.
+Fire Retro est vert.
+Roger.
+Jettison Retro est rouge. Je la garde.
+Bonne tête.
+Je vous le dis, il n'y a aucun doute là-dessus quand les rétrofusées s'enclenchent.
+J'ai déduit cela de vos commentaires.
+Tout semble en ordre. Voici un bref récapitulatif: niveau de carburant: 29-27 %. Pression cabine: 5,5 bars. Température de l’air cabine: 88 °F (31 °C). Humidité relative: 33 %. Quantité de liquide de refroidissement: 58 %. Température ambiante: 71 °F (22 °C). Température de la combinaison: 71 °F (22 °C). Pression dans la combinaison: 5,8 bars. Température de la vapeur: 53 °F (12 °C). Taux d’oxygène: 60 % (circuit primaire) et 89 % (circuit secondaire).
+De notre côté, tout semble bien se passer. Comment l'assiette s'est-elle comportée? Avez-vous constaté des variations de lacet?
+Négatif, très proche. J'ai fait une sauvegarde et j'ai travaillé en parallèle, et il semble que ça ait tenu la route.
+Roger, nous n'avons constaté aucune disparité particulière ici.
+Roger, parfait. Aurais-tu une heure pour aller à Jettison Retro? À toi.
+Le Texas vous transmettra ce message. Terminé.
+Roger.
+Voici Friendship Seven, la correction de lacet est automatique et je vais la contrôler manuellement; l'orientation change constamment.
+Roger, l'amitié sept.
+Bonjour, Texas. Amitié Sept. Terminé.
+Friendship Seven, Cal Cap Com. Vous lisez?
+Roger.
+Concernant la possibilité de laisser Retropack activé, ils vous informeront au Texas.
+Roger
+Roger, par-dessus la côte.
+Roger, ciel bleu clair ici.
+Oui Monsieur
+Voici Friendship Seven. On aperçoit El Centre et la vallée impériale en contrebas; la mer de Salton est très dégagée.
+Ça devrait être bien vert; il a beaucoup plu par ici.
+Oui Monsieur.
+Remarques-tu un contraste quelconque sur le littoral, John?
+Répétez.
+Qu'en est-il du contraste le long du littoral?
+Négatif.
+Roger.
+Il y a pas mal de nuages ​​dans cette zone. Je suis bien sur la bonne voie, mais je ne vois que certaines zones. Par contre, je vois assez bien au nord.
+Ici Friendship Seven, passage en mode manuel.
+Roger, l'amitié sept.
+Ça cogne par intermittence; je vais le contrôler manuellement.
+Roger.
+Friendship Seven, Guaymas Cap Com, nous vous recevons parfaitement.
+Roger, Guaymas, je vous ai bien reçus également.
+Friendship Seven, Friendship Seven, ici Texas Com Tech. Vous m'entendez? Terminé.
+Roger, Texas, allez-y.
+Roger. Lecture de votre carré 5. En attente pour Texas Cap Com.
+Roger.
+Ici Texas Cap Com, Friendship Seven. Nous vous recommandons de laisser le système de rétrocompatibilité activé pendant toute la rentrée atmosphérique. Cela signifie que vous devrez forcer l'activation du capteur 0,05 g, ce qui devrait se produire à ce moment-là. Cela signifie également que vous devrez rétracter manuellement la lunette. Vous avez bien reçu?
+Ici Friendship Seven. Pourquoi? Avez-vous une explication? Terminé.
+Pas pour le moment; tel est le jugement de Cape Flight.
+Roger. Veuillez répéter vos instructions. À vous.
+Nous vous recommandons fortement de ne pas larguer le module de rétropropulsion. Cela signifie que vous devrez forcer l'arrêt à 0,05 g, ce qui devrait se produire dans environ 4 minutes et quart. Vous devrez également rétracter le télescope manuellement. Comprenez-vous?
+Roger, compris. Je devrai saisir manuellement 0,05 g lorsque cela se produira et régler la lunette manuellement. C'est bien cela?
+C'est affirmatif, Friendship Seven.
+Roger.
+Il s'agit donc de Friendship Seven, qui adopte une attitude de rentrée atmosphérique.
+L'avion Friendship Seven, en provenance du Cap, vous expliquera les raisons de cette action lorsque vous serez à vue.
+Roger. Roger. L'amitié sept.
+Ici, au sol, tout semble en ordre.
+Roger. Ici Friendship Seven.
+Confirmez vos attitudes.
+Roger.
+Friendship Seven, ici Cape. Terminé.
+Allez-y, Cap. Les Sept de l'Amitié.
+Il est recommandé de passer en position de rentrée atmosphérique et de rétracter manuellement le télescope à ce moment-là.
+Roger, rétractation manuelle du télescope.
+Pendant ce temps, nous ne sommes pas certains que votre module d'atterrissage se soit déployé. Nous estimons qu'une rentrée atmosphérique est possible avec le système de rétropropulsion activé. Nous ne prévoyons aucune difficulté pour le moment concernant ce type de rentrée. Terminé.
+Roger, compris.
+Sept, ici le Cap. Terminé.
+Allez-y, Cap. Les Sept de l'Amitié.
+Estimation de 0,05 g à 04:44.
+Roger.
+Vous remplacez 0,05 g à ce moment-là.
+Roger. L'amitié sept.
+Ici Friendship Seven. Je suis actuellement en mode manuel. Le drone oscillait encore entre le mode d'orientation et le mode manuel, principalement en mode de suivi de lacet, donc je suis maintenant en mode manuel. Je vais faire une sauvegarde…
+... à la rentrée.
+Répétez.
+Attendre.
+Ici Friendship Seven. Passage en mode commandes de vol électriques. Il me reste environ 15 % de commandes manuelles.
+Roger. Vous allez utiliser les commandes de vol électriques pour la rentrée atmosphérique et nous vous recommandons de faire votre possible pour maintenir un angle nul pendant cette manœuvre. Terminé.
+Roger. L'amitié sept.
+Ici Friendship Seven. Commandes de vol électriques, commande manuelle de secours. À vous.
+Roger, compris.
+Sept, ici Cape. La météo est excellente dans la zone de récupération: vagues de 90 cm, seulement 10 % de couverture nuageuse, visibilité de 16 km.
+Roger. L'amitié sept.
+Sept, ici le Cap. Terminé.
+Vas-y, Cap, tu es au sol, tu sors.
+Nous vous recommandons de....
+Voici Friendship Seven. Je crois que la meute vient de lâcher prise.
+Voici Friendship Seven. Dehors, c'est le chaos.
+Bonjour, Cap. Amitié Sept. Terminé.
+Bonjour, Cap. Amitié Sept. Terminé.
+Bonjour, Cap. Amitié Sept. Vous recevez? Terminé.
+Bonjour, Cap. Amitié Sept. Vous recevez? Terminé.
+…Comment lisez-vous? Terminé.
+Fort et clair; comment moi?
+Roger, je vous reçois parfaitement. Comment allez-vous?
+Oh, plutôt bien.
+Roger. Votre point d'impact se situe à moins de 1,6 km du destroyer en amont.
+Roger.
+... Sur.
+Roger.
+Ici Cape, estimation 04:50. Terminé.
+Roger, 04 50.
+D'accord, nous avons passé le pic de g maintenant.
+Seven, ici Cape. Comment allez-vous? Vous vous sentez plutôt bien?
+Je vais bien, mais c'était une vraie boule de feu, mon garçon.
+De gros morceaux de ce pack rétro se sont détachés tout au long.
+Très bien; il s'est cassé, c'est bien ça?
+Roger. L'altimètre, réglé sur sa position, indique 80 000.
+Roger, je vous comprends parfaitement.
+Roger.
+Sept, ici le cap. Vous serez à moins de 1,6 km du destroyer en orbite. Les conditions météorologiques sont excellentes pour la récupération. Terminé.
+Roger, compris. 55 000, en attente, MARK.
+Je vois toutes sortes de traînées de condensation et autres choses dehors.
+Roger. Veuillez répéter votre altitude. Votre message a été interrompu.
+Ça tangue pas mal. J'ai peut-être encore un peu de ce sac sur moi. Je n'arrive pas à l'amortir non plus.
+... liste de vérification après la réentrée. Terminé.
+Friendship Seven. On y va trop tôt. Ça bouge pas mal, on est sortis.
+est sorti.
+Roger est sorti à 30 000 pieds, avec un angle de lacet d'environ 90°.
+Roger, la situation est-elle correcte?
+Roger, ça a l'air bien.
+Roger.
+Le télescope n'est pas sorti.
+... liste de contrôle.
+Roger, en train de pomper le télescope.
+... liste de vérification. Terminé.
+Répétez.
+Roger, la liste de contrôle de rentrée est terminée. En attente pour le décollage principal à dix mille pieds.
+Roger.
+À dix mille pieds, les tubas sont ouverts.
+Roger, je comprends que les tubas sont ouverts.
+Roger.
+La voilure principale est rentrée (signal vert). La voilure est sortie, conditions récifales à 3 292 mètres (10 800 pieds), et la voilure est magnifique. La voilure semble en bon état. Alimentation en oxygène d'urgence activée, et la voilure est en très bon état. La vitesse de descente est passée à environ 12,8 mètres par seconde (42 pieds par seconde). La voilure semble en très bon état.
+Bonjour, Mercury Recovery. Ici Friendship Seven. Vous me recevez?
+Mercury Friendship Seven, ce Steelhead. Fort et clair. Terminé.
+Roger, Steelhead. Friendship Seven. La goulotte est impeccable. Terminé.
+Roger, tu as bien compris le système de parachute, la descente est normale. C'est Charlie? À vous.
+Roger, c'est exact. La descente est normale, soit 40 pieds par seconde.
+Je me porte bien; il fait un peu chaud ici, cependant. Terminé.
+Roger, Friendship Seven. Sachez que j'ai repéré votre territoire et je me dirige vers vous. Terminé.
+Roger. Quel est votre délai de récupération estimé? Terminé.
+Sept de l'amitié. Truite arc-en-ciel. Attendez. Plus.
+Roger. Amitié Sept. Indiquant 7 000.
+Friendship Seven, ici Steelhead. Je vous ai en vue, arrivée prévue dans environ une heure. À vous.
+Roger, à l'heure sur la station.
+Ici Friendship Seven, prête à passer à l'action.
+Voici Friendship Seven, en train de passer en revue la liste de contrôle.
+Friendship Seven, ici Steelhead. Veuillez corriger mon estimation de la station. Prise en charge prévue dans 20 minutes. À vous.
+Roger, je comprends qu'il faudra 20 minutes pour venir le chercher.
+L'amitié sept, en passant en revue la liste de contrôle.
+Sept, ici Cape. Avez-vous le sac d'atterrissage sur le feu vert? À vous.
+Sept de l'amitié. Répétez, Cap.
+... Sac d'atterrissage sur la zone verte? Terminé.
+Ici Friendship Seven. Je ne vous ai toujours pas reçu. Veuillez réessayer.
+Avez-vous le sac d'atterrissage sur le vert? Terminé.
+Je suis désolé. Je ne vous lis pas, Cape. Veuillez répéter.
+Avez-vous le sac d'atterrissage sur le vert? Terminé.
+C'est exact. Le sac d'atterrissage est au vert.
+Friendship Seven, ici Steelhead. Veuillez noter que, d'après mon appareil, vous êtes à 6 miles d'ici. À vous.
+Roger, j'ai compris 6 miles. Bravo.
+D'accord.
+Steelhead, ici Cape Cap Com. Terminé.
+Allez-y, Cap Com.
+Cap Com. Nous recommandons qu'il reste dans la capsule, sauf raison impérieuse de la sortir. Terminé.
+Répétez. C'est Friendship Seven.
+Restez dans la capsule sauf si vous avez une raison impérieuse d'en sortir. Terminé.
+Roger. L'amitié sept.
+Friendship Seven. Prêts à l'impact; presque à terre.
+Roger.
+Me voyez-vous?
+Amitié Sept. On approche. On attend.
+Roger.
+On y va.
+Amitié Sept. Impact. Aides au sauvetage est un manuel.
+Friendship Seven, ici Steelhead. Je vous tiens dans l'eau. Quel est votre état? À vous.
+Roger, mon état est bon. La capsule semble-t-elle en bon état? À vous.
+Amitié Sept, référence à votre dernier; affirmatif, la capsule semble bien d'ici. Terminé.
+Roger, je comprends qu'ils veulent que je reste dans la capsule jusqu'aux secours.
+Friendship Seven, Steelhead. C'est Charlie. À vous.
+Roger.
+Friendship Seven, Steelhead vous appelle.
+Vas-y, Steelhead. Amitié Sept. Je ne te reçois pas.
+Vas-y, Steelhead. Friendship Seven te lit.
+Négatif. C'est Friendship Seven. Je ne le lis pas.
+Friendship Seven, Friendship Seven, ici Steelhead, Steelhead. À vous.
+Vas-y, Steelhead. L'amitié sept.
+Friendship Seven, ici Steelhead. Je comprends que vous me voyez par votre fenêtre. C'est bien ça? À vous.
+Négatif.
+Négatif. Il s'agit de l'amitié sept.
+Friendship Seven, ici Steelhead. Temps de récupération estimé à environ 7 minutes. Terminé.
+Roger, 7 minutes. Vous allez bien mettre des hommes à l'eau avec le collier? C'est bien ça?
+Amitié Sept, Steelhead. Affirmative. Terminé.
+Roger.
+Friendship Seven, ici Steelhead. Je comprends que vous êtes en excellente santé. Est-ce Charlie?
+C'est exact. Je me porte bien. J'ai un peu chaud, mais ce n'est pas grave, les ventilateurs de ma combinaison fonctionnent toujours.
+Saumon arc-en-ciel. Roger. Terminé.
+Steelhead, ici Cape. Terminé.
+Appel de la station… À vous. Répétez. Terminé.
+Voici Cap Canaveral. Je recommande... Terminé.
+Le poste de Steelhead, situé au Cap, ne parvient pas à lire votre message. Veuillez répéter votre texte. Terminé.
+Roger. Je recommande... astronaute. Terminé.
+Cap, ici Steelhead; merci de répéter après la recommandation. Terminé.
+Tenez l'astronaute informé de l'avancement de la récupération; tenez l'astronaute informé de l'avancement de la récupération. Terminé.
+Truite arc-en-ciel. Wilco. Sortie.
+Friendship Seven, ici Steelhead. Nous vous avons en vue. Je termine la transmission. La récupération devrait être possible dans environ 4 minutes. Terminé.
+Roger, 4 minutes de récupération et mon état est bon.
+Saumon arc-en-ciel. Bien reçu. Pause, mouillage, etc., prêts sur le pont. Tout l'équipement est prêt. Nous pensons pouvoir vous accueillir à bord dans environ deux minutes après votre arrivée. Terminé.
+Roger.
+Ici Friendship Seven. J'ai très chaud. Enfin, non, je reste juste immobile ici, essayant de me rafraîchir autant que possible. J'ai extrêmement chaud en ce moment.
+Saumon arc-en-ciel. Roger, pause, oubliez ça.
+Roger.
+Friendship Seven, Steelhead. L'hélicoptère est en route. Ils devraient arriver dans environ 8 minutes. Terminé.
+Roger.
+Friendship Seven, Steelhead. L'équipe médicale est prête à intervenir immédiatement après la récupération, au cas où une assistance serait nécessaire. Terminé.
+Roger. L'amitié sept.
+Friendship Seven, Steelhead. Ma vitesse est maintenant de 10 nœuds, j'entame mon approche. Terminé.
+Roger. L'amitié sept.
+Friendship Seven, ici Steelhead. Tout l'équipement fonctionne normalement. Prévoyez d'être à proximité dans environ 3 minutes. Terminé.
+Ah, Roger.
+Friendship Seven, ici Steelhead. Arrêt total, je répète, mes moteurs sont coupés. Je me mets à votre disposition. À vous.
+Roger.
+Friendship Seven, Friendship Seven, ici Steelhead. Vous me recevez? À vous.
+Roger, Steelhead, bien reçu. Friendship Seven. Je comprends que vous venez à nos côtés.
+Friendship Seven, ici Steelhead. Vous êtes à 1 000 yards. Terminé.
+Roger. L'amitié sept. Ça sonne bien.
+La capsule me semble flotter en assez bon état. Vous partagez cet avis?
+Friendship Seven, ici Steelhead. Bien reçu, la capsule semble en bon état. Je ne constate aucun dommage visible. Terminé.
+Roger.
+Friendship Seven, ici 6 Spangle 8. Je suis en orbite à 300 pieds, tout semble parfaitement normal d'ici.
+Roger.
+Vous roulez dans un bon état d'esprit. Terminé.
+Roger.

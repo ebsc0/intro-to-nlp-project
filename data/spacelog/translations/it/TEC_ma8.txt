@@ -1,0 +1,2374 @@
+Ho il decollo. Il cronometro è partito. E lei si sente davvero bene.
+Wally, hai una spilla per questo volo?
+Sì, ho le puntine sul muro del mio ufficio. L'altimetro è già pronto.
+Attendere 20 secondi.
+Va bene.
+2, 1, MARK.T
+Roger. Il backup è partito e funziona bene. Ti faccio un esempio dei miei 30 secondi. Ah, sta cavalcando la splendida Deke.
+Da qui sembra davvero bello.
+MARK 30. Bene. Il carburante è a posto. L'ossigeno è a posto. Tutti i sistemi sembrano funzionare, ma sta diventando rumoroso.
+Per niente rumoroso. È facile parlare.
+La pressione nella cabina principale rimane nei tempi previsti. Il carburante è a posto. L'ossigeno è a posto. La pressione in cabina è di 10 psi e l'aereo si muove davvero bene.
+Cape Cap Com Sigma Seven. Mi leggi? Passo.
+Cape Cap Com, qui Sigma Seven. Come si legge? Passo.
+Cape Cap Com, Sigma Seven. Ti leggo. Passo.
+Cape Cap Com, Sigma Seven. Leggo. Sto trasmettendo in modalità cieca. G sta costruendo. Tutti i sistemi sono attivi qui.
+Roger. Come leggi adesso, Wally?
+Ti leggo bellissima.
+Avevi il trasmettitore bloccato, ecco perché non siamo riusciti a leggere.
+Accidenti. Ora sono in modalità push-to-talk.
+Pronti per la messa in scena.
+Ho un. Potevo vedere il flash.
+Messa in scena.
+Roger, mi sto preparando. Pronti per la torre. Il carburante sembra buono. Anche l'ossigeno sembra buono.
+Ricevuto. Inizia un nuovo volo.
+Ok. Sono in modalità push-to-talk e il sole sta entrando dalla finestra. Ok. Ecco la torre.
+Roger.
+Auto retrojett off. Questa torre è davvero un sayonara.
+L'inclinazione dovrebbe essere di circa -10 (gradi).
+Roger. Ho circa -5. La pressione in cabina si mantiene molto bene, a circa 6 psi.
+Roger.
+E ora farò un controllo elettrico.
+Roger.
+Ok, a-c e d-c sono tutti nel verde. Sembra davvero bello.
+Roger.
+Tornerò di nuovo su VOX. Come fai a sentirmi su VOX adesso?
+Cape Cap Com, Sigma Seven.
+Forza, Sette.
+Bene. Sono di nuovo in modalità push-to-talk.
+Ricevuto. Puoi provare dal Centro di Controllo.
+Roger. Provaci anche tu. È davvero grasso.
+Roger. Prova da qui.
+Roger. Sembra davvero buono.
+Oggi sei una tartaruga?
+Registrazione solo su VOX. Scommetti (risposta corretta registrata).
+Stavo solo cercando di coglierti in fallo.
+No, okay. Ho finito la registrazione di VOX.
+Mancano 4 minuti. Ti darò un trucco.
+Buona testa.
+MARK.T
+Roger. Proprio sul naso... 3 tiri.
+Ok, ho del buon carburante, circa 101-95. L'ossigeno è grasso 65-52 (psi in centinaia), correzione 72.
+Roger.
+Ora sta iniziando a crescere.
+Roger.
+La luce del sole filtra nell'angolo in alto a destra della finestra, appena dentro di me.
+Roger.
+Come va il V/Vr?
+Ottengo 0,8 V/Vr.
+Bello spettacolo.
+Pronti per.
+Ce l'ho. Cap sep, e in aux damp, ed è molto piacevole. Passo al fly-by-wire basso. Passo al fly-by-wire.
+Ricevuto. Controllo fly-by-wire.
+Yaw risponde molto bene. Roll risponde bene. Si gira molto bene.
+Provaci, capacità di 7 orbite.
+Ripeto, mi piace quel genere.
+Vedo piccoli cristalli di ghiaccio, sono sicuro che ora sono lì intorno a me.
+Sei un po' confuso.
+Bene. Ora ho una buona visuale della Terra.
+Torniamo al retroatteggiamento. Torniamo al retroatteggiamento; e qui c'è una bella inquadratura del sostenitore. È proprio nella finestra, dove dovrebbe stare. Sono un po' stordito.
+Roger.
+Okay. Stiamo per entrare nel retroatteggiamento.
+Roger. Abbiamo tutte le comunicazioni. Dimmi, puoi confermare che il retrojett è spento?
+Affermativo. Retrojett è disattivato.
+Va bene.
+Ok. Mi sto preparando per l'imbardata. Vedo già l'imbardata a (-) 34.
+Dici che hai ancora un po' di imbardata.
+Roger. Sono appena entrato in funzione a circa 7 minuti e 10 secondi. Il sostenitore è fermo sopra di me. Dovrei dire sopra l'orizzonte. E in questo momento sono in modalità scimpanzé e sta volando magnificamente.
+Ti darò (area di recupero di emergenza) 1-B retrospettivo.
+Ricevuto. Capito. È corretto?
+Roger..
+Ok. Ho tirato fuori la mia cartella clinica. La metto dentro. Ora mando la pressione sanguigna ai medici.
+Roger.
+Cavolo! Quella sostenitrice è davvero carina. La prendo subito e la seguo.
+Per tua informazione, il tuo testo è leggermente confuso, leggermente confuso.
+Ok. Userò il VOX-push-to-talk il più possibile.
+Roger.
+Ok, interrompo la misurazione della pressione sanguigna. Cavolo! Questo ha reso il tracciamento davvero perfetto. Il sustainer è molto stabile. Non oscilla affatto. Non vedo vapori; sembra molto pulito.
+Ripeti Deke.
+Cape Cap Com, Sigma Seven. Ripeti.
+Sette, Capitano Com. Stai svanendo, stai svanendo.
+Roger.
+Cape Cap Com. Ti ho sentito forte e chiaro.
+Sigma Seven, Sigma Seven, Cape Cap Com. Come leggi?
+Cape Cap Com, qui Sigma Seven. Ti sento forte e chiaro. Come me?
+Cape Cap Com, Sigma Seven. Come leggi? Passo.
+Questa è la Sigma Seven. Squib spento. Tre interruttori retrofusibili accesi. Arma da fuoco accesa. Passaggio al fly-by-wire basso.
+Questo è Sigma Seven. Tracciamento del sostenitore molto facile in modalità fly-by-wire a bassa velocità.
+Passerò alla modalità proporzionale manuale.
+Questa è la Sigma Seven. Ora sono in modalità automatica, retroattiva. La modalità proporzionale manuale funziona molto bene.
+Canary Cap Com, qui è Sigma Seven. Fine.
+Sigma Seven, qui Canary Com Tech. Trasmette in HF/UHF. Mi senti? Passo.
+Roger. Canary Cap Com, qui Sigma Seven. Mi senti?
+Sigma Seven, qui Canary Cap Com. Vi ricevo forte e chiaro. Abbiamo una traccia radar valida.
+Roger. Ottimo spettacolo sul radar. Mi dispiace molto che il nostro amico Julian non sia potuto essere con noi. Vorrei darti il ​​mio rapporto sulla modalità di controllo. Innanzitutto, manuale e fly-by-wire low sono eccellenti; l'aux damp funziona alla grande. Ora sono in modalità automatica; retroassetto. L'assetto si mantiene benissimo. Vado. La temperatura della mia tuta sta salendo un po'. L'ho impostata a 4,5. Finito.
+Ricevuto. Ho trovato la temperatura della tuta a 4,5. Qual è la temperatura della tua tuta?
+Negativo. Quella era la cupola della tuta: segna 75. Ho impostato la tuta a 4,5.
+Roger.
+Sto controllando la mia cabina. Ci sono circa 15°C. Lascio perdere. Lo scambiatore di calore della cabina è a circa 9°C.
+Roger.
+Canary, per quanto mi riguarda tutti i sistemi di controllo sono perfetti. Il manuale era un po' lento come previsto, ma migliore di quanto avessi mai visto.
+Roger. Sei su UHF-hi in questo momento?
+La risposta è affermativa e a breve passerò alla tecnologia UHF-lo per una verifica con voi.
+Roger.
+Ho fatto un controllo elettrico. Abbiamo avuto problemi di comunicazione durante il viaggio. E tutti i sistemi hanno funzionato benissimo. L'ossigeno sta reggendo molto bene. Darò al circuito della tuta un po' più di tempo per raffreddarsi.
+La temperatura della mia tuta in questo momento è di 68 gradi. Non mi preoccupo ancora.
+Roger.
+Tutto il resto è verde.
+Roger.
+Vado a mangiare gyros gratis per un controllo Ts + 5.
+Roger.
+Se vuoi, ho un orario di retrosequenza 2-1 (area di recupero).
+Ricevuto. Pronto.
+Ricevuto. Correzione al 2-1..
+Questo è confermato.
+Roger.
+Ok. Sembra che la cupola si stia abbassando un po'. Manterrò questa impostazione per un po'.
+Di quale cupola si tratta?
+Questa è la cupola della tuta. La cupola della cabina è 55
+Ruggero 5.
+Canary Cap Com, qui Sigma Seven. Mi ricevi?
+Copio l'impostazione della cupola della cabina a 5,5 e quella della cupola della tuta a 4,5.
+Ora, queste non sono impostazioni. Lasciate che vi spieghi. La temperatura della cupola della tuta è 75 (gradi). La temperatura della cupola della cabina è 56 (gradi). L'impostazione della valvola del refrigerante nella tuta è 4,5. L'impostazione della cabina è 4. Capito?
+Ora copio.
+Ok. Torniamo alla normalità dei giroscopi. Ts+5 confermato.
+Roger.
+Vedo che stiamo attraversando la costa. Non ho ancora usato molto il periscopio.
+Roger. Sei già su UHF-hi o lo?
+Negativo. Passerò a lo ora prima di perderti. Disattiva VOX.
+Canary Cap Com, Sigma Seven. Su UHF-lo. Come si legge?
+Kano Cap Com, qui Sigma Seven. Su UHF-lo. Come si legge? Passo.
+Kano Cap Com, Kano Cap Com, Sigma Seven. UHF-lo. Come si legge?
+Sigma Seven, Sigma Seven, qui Kano Com Tech trasmette in UHF/HF. Mi senti? Passo.
+Ricevuto. Kano Cap Com. Mi senti? UHF-lo. Passo.
+Ricevuto. Rimaniamo in attesa su questa frequenza, Sette, per Cap Com.
+Va bene.
+Ciao Sigma Seven, sono Kano Cap Com. Ti aspetto per un tuo breve resoconto.
+Ricevuto. Vado. Tutti i sistemi sono a posto. Sono in modalità automatica; la manovra è disattivata. Il mio bypass Tr-10 è normale. Il carburante e l'ossigeno sono tutti verdi. Tutto è verde. Sono grasso qui. Vorrei un controllo dell'ora.
+Capisco che vuoi un controllo a terra.
+Esatto.
+Roger. Al mio segnale sarà. SEGNALA. T
+Roger. Ho ragione.
+Sto modificando l'impostazione della tuta a quasi 5. Finito.
+Capito. Cambio l'impostazione del seme al numero 5.
+Esatto. La temperatura della cupola in questo momento è di circa 25°C. La lascerò al numero 5 per almeno 10 minuti.
+Kano Cap Com è a disposizione per ulteriori segnalazioni, Sigma Seven.
+Roger, Kano. Sembra che laggiù il tempo sia bello.
+Questo è certo. I tuoi atteggiamenti corrispondono al tuo riferimento visivo?
+Molto bene. Ho notato che il reticolo di imbardata funziona piuttosto bene. L'ho usato per sorvolare la terraferma qui.
+Ricevuto. Capisco.
+Ora proverò a vedere un po' il periscopio. È una vista piuttosto insolita. Non è emozionante come quella dalla finestra, devo ammetterlo.
+Capire.
+Sembra che il tempo si stia avvicinando e il cielo sarà nuvoloso.
+Sette, il nostro assetto di beccheggio della telemetria mostra circa 27 (gradi) in meno e l'output dello scanner mostra circa - oh, -36 (gradi).
+Roger. Ho ragione sui -34 (gradi). Corrisponde al segno di riferimento del finestrino e sono abbastanza contento che sia giusto.
+Molto bene.
+Come va la temperatura della tua tuta adesso?
+La temperatura della tuta ora... sta ancora salendo un po', è circa 22°C. Mi sto impostando sulla tuta... numero 5 e le darò ancora un po' di tempo per cercare di raffreddarsi.
+Penso che non appena avremo un'inversione di tendenza nella temperatura di questa cupola, la ridurremo.
+Roger.
+Bene, ora stiamo rilevando delle nuvole piuttosto abbondanti.
+I miei inverter sembrano davvero buoni.
+Ricevuto. Capito. Qual è la temperatura attuale della cupola della tua tuta?
+Sembra che tenga. Forse dovrò aumentarlo tra un po'. Lo lascerò riposare per un po'.
+Tutti i sistemi sembrano a posto, Seven.
+Roger. Credo che l'unico problema che ho sia il circuito della tuta. Ci lavorerò per un po' e vedremo come andrà.
+Ci vuole un po' di tempo perché si stabilizzi?
+Giusto. È quello che sto cercando di fare.
+La cupola ora mantiene ancora una temperatura di 25°C. Credo che la lascerò riposare ancora un po'.
+Ripeti quella temperatura.
+La temperatura della cupola della tuta è di 78 (gradi).
+Capire.
+La cupola della cabina è di 60 (gradi).
+Cupola della cabina - Kano, qui Sigma Seven. Mi ricevi?
+Sette.
+Roger. La cupola della cabina funziona molto bene. Sta solo fluttuando.
+Roger.
+La temperatura varia tra i 52 e i 58 gradi. E devo a Frank Samonski, almeno finora, 50 centesimi.
+Al momento, ho tre assi praticamente in retroassetto. L'imbardata attraverso il reticolo viene solitamente osservata come un rateo di inclinazione e ora sto cercando di verificare un cambiamento di assetto nell'imbardata. Noto che anche una sola nuvola fornisce immediatamente un assetto come riferimento. È quasi troppo preciso per l'osservazione effettiva che ho all'interno della capsula.
+Ora vado a bassa magnitudine. Correzione ad alta magnitudine sul periscopio, vedi come appare?... ha imbardato a destra di circa 5 gradi. Vedi come si allinea con il periscopio a questo punto. Diciamo che abbiamo gli assi di imbardata (indicatore) a circa 10 gradi a destra, in questo momento, e le nuvole stanno seguendo la linea, come se gli assi di imbardata potessero essere spostati di 5 o 6 gradi. Ora, questo potrebbe essere un problema minore; dovremo osservarlo.
+Sigma Seven, Sigma Seven,... HF e UHF.
+Ciao Kano. Sono Sigma Seven. State arrivando entrambi distrutti ma lucidi. Passo.
+Sigma Seven. In attesa di Cap Com. Fine.
+Roger.
+Sigma Seven, Sigma Seven, questa è Zanzibar Cap Com. Fine.
+Kano Cap Com, stai arrivando debole e distrutto. Gver.
+Questa è Zanzibar Cap Com, Zanzibar Cap Com. Fine.
+Roger. Zanzibar. Scusa se ti ho chiamato male. Ora reimposto... la valvola del refrigerante della tuta a 5,5. Passo.
+Zanzibar, qui è Sigma Seven. Mi ricevi?
+Sette, questa è Zanzibar. Stavi interrompendo. Non ho ricevuto il tuo ultimo messaggio. Puoi ripetere?
+Ricevuto. Pronto, passo alla banda UHF-hi.
+Roger.
+Ciao Zanzibar, qui è Sigma Seven. Come si legge? Passo.
+Sette, qui è Zanzibar Cap Com. Vi leggo forte e chiaro. Avanti.
+Ricevuto. Ho impostato la valvola di controllo della mia tuta a 5,5. La temperatura della cupola della tuta è di 80 gradi. Finito.
+Ricevuto. Capisco.
+La temperatura della cupola della cabina è di 55 (gradi) e apparentemente è sotto controllo.
+Ricevuto. Capisco.
+In questo momento la temperatura della mia tuta è scesa a 75 (gradi).
+Roger.
+In realtà, questa è una correzione, non è sceso. Sta solo andando lì. Vorrei darvi un briefing sulla mia modalità di controllo. Sono in modalità automatica, l'interruttore di bypass è normale, manovra disattivata. Il carburante è sul verde. L'ossigeno è decisamente sul verde. Tutti i componenti elettrici sono sul verde.
+Ricevuto. Sette. Il tuo tempo per la retrosequenza 2-1 (area di recupero) è. Finito.
+Sette, Zanzibar.
+Roger. Mi dispiace, stavo cercando di estrarre il mio biglietto da visita. Capisco.
+Sì.
+Va bene.
+... Zanzibar.
+Forza, Zanzibar.
+Qui a terra tutti i sistemi sono ecologici. Abbiamo un buon.
+Roger. Zanzibar. Sono tutto verde qui. Sto ancora lavorando sul circuito di corrente della tuta.
+Roger. Come ti senti? A disagio?
+Mi sento abbastanza a mio agio. Ho un po' caldo, soprattutto a causa della luce del sole, ma a parte questo sto bene.
+Roger.
+Mantengo l'impostazione di controllo della tuta a 5,5 per un po' più a lungo.
+Roger. Hai cambiato idea su Kano un po' di tempo fa. Affermativo.
+Esatto. Sembra che anche da voi il tempo sia stato piuttosto bello.
+Molto bene.
+Ho un sacco di buone nuvole per i controlli di imbardata. Lo dico.
+Giusto.
+Potresti controllare la lettura dell'imbardata in base a ciò che hai letto per me in questo momento?
+Roger. Stiamo arrivando a circa +5 gradi. Passo.
+Roger. Concordo. Ora sto cercando di tornare a 0.
+Roger. Ora ti riportiamo a 0 (gradi).
+Ok. Questo è il... questo è il sistema che lo fa per me, ovviamente. Dovrò aumentare la regolazione della tuta. Sto appena pareggiando i conti. Imposterò la valvola di controllo della tuta al numero 6.
+Ricevuto. Capisco. Sono passati circa 10 minuti.
+Roger. Grazie. La cabina si mantiene molto bene con le impostazioni e mi sento perfettamente a mio agio.
+Sette, qui è Zanzibar. Manca circa un minuto. C'è altro da segnalare?
+Niente. Manterrò la temperatura impostata a questo punto finché non si scalderà un po' di più. Se dovesse succedere, potrei dover aumentare di un altro mezzo livello, a circa 45 minuti, prima di arrivare a Woomera.
+Roger. Capisco. Vorrei leggere questo prima di iniziare, per favore.
+Roger. Il mio sistema è 6. La cupola è 81, 81 (gradi).
+Sette. Tutti i sistemi qui a terra funzionano ancora bene.
+Roger.
+Qui Sigma Seven. Qualcuno che trasmette alla cieca, non ti capisco molto bene.
+Sette, questa è Zanzibar. Leggete le 5 di oggi.
+Roger. Il tuo messaggio è confuso. Ti chiamerò a breve.
+Roger.
+Zanzibar Cap Com. Nel buio. Come si legge? Finito.
+Questa è Sigma Seven. Ti ricevo. È piuttosto... molto confuso. Non ho notato le mie antenne HF in fase di inversione. Le bande erano semplicemente troppo piccole, immagino. Ora spegnerò il VOX e passerò alle HF.
+Canary Com Tech, Canary - correzione. Zanzibar, Zanzibar, qui Sigma Seven. In HF. Come si legge? Passo.
+Ciao Muchea, ciao Muchea Cap Com, qui è Sigma Seven. HF. Come leggi? Passo.
+Questa è la Sigma Seven. Ho notato che alla luce diretta del sole, alla capsula, si possono staccare piccoli oggetti, uno o due.
+Sette, questa è Zanzibar. Ho letto a malapena il tuo assegno HF. Passo.
+Roger, Zanzibar, ti sento forte e chiaro in questo momento. Questo è Zanzibar, dove riceviamo HF forte e chiaro.
+Muchea Cap Com, Muchea Cap Com. Sigma Seven HF. Finito.
+Sto passando al push-to-talk.
+Muchea Cap Com, Sigma Seven. Controllo HF, premi-per-parlare. Passo.
+?: 12 53 00. Ha parlato con Guaymas dopo che abbiamo finito e lo ha preso. Fuori.
+Non sono riuscito a identificare l'ultima stazione che ha parlato in HF. Il segnale è arrivato molto chiaro e dovrebbe essere stato registrato a bordo della capsula a circa 43 minuti e 10 secondi di distanza.
+Sono passato alla trasmissione e registrazione VOX. Sono soddisfatto di poter vedere l'imbardata attraverso la finestra senza usare il reticolo, lasciando che le immagini arrivino da tutti i lati. È solo questione di poco tempo prima che gli oggetti mostrino immediatamente la traslazione.
+Il segno di inclinazione è leggermente verso l'alto e di conseguenza corrisponde alla retroinclinazione, che in questo momento è di 30 gradi. Ora ho un'imbardata a destra di circa 10 gradi e sembra che stia seguendo la traiettoria corretta.
+Sono a 45 minuti. Aumenterò leggermente la manopola di regolazione della tuta, circa un quarto di giro. Credo che abbiamo quasi il controllo della situazione. Ho impostato la manopola della tuta a 6,25. La temperatura della cupola in questo momento è di 82 gradi. L'ingresso della tuta è di 76 gradi.
+In questo momento vedo sicuramente un rollio a destra di circa 5 gradi e ho notato che il periscopio è scuro, il che significa che stiamo entrando nel lato oscuro. Cercherò di osservare i cambiamenti attraverso il periscopio per eventuali osservazioni. Al momento, non riesco a vedere nulla attraverso il periscopio per l'osservazione notturna, almeno in questa posizione. Non sono nemmeno sicuro di quando ho una bassa magnitudine, a parte la posizione della leva. La finestra è nuvolosa. Ora è illuminata dalla luce del sole ed è sicuramente stata offuscata dal razzo della torre di fuga, non in modo significativo. Vedo le cosiddette lucciole spostarsi notevolmente a questo punto. Ho provato a colpirle un paio di volte e hanno sicuramente una velocità relativa al veicolo, ma a quanto pare fanno parte dello stesso sistema orbitale, le vedo sicuramente come oggetti bianchi.
+A questo punto vorrei bere un po' d'acqua, ma preferirei tenere la visiera chiusa per far sì che il sistema continui a raffreddarsi. Potremmo fare qualche progresso sul lato freddo. Sembra che dovrò abbassare la temperatura in cabina, è scesa a 45 gradi (a cupola). Sto arrivando a 3,5 gradi in cabina.
+Sto controllando gli inverter. Sembrano in ottime condizioni. 150 corrisponde a 102 gradi. 250 corrisponde a circa 107 gradi. Torniamo allo scambiatore di calore dell'abitacolo.
+Ora, a circa 47 minuti dal decollo, sto entrando nel lato notturno. Ho impostato la temperatura della tuta a 3,5 gradi. La temperatura della tuta è ora di appena... correzione: la temperatura della tuta si sta avvicinando di nuovo ai 50 gradi. Lascerò l'impostazione a 3,5 gradi per un po' di tempo.
+Con tutta questa luce solare, non riesco a vedere le stelle. Il sole è alla mia sinistra e mi sto avvicinando al tramonto, circa alle 49, ora prevista. È proprio il momento giusto. Mi sto avvicinando alle 49 e le luci della cabina sono accese di bianco. Ora le accenderò di rosso. E spegnerò quella maledetta luce dell'orologio di correlazione del decollo.
+Oh, ho quasi perso il mio primo tramonto cercando di accendere la luce giusta in cabina. È piuttosto rapido, come mi avevano detto. Non ci riesco, ecco che Arturo è proprio sul lato giusto, dove dovrebbe essere. Molto bello. Dovrei riuscire a vedere Muchea a breve, a 50. Ho difficoltà a vedere l'orologio a 49 minuti.
+Sigma Seven, Sigma Seven, qui è Muchea Cap Com. Mi senti? Passo.
+Muchea Cap Com. Sigma Seven. HF. Ti sento forte e chiaro. Passo.
+Roger. Anche tu sei forte e chiaro. Come ti senti?
+Mi sento molto bene, Gene. In questo momento sono in HF con il dipolo. Ho riaggiustato l'impostazione della cabina. La cupola è scesa a circa 45 gradi. Ho impostato la valvola del refrigerante della cabina a 3,5. Hai capito?
+Hai impostato la cabina a 3,5. È corretto?
+Esatto, perché la temperatura è un po' bassa. Sulla tuta, ora sono a 6 e aumenterò a 6,5. Non sto facendo molti progressi. Sono arrivato a circa 6,25 circa 5 minuti fa e ora sto impostando i comandi della tuta a 6,5. La temperatura della cupola segna 82 [gradi].
+Ho controllato che la temperatura della cupola della tuta sia di 82 gradi e ora l'hai impostata a 6,5. Senti troppo caldo o qualcosa del genere?
+No. Ho delle gocce di sudore sulle labbra. Questo è tutto.
+Possiamo avere la temperatura della tuta...?
+Ripeti.
+Ricevuto. Procediamo con il rapporto sullo stato di avanzamento. Passo.
+Ok. A questo punto sono in modalità automatica. Tutto funziona perfettamente. L'interruttore di manovra è spento. Tutti i sistemi sono verdi. Non sto praticamente usando carburante automatico. L'unica area problematica è il circuito della tuta, che sto monitorando con molta attenzione.
+Ricevuto. Sigma Seven, ora ti faccio un controllo vocale di emergenza. La prossima trasmissione sarà in modalità vocale di emergenza.
+Roger.
+Sigma Seven, Sigma Seven, qui Muchea Cap Com in chiamata d'emergenza. Mi senti? Passo.
+Qui Sigma Seven. Ricevo forte e chiaro il tuo messaggio di emergenza, Gene. Ottimo. Lo abbasso a circa il livello 4 del volume.
+Roger.
+Ti misurerò la pressione sanguigna.
+Roger.
+Qualcuno ti ha già chiesto di bere acqua, Sigma Seven?
+Negativo. Ho cercato di non farlo. Se riesco ad abbassare un po' la temperatura della tuta, aprirò la visiera e prenderò un po' d'acqua.
+Ricevuto. Capito. Lo stato del test di Woomera è buono. Li accenderanno, ma ci sono nubi sparse e pioggia leggera. Non sono stati segnalati fulmini. Accenderanno il razzo.
+Il posto è coperto di nuvole? Finito.
+Negativo. Nubi sparse: l'ultima stima che ho ottenuto era 0,8 e diverse interruzioni.
+Ricevuto. Capisco.
+Sigma Seven, per favore, potresti darci la temperatura dello scambiatore di calore della cabina? Passo.
+Ricevuto. Sono 41 gradi. Passo.
+Ricevuto. Capisco. Le letture della temperatura corporea a terra non sono buone. Non stiamo prestando alcuna attenzione alle letture della temperatura corporea. Passo.
+Ricevuto. Capisco.
+Sigma Seven, qui Muchea. Qual è la temperatura della cupola della tua tuta?
+Ora si mantiene a 82 (gradi), con un'impostazione del refrigerante di 6,5. Oltre.
+Ripeti: essere ostacolati lì. Puoi ripetere?
+Ricevuto. La temperatura della mia cupola è 82 gradi. Il mio refrigerante... 82, numero 82.
+Sigma Seven. Le vostre trasmissioni sono ora molto rumorose. Resteremo in attesa e non vi contatteremo per un po'. Dovrete contattare Woomera tra circa 3 minuti.
+Roger.
+Woomera, qui è Sigma Seven. Fine.
+Forza. Sigma Seven.
+Si tratta di Muchea o Woomera?
+Muchea. Ora stai molto meglio.
+Roger. Ho la luna proprio al centro del mio campo visivo. È un riferimento di imbardata meraviglioso. Non c'è da preoccuparsene.
+Ricevuto. Capisco. Ottimo riferimento per l'imbardata.
+Affermativo. Sono ancora in modalità automatica. A breve passerò al fly-by-wire.
+Ricevuto. Resteremo in attesa e ci aspettiamo che tu ci segnali la modalità di controllo quando passi a fly-by-wire basso; e giroscopi liberi.
+Sto cambiando - La mia cabina funziona bene. La tuta è a posto. Scendo per il controllo dell'imbardata. Correzione, ora per il controllo della flare. Sto picchiando in modalità fly-by-wire bassa.
+Ricevuto. Capisco.
+Il fly-by-wire funziona molto bene. Cerco di mantenere -40 (gradi di pitch). Correzione, -50 (gradi).
+Roger.
+L'impostazione è -50 gradi. I giroscopi sono gratuiti. Mantenimento a -50 gradi. Pronto per il flare. Rollio e imbardata mantengono. Vedo il flare alla mia sinistra, il che è un po' sbagliato, credo. Credo di aver visto un lampo. Probabilmente, quello che vedo è un lampo, non il flare. Vedo altri fulmini. Sarà difficile dire cosa sto vedendo, se sono fulmini o flare.
+Sigma Seven, questa è Woomera Cap Com. Fine.
+Roger. Woomera. Forza.
+Qui è Woomera Cap Com. L'accensione del razzo avverrà tra 1 minuto e 20 secondi.
+Questo è uno dei motivi per cui non riesco a vederlo, perché ovviamente sto guardando un fulmine.
+E non ho ricevuto la posizione dell'interruttore giroscopico.
+Roger. Sono in modalità fly-by-wire low e ho i giroscopi liberi.
+Roger.
+Sembra che non ci siano problemi nel tracciare i giroscopi. Il problema è stato piuttosto grosso nel cercare di abbassare la luce della cabina al rosso. È molto difficile da raggiungere a causa di quella borsa. Non ho nemmeno provato a usare la telecamera. Non ho intenzione di farlo finché non avrò il circuito della tuta sotto controllo.
+Ricevuto. Hai 5 secondi per dare il via all'accensione.
+Ricevuto. Sto tracciando un'inclinazione di -50 gradi.
+Accensione ora.
+Roger. Ho solo fulmini. Sembra che tu sia quasi in panne. Resterò qui per un po' e poi tornerò tra poco. Credo di aver visto un fulmine proprio sotto di me, ma non poteva essere il bagliore. Dovrebbe bruciare costantemente, a quanto ho capito.
+Corretto.
+Il fulmine sembra una grossa macchia, piuttosto che una striscia frastagliata che siamo abituati a vedere quando siamo a terra. Sembra proprio una grossa macchia, quasi come un colpo di contraerea. Una grossa macchia di luce intensa, che poi svanisce quasi all'istante. Sembra proprio che il cielo sia coperto. A proposito, come vi arriva la mia HF?
+Sereno a Woomera.
+Molto bene. Come forse saprai, uso HF e dipolo.
+Infatti, ti abbiamo preso quando hai iniziato a lavorare a Muchea.
+Davvero? Molto bene. Bene, sembra che abbiamo tirato fuori i pali.
+Roger.
+Penso che farò - tra te e Canton, un altro tentativo di controllo della temperatura della tuta. Non stiamo facendo molti progressi, di sicuro. Me la cavo. Tutto qui.
+Roger. Ora stai notando un leggero aumento di imbardata.
+Roger. Sono d'accordo. Stavo cercando il razzo. Sei ubriaco adesso?
+Da dicerie. L'hai trovato?
+Roger. Vedo una luce fissa in vista. Questo perché mi sono alzato in volo. Ora, sembra che qui il tempo sia molto più sereno.
+Qui ci devono essere delle luci a terra in vista.
+Ora prendo un po' di rotolo in più.
+Molto bene. Ho cercato un po' in giro per questo. Ok, ora manterrò fermo il beccheggio. Manterrò fermo l'imbardata. Arresterò il rollio. E mi dispiace di non vedere il tuo flare. Inizierò a beccheggiare.
+Ci restano 10 secondi di razzo e Cape Cod richiede la temperatura della tua tuta.
+Ripeti.
+Richiedi la temperatura di ingresso della tuta e la temperatura della cupola.
+Roger, la temperatura della mia tuta è di 78 (gradi), la temperatura della mia cupola è di 82 (gradi).
+Sigma Seven, qui Woomera Cap Com. La tua trasmissione non è stata ricevuta.
+Roger, la temperatura della mia tuta è di 78 (gradi).
+Qual è la temperatura della tua tuta e della tua cupola?
+Questa è Sigma Seven. Lo ripeto. La temperatura di ingresso della mia tuta è di 25°C. La temperatura della mia tuta è di 28°C.
+Bene. Ce l'abbiamo fatta.
+Ricevuto. Aumenterò l'impostazione a 7 sul controllo del liquido di raffreddamento della tuta. Ora sono in modalità automatica, i giroscopi sono normali.
+Impostazione della tuta a 7.
+L'impostazione della valvola del liquido di raffreddamento della tuta è 7. Corretto.
+Qui gli scanner e gli atteggiamenti concordano.
+Ricevuto. Sono in modalità orbita e sto procedendo molto bene.
+Roger. Ce l'avevamo. Correzione, l'abbiamo recuperato.
+Roger. Abbasserò l'impostazione della cabina. È ancora un po' freddo.
+Roger.
+Imposterò la cabina al livello numero 3.
+Ricevuto. Numero 3 per la cabina.
+Ho appena impostato MARK,T al numero 3 e la tuta è al numero 7.
+Roger. E Woomera ha avuto. Siamo al fianco di HF.
+Roger. Vedo sicuramente un po' di bianco sotto il cielo coperto, e sono sicuro che dev'essere una delle tue città principali, forse Brisbane. Non ne sono sicuro.
+Tutto quello che abbiamo ottenuto da quella trasmissione è stato "sotto il cielo coperto".
+Sembra una città sotto le nuvole. Non ne sono sicuro. Più o meno, proprio al centro della finestra in questo momento.
+Sigma Seven, Woomera ha letto la tua ultima trasmissione.
+Questo è Sigma Seven. Vado in fly-by-wire basso e sposto il pitch fino all'assetto di rientro. Seleziono il rientro nella selezione dell'assetto.
+Ora sono in assetto di rientro. Pronto a passare alla modalità automatica. Il fly-by-wire segue i movimenti in modo impeccabile, proprio come nel simulatore. Risultati molto positivi dall'utilizzo del simulatore di procedure. Non c'è dubbio, il tempo passa piuttosto velocemente. Torno in modalità automatica. Ho ricevuto il segnale di pitch down, solo un leggero ribasso di spinta, e tutto sembra andare bene. Probabilmente si è trattato di un piccolo errore nella lettura corretta. Credo di aver centrato il punto su tutti e tre gli assi. La logica della capsula funziona benissimo e segue il volo in modo impeccabile durante il rientro.
+Controllo il mio tempo: 1 più 06 più 50 secondi quando sono entrato in assetto di rientro. Le stelle sono molto facili da vedere. Ne vedo parecchie, ma sono disturbato da una notevole quantità di luce rossa. Ora dedicherò un po' di attenzione al circuito della tuta per un minuto circa. Poi mi preparo a tornare in assetto di rientro per Canton.
+Con questa posizione si ha sicuramente l'illusione di guardare in alto, e se non c'è orizzonte, è solo un cielo nero. La quantità di luce nella cabina di pilotaggio è piuttosto elevata. Una volta che ci si è adattati, può essere ridotta, ovviamente, dalla luce della cabina. A questo punto, sono un po' riluttante a ridurre il livello di luce qui dentro, a causa del problema con il circuito della tuta. Sto usando liberamente le mie luci a portata di dita. Si è osservato che nei voli futuri dovremo avere un dispositivo di raccolta in cui poter infilare oggetti e tenerli intrappolati lì per un certo periodo di tempo. Sto insistendo sul problema della rondella e del piccolo pezzo di metallo piegato. Credo di essere finalmente riuscito a infilarli nella piccola borsa sul portello. La temperatura della tuta si mantiene da sola. Ho caldo e probabilmente dovrò abbassare l'impostazione. Sono sicuro di non capire perché il circuito della tuta ci metta così tanto a reagire. Il mio circuito di cabina funziona benissimo. Tornerò al fly-by-wire basso; selezionerò il retroassetto; e volare verso il retroatteggiamento.
+Sigma Seven, Sigma Seven, qui è Canton Com Tech. Mi senti? Passo.
+Canton, qui Sigma Seven. Ti ricevo. In questo momento, sono in modalità fly-by-wire, in fase di retroattività. Fine.
+Canton Cap Com, Canton Cap Com. Sigma Seven.
+Sigma Seven, Sigma Seven, qui è Canton Com Tech. Mi senti? Passo.
+Canton Com Tech, qui Sigma Seven. Ti sento forte e chiaro. Come mai?
+Sigma Seven, qui Canton Com Tech. Mi ricevi?
+Canton Com Tech, Sigma Seven. Vi leggo forte e chiaro.
+Sigma Seven, Sigma Seven, qui è Canton Com Tech. Mi senti? Passo.
+Canton Com Tech, qui Sigma Seven. Vi ricevo forte e chiaro. Come faccio?
+Canton Com Tech, Canton Com Tech. Sigma Seven. Forte e chiaro. Come va? Passo.
+Sigma Seven. Questa è la Hawaii Cap Com.
+Qui è Sigma Seven. Avanti.
+Sigma Seven, qui Canton Cap Com. Fine.
+Canton Cap Com, qui Sigma Seven. Come mi senti? Passo.
+Canton Com Tech, Canton Com Tech, qui Sigma Seven. UHF-hi. Passo.
+Sigma Seven, qui Canton Com Tech. Mi senti? Passo.
+Canton Com Tech, qui Sigma Seven. Sono in UHF-hi. Come si legge? Passo.
+Canton Com Tech, Canton Com Tech. Sigma Seven. Finito.
+Sigma Seven, qui Canton Com Tech. Vi leggo 3 alla volta. Passo.
+Ricevuto. Rapporto sullo stato. Ti ho inviato un campione di sangue. Tutti i sistemi sono verdi, tranne il circuito della tuta, su cui sto lavorando attentamente. Sono in retroattività; giroscopi normali; manovra disattivata. Sto lavorando sul circuito della tuta. Sono ancora in posizione numero 7. Passo.
+Sigma Seven. Ripeto, ho il tuo stato verde; retro; i gyros sono normali; fermo a 7. Ripeti tutti gli altri.
+Ricevuto. Sto tenendo la valvola del refrigerante della tuta, George, al numero 7. Passo.
+Ripeti. Tenere la causa a cosa e cosa?
+La valvola del liquido di raffreddamento è impostata sul numero 7. La valvola di controllo del liquido di raffreddamento per il circuito della tuta.
+Roger, Sigma Seven. Potresti darmi di nuovo il tuo rapporto standard? Passo. Qui Canton Cap Com.
+Roger, Canton. Hai letto che ero in modalità retro? Hai letto che avevo la manovra disattivata? Hai letto che i miei giroscopi erano normali? Vorrei discutere del circuito della tuta. Tutto il resto è verde.
+Roger, Sigma Seven. Forza.
+Ho impostato la valvola di controllo della tuta al numero 7. La temperatura della cupola della tuta è di 82 gradi. L'ingresso della tuta è di 78 gradi. Hai capito?
+Roger, Sigma Seven. Capisco.
+Al momento sto aumentando l'impostazione della mia tuta a 7,5. Finito.
+Roger, Sigma Seven. Capisco come aumentare il valore del seme a 7,5. Over.
+La risposta è affermativa.
+Sigma Seven. Ti chiedo di premere il pulsante di arresto della pressione sanguigna. Passo.
+L'ho fatto. Solo che non sono riuscito a farlo bene. Questo ha ripulito la traccia? Passo.
+Ripeti. Passo.
+Il tuo elettrocardiogramma è a posto adesso?
+Roger, Sigma Seven.
+Sigma Seven. Come ti senti adesso? Hai caldo?
+Non un caldo fastidioso, ma solo un po' caldo. Cercherò di non bere acqua finché non avrò ripreso il controllo del circuito della tuta. Se non ci riuscirò subito, berrò un po' d'acqua.
+Roger, Sigma Seven.
+Canton Cap Com. Sigma Seven. Oltre.
+Ragazzi, questo sì che è un lavoro da lottatori con questo idiota.
+Preferirei non entrare nemmeno nei dettagli. Finalmente ho tirato fuori un dosimetro, e dovrò metterlo sul portello, ed è... fammi notare, aspetta un attimo, non riesco nemmeno a vedere niente sopra.
+Sigma Seven, Sigma Seven. Hawaii Cap Com. Chiamata HF.
+Qui è Sigma Seven. Sigma Seven su UHF-hi. Qualcuno mi legge? Passo.
+Sigma Seven, Sigma Seven. Hawaii Cap Com su HF.
+Disattivare VOX.
+Qui Sigma Seven su HF. Hawaii. Mi senti? Passo.
+Ricevuto. Sigma Seven.....
+Hawaii. Stai arrivando distrutto. Non riesco a sentirti. Al momento sto gestendo l'HF. Passo.
+C'è Giove.
+Guaymas Cap Com, Guaymas Cap Com, qui è Sigma Seven. In HF. Mi sentite? Passo.
+Ciao, Guaymas Cap Com, Guaymas Cap Com. Sigma Sette. HF. Sopra.
+Ora inizio a vedere l'alba nel periscopio. La prima luce nel periscopio durante questa particolare orbita è dovuta al lato notturno. È ovvio che il periscopio non ha alcuna funzione in retroattività sul lato notturno. La prima luce che vedo è proprio ora a un'altezza di circa 100 cm. L'alba sta arrivando piuttosto rapidamente attraverso il periscopio. Ho gli oggetti illuminati che John ha menzionato, e posso crearne alcuni staccandoli. Ho decisamente la sensazione che siano un campo e che le loro dimensioni varino da piccole a luminose. Il periscopio stesso mi sta accecando. Dovrò appoggiarci la mappa, così potrò vedere fuori dal finestrino. Sono in condizioni di retroattività in qualsiasi momento, quindi non ho altro da fare che guardare fuori da questo finestrino. Supponendo che il circuito della tuta sia soddisfacente. Quella mappa è di grande aiuto per nascondere quel maledetto periscopio. Un campo piuttosto ampio di questi oggetti. È definitivamente confermato che è possibile staccarli dal portello, come ha detto Scotty. E si allontanano, non c'è sicuramente alcun problema nel giudicare che si stiano allontanando dalla capsula, a una velocità diversa dalla tua. Stanno decisamente andando più lentamente, in velocità, della capsula stessa. Un colpo, e puoi vederli scivolare indietro. Sono un oggetto troppo piccolo per essere fotografato. Non proverei nemmeno a fotografarli. La retroattività è tenuta molto bene dal. Dovrei essere in grado di raggiungere Guaymas ormai.
+Guaymas Com Tech su HF/UHF. Mi capisci? Passo.
+Guaymas Cap Com, Guaymas Cap Com, questa è Sigma Seven. Fine.
+Guaymas Cap Com, ti leggo 3 alla 3. Dimmi brevemente come ti senti, Wally, e le temperature della tuta, della cupola e dell'ingresso, per favore.
+Bene, Scott. Mi sento bene. Sono sicuro che stiamo entrando in questo circuito della tuta. La temperatura della cupola ora sta tenendo. È di circa 81 gradi. Sto apportando una modifica. La temperatura di ingresso della tuta è di circa 78 gradi. Credo che un'altra regolazione dei comandi risolverà il problema.
+Roger. Ripeti la temperatura di ingresso della tua tuta, per favore, e qual è l'impostazione dei controlli?
+Ricevuto. L'ingresso della tuta è a 25-25 gradi. La valvola di controllo del circuito è impostata esattamente a 7,5.
+Roger.
+Scott, credo che siamo in ottima forma per almeno un'altra orbita, e vedremo come possiamo hackerare questo circuito della tuta.
+Capito, Wally. Ci proviamo. Sei pronto a copiare (aree di recupero) 3-1 e 6-1 volte?
+Ricevuto. Pronto.
+Va bene, Scott.
+Ricevuto. 3-1 è.
+Oh, torniamo a 20 adesso.
+Roger.
+Va bene.
+6-1 è. Rileggili entrambi e fammi un resoconto standard, per favore.
+Va bene. Okay. 3-1 è. 6-1 è.
+Giusto. Il rapporto, per favore.
+Ok, aspetta. Ripongo questa matita. Sono in configurazione scimpanzé. La capsula vola splendidamente. Tutti i propulsori funzionano bene. L'interruttore del giroscopio è normale. L'interruttore di manovra è spento. Tutti i sistemi sono verdi su verde; e in questo momento sto monitorando la temperatura della cupola sul circuito della tuta.
+Ok, Wally, dammi la cupola della tua cabina e la temperatura della cabina. E anche le impostazioni del controllo del flusso nella cabina.
+Ok. La temperatura in cabina è di 100 gradi, quella nella cupola di 40 gradi; lo scambiatore di calore in cabina è di 42 gradi; l'impostazione in cabina è 3 e rimane stabile per un lungo periodo di tempo. Preferirei non modificarla.
+Bene. E ora carburante e ossigeno, per favore.
+Ok. Vuoi il numero?
+Roger.
+Bene. I numeri sul carburante sono 100 (percento) per l'auto, 95 (percento) per il manuale, l'ossigeno è 62 primario, 72 (psi, in centinaia) secondario.
+Roger. E al mio segnale il tempo trascorso a terra sarà. Pronti. MARK.T.
+Sono esattamente 1 secondo più lento. Correzione: sono 1 secondo più veloce.
+Roger. Capito. Un secondo veloce e sembra che tu sia pronto per un altro, Wally.
+Okay. E ho visto alcuni amici di John quassù; mi dispiace dirlo, anche se li ho fatti fuori come hai fatto tu. Ah! Ah!
+Roger. Sono interessato al tuo rapporto.
+Immagino che anche John ascolti qualcosa del genere?
+Roger.
+In pratica, quello che ho visto era il colore della lucciola che aveva visto John, che in altri momenti avrei potuto riprodurre come bianco. Sono assolutamente convinto che si tratti di una capsula, un derivato della capsula, e ogni tanto, anche adesso, ne vedo passare una.
+Roger. Mi fa piacere sentirlo.
+Con il reticolo di imbardata in modalità "Yaw" riesco a controllare molto bene l'imbardata. Non ho avuto alcun problema.
+Wally, le particelle sono luminose o riflettenti?
+Scott, credo che stiano riflettendo. Ora vado avanti, Scott, e faccio un controllo dell'imbardata, a patto che ci sia un buon terreno da osservare, e lascio perdere le particelle per un po'.
+Ok. Stiamo per... perdere. Al momento le temperature sono circa 0, 0 e (-) 34 (gradi).
+Ricevuto. Capisco.
+Qui Sigma Seven. Sto iniziando i controlli diurni di imbardata. Sono Guaymas. Mi senti? Passo. Qui Sigma Seven. A questo punto vi invierò la pressione sanguigna.
+Sigma Seven, Guaymas Cap Com. Ti leggo su HF.
+Roger. Questa volta avrò un approccio fly-by-wire.
+Roger. Ora sei forte e chiaro sull'HF, Wally.
+Roger, Scott.
+Ho mosso troppo il braccio sinistro nell'ultima trasmissione. Ne darò un'altra più tardi.
+Roger.
+Sigma Seven, Cape Cap Com. Come leggi?
+Ciao Deke, ti ho sentito forte e chiaro. Come mai?
+Te la stai cavando abbastanza bene.
+Questo reticolo funziona molto bene per l'imbardata, così come per quasi tutti gli altri assetti.
+Sigma Seven, Sigma Seven, qui è Cape Cap Com.
+Forza, Capo.
+Cape Cap Com, avanti. Cape Cap Com, qui Sigma Seven. Ti sento forte e chiaro. Come faccio?
+Sigma Seven, Sigma Seven, Cape Cap Com.
+Qui Sigma Seven. Forza, Cape, ti sento forte e chiaro.
+Arriverai tra circa 3 minuti.
+Va bene.
+Sto bene. Pronto, torno indietro. Deve trattenermi (ritardarmi). La capsula... vorrei risolvere questo problema che ovviamente hai riscontrato sul circuito della tuta. Ho avuto pochissima fortuna nell'abbassarla. Aumenterò l'impostazione a 8 in questo momento. Sono a 8 ora - la cupola della tuta ora è a circa 81 (gradi). È scesa di circa un grado. Hai capito?
+Capisco che la cupola della tuta è di 81 (gradi).
+Esatto. La cupola della tuta è a 81 gradi. L'ingresso della tuta è a circa 76 gradi. Ci sto lavorando un po'.
+Sembra promettente.
+Sì, credo di sì. Non volevo affrettarmi e non mi sono scaldato troppo. So che sei preoccupato. Preferisco trovare l'impostazione giusta piuttosto che perdere tempo a cercare avanti e indietro.
+Roger.
+Ora tutti i sistemi funzionano benissimo. Vorrei darvi un'occhiata ai sistemi di controllo. Il mio fly-by-wire è eccellente. Il manuale era un po' lento, ma molto buono. La capsula in questo momento è in modalità automatica, manovra disattivata, giroscopi normali. Il Ts+5 ha funzionato molto bene. Il carburante regge, come potete vedere, così come l'ossigeno.
+Okay, sembra una buona idea.
+Bene. Ora continuerò con i miei controlli di imbardata diurna.
+La prossima trasmissione sarà in modalità vocale di emergenza.
+Roger.
+Sigma Seven, Cape Cap Com, trasmette voce di emergenza. Passo.
+Roger. Ti ho sentito forte e chiaro. Ti mando un altro... (pressione sanguigna), perché con l'ultimo mi sono spostato troppo.
+Roger.
+Sette, Cap Com.
+Forza, Deke.
+La tua (area di recupero di emergenza)2 Bravo retro.
+Aspetta finché non finisco il mio sangue. Ok, ho finito. Ok, vai avanti con i tuoi 2 Bravo.
+2 Bravo,.
+48 32. È corretto?
+32 Roger. Capito, 2 Bravo.
+Se non l'hai fatto di recente, ti consigliamo di bere un po' d'acqua.
+No, non l'ho fatto. Ho cercato di non aprire la visiera. Voglio far ripartire il circuito. Credo che potremmo avere la possibilità di fare una rapida occhiata. Mi preparerò per una.
+Okay. Se stai leggendo questo, vorrei chiarirti una cosa.
+Va bene.
+Avete indicato un'azione di propulsione ad alta intensità a Bermuda e Muchea durante il passaggio dal fly-by-wire al fly-by-wire. Questo vi è sembrato evidente?
+Negativo. Non lo è stato. Mi è capitato un caso in cui sono entrato in assetto di rientro dopo - correzione, prima - Canton, ma questo era per controllare le stelle di notte dopo Woomera. E ho avuto un sussulto, che credo fosse dovuto a un'eccessiva spinta propulsiva.
+Altrimenti, si è comportato magnificamente nel passaggio da una modalità di controllo all'altra.
+La tua trasmissione è piuttosto scarsa, proviamo una volta con la UHF.
+Ok. Standby, VOX spento.
+Seven, Cap Com, UHF. Come leggi?
+Deke. Ti sento forte e chiaro. Come mai?
+Come stai leggendo adesso?
+Ti ho capito bene. Ho appena bevuto un po' d'acqua e mi sento piuttosto bene.
+Roger, forte e chiaro.
+Ripeti.
+Sembra più leggibile su UHF.
+Ok. Lo useremo intorno al pad.
+Se sei interessato, ho alcuni dati di avvistamento di Echo per te.
+Sì, mi piacerebbe saperlo.
+Nella seconda orbita su Zanzibar, ore 15:23 Zulu. L'azimut dovrebbe essere 2,30 (gradi), l'elevazione 83,25 (gradi).
+Roger, vediamo se riusciamo a dargli un'occhiata.
+Ti consigliamo di abbassare la valvola della tuta in posizione 3 e di osservare la temperatura della cupola per 15 minuti. Se questo non risolve il problema, torna alla posizione 7.
+Deke, finalmente ho capito come funziona. Inizio a sentire un po' più fresco. E la temperatura di ingresso della tuta è scesa a 25°C. Passo.
+Roger, ho capito che preferiresti mantenere lo status quo, è corretto?
+No, mi sono avvicinato furtivamente a questa cosa per quasi un'intera orbita.
+Roger.
+Capisci?
+Roger.
+Cape Cap Com, Sigma Seven.
+Andare avanti.
+Sento davvero che sto diventando più fresco. La temperatura all'ingresso della tuta è ora sui 24-25 gradi, quindi sto facendo progressi. Passo.
+Roger, hai capito. Stai ottenendo un leggero calo.
+La risposta è affermativa. Preferirei non rinunciare alle impostazioni che ho impostato finora.
+Roger, capisci. Preferiresti che la situazione si stabilizzasse ancora per un po'.
+Bene. Ora tornerò a controllare di nuovo l'imbardata.
+Andiamo verso il fly-by-wire low.
+Fly-by-wire basso.
+Roger.
+Sigma Seven, Cap Com.
+Forza, Deke.
+Le Bermuda mostrano ancora una volta un'elevata azione dei propulsori nel passaggio al fly-by-wire.
+Sono sicuro di non capirlo, perché se... stessi saltando dappertutto... salterei dappertutto nel cielo se avessi delle alte temperature a questo punto. Non ho usato più di, oh, mezzo grado al secondo.
+Sigma Seven, Cap Com.
+Forza Deke.
+Avanti Cape Cap Com.
+Roger, stai perdendo terreno. Siamo quasi a... Flight preferirebbe comunque che tu prendessi in considerazione la posizione 3, dopo aver valutato la posizione 8 ancora per un po'.
+Ricevuto. Capisco.
+Roger. Ora sto entrando in assetto. Pronto per 0 gradi di imbardata, beccheggio e rollio. Questo sarà -.
+L'imbardata è ora circa 0 in questo momento - MARK. T. Guarderò - circa 4 gradi a sinistra. Correggo il beccheggio, l'imbardata è a posto, tornerò a raddrizzare i giroscopi, i giroscopi sono normali in questo momento. Mi sto impostando sul circuito stretto.
+Le tariffe sono quasi perfette, l'assetto è perfetto, stiamo passando al fly-by-wire, i giroscopi sono normali. A circa, siamo tornati alla configurazione a scimpanzé. Capisco che sarò alle Bermuda; la prossima stazione è alle Canarie. A questo punto la temperatura della tuta è scesa a 24°C, la cupola è ancora alta.
+Sulla scala Roentgen da 0 a 50, non c'è praticamente alcuna lettura.
+Sigma Seven, qui Canary Com Tech, trasmissione UHF/HF. Mi senti? Passo.
+Salve, Canary Com Tech, sono Sigma Seven. Ti sento forte e chiaro. Come faccio? Passo.
+Roger, Sigma Seven, qui Canary Cap Com, vi ricevo forte e chiaro. Vorremmo avere qualche misurazione della temperatura. Tuta da cabina, cupola da cabina e cupola da tuta. Passo.
+Ok, ti ​​do un dato. La temperatura della tuta è 80, la temperatura di ingresso della tuta è 75 (gradi), la temperatura della cabina è 41 (gradi), la temperatura della cabina è 97 (gradi), l'impostazione del refrigerante della tuta è 8, la cabina è 3. Ti seguo....
+Ritieni che queste impostazioni ti garantiscano un raffreddamento adeguato.
+Seguirò il suggerimento di Flight e ridurrò l'impostazione all'unità 3 per qualche minuto, per poi riprovare a 7 se non funziona. Passo.
+Ricevuto. Ho ricevuto.
+Ora imposterò il numero 3 sul controllo della temperatura della tuta.
+Roger.
+A.
+Roger. Qual è la tua attuale modalità di controllo?
+Ci sono. Ho completato i controlli di imbardata con la finestra, ora proverò a farne alcuni con il periscopio.
+Roger.
+Passaggio al fly-by-wire a bassa velocità, senza giroscopi.
+Vedo chiaramente un andamento di imbardata nella finestra, nel periscopio, nel reticolo. La finestra stessa è soddisfacente a (-) 34 gradi, ho coperto il giroscopio e ora sto tornando a sinistra per rimuovere l'imbardata.
+Roger. Quanto hai dovuto tornare indietro in imbardata?
+Non ci sono ancora arrivato. Direi tra i 25 e i 30 gradi, e a questo punto fermo l'imbardata. Il periscopio controlla la finestra e il reticolo e tra poco darò un segno per cercare di fermare tutte le rate. Ora sono quasi in retroassetto e l'imbardata sembra davvero pulita. Mi fermo e guardo. C'è circa 1 grado di imbardata, a destra - MARK.T. Ok, sono soddisfatto di quel tipo di controllo dell'imbardata diurna. L'ho fatto in retroassetto. Avevo un ottimo strato di nubi, quello era il segnale.
+Roger. Cosa pensi dei sistemi attuali?
+Tutti i sistemi sono verdi, tranne il raffreddamento della tuta, e lo è sicuramente: la temperatura della cupola sta salendo in questo momento. Tornerò per un po' e creerò una rete.
+Roger.
+Non ci andrò. Ah, a proposito, che ne dici di dare un'occhiata ai miei propulsori ad alta potenza? Hai visto qualche propulsore ad alta potenza in azione?
+Stand-by.
+Non avrei dovuto averne affatto.
+Wally, sei già passato a?
+Negativo. Non ho cambiato.
+Fallo ora.
+Ripeti.
+Vai avanti e cambia.
+Vado - ho avuto finora qualche azione di spinta elevata?
+Negativo.
+Ok, va bene. Sono ancora in modalità fly-by-wire low, standby switching ora, flop. Sto andando -.
+Ripeti.
+Niente propulsori potenti.
+Ok, ottimo affare, gyros nella norma.
+Roger, la risposta è affermativa.
+Ho completato i miei controlli di imbardata diurni. Sono molto soddisfatto della tecnica di gestione del rollio, poiché...
+Sigma Seven, Sigma Seven, questa è... Hai letto? Passo.
+Questa è la Sigma Seven. Ho dovuto rinunciare a questa temperatura più bassa. Sta salendo tutto.
+Ok, lo riferirò al Capo.
+Ora mi metto a contare....
+Sigma Seven, qui Kano Com Tech, trasmissione in UHF/HF, mi ricevi?
+Roger, Kano. Vi sento forte e chiaro. Come me?
+... ti leggo qui. Segnala... numero di impostazione.
+Ok. L'ho riportato a 7,5.
+Ricevuto. Ho copiato 7.5.
+La cupola della tuta raggiunse gli 82 gradi.
+Sigma Seven, qui Kano Com Tech, trasmissione in UHF/HF. Mi senti? Passo.
+Potreste leggermi, Canarini?
+Ciao Kano, ciao Kano.
+Sigma Seven Sigma Seven, qui Kano Com Tech, trasmissione in UHF/HF. Mi senti? Passo.
+Kano, ti ho sentito forte e chiaro. Come faccio? Passo.
+Sigma Seven Sigma Seven, qui Kano Com Tech, trasmissione in UHF/HF. Mi senti? Passo.
+Kano, qui Sigma Seven. Ti ricevo forte e chiaro. Come faccio? Passo.
+Roger, Seven, vi sento deboli ma leggibili. Restate in attesa su questa frequenza per....
+Va bene.
+Sigma Seven,... come leggi?
+Ti ho sentito forte e chiaro. Mi chiedo se Canary abbia la mia ultima indicazione sul sistema della tuta. Ho 82 gradi sulla cupola e sono tornato a un'impostazione di 7,5 sulla valvola del refrigerante. Passo.
+Sigma Seven, Kano Cap Com.
+Forza, Kano.
+Kano Cap Com, Sigma Seven, avanti.
+Ciao, ciao Kano Cap Com, Sigma Seven. Passo.
+Kano, Cap Com, qui Sigma Seven. Forza.
+Sigma Seven, Kano Cap Com....
+Kano Cap Com, qui Sigma Seven, avanti.
+Sigma Seven, non ti leggiamo.
+Ricevuto, Kano. Qui Sigma Seven. Vi sento forte e chiaro. Sigma Seven passa all'HF.
+Sigma Seven, Kano Cap Com.
+Kano, qui Sigma Seven. Passo.
+Ciao, Kano Cap Com. Sigma Seven. Passo.
+Roger, Sigma Seven. Non ho letto le tue trasmissioni. Passo.
+Roger. A questo punto ho dovuto passare all'HF e ora sono in VOX. HF. Come si legge?
+Negativo, Sette. Lo ripeteresti?
+Sono in VOX, esatto, sto per parlare in HF. Mi senti ora?
+Roger. Ora ti capisco meglio.
+Ok. Vuoi qualcosa da indossare?
+Roger. Come va il tuo vestito?
+Ok. Ho già misurato la temperatura della cupola. È salita a circa 82 gradi. L'ho riportata a 81 gradi. L'ingresso della tuta è salito a 80 gradi. L'ho riportata a 78. Sono tornato all'impostazione di quasi 7,5 sul selettore della tuta. Ora vado all'impostazione numero 8.
+Capito. Stai per arrivare al numero 8 nell'impostazione del seme.
+Esatto.
+Ripeteresti la temperatura della tua tuta.
+La temperatura della tuta in questo momento sta scendendo lentamente. Ora è di 24°C.
+Stai salendo?
+Negativo. Sta calando, si sta abbassando.
+Qual è la temperatura della tua cupola?
+Sta scendendo. Ora è 81, 81
+Roger, ho ricevuto.
+Ok, credo che siamo riusciti a bloccarlo aumentando le impostazioni.
+Ripeti. Hai fatto confusione.
+Penso che la situazione sia sotto controllo.
+Ora sono dentro, giroscopi normali, manovra disattivata, tutti i sistemi verdi. Sono verde.
+Ricevuto. Capito. Auto retrò.
+La risposta è affermativa.
+La nostra telemetria mostra un assetto di beccheggio di 25 gradi negativi e il nostro scanner mostra 36 gradi negativi.
+Roger, il tuo scanner ha ragione. Indico 36 (gradi) negativi, quindi non corrisponde alla finestra.
+Sigma Sette.
+Avanti. Avanti.
+Standby per un (area di recupero di emergenza) 2 Charlie retro time,
+Sigma Seven. Kano Cap Com.
+Forza, sono pronto a copiare.
+Sigma Seven, mi capisci?
+Leggo. Vai avanti, Kano.
+Sigma Sette.
+Kano, qui Sigma Seven. Avanti.
+Questa Kano Cap Com trasmette alla cieca, Sigma Seven. 2 Charlie è il momento.
+Questa è la Sigma Seven. Roger, per 2 Charlie.
+Sigma Seven, entra, per favore.
+Qui Sigma Seven. Vi sento forte e chiaro. Come mai?
+Ora ti leggo. Hai capito il mio momento di 2 Charlie?
+Roger..
+Me lo diresti.
+Roger..
+Quello è Roger.
+Com'è la temperatura della tua tuta adesso, Seven?
+Ora la temperatura scende a circa 76 gradi e la cupola è a 80 gradi. Stiamo andando nella giusta direzione.
+La temperatura della cabina è stabile?
+La temperatura della cabina è sotto controllo. È di 95 gradi. 95.
+Roger.
+Come ti senti?
+Ora mi sento molto a mio agio. Finalmente mi sto calmando.
+Molto bene.
+Al momento utilizzerò la modalità proporzionale manuale.
+Hai intenzione di spegnere?
+Negativo, questo è proporzionale manuale.
+Roger, capisci.
+, Sette.
+Roger.
+Sette, mi leggi?
+Sono Sigma Seven, ti leggo ancora.
+Ti ho capito molto bene, Wally.
+Roger.
+I gyros sono gratuiti.
+Sigma Seven Sigma Seven Zanzibar Com Tech trasmette in HF/UHF. Come si legge? Passo.
+Sigma Seven in HF. Ti ricevo forte e chiaro. Come faccio?
+Zanzibar, Sigma Seven. Fine.
+Sigma Seven, Sigma Seven, qui è Zanzibar. Non riesco a leggere il tuo segnale. Cosa stai trasmettendo, per favore?
+Sigma Seven su HF.
+Sigma Seven Sigma Seven, qui è Zanzibar Cap Com. Mi leggi? Passo.
+Sigma Seven Sigma Seven, qui è Zanzibar Cap Com. Mi leggi? Passo.
+Zanzibar, qui Sigma Seven. Vi sento forte e chiaro. Come faccio? Passo.
+Roger, non ti capisco. Non ti capisco. Molto, molto debole. Puoi riferirmi ora le impostazioni di controllo della tuta? Come ti senti?
+Questa è Sigma Seven. Mi sento benissimo e finalmente ho messo fine al controllo della tuta.
+Questa è la Sigma Seven. Ho avuto un piccolo caso di doppia autorità qui. Mi sono stufato molto del proporzionale manuale durante la fase di drifting e ho dimenticato di mettere l'interruttore del comando di velocità su automatico... è circa un colpo di beccheggio.
+Zanzibar, qui è Sigma Seven. Passo.
+Zanzibar Cap Com, Sigma Seven. Fine.
+Zanzibar Cap Com, Sigma Seven. Fine.
+Sigma Seven, qui è Zanzibar. Passo.
+Sigma Seven Sigma Seven, questa è Zanzibar. Fine.
+Zanzibar Cap Com, Sigma Seven su UHF. Fine.
+Nave dell'Oceano Indiano, Nave dell'Oceano Indiano, Sigma Seven. Fine.
+Nave dell'Oceano Indiano, Nave dell'Oceano Indiano, Sigma Seven su UHF-hi. Passo.
+Nave dell'Oceano Indiano, Nave dell'Oceano Indiano. Sigma Seven. Fine.
+Sigma Sette.
+Nave dell'Oceano Indiano, Nave dell'Oceano Indiano. Qui è Sigma Seven. Ti leggo. Come mi leggi? Passo.
+Ti leggo ora. Hai qualcosa in questo momento? Passo.
+Roger, ho buone notizie. La temperatura della cupola della tuta è ora di 21 gradi. Anche la temperatura dell'ingresso della tuta è ora di 21 gradi. Passo.
+Sigma Seven Sigma Seven. Il chirurgo vuole sapere se senti particolarmente caldo.
+No, mi sento molto a mio agio. Hai letto cosa ho scritto sulla temperatura della tuta?
+Roger, capisci.
+Sigma Seven, qui Cap Com, in attesa. Passo.
+Roger. Voglio che tu legga le temperature che ti ho indicato sulla cupola della tuta e sulla presa d'aria della tuta. Passo.
+Roger, la temperatura della tuta è 70. La temperatura di ingresso della tuta è 70. Finito.
+Roger, la cupola ora è a circa 63 gradi e si mantiene abbastanza stabile. La monitorerò per evitare che scenda troppo.
+Roger, 63 (gradi), cupola, tenuta ferma. Passo.
+Roger, credo che abbiamo risolto il problema.
+Sigma Seven, ho circa 1 minuto per. Finito.
+Roger, qui va tutto bene. Grazie mille per avermi aspettato di nuovo.
+, questa è la Sigma Seven. Non so se te ne rendi conto, ma sono stato in modalità automatica retroattiva. Passo.
+Finalmente abbiamo risolto il problema della temperatura del circuito della tuta. Capisco perché Scott fosse preoccupato solo per questa posizione record. Non c'è nemmeno un tono laterale. La temperatura della tuta in questo momento è - MARK.T - di 68 gradi e mi sento benissimo. La cupola della tuta è di nuovo a circa 72 gradi. A quanto pare, fluttua, e stiamo entrando nel lato notturno in questo momento. Credo che il circuito della tuta sia sotto controllo. Tornerò al VOX push-to-talk. In attesa di Muchea a 25 (minuti). Devo guardare un tramonto.
+Il tramonto è piuttosto suggestivo, non credo di dover perdere molto tempo a guardarli. Sono molto interessanti. L'altra cosa affascinante è quanto sia buio quando gli occhi non sono abituati. Vedo sicuramente un po' di patina sul finestrino. Torno a VOX a questo punto in UHF-hi per trasmettere. Apro la visiera per pulire il microfono destro. L'ho leccato. Chiudo la visiera. La visiera è stata sigillata immediatamente per consentire al circuito della tuta di funzionare al mio posto. Non voglio rovinarmi di nuovo. L'ingresso della tuta si mantiene molto bene a circa 20 gradi. Quindi la cupola tornerà di nuovo su. Ora è a 23, 24 gradi. A quanto pare questa impostazione più alta è quella che vogliamo. Credo che aggiungerò un altro mezzo segno e potremmo averla agganciata. Finalmente si sta raffreddando un po', quindi so dove voglio arrivare con l'impostazione. Ho impostato la quantità di refrigerante per la tuta e la leva di comando a 8,5. La lettura della cupola in questo momento è di 75 gradi. L'ingresso della tuta è di 68 gradi. Molto piacevole. Sento aria fresca che mi attraversa il viso. La quantità di ossigeno sembra davvero buona, 60 e 75 psi, in centinaia. Ho tenuto d'occhio l'inverter da 250. Si sta avvicinando a 140 gradi, e quello da 150 è sceso a circa 100 gradi. Lo standby è di circa 100 gradi, che è la temperatura della cabina. Terzo, il 250 - quello sta soffrendo, e lo terrò d'occhio. Lo scambiatore di calore della cabina si sta sicuramente stabilizzando a 40 gradi, e mi sta dando del filo da torcere perché ovviamente devo 50 centesimi a Frank Samonski. Sono piacevolmente sorpreso. Anche il carburante in cabina è un po' alto. Vediamo, abbiamo 5,5 psi. La temperatura segna circa 5, correzione, 5,3, non è troppo alta per questa cabina. Sta diventando buio pesto, credo che a questo punto darò un'occhiata alle stelle. Il coperchio della batteria della torcia sul guanto sinistro si sta allentando. Solo dove - dove si trova l'interruttore - non c'è problema, è solo un caso di usura prima del previsto. Sto andando alla deriva, controllo il mio orologio da polso come riserva e ho la correzione, cioè controlla, giusto. Non stiamo male, meglio fare un controllo a Muchea durante questo viaggio.
+Andiamo al computer. L'orologio segna circa. Diremo. Dovremmo prendere Muchea, e anche fare un controllo dell'imbardata. Abbiamo 05:36 sull'altro set.
+Perth dovrebbe apparire nel campo visivo e dovrebbe essere... oh, che bel controllo di imbardata, ed è a circa 10 gradi a sinistra della traiettoria. Meglio farlo a circa 12 gradi a sinistra della traiettoria. Appena sul bordo della finestra, e questo dovrebbe darci 0 gradi di imbardata. Non riesco a vedere nulla attraverso il periscopio che mi possa aiutare. È troppo... è troppo nuvoloso. Sto uscendo con VOX 1, 2, 1, 2. VOX ora sta arrivando molto bene.
+Sigma Seven Sigma Seven, qui è Muchea Cap Com. Come si legge? Passo.
+Muchea, qui Sigma Seven. Ti sento forte e chiaro. Come faccio?
+Ti ho letto forte e chiaro, Wally. Che ne dici di un resoconto standard.
+Ok, Gene, ti spiego subito la questione della tuta, così tutti sono al sicuro. Abbiamo una cupola sulla tuta a 72 gradi, che è la temperatura della cupola (gradi). Ho un ingresso aria sulla tuta a 66 gradi e l'impostazione della tuta è 8, e sono molto soddisfatto del circuito della tuta in questo momento. Mi sento molto a mio agio.
+Roger. Cape afferma di essere molto soddisfatto dell'intera situazione al momento. In particolare, i sistemi ECS si sono risolti da soli e sembrano ritenere che tu abbia una buona gestione della situazione.
+Roger, ho perso la testa per un po' quando sono tornato all'impostazione 3, ma non ci sono rimasto a lungo. Dovrebbe essere sicuramente tra 7,5 e 8. A questo punto, sono in retroassetto automatico. A breve passerò al fly-by-wire. Ero stato in modalità giroscopio normale e la manovra era disattivata. Tutti i sistemi sono verdi. Ho interrotto circa il 2% del manuale (carburante) una volta colpendo. Era doppia autorità. Era il mio errore. Era solo un movimento di beccheggio verso il basso.
+Roger. Capisco e resto in attesa.
+Ok, vorrei procedere con il mio controllo notturno dell'imbardata in modalità fly-by-wire low.
+Roger. Restiamo in attesa.
+Ok. Ora sto usando la luna che è alla mia sinistra, ed è un'ottima soluzione. Ora vado avanti e copro l'indicatore di assetto e potete osservare l'imbardata. Ora svuoto i giroscopi, cercando di selezionare il fly-by-wire basso. Metterò prima la luna al centro della finestra, mantenendo rollio e beccheggio, e poi rimetterò la luna al suo posto. La luna si sta avvicinando al centro della finestra a questo punto. Ok, la fermo lì e inseriamo il controllo del rollio per bilanciarlo. Ok, a questo punto, otterrò 0 rollio. Ho sorpassato la luna e sto rilevando il pianeta Mercurio, che è bello luminoso, ed è un po' troppo a destra. Ora controlliamo e vediamo quanti gradi abbiamo qui in imbardata. Circa 20, il che è sufficiente per un controllo quantitativo. Ora la riportiamo indietro. E ogni volta che lo faccio devo procedere con un leggero movimento di rollio. Questo serve per seguire l'orizzonte in modo naturale.
+Ricevuto. Capisco.
+Ok, stiamo procedendo verso destra, come forse puoi vedere, e stiamo girando molto bene. Devo ancora correggere il rollio. Tra poco avrò un assetto di imbardata. Sono abbastanza soddisfatto dei controlli sia diurni che notturni. Sono davvero contento. Devo dire che è stato un vero piacere vedere questi orsi fluire in posizione.
+Roger, tutto è a posto, proprio come hai detto nelle indicazioni a terra, Wally.
+Ok, ora ti darò un segno sulla Luna come riferimento per l'imbardata. Direi che ora l'imbardata è zero. MARK.T.
+Bene. Avevamo -4 a terra. Non male.
+-4. Okay, controllo qui. Sembra giusto. Avrei potuto andare un po' più a destra. Okay, questo è più o meno tutto ciò di cui ho bisogno per i controlli notturni dell'imbardata e, per quanto mi riguarda, tornerò indietro e darò ai ragazzi un po' più di tempo. Non vedo alcun motivo di bruciare troppo carburante. Ora ti darò una di quelle cose per il tuo Sir John.
+Roger. Capisco. Ci sono alcune luci accese a... Riesci a vedere qualcosa?
+Sembra che ora la temperatura corporea sia ragionevole, Wal.
+Oh, molto bene. Warren, che piacere sentirti, vecchio mio.
+Anch'io. Come stai, Sand Groper?
+Oh, che sport! Mi sa che ci sarà della schiuma in arrivo.
+Potrei anche guardare giù e vedere se avete qualche luce accesa. Abbatterò la pressione.
+Shannon finisce il carburante,... non si impantana nella sabbia.
+Ah! Ah! Ho ancora i segni neri di sbandata sulle pinne dopo la tua fuga nella boscaglia. Okay, vedi che ho virato di nuovo a destra. Devo tornare - correzione, ho virato a sinistra. Devo tornare a destra, la luna è proprio all'orizzonte. La rimetto a destra, giusto per mostrarti quanto è facile da acquisire. Sembra che io stia ritardando il mio minimo di carburante, quindi andrò avanti e ci giocherò un po' qui. Okay, siamo quasi a posto in imbardata, e ancora fuori in rollio. La schiaffeggio e ce la faremo. Arriva il rollio per raddrizzarla. Arriva il rollio - okay, mi fermo lì. È il massimo che ti darò mai. Un po' fuori in rollio qui. Ecco fatto. Ora, questo è quello che ti darei. Okay, torno ai giroscopi normali e li lascio tornare sulla linea. Ora vado a configurare e a scoprire gli strumenti per le configurazioni degli scimpanzé. Accidenti, scusate, modalità automatica.
+Ricevuto. Capisco.
+Ho infranto la mia promessa.
+Ti avevamo dato un tiro di +5 (grado) quando hai scoperto.
+Giusto, è più o meno così. Oh! Ho delle luci laggiù. Che ne dici?
+Bene, siamo noi.
+Ottimo affare. Certo, grazie a tutti. Ho una rondella qui dentro. Ho preso una rondella e un pezzettino di metallo e questa sembra una specie di rondella conica, tipo quelle di Voishan o qualcosa del genere, meglio di no.
+Bene, puoi darci un'altra misurazione della pressione? Quella è stata interrotta un po' troppo presto.
+Ok, lasciami tornare alla configurazione. Lo farò ora. E lei è entrata senza propulsori potenti, credo. Puoi ricontrollarlo? E per questo, ti misurerò la pressione sanguigna.
+Roger.
+Immagino che dovrò controllare il Sanborn, per quello. A breve il BPMS. Gene, sono davvero soddisfatto della temperatura della tuta ora. Ho una temperatura stabile di 18°C. Anche se la cupola segna circa 21°C come valore stabile.
+Roger. 65 e cupola 70.
+Giusto. La cabina se ne sta lì, grassa, stupida e felice, non ho dovuto farci niente. Ora, hai tenuto d'occhio il mio inverter da 250?
+A terra ci sono 55 gradi.
+Qui ho 140 gradi. E la temperatura è aumentata molto lentamente. Non credo che cambierò le impostazioni della piastra fredda. I 150 gradi si mantengono intorno....
+Questa è Muchea: ti consiglio di andare a Woomera.
+Roger. Woomera Cap Com, Sigma Seven. Fine.
+Sigma Seven, Woomera Cap Com. Forte e chiaro. Passo.
+Roger. È bello essere di nuovo qui a Woomera.
+Anche qui. E....
+Sono un po'....
+... modalità.
+Va bene.
+... condizione.
+Roger. Sono in modalità automatica, ovvero in modalità normale. I giroscopi sono normali, le manovre sono disattivate, tutti i sistemi sono verdi. Sono davvero soddisfatto del circuito della tuta in questo momento.
+Roger. Abbiamo ricevuto i tuoi ultimi resoconti da Muchea. Si tratta di un'auto retrò?
+Questo è auto retrò. Potresti darmi un trucco per calcolare il tempo a 33 minuti? Finito. Ecco.
+Vuoi che ti venga fermata la pressione sanguigna?
+Roger. Mi senti?
+Affermativo, ti stiamo leggendo.
+Ho bisogno di un segno sul tempo trascorso dalla capsula. Il tuo tempo trascorso a terra, dammelo a 30 secondi.
+Roger.
+5, 4, 3, 2, 1. MARK.T
+Roger. Ho letto 31. Sono veloce di 1 secondo. Ottimo.
+La lettura del tempo trascorso sulla capsula a volte anticipa di 1 secondo e poi coincide con il nostro tempo, per poi guadagnare di nuovo un secondo.
+Benvenuti al Quiver Club.
+Roger.
+Ok, credo di averti dato un po' di buon sangue per questo. Grazie per lo scambio.
+Roger, quello era il pulsante di stop. Il pulsante di stop, lo stiamo ancora capendo.
+Ok, la fermerò.
+Roger.
+Cercherò di raccontarvi tutto.
+Grazie.
+Sei stato così gentile a chiedermelo. Dovevo dartelo.
+Intendevamo il pulsante di arresto.
+Oh, per l'amor del cielo, te ne ho dato uno completamente nuovo.
+Ah! Ah! Non si è mai fermato.
+Vedo.
+Ora sembra a posto.
+Ottimo spettacolo. Ok, sono soddisfatto delle condizioni del carburante. Abbiamo... leggo 95 (percento) automatico, 90 (percento) manuale. Cosa stai leggendo?
+Lettura 98 automatica e manuale 94.
+Bene, che ne dici.
+Bellissimo.
+Ok, Comandante della navicella spaziale, qui Woomera Systems. Avete previsto azioni con propulsori ad alta velocità durante l'ultimo sorvolo di Woomera e Muchea?
+Non credo, perché quella volta ti stavo sorvolando in modalità fly-by-wire a bassa velocità e... Ne ho avuto uno....
+Z Cal è saltato giù qui e ha indicato una spinta elevata. Pensiamo che fosse probabilmente un errore.
+Sono abbastanza sicuro di sì, perché me ne sarei accorto piuttosto rapidamente. Finora ho fatto un'unica grande applicazione di spinta durante il volo, passando dal controllo manuale proporzionale al fly-by-wire e ho dimenticato di spostare l'interruttore del comando di velocità su automatico. Avevo una funzione di beccheggio e lo sai benissimo. Quindi, se avessi avuto una propulsione potente, sono sicuro che me ne sarei accorto.
+Roger.
+Molto bene. Grazie per esserti preso cura di me.
+Qui sotto tutto sembra verde.
+Oh, è fantastico quassù.
+In attesa.
+Giusto. Vedo molti dei tuoi fulmini adesso.
+Sì, ne abbiamo un sacco.
+Scommetto di sì. Mi dispiace di non aver visto il tuo bagliore, pensavo di averlo visto, ma sono solo fulmini.
+Magari la prossima volta.
+Ok. Vedo l'Africa. Laggiù sembra piuttosto bella. Gli daremo un'occhiata. Non arrendetevi però, credo che il flare ci aiuterà un giorno.
+Lasciamo che sia Gordo a dargli un'occhiata.
+Bene. Ora osserverò un po' le stelle.
+Woomera ha.
+Roger, Woomera.
+Sigma Seven, Woomera.
+Forza, Woomera.
+C'è il vecchio Corona Australis, che si presenta magnificamente, e abbiamo Nunki. Abbiamo Kaus Australis, e Nunki è proprio sulla traiettoria di volo giusta. Leggo 0 imbardata, 5 gradi di rollio a sinistra, in retroassetto. Mi piacerebbe proprio sapere perché è così complicato. E sopra quei ragazzi dovrei prendere un altro brillante. Deve essere, deve essere Altair. Molto bene. Si ha davvero la sensazione di non sorvolare l'Australia con questo volo. Okay. Ora vediamo, abbiamo finito il controllo dell'imbardata per quei ragazzi, in arrivo su Canton. Questa volta hanno più di quanto previsto.
+Esatto, in HF a 3 più 20, tutto il resto è a posto. Date un'altra occhiata a quella cupola laggiù. La temperatura della tuta è di 64 gradi e sono davvero felice.
+Tr-10 torna alla normalità. L'ho già fatto prima. Ok, abbiamo... la pressione della tuta. Dai un'altra occhiata agli inverter qui. 250 è 141 (gradi), 150 è circa 107 (gradi). Abbastanza bene da solo. Lo standby è... 7. Quasi ambiente. Negativo, è anche un po'... La pressione in cabina è di circa 5,3 (psi), il che è perfetto. La cupola della tuta è di 72 (gradi). La cupola della cabina è di 45 e la cabina sta tenendo. La temperatura della tuta è di circa 64 (gradi) e mi piace. L'ossigeno è di 60 (psi, in centinaia). L'O2 in cabina è di 5,3 (psi) e un impianto elettrico completo.
+Tutte le batterie segnano circa 23,5 (volt) o più, l'amperometro è praticamente stabile a 20 ampere. Volevo controllare prima di spegnere, è 115 (volt). Le ventole sono circa 115 (volt), lo standby è 0 (volt). Ok, l'abitacolo è pulito. È ovvio che quella dannata situazione dell'antenna non va bene. Ho appena riportato l'HF in bicono.
+Sigma Seven Sigma Seven, qui Canton Com Tech. Passo.
+Qui Sigma Seven, vi sento forte e chiaro. Come mai?
+Bene, siamo tornati al dipolo.
+Sette, Canton Com Tech, come si fa a copiare?
+Canton arriva in anticipo. Anzi, arriva più o meno in orario.
+Canton Com Tech, qui Sigma Seven. Ti ricevo forte e chiaro. Come faccio?
+Sigma Seven, Sigma Seven. Qui è Canton Com Tech, Canton Com Tech. Come si fa a copiare? Passo.
+Canton Com Tech, qui Sigma Seven. Ti sento forte e chiaro. Come faccio? Passo.
+Sigma Seven Sigma Seven, qui Canton Com Tech, Canton Com Tech su HF. Passo.
+Canton Com Tech, qui Sigma Seven. Come mi senti? Passo.
+Sigma Seven Sigma Seven, qui Canton Com Tech su HF/UHF. Passo.
+Sigma Seven Sigma Seven, qui è Canton Com Tech, Canton Com Tech, come si fa a copiare? Passo,
+Canton Com Tech, qui Sigma Seven. Ti sento forte e chiaro. Come mai?
+Sigma Seven, Canton Com Tech. Ti ho letto 5 di. La parola a Cap Com. La parola.
+Roger, ci sono anch'io.
+Sigma 7, qui Canton Cap Com. Fine.
+Roger, Canton. Bene, ti darò un breve rapporto. Sono in modalità retromarcia automatica, giroscopi normali, manovra disattivata, tutti i sistemi sono verdi, il circuito della tuta è sotto controllo positivo.
+Roger, Can - Roger, Sigma Seven.
+Questa è Sigma Seven. Sono pronto per una retrosequenza, se necessario. Tutto ciò che ho a disposizione è una mappa stellare e basta.
+Roger, Sigma Seven.
+E faresti meglio a non darmene uno. Ah, ah, ah.
+Ripetiamo, Sigma Seven.
+Non ne voglio uno. Ah ah.
+Roger.
+In questo momento si sta comportando davvero come un gioiello.
+Ripetiamo, Sigma Seven.
+Ho detto che si comporta come un piccolo gioiello.
+Roger, è fantastico.
+Ora, l'unica cosa con cui abbiamo avuto problemi finora è il circuito della tuta, e lo abbiamo risolto abbastanza bene.
+Questo è ciò che ho capito ascoltando la conferenza Goddard (circuito di comunicazione di rete).
+Ora, giusto per darvi un'idea, la temperatura dell'ingresso della tuta è di circa 63 gradi, mentre la cupola è stabile a 70 gradi.
+Roger, capisci.
+Sono perfettamente a mio agio. La smetterò con quella cosa finché sono in vantaggio.
+Roger.
+Credo che una delle ragioni per cui ho perso le comunicazioni HF sia perché continuo a spostare il commutatore da dipolo a bicono. Capisci?
+Dici che continui a cambiare il commutatore da dipolo a bicono?
+Esatto. Quindi, per quanto riguarda il controllo HF, sono a posto. Penso che questa volta potremo ottenere un buon risultato.
+Roger.
+Questo è, ovviamente. A quanto pare devo continuare a controllare che non ci sia bicono. Correzione: che non ci sia dipolo.
+Roger, capisci.
+Mi basta muovere il gomito verso destra e colpisco.
+Vedo.
+Non è fondamentale. È solo un modo di fare business. Ho confrontato i controlli notturni dell'imbardata su Muchea e Woomera e sono molto soddisfatto dei risultati. Con oggetti noti, acquisire l'imbardata non è assolutamente un problema. Inoltre, possiamo guardare... attraverso il finestrino.
+Roger, è quello che ho sentito. Ho sentito il tuo resoconto a Woomera.
+Roger. Quindi non c'è niente di nuovo qui.
+Roger. Non abbiamo niente. Nessuna domanda qui.
+Ricevuto. A quanto pare, l'inverter da 250 non sta salendo molto. La mia lettura rimane comunque sui 140 gradi.
+Roger.
+Immagino che Frank Samonski ormai sappia che gli devo mezzo dollaro.
+Roger.
+Per tua informazione, dato che non riesci a leggerlo, la temperatura del mio retro (pacchetto) in questo momento è di 72 gradi.
+Ricevuto. Capisco 72 gradi.
+Esatto.
+Grazie. 22 gradi.
+Settantadue gradi per la stufa retrò. O meglio, un razzo retrò. Non ci sono stufe.
+Apro la visiera solo per un attimo per grattarmi il naso.
+Roger.
+E la visiera di chiusura. Mi è sfuggito, dovrò richiuderla. Ok, è richiusa. Preferirei non rimanere in quella cabina più del necessario.
+Roger.
+Sigma Seven, Hawaii Com Tech. Come leggi? Passo.
+Salve, Hawaii Com Tech. Ti ho sentito forte e chiaro. Come faccio?
+Hawaii Com Tech. Qui Sigma Seven, vi ricevo forte e chiaro. Come faccio? Passo.
+Sigma Seven, Hawaii Cap Com.
+Ciao Gussie, come stai.
+Sigma Seven, Hawaii Com Tech.
+Hawaii Com Tech, Hawaii Cap Com, qui Sigma Seven. Vi sento forte e chiaro. Come faccio?
+Sigma Seven, qui Hawaii Cap Com. Come leggete?
+Ti sento forte e chiaro.
+Hawaii Cap Com, inizierò un rapporto standard per voi. Sono in retroattività automatica. Giroscopi normali, manovra disattivata, tutti i sistemi sono verdi e procedo per la prossima orbita. Passo.
+Roger, Wally. Sappiate che tutti i sistemi sono verdi e pronti. Vi indichiamo che avete un passaggio qui.
+Roger.
+Potresti darmene uno, per favore?
+Roger. Pronti per un segno a 50. SEGNO 50. T. Cioè.
+Ricevuto. Ti indichiamo che sei veloce di 1 secondo.
+Roger, Gus. Credo che tutti abbiano letto il libro sul circuito delle tute, non mi preoccuperò più di tirarlo fuori.
+Ricevuto. Vorrei avere la temperatura della cabina e quella della cupola della cabina.
+Ok. La temperatura in cabina è 36 (gradi). La temperatura nella cupola è 8 (gradi).
+Ripetiamo la temperatura della cupola.
+Ricevuto. 45.
+E l'impostazione non è cambiata da molto tempo.
+Roger.
+Non ho modificato l'impostazione degli inverter. Vi riassumo brevemente. Gli inverter sono a 4. Questa è l'impostazione della valvola (di controllo del refrigerante). La cabina è a 3. La tuta è a 8.
+Roger.
+E funziona tutto benissimo. Ora la temperatura di ingresso della tuta è di circa 62 gradi.
+Vuoi premere il pulsante di arresto della pressione sanguigna, Wally?
+Roger.
+Ora non devi più chiedermelo, devi dirmi di smetterla. È orribile. Ah!
+Preferirei chiederti di darlo.
+Mi è piaciuto il tuo articolo dell'altro giorno. Mi è stato utile.
+Quasi dimenticavo. Aloha, dalle Hawaii.
+Oh! Aloha.
+Gus, hai fatto dei controlli di imbardata notturni davvero buoni. Si inclinano perfettamente.
+Roger.
+E i tuoi resoconti sul proporzionale manuale sono più che corretti. Il rallentamento è ciò che si nota più di ogni altra cosa. È un po' lento.
+Wally, anche Cape sembra pensare che tu sia in buona forma.
+Roger. Mi sento bene. Questo vecchio uccello si sta davvero comportando bene quassù.
+Bello spettacolo.
+Wally, fammi capire i tuoi atteggiamenti adesso.
+Ok, sono inclinato a sinistra di circa 7 gradi. Imbardo a destra di 2 gradi. Mi inclino verso l'alto di circa 4 gradi.
+Ricevuto. Inclinazione di 4 gradi.
+La risposta è affermativa.
+Roger.
+In questo caso abbiamo un'escursione di ± 5½ gradi, Gus.
+Roger.
+Sta tracciando benissimo. Non ho avuto problemi con il thruster one. Davvero bello.
+Roger. Ripetimi il tuo atteggiamento, Wally. Non siamo d'accordo.
+Ok, ho indicato un'inclinazione di (-) 30 gradi e corrisponde alla finestra, proprio sul pulsante, Gus.
+Okay, Roger. Allora ho capito male.
+Mi dispiace di aver detto +4, stavo partendo dal valore retroattivo, il che probabilmente ti confonderebbe.
+Sì, l'hai fatto,
+Posso immaginarlo.
+Ok, li leggerò come li vedo io, invece che come li fanno i ragazzi del SEDR (Service Engineering Department Report). Sto ritrovando le vecchie lucciole. Immagino che John sia sollevato. Non le ho cercate, sono lì e basta.
+Va bene.
+Sono solo delle vere e proprie meraviglie. Se ne possono vedere alcune grandi e altre piccole. Sono quasi impossibili da fotografare. La maggior parte di esse ha una magnitudine inferiore a quella che definirei una buona stella. Ogni tanto si vedono alcune di quelle grandi.
+Li vedi vicino a te?
+Oh, sì, puoi effettivamente vedere il moto relativo, Gus. Puoi vederli proprio vicino alla finestra, poi vederli allontanarsi molto. Sembra che tu li veda molto lontano perché la velocità tra te e le lucciole è certa.
+Roger. Wally, credo che ti stiamo perdendo. Resterai qui per la California?
+Ok, Gus. Voglio parlarne con John. È lui quello che aspettava. Immagino che ne avremo sempre.
+Alba sulla costa occidentale. È piuttosto deludente perché è quasi completamente coperta da nuvole e smog. Vedo delle pause mentre mi avvicino alla costa. Un giorno, potrò sorvolare il Pacifico senza nuvole sotto di me.
+Gli atteggiamenti sono molto buoni. Non c'è dubbio. L'imbardata può essere vista con il periscopio. E può essere acquisita molto rapidamente. Può essere vista anche attraverso il finestrino senza alcun dispositivo.
+Coprendo di nuovo il periscopio. Aspettando John.
+Ciao Sigma Seven, Cal Cap Com. Ricevi? Passo.
+Ciao John. Ti ho sentito forte e chiaro. Come mai?
+Ciao Sigma Seven, Cal Cap Com. Mi ricevi?
+Cal Cap Com, Sigma Seven. Forte e chiaro. Come faccio?
+Roger, forte e chiaro, Wally. Sembra che la situazione si stia stabilizzando piuttosto bene lassù. Sembra che ora vada tutto bene. Hai un rapporto sulla situazione?
+Sì signore. Sono davvero contento di questo velivolo. Sono in modalità automatica, assetto retro, giroscopi normali, manovra disattivata, tutti i sistemi sono verdi. Ho il circuito della tuta sotto controllo, come probabilmente saprete ormai, e un resoconto delizioso per un certo John Glenn. Vedo le lucciole.
+Bravo ragazzo.
+Ed erano del tuo colore, John. Ottima descrizione. Anche se, durante il giorno, se li osservo, sono decisamente bianchi. Mentre, al sorgere del sole, emergono dal vero colore delle lucciole che hai descritto.
+John, hai letto tutto?
+Sono Cal. Ora ti leggo molto male, Wally. Sei svanito dopo quella prima buona trasmissione. Ho capito che stavi vedendo le lucciole e poi la tua descrizione è svanita. Ripeti, per favore.
+Okay. Come mi leggi adesso?
+Di nuovo forte e chiaro.
+Ok, torniamo all'UHF-hi. Erano sicuramente le lucciole che hai descritto all'alba. Non ho guardato i tramonti in particolare. Con l'aumentare della luce, ad esempio, ora che sono alla luce del giorno e lo tocco, vedo cristalli bianchi che sembrano ghiaccio.
+Roger, tutto ok. Ho capito come descritto all'inizio, e sono diventati più bianchi man mano che la luce aumentava.
+Esatto, ne ho di bianchi proprio ora che vagano in giro. Sembrano piccoli pezzetti di brina.
+Roger, sembra interessante. Sei pronto a copiare la retrosequenza 4-1? Passo.
+Roger, vai avanti John.
+Roger. A proposito, hai la possibilità di provare la prossima orbita, nel caso te lo stessi chiedendo. Cape è d'accordo. Il tuo tempo di retrosequenza per 4-1 è... Finito.
+Roger... E Cape consiglia di procedere con il normale piano di volo. Sembra che le cose stiano andando bene.
+Sì, sono davvero contento di tutto. Ho fermato tutto per riprendere il controllo del circuito della tuta e sembra che tutto sia andato a posto.
+Roger, la cosa ha preoccupato tutti per un po', ma ora sembra che sia in buone condizioni.
+Ero sicuro che tutti avrebbero fatto baldoria per quella cosa.
+Avevi ragione.
+È un po' difficile descrivere tutto questo, non è vero John?
+Sì, certo che lo è, Wally. Non so descriverlo.
+No, è davvero un'emozione, davvero.
+Peccato che siate tutti così indaffarati. Spero comunque di rivedervi presto.
+Non ho nemmeno guardato fuori.
+Ah, ah, ah. Questo era il mio problema quando sei venuto.
+Immagino che tu abbia sentito che il mio reticolo di imbardata funziona molto bene.
+Sì, è davvero bello. Sono felice di sentirlo.
+Ho sicuramente notato un po' di appannamento sul finestrino causato dal razzo della torre, John.
+Roger, ho capito. Un po' di appannamento sul finestrino causato dal razzo.
+Sì.
+Proverò la tua idea sulla tecnica di beccheggio per il drifting. Penso che sarà divertente.
+Ripeti, Wally, non ho capito.
+Proverò la tua tecnica sul periodo di deriva per questa orbita usando... penso che sarà molto divertente. Ho appena trovato un buco qui con un'isola. Sembra che potesse essere San Clemente, non ne sono sicuro. Sì, ora sono sulla terraferma.
+Roger.
+Sto osservando bene gli Stati Uniti. Abbiamo appena superato la tipica fascia di nebbia della California e credo che dovrò sorvegliare il Salton Sea.
+Roger. È lì che io e Scott abbiamo capito forte e chiaro. Sembra che la situazione sia sempre chiara lì dietro.
+Sì, non appena superi la cresta.
+Non vedo nessuno che fa sci d'acqua oggi. Fa freddo?
+Non così freddo.
+Ah, ah, ah.
+Il Salton Sea è il punto più a nord che riesco a vedere. Da lì si può ammirare la Baja California in tutta la sua bellezza. E probabilmente riesco a vedere Guaymas forte e chiaro, a quanto pare.
+Sembra che oggi la visibilità sia piuttosto buona, se si riesce a vedere tutta quell'area.
+Sì, riesco a vedere quasi fino al Salton Sea a nord. Riesco a vedere la zona del Monte Whitney, ma non molto, a causa delle cime innevate che ormai si intravedono all'orizzonte.
+Giusto.
+E allungando un po' il collo riesco a vedere quasi la punta meridionale della penisola di Baja.
+Sembra che oggi la vista sia davvero bella, con poca copertura nuvolosa su gran parte del cielo.
+No, solo la costa è coperta. Il resto è CAVU (visibilità illimitata). Finché ho un po' di tempo, posso guardare. Ci sono alcune strade qui che sono piuttosto evidenti per me, proprio sulla traiettoria di volo. Ti sto davvero parlando da molto lontano, John.
+Cape Cap Com, Sigma Seven.
+Cape Cap Com, Sigma Seven.
+Muchea Com, correzione - Guaymas, Sigma Seven.
+Roger. Forza Sigma Seven.
+Ok, Scott, le cose stanno andando davvero bene qui. Devo sistemare quel sistema di raffreddamento, e il tuo commento era molto valido. Se uno ha tempo, di solito riesce a risolvere il problema.
+Roger, Wally, vi siete spenti alla fine. Sappiate che lassù va tutto bene, vi auguro un altro buon viaggio.
+Giusto, credo di aver dato un'occhiata alla tua stazione mentre passavo.
+Roger, capisci.
+Cape Cap Com, Sigma Seven. Fine.
+Sigma Seven, Sigma Seven. Cape Cap Com.
+Ricevuto, Deke. Sono in modalità push-to-talk in questo momento. Come leggete? Passo.
+Roger. Ti leggo 5 volte.
+Roger, questo è UHF-hi.
+Roger.
+Andiamo a VOX.
+Cape Cap Com, Sigma Seven. Su VOX
+Roger. Sei bravo con VOX.
+Ok. Te ne mando uno. Modalità di controllo: retromarcia automatica; giroscopi normali; manovra disattivata. Tutti i sistemi sono verdi. Se vuoi, ti darò una lettura delle cupole qui.
+Cape Cap Com. Sigma Seven.
+Sigma Seven. Cape Cap Com.
+Hai letto il rapporto?
+Ho letto il rapporto. In attesa che la temperatura della cupola sia particolarmente adatta.
+Ok. La temperatura nella cupola della tuta è di 21°C. La temperatura nella cupola della cabina è di 45°C. Quel maledetto scambiatore di calore della cabina è di 40°C. La presa d'aria della tuta è di 16°C, e sto molto comodo.
+Eccellente.
+Siete pronti a farmi fare un power down?
+Molto bene. Potresti fornirci tutte e tre le temperature dell'inverter quando vuoi.
+Ok. Te li do e poi spengo.
+Roger.
+250 sono 143 gradi. Sono aumentati di circa 2 gradi negli ultimi 40 minuti. 150 sono circa 105 gradi. La temperatura di riserva è di circa, ah, 110 gradi, direi. Un po' più calda.
+Roger.
+E per quanto riguarda i riscaldatori retrò, la temperatura del retropackage è di circa 74 gradi, e si è mantenuta lì per quasi tutto questo tempo.
+Roger. Molto bene.
+Ok, ora vado in modalità power down.
+Ricevuto. Capisco.
+Vi darò una lettura di come lo faccio. Seleziono il fly-by-wire. Vado su giroscopi ingabbiati. Valuto giroscopi ingabbiati. Vado su 0.
+Roger.
+Vado all'autobus, lo spengo e sono a 0 volt. E posso spegnere il mio faro?
+Affermativa.
+Ok. Spegniamo il faro. Le tariffe sono....
+Premi il pulsante di arresto della pressione sanguigna, stiamo ancora ricevendo la pressione.
+Sì, invece di farmelo chiedere, devo chiedergli di smetterla subito.
+È un cambiamento gradito.
+Ecco che si spengono i fari.
+Roger.
+Ho preso il tuo Z Cal. Ok, i tassi sono buoni e si stanno azzerando. Torno alla posizione normale invece che al fly-by-wire.
+Roger.
+I giroscopi sono ingabbiati e il VOX è disattivato. Selezionerò il rientro per l'assetto, quindi ho impostato questa opzione per la procedura di accensione.
+Molto bene.
+Ok, ho il fly-by-wire a bassa velocità e la modalità normale, auto, giroscopi ingabbiati, manovra ancora disattivata. E i fari... e i fari sono disattivati. Eccola che naviga allegramente.
+Molto bene. Siete pronti per un (area di recupero di emergenza) 3-C retro (tempo)?
+Ripeti.
+Siete pronti per il vostro periodo retrò 3-C?
+Mi dispiace. Sei molto confuso.
+Siete pronti per il vostro momento retrò 3 Charlie?
+Okay. Cercherò di capirlo da te, Deke. Io... sei confuso, dillo molto lentamente.
+Okay. Sei intervenuto forte e chiaro.
+Tutto bene.
+per 3 Charlie.
+La risposta è affermativa.
+Va bene.
+Lasciatemi darvi un trucco per l'ora GMT, per vedere come siamo messi in questo momento.
+Sì. Probabilmente è tutto un pasticcio. Okay. Dimmelo.
+Al mio posto, sono 15 27 00 - MARK.T
+Affermare.
+Santo cielo! Quella roba è... okay, quella roba è davvero un mucchio di sciocchezze. Ne ho 24.
+Bene, lasciami provare il GMT sul mio orologio di riserva. Quando vuoi.
+Vuoi un voto sul backup?
+Sì.
+Okay. Al mio posto. - MARK.T
+Erano le 15:47:30. È corretto?
+Ti ho dato un voto su,.
+Oh, oh, oh. Scusa, stavo guardando il mio backup.
+Va bene.
+Proviamo di nuovo a 50 (secondi).
+Roger, in 3 secondi. MARK.T
+Ok. Sono veloce di un secondo e mezzo.
+Molto bene.
+GMT - dei 28 in arrivo, in realtà l'ho superato.
+Dammi 28 15.
+MARK.T
+Molto bene, sono lento di circa 3 secondi in retromarcia. È il migliore.
+Ripeti.
+Roger. Hai visto Echo?
+Negativo. Non sono riuscito ad arrivarci. Stavo cercando di risparmiare un po' di carburante lì, e non sono riuscito a trovare l'assetto giusto.
+Roger. E Mercurio?
+Mercurio? Forte e chiaro. Ho usato Mercurio e la luna per il mio controllo notturno dell'imbardata.
+Roger.
+No, questa cosa non ha, ah, praticamente nessuna velocità indicata, Deke, ma ora sono, direi, ribaltato, oh, probabilmente di 30 gradi a sinistra. - Abbastanza vicino all'assetto di beccheggio, e ovviamente è piuttosto difficile dire cosa sia l'imbardata in queste condizioni.
+Roger. Mangia e bevi, anche tu stai svanendo.
+Ok, credo che proverò a fare qualcosa del genere.
+Roger. Ti lasciamo in pace per un po'.
+Ok. Potrebbe essere divertente anche questo. Ora farò un test di orientamento.
+Va bene. Grazie.
+Bene. Per quanto riguarda il test di orientamento, ho toccato la leva manuale; ho toccato l'orologio, un rivetto sopra l'orologio a circa le 10:30, proprio tra il quadrante e l'indicatore di imbardata. Sulla leva della velocità di emergenza, l'ho toccata proprio sul pulsante.
+Stai arrivando in modo confuso. Devi avere la bocca piena.
+No. Sto solo parlando del mio test di orientamento.
+Roger.
+Ok. Finalmente abbiamo trovato la scala giusta per questo. - Devo andare alla registrazione VOX. Ho trovato la scala giusta per il dosimetro e segna circa meno di 0,1, esattamente 0,04. Ora rimetto il dosimetro sul portello, che è la scala più bassa.
+Sono di nuovo in trasmissione VOX. Mi senti, Deke? Ho finito con una bellissima virata di 90 gradi a sinistra. Cavolo, che bella virata a otto punti. Sto per ricevere in HF. Sto per trasmettere in HF, VOX disattivato.
+Sigma Seven. Cape Cap Com. Ci sentite? Ci stiamo avvicinando.
+Questa è la trasmissione di Sigma Seven su HF. Deke, come fai a leggere questo ora?
+Va notato che l'amperometro segna 12 ampere come pubblicizzato: a quanto pare, qualcuno mi sta importunando con un R Cal sulla cabina 02. L'amperometro segna esattamente 12 ampere.
+C'è una leggera inclinazione di circa mezzo grado al secondo, è quasi impossibile decollare senza doverlo far volare. Sembra il momento giusto per prepararsi a un controllo HF. Imposto il VOX su "Plug-to-Talk".
+Sigma Seven, qui Cape Cap Com. Trasmetto in HF, per un controllo vocale. Alle 03:10 - MARK. T
+Sigma Seven, qui Canary Com Tech. Controllo HF in trasmissione a, MARK, fuori. T
+Sigma Seven questo Kano.
+Accendo la registrazione VOX. Guardo la finestra illuminata dal sole. È sicuramente un motivo affumicato con striature di luce. Ricoperta di detriti polverosi, alcuni dei quali hanno un colore rosa, una specie di rosa-arancio. Probabilmente provengono dai dispositivi di tenuta RTV 90 che si trovavano attorno agli anelli e alle parti di tenuta del sistema, il sistema di scarico della torre.
+Di conseguenza, la visibilità è sicuramente ridotta. A questo punto, il tasso di cambio MARK,T è quasi tutto pari a zero.
+Sigma Seven, questa è Canary Cap Com. Trasmette su UHF/HF.
+Ciao, Ca...
+Sigma Seven, qui Canary Cap Com. Trasmette in HF/UHF. Come si legge?
+Canary Cap Com, qui Sigma Seven. UHF. Mi sentite? Passo.
+Qui Sigma Seven. Su HF. Canary Cap. Com. Ti ho ricevuto. Mi hai ricevuto? Passo.
+Roger. Sigma Seven, qui Canary Cap Com.
+Roger. Mi sto divertendo un mondo qui alla deriva. Mi piace così tanto che non ho ancora mangiato. Ora inizio a mangiare. Passo.
+Sigma Seven, qui Canary Cap Com. Leggi ancora?
+Affermativo, Canary. Mi senti?
+Ti ho letto circa 4 per 4.
+Roger.
+Come va adesso?
+Molto bene.
+A questo punto, ho decisamente la sensazione di volare con imbardata di 90 gradi, rollio di 30 gradi a destra e beccheggio quasi dritto sull'orizzonte.
+Roger. Sigma Seven. Non ho letto.
+Roger. Ho una leggera imbardata di circa mezzo grado al secondo. Sto registrando oltre che trasmettendo, naturalmente, e sembra che stia imbardando esattamente all'angolo corretto.
+Sigma Seven, qui Canary Cap Com. Siete illeggibili.
+Roger.
+In registrazione VOX. Ho appena controllato lo stick, mentre ero in volo di deriva, per vedere se si riusciva ad aumentare la velocità azionandolo, ma non è successo. Funziona benissimo.
+Visiera aperta - ora.
+Kano.
+Sigma Seven, questa Kano Com Tech. Trasmette in HF. Mi ricevi?
+Kano Cap Com, qui Sigma Seven. In HF. Vi ricevo. Mi ricevete? Passo.
+Sigma Seven, qui Kano Cap Com. Come si legge?
+Sigma Seven, qui Kano Cap Com. Come si legge?
+Kano Cap Com, qui Sigma Seven. Vi sento forte e chiaro. Come me? Passo.
+Roger, Seven. Ti ho letto, piuttosto debole e un po' confuso.
+Roger. Come mi senti adesso? Sono in modalità push-to-talk, HF. Passo.
+G
+Sigma Seven. Come leggi?
+Qui Sigma Seven. Vi leggo forte e chiaro. Come fate a leggermi? Passo.
+Sigma Seven, qui Kano Cap Com. Mi senti? Passo.
+Sigma Seven, qui Kano Cap Com. Trasmette in UHF.
+Sigma Seven, qui Kano Com Tech. Trasmetto in HF. Mi senti? Passo.
+Sigma Seven, Sigma Seven, qui Kano Com Tech. Trasmetto in HF. Mi senti? Passo.
+Qui Sigma Seven. Leggo una stazione in HF. Ripeto. Passo.
+Sigma Seven, qui Kano Cap Com. Trasmetto in HF. Mi senti? Passo.
+Kano Com Tech, qui Sigma Seven. Vi sento forte e chiaro in HF. Come faccio?
+Nave dell'Oceano Indiano, questa è la Sigma Seven. Passo.
+Nave dell'Oceano Indiano. Sigma Seven. Fine.
+Nave dell'Oceano Indiano. Sigma Seven. Fine.
+Nave dell'Oceano Indiano. Sigma Seven. Fine.
+Sigma Seven, Sigma Seven, qui è Com Tech. Mi senti? Passo.
+Nave dell'Oceano Indiano, qui Sigma Seven. Vi sento forte e chiaro. Come mai?
+Sigma Seven, qui Indian Com Tech. Vi ho sentito forte e chiaro. In attesa di Indian Cap Com. Passo.
+Roger.
+Questa è Cap Com.
+Qui è Indian Ocean Ship Com Tech. Sigma Seven. Avanti, per favore.
+Indian Cap Com, qui Sigma Seven. Fine.
+Roger. Ora ti leggo. Passo.
+Roger. Ti leggo anch'io.
+Mi hai beccato? Passo.
+Quello è Roger.
+Ok, accendo l'autobus.
+Ripeti?
+Sto per dare potenza.
+Ricevuto. Capito. Ora stai per aumentare la potenza.
+Inverter acceso. Tutto ok. Acceso a 44
+Al momento sto utilizzando il sistema fly-by-wire.
+Sigma Seven, Sigma Seven. Ho perso le comunicazioni.
+Roger.
+Sigma Seven, questa è la Indian Com Tech. Mi capisci? Passo.
+Indian Com Tech. Affermativo. Ti ho sentito forte e chiaro.
+Ricevuto. Qui è Cap Com. In attesa. Passo.
+Roger.
+Sigma Seven. Ci è stato appena comunicato che al momento abbiamo un avvistamento visivo. Passo.
+Roger. Devo passare a salutarti.
+Roger.
+... Sopra.
+Sigma Seven, Sigma Seven, questa è Cap Com....
+All'accensione. Alla fine, dopo averli impostati a circa tre zeri con la manovra disattivata, sono passato ai giroscopi normali. Non c'è stata alcuna transizione a spinta elevata. Poi, quando ho impostato i tre zeri, ho ottenuto una transizione a spinta elevata nell'assetto di selezione del rientro. Tuttavia, questo è probabilmente dovuto al caso di run-up del giroscopio senza rateo di volo.
+In questo momento sto volando a tre zeri in modalità, per vedere se questo mi aiuta a ristabilire la rotta. A circa, sto solo cercando di capire dove mi trovo, fino alla distanza della Luna.
+Non ho avuto problemi a far capire alle stelle di che tipo sono, e questo sarà il problema. Soprattutto con due gadget da tenere in mano come computer. Questo non aiuta per niente.
+C'è una stella che si trova a... Di cosa si tratta, ci vorrà un po' per scoprirlo. Leggi il computer, impostalo, e l'ora è a 55, impostala su uno standard - 56 minuti... standard....
+Ormai dovrei avere la luna in vista, ma non è così. Quindi, è meglio che vada a cercarla.
+Passiamo al fly-by-wire low. Gyros gratis.
+Andare a mangiare gyros in gabbia. I gyros sono in gabbia.
+A nord c'è Cassiopea.
+Ecco la nostra amica luna. A che ora dovremmo sorvolare Muchea? Allora, preparatevi.
+I gyros saranno....
+... Muchea. Finita.
+Muchea Cap Com, questa è Sigma Seven.
+Ciao. Ciao, Muchea Cap Com. Sigma Seven.
+Sigma Seven, Sigma Seven, qui è Muchea Cap Com. Mi leggete? Passo.
+Qui Sigma Seven, ti sento forte e chiaro, Muchea. Come faccio?
+Muchea Cap Com. Sigma Seven. Ti sento forte e chiaro. Come mai?
+Come leggi?
+Sigma Seven, Sigma Seven, qui è Muchea. Mi capisci?
+Muchea Cap Com, qui Sigma Seven. In UHF. Come mi senti adesso? Passo.
+Sigma Seven, Sigma Seven, qui è Muchea. In UHF. Mi senti?
+Sigma Seven. Ti sento forte e chiaro, Muchea. Come me?
+Roger. Ti ho sentito e ti ho sentito bene. Ti ho chiamato due o tre volte in HF e non ho ricevuto risposta. Sei forte e chiaro in UHF. Come stai?
+Roger. La mia situazione è buona.
+Tutti i sistemi sono sotto controllo?
+Affermativo. Ho appena usato la luna per agganciarmi. Ti farò un breve resoconto. Andrò solo sul... se tieni d'occhio i miei propulsori.
+Roger.
+Proseguo: atteggiamento di rientro.
+Roger. Secondo noi, ora sei in onda.
+Roger. Sto per entrare. Non ci sto. Ah. Ah.
+Ok. Ora ci entro, con il gyros gratis. Ora passerò al gyros normale.
+Okay, Gene. Ti darò un resoconto di quello che abbiamo qui.
+Va bene.
+Innanzitutto, sono in rientro automatico; sono in modalità automatica; i giroscopi sono normali; la manovra è disattivata; tutte le configurazioni sono in rientro; l'interruttore di bypass per i giroscopi di velocità è in modalità normale. Ti do un'indicazione del livello del carburante: il serbatoio automatico è al 90%, quello manuale è circa al 90%. Ti do un'indicazione della tuta, che ora è molto comoda. La temperatura della tuta è di 60°C. La mia cupola è scesa a 45°C. La abbasserò di mezzo livello. Andrò a 0 e poi tornerò su. Passo.
+Okay, Wally. Resta in attesa.
+Sigma Seven. E la pressione sanguigna?
+Sulla strada.
+Roger. John Glenn suggerisce di avere tempo, quando le numerose particelle appaiono per la prima volta, all'alba, per dare un colpetto al lato della capsula e testare la sua teoria preferita.
+Roger. L'ho fatto, Gene, e provengono effettivamente dalla capsula.
+Roger. E più avanti suggerisce, quando appariranno come particelle bianche, di fare lo stesso e questo potrebbe dimostrare che sono le stesse particelle.
+Ci ho provato anch'io.
+Hai ottenuto lo stesso risultato?
+La risposta è affermativa.
+Roger.
+Sigma Seven. Se non stai facendo nulla, puoi darci un'idea del tuo atteggiamento.
+Bene. Le mie indicazioni di assetto sono 0 gradi di beccheggio, 10 gradi di imbardata a sinistra, 0 gradi di rollio. Passo.
+Siamo d'accordo. Molto bene.
+Roger. Come ti sembrano gli scanner?
+Entro 4 gradi, Wally. Sono costanti anche loro.
+Roger. Credo di aver sistemato bene l'orso, allora.
+Roger. Tutto sembra andare per il meglio qui. Sembri molto bravo, e sembra che tu possa fare 6. Credo che da qui in poi chiederò al medico di entrare.
+Va bene.
+Come ti senti?
+Molto bene. Mi sto divertendo molto.
+Eccellente.
+Puoi dire a Chris che mi sono stufato di girare in giro e ho deciso di dargli la sua auto retrò. In realtà, a questo punto, è un atteggiamento da rientro automatico. Passo.
+Roger.
+Sigma Seven. Woomera Cap Com.
+Ciao, Woomera. Vai avanti.
+Sigma Seven. Woomera Cap Com. Hai detto che avresti fatto l'auto retrò?
+Negativo. A questo punto sono in modalità rientro automatico.
+Roger. Abbiamo ricevuto il tuo rapporto Muchea e siamo in attesa.
+Roger, Woomera. Grazie.
+Qual è l'impostazione della valvola di controllo del comfort della tua tuta?
+Ricevuto. Ora è impostato a 7,5. Sono tornato a 0 e sono risalito di nuovo. Fine.
+G Potresti ripetere l'ultima parte?
+Ripeti?
+Ti abbiamo ricevuto con un valore pari a zero, ma non sapevamo a quale valore fosse impostato.
+Ricevuto. 7.5.
+G verde a Woomera.
+Ricevuto. La temperatura della mia tuta in questo momento è di 62 gradi.
+Cupola adatta 62 (gradi).
+Corretto.
+Grazie. Tu....
+Hai segnalato che la cupola della tuta si trovava a 45 gradi sopra Muchea. È corretto?
+Esatto. Si muoveva così velocemente.
+G
+Stiamo per incontrarci qui a Woomera.
+Roger.
+C'è qualcos'altro per il Capo?
+Negativo. Qui tutto procede bene.
+Roger.
+Roger. In questo periodo sto guardando avanti al piano di volo. Francamente, ritengo che siano necessarie molte più informazioni sulle stelle per definire gli atteggiamenti, o un computer migliore. Sto lavorando rapidamente qui quando non dovrei.
+A, è 1 15 sul computer della mappa stellare,....
+Ho posizionato Giove sul lato destro, nell'angolo destro della finestra.
+... Altair
+Vedo le stelle doppie di Grus che formano una linea, puntando dritto al centro della finestra. Giove, ovviamente, è davvero luminoso. Vedo Ankaa e - correzione Al Naiir, e questo, questo doveva essere Peacock. Al Naiir è leggermente a destra della traiettoria di volo. Sto volando, ma deve essere lei. Giove appare nell'angolo della finestra. Posizione corretta della testa, Formalhaut appare a destra della traiettoria di volo. Giove nell'angolo destro. In questo momento è tutto a posto. Molto bello.
+Non dirmi che questa bussola funziona? Dovrei parlare di più. Quello che ho fatto finora è stato estrarre la fonte di luce standard. A questo punto, per la capsula, per il mio viso, perché sto guardando dritto verso l'alto, la bussola sta davvero ruotando sul piano dell'asse di rollio. Ho il Nord puntato verso il mio gomito destro. La bussola ha decisamente oscillato quando mi sono mosso.
+La bussola è troppo influenzata dagli strumenti di assetto e dai giroscopi retrostanti. Ecco perché non riesco ad avvicinarla troppo. La tengo a circa metà strada tra il cruscotto e il mio viso, in riferimento a una linea a metà strada tra il vano portaoggetti e lo zaino. Al momento del CE, punta direttamente verso la linea di bloccaggio del portello anteriore. Sembra che questo sia il collegamento del perno di fissaggio del portello. Immagino che possano riporlo per riferimento futuro.
+... liberatene per un po'.
+Siamo puntuali. Avanti, io mi fermo. A questo punto, passo al fly-by-wire basso, in assetto di rientro per le Hawaii.
+Selezione dell'assetto di rientro.
+È sempre sorprendente quando finalmente vedi un oggetto e la velocità aumenta davvero.
+Sto fermando la capsula in assetto di rientro. Sto effettuando il roll out. L'imbardata è zero; il rollio sta diminuendo. Voglio acquisire questo, e poi osservarlo. Il rollio sembra buono. Il beccheggio sta entrando; l'imbardata sta entrando. Ratei e assetto sono buoni,... una piccola modifica ai propulsori a bassa velocità e molto buoni. Scalderò il Tr-10, i giroscopi per il loro beneficio. E sto iniziando a vedere un po' di luce sul mirino, appena appena.
+Ho la sensazione di essere fuori fase, ma credo sia quella dannata linea di luce dell'orizzonte. Ti fa pensare che sia più alta di quanto non sia. Ho comunque la sensazione di essere inclinato di circa 10 gradi più in basso di quanto vorrei. Se siamo così vicini, lasceremo che lo scanner risolva il problema.
+Ora stiamo indicando un atteggiamento retroattivo. Siamo abbastanza vicini a questo. Quindi gli scanner stanno aumentando la coppia di circa 5 gradi, direi.
+Sigma Seven. Hawaii Cap Com.
+Roger. Hawaii Cap Com, qui Sigma Seven. Come si legge?
+Ora ti sentiamo bene. Che ne dici di farci un breve resoconto?
+Ok, bene. Sono dentro; retroattività; i giroscopi sono normali; l'interruttore di manovra è spento. Sto riscaldando il bypass del Tr-10 per i giroscopi di velocità. Ho ancora selezionato il fly-by-wire basso. Tutte le grandezze e i sistemi sono verdi. Sono verde.
+Roger. Potresti darmi la temperatura della cupola della tua cabina, la temperatura della cabina e la regolazione delle valvole.
+Ricevuto. La temperatura della tuta è di 68 gradi. La temperatura della cabina è di 48 gradi. L'impostazione della tuta è 7,5 gradi. L'impostazione della cabina è 3 gradi. Finito.
+Ricevuto. Dimmi la temperatura della tua cabina, la temperatura della tuta e le impostazioni dell'inverter.
+Ok. La temperatura della cabina è di 92 gradi, e ti darò gli inverter. Stand-by. - L'inverter principale è, l'inverter da 250 è circa 143 gradi. Quello da 150 è 102 gradi. Lo standby è circa 115 gradi.
+Wally, ti interrompo. Dimmi la regolazione della valvola dell'acqua del tuo inverter.
+Sull'inverter è 4.
+Roger.
+Sembra che finora abbia funzionato abbastanza bene per tutto il volo, Gus.
+Va bene. Cape pensa che tu sia in buona forma, Wally, e quindi ho buone notizie. Ti danno la possibilità di fare 6 orbite.
+Alleluia.
+Ti chiedono di mantenere un atteggiamento retrospettivo e di prepararti al retro come faresti normalmente.
+Capisco.
+E mantieni l'atteggiamento retroattivo finché non superi il tuo tempo retroattivo 3-1 (area di recupero).
+Capisco.
+E poi procedi con il tuo piano di volo.
+Ok, Gus. Ci vediamo lì tra poco.
+Roger.
+Questi atteggiamenti sembrano sinceri come non mai, Gus.
+Roger.
+Come funzionano gli scanner?
+Stai davvero bene qui, Wally. Non vediamo niente che non vada.
+Ottimo affare. Uso la Luna e poi Giove per allineare alcune delle altre stelle. Un po' troppo debole per scommetterci ogni volta.
+Roger.
+Il computer stellare che possiedo è molto utile per confermare le stelle, ma all'inizio è un po' difficile procurarselo.
+Roger.
+Immagino che l'unica cosa che non ho sia la temperatura di ingresso della tua tuta. Potresti darmela?
+Roger, 62 (gradi).
+62 (gradi). Sembra una buona temperatura.
+Sì. È stato molto comodo da quando ho finalmente ottenuto l'impostazione definitiva.
+Roger.
+Quanta acqua hai bevuto, Wally?
+Qualche tempo fa ne ho bevuto un bel sorso, poi ho mangiato solo un tubetto di pesche e un paio di quei cubetti.
+Va bene. Bene,
+Adesso sembra il momento giusto per bere un sorso d'acqua, per te.
+Visiera aperta?
+Ora la mia visiera è aperta.
+Ricevuto. Visiera aperta.
+Wally, dammi la lettura della tua pressione.
+Un attimo, Gus, sto cercando di riporre questo tubo dell'acqua.
+Va bene.
+Ossigeno a pressione parziale.
+Ripeti.
+Stai chiedendo PO2?
+Roger.
+Ok, aspetta. Sono circa 4,2 (psi) e sono di nuovo nella tuta.
+Roger.
+In realtà è puro come lo avremmo normalmente. Ecco perché non volevo fermarmi troppo a lungo.
+Ricevuto. Controlla che la visiera sia ben chiusa.
+Ricevuto. La visiera è chiusa e sigillata. La bomboletta della visiera della tuta è in alto, nel verde.
+Roger.
+Bene Gus. Almeno questa volta abbiamo un po' di carburante in arrivo.
+Sigma Seven. Cal Cap Com.
+Cal Cap Com, qui Sigma Seven. Ricevo. Mi sentite? Passo.
+Roger. Ti ho sentito forte e chiaro, Wally. Sembra che sia tutto pronto per la prossima orbita. Sei d'accordo?
+Roger. Qui va tutto bene, John.
+Roger. Aspetto il tuo resoconto.
+Roger. Sono in modalità automatica in questo momento; in assetto di rientro; i giroscopi sono normali; la manovra è disattivata; tutti i sistemi sono verdi. Il carburante in modalità automatica è all'89%, quello in modalità manuale è al 90%. Le mie temperature in questo momento sono molto confortevoli. L'ingresso della tuta è a 62°C, la cupola a 69°C. Credo di essere pronto per lo spegnimento. Passo.
+Ricevuto. Questo è il prossimo punto del piano di volo. Sei pronto a spegnere, se sei d'accordo. E vorrei controllare le impostazioni dell'orologio. Cosa hai sull'orologio? Passo.
+Ok. Ti darò un voto dopo 30 secondi.
+Ho qui la TEC, qual è l'impostazione per la retrosequenza? Passo.
+Roger..
+Roger. Grazie.
+Qual è la pressione nella tua cabina, Wally?
+Roger, la pressione della cabina è di circa 5,1
+Okay. Sembra una buona idea.
+Giusto. Non c'è molto tempo per quello per questa orbita, vero John?
+Cosa? Ripeti per favore?
+Non c'era molto tempo per prepararsi per la discesa, questa volta è venuta giù, eh? Mi dispiace di non poter tornare alle Hawaii per te in questo modo. Ci vediamo là fuori, immagino.
+Wally, sì, proprio qui alla fine del sesto. Hai qualche commento riguardo al moto relativo delle particelle che hai visto? Ne hai vista qualcuna passare, o venire verso di te se eri rivolto nella direzione di volo? Passo.
+Non ho mai avuto l'opportunità diretta di vederli venire verso di me, John, ma sicuramente si stavano allontanando da me. Potevo vederli in una grande quantità, che fossero lucciole verdi o cristalli di ghiaccio bianchi, picchiettando sulla capsula quasi in qualsiasi momento.
+Roger. Se ti capita di vedere l'alba, in qualsiasi momento tra ora e la fine del volo, potresti vedere se ne vedi qualcuno venire verso di te anche in quel momento.
+Ricevuto. Capisco.
+Ok. Ora vado a prendermi una pausa relax.
+Bello spettacolo. Capisco che stai per spegnerti.
+Questo è certo. Te ne darò un resoconto, così potrai guardarlo.
+G
+Passeremo al fly-by-wire. Passeremo ai giroscopi in gabbia.
+Roger.
+I giroscopi sono a tre zeri in questo momento. Autobus spento. Ho 0 volt.
+Ricevuto. Spegnimento dei radiofari, comando a terra.
+è caduto.
+Roger. Al momento ho 12 ampere.
+Roger. Questo è ciò che mostriamo.
+Roger. Okay, ora passo dal fly-by-wire alla normalità, quindi posso tenere un po' di freddo.
+Roger.
+Bene. Sono in modalità normale e selezionerò l'assetto di rientro per l'accensione.
+Ed è tutto pronto.
+... sono Cal, stai bene... ci vediamo alla prossima.
+Giusto John, e grazie mille per il tuo aiuto.
+Roger.
+A. Ho effettuato una lettura della luce e il valore della luce è 13 per ASA 160.
+Ricevuto. Capito.
+Ora vedrò se riesco a muovermi con la macchina fotografica e a scattare una foto della Baja.
+Roger. Capisco che sia una buona idea scattare una foto della Bassa California.
+Sto giusto tirando fuori la macchina fotografica, John.
+Okay, molto bene.
+Giusto. Sono sicuro che sarò pronto.
+Bene. Sono le 11 e possiamo guardare di nuovo verso il Salton Sea, all'infinito.
+Sì. È una bella visuale da lassù.
+Sì... in realtà, sto guardando a nord del Salton Sea a causa dell'effetto di imbardata che devo avere qui. C'è solo un leggero effetto di imbardata appena a sinistra della capsula. Forse circa un quarto di grado al secondo. Abbastanza per portarmi verso gli Stati Uniti.
+Ricevuto. Capisco. Un po' di imbardata lenta a sinistra. Stai iniziando a perdere un po' di slancio. Probabilmente non durerà ancora a lungo.
+Ok. Sto virando a destra. Scusa se ti ho tratto in inganno.
+Roger.
+Andiamo alla registrazione VOX.
+Ricevuto. Attesa 1 secondo Deke.
+Ricevuto. Ho controllato il dosimetro, ma il valore è ancora inferiore all'ultima lettura.
+Cape Cap Com, Sigma Seven in UHF-hi. Avanti.
+Cape Cap Com, qui Sigma Seven, UHF-hi. Avanti.
+Forza Sigma Seven, qui è Cape Cap Com.
+Cape Cap Com, Sigma Seven UHF-hi. Come leggi? Passo.
+Ora stai arrivando a circa 4 per volta.
+Roger. Sono in modalità drifting, tutto funziona alla grande.
+Ripeti.
+Stai arrivando in modo confuso, Deke.
+Ecco i tuoi momenti retrò, se sei pronto.
+Roger. Credo che finirò in un secondo. Li prenderò.
+Roger.
+4-2 è.
+Ripetilo ancora e ci penso subito. Ora sei a posto.
+Okay, 4-2 è.
+Ok. 4-2 è.
+Giusto. (area di recupero) 6-1 è.
+A e B sono nominali e vorrei darti un'idea del GMT e vedere come si comporta il tuo orologio in questo momento. Te ne do uno alle 16:57:35. MARK.T
+Roger. Sto leggendo 55 45.
+Piuttosto buono.
+Controlliamo l'orologio di backup e lo hackereremo.
+Roger.
+In qualsiasi momento.
+Per tua informazione, inizieremo a chiamarti Venere. Ti abbiamo avvistato visivamente durante l'ultimo passaggio.
+Che ne dici?
+Hai mangiato la bistecca?
+Sì. Davvero?
+Sì. Era ok. L'hai mangiato?
+Potresti farmi un altro trucco orario su GMT?
+Ok, GMT. 16 58 15. MARK.T
+15, ok. Ho 15 anni, il mio orologio di riserva era in ritardo di circa 3 secondi.
+Molto bene. Flight vorrebbe parlarti adesso.
+Va bene.
+Wally, abbiamo alcuni dati di avvistamento di Echo. Sei pronto a copiarli?
+Prendo la mia matita. Pronto. Ok, vai Chris.
+00:17:30 è il tempo di contatto per 4 minuti. Azimut 99,5 (gradi), elevazione 90 (gradi). L'eco sarà alla luce, la capsula al buio.
+Dovrebbe essere divertente, non è vero?
+Roger. È stato davvero un bello spettacolo lassù. Penso che stiamo dimostrando la nostra validità, vecchio amico.
+Spero di sì, Chris. Mi sto divertendo.
+Roger.
+Sigma Seven... in attesa.
+Roger.
+Sigma Seven, Volo del Capo.
+Ok, Volo.
+Se lo sei anche tu, siamo pronti a passare alla modalità fast time.
+Ah ah ah ah ah! Questa è bella. Molto bella.
+Sigma Seven, Volo del Capo.
+Forza Chris.
+La retrosequenza ora mostra il tempo esatto, il che significa che puoi avanzare di 1 minuto esatto e quello sarà il momento corretto. Puoi farlo in qualsiasi momento.
+Avanzare di 1 minuto?
+Affermativo. Sarebbe.
+Ok. Ora ci metto un minuto. Mi stai ascoltando bene?
+Affermativa.
+Va bene.
+... Questo è un trucco. Okay, ci sono riuscito. Aggiungo un altro secondo. Ho 08 più 51 più 21.
+Roger. Siamo d'accordo.
+Roger.
+Ah, cavolo, mi è capitato di ritrovarmi in posizione invertita. Per un motivo o per l'altro, si capisce che la ciotola era capovolta.
+Volo del Capo, Sigma Seven.
+Si può dire a Capo Sir John che non abbiamo praticamente nulla sull'impegno dell'ombelico.
+Sigma Seven, qui Cape Cap Com, non abbiamo ricevuto il tuo messaggio da Sir John.
+Ricevuto. Non importa.
+... Cape Cap Com.
+Ho scattato la foto 4, - 4a, che corrisponde alla costa degli Stati Uniti. Immagino che dovrò dare un'occhiata alla mappa a breve per vedere dove ci troviamo. Una massa nuvolosa piuttosto grande a questo punto. Riporremo di nuovo la macchina fotografica. La velocità di deriva non è abbastanza costante da poter scattare una foto e poi riporre la macchina fotografica. Inoltre, la macchina fotografica è un po' difficile da estrarre e rimettere a posto.
+Ahimè, non riesco più a tirare fuori quella macchina fotografica dalla scatola. È ora di scattare una foto. Meglio restare lì dentro per un po'.
+La telecamera non funziona correttamente nel vano portaoggetti.
+Lettura a valore di luce 13-½, e un... all'interno.
+Ho premuto il pulsante sbagliato due volte. Non ho scattato una foto dell'iride.
+Sono quasi a terra. Faremo qualche foto dei cumuli. Il trucco del tempo è... La foto sarà a colori 5a.
+La temperatura della cupola si mantiene sui 21°C. La cupola della cabina è sui 10°C. L'ingresso della tuta è confortevole a 16°C. La pressione della tuta è costante a 5 psi. Formazione di nubi molto interessante per la foto 6b sul retro a colori. Bella collezione di nubi circolari.
+... scattato a 250 56. (1/250 di secondo a f 5.6).
+A. Un po' in assetto ribaltato con il muso piuttosto alto... il valore della luce (impostazione) era 13.
+Riesco effettivamente a vedere il piccolo oggetto che questa volta sembrava un fiocco di neve, allontanarsi dalla capsula. Sulla stessa traiettoria di volo, ovviamente. Sembrava sicuramente un pezzo di bianco, ma è ben visibile contro il cielo nero che vedo ora... le stelle che si allontanano da noi. Ha sicuramente una velocità diversa da quella della capsula stessa.
+e continuo a vedere alcuni effetti fiocco di neve. L'inverter 250 è ora a circa 135 gradi. La temperatura della cupola della tuta è di 72 gradi. La cupola della cabina è di circa 46 gradi.
+Il sole è di nuovo ben visibile... questo dovrebbe essere l'angolo di imbardata corretto, più o meno, perché è lì che si troverebbe il sole al tramonto.
+Tra poco, quindi mi preparerò a copiare il rapporto intermedio. Non metterò la macchina fotografica completamente nella custodia...
+La capsula funziona molto bene a questo punto. 250 (inverter) è 132 (gradi), 150 (inverter) è... 5. Standby (inverter) è 120... propulsori... a destra, oltre 100 (gradi) a sinistra. Pitch down (propulsore) è 105 (gradi). Pitch up (propulsore) è 100 (gradi). Scambiatore di calore della cabina (impostazione) è 4.0. Rollio sinistro manuale (propulsore) è 79 (gradi). Rollio destro automatico (propulsore) è 110 (gradi), rollio sinistro automatico (propulsore) è 105 (gradi). Penso che torneremo indietro e prenderemo il retro. La temperatura è 80 (gradi). Questo è quasi esatto.
+Pronti per il rapporto delle 17:00. Il carburante è a 89-90. L'ossigeno a 56-75 (psi, in centinaia). L'ingresso della tuta è... La temperatura della cupola è a 70 (gradi). La temperatura della cupola della cabina è a... 0,8. Dovrebbe bastare per ora.
+Ho ottenuto più obiettivi di opportunità.
+Sto scattando foto del meteo quasi in verticale. Il valore di luce è 13-½. Il risultato è circa 250 e 5 6 (1/250 di secondo e f5.6). L'impostazione è Infinito.
+Valore di luminosità di 13 per lo stesso soggetto. Ho scattato a 13-1/2. Sembra un'impostazione molto bassa.
+Se non parlo più di questo, non ci vorrà molto per registrare in tempo reale questo registratore. Ci stiamo avvicinando. È abbastanza ovvio che non ti importa davvero quale sia il tuo atteggiamento. C'è sempre la preoccupazione di cercare di tornare all'atteggiamento che dovresti avere. Soprattutto quando stai tornando alla fine della terza orbita per decidere se andare o no.
+Quando ho più tempo, guardo la Terra. La velocità in questo momento, dopo aver spento il motore a circa 0, è quasi esattamente 0. C'è un'inclinazione molto, molto leggera. Circa mezzo grado al secondo.
+... riponendo di nuovo la macchina fotografica... per uscire solo dopo....
+Ok, dovremmo arrivare in Africa molto presto. Capovolgila e guarda come appare senza luce.
+... ora ho la luce del sole negli occhi. Finalmente abbronzati su questo volo.
+Ciao Ascensione, ciao Ascensione, qui è Sigma Seven. Passo.
+Ciao Ascensione, ciao Ascensione, qui è Sigma Seven. Passo.
+Ciao Ascensione, ciao Ascensione, qui è Sigma Seven. Passo.
+Sigma Seven, Sigma Seven, Ascension Cap Com su HF, mi senti?
+Qui Sigma Seven. Ho letto una stazione, molto confusa, per favore identificala.
+In questo momento, che ovviamente è appena prima del tramonto, stiamo osservando una serie di particelle bianche. Si vedono nel cielo azzurro. Ho l'orizzonte quasi in vista. E si stanno allontanando da me.
+Controlliamo se effettivamente si verifica un imbardata. Tendono a salire rispetto a me, piuttosto che allontanarsi verso poppa. Con questo tipo di illuminazione riesco davvero a vedere l'illusione di visibilità, dovuta al problema esterno del fumo sul pannello esterno. Sicuramente non sui pannelli interni. È abbastanza facile vedere, cambiando i pannelli tramite riflessi, che si tratta del pannello esterno.
+Stiamo entrando nella notte. La temperatura della tuta è impostata a 7.0 gradi, molto felice. La tuta stessa è a 62 gradi e sono felice.
+Test, 1 2.
+Ho delle belle stelle in vista, e anche dei piccoli oggetti bianchi che sembrano provenire dalla capsula stessa e allontanarsi. Se fossero un controllo di imbardata, sarebbe fantastico. Sospetto che la stella che vedo sia Arturo. Sarebbe molto interessante: non è né l'una né l'altra. È uno degli oggetti bianchi... due stelle che rimangono immobili. L'oggetto bianco sembrava effettivamente venire verso di me, ma non lo era. Ora riesco effettivamente a vedere la particella, che vola via come l'ha descritta John, come un truciolo di tornio. È un'ottima descrizione.
+Le mie velocità sono ora quasi a zero su tutti e tre gli assi. Ho ancora luce nel periscopio, ovviamente. Sto guardando dritto in alto eppure a questo punto, che è..., il mio atteggiamento è... lasciatemi andare sul divano. Non riesco proprio a sceglierlo bene, sono quasi capovolto a questo punto, e il mio naso è sopra l'orizzonte. Di conseguenza, noto che queste particelle continuano a spostarsi dietro di me, rispetto a me in qualsiasi momento.
+Al tramonto, Periscope si oscura piuttosto rapidamente.
+A questo punto è quasi completamente oscurato. Non è assolutamente utilizzabile.
+Un vero e proprio lampo di luce entra dalla finestra. Non so proprio cosa sia. A questo punto dovrei essere al tramonto... Il periscopio è buio. Devo aver appena dato un'ultima occhiata all'orizzonte; eppure non ci sono ancora. Qui entriamo nella notte piuttosto rapidamente. Ora siamo sul lato notturno. A quanto pare sono puntato verso la superficie terrestre, perché vedo nuvole con fulmini.
+Nave dell'Oceano Indiano, qui Sigma Seven. Come leggete? Passo.
+...con un po' di rumore di fondo. Fine.
+Roger, devo alzare il volume per sentirti. Sto parlando in UHF-hi in questo momento. Sto vagando, e suppongo stia sognando. Mi pare di aver capito che mi hai visto l'ultima volta, da sopra.
+Sono Roger. Abbiamo avuto un avvistamento visivo di 5 minuti per circa 9 gradi o più.
+Molto bene. Sembra che ora ci siano dei fulmini nella tua zona.
+Hai un rapporto intermedio per me in questo momento?
+Affermativo. Sei pronto a copiare? All'epoca tutti i sistemi erano ecologici. Il carburante era all'89% automatico, al 90% manuale. L'ossigeno primario era a 56 (psi, in centinaia), quello secondario a 75. Stavi copiando?
+Roger, al momento ho solo il tuo carico e il tuo ossigeno.
+Roger. Hai capito la quantità di carburante?
+Negativo.
+Ok, l'89% è automatico, il 90% è manuale.
+Roger. I tuoi giroscopi e l'interruttore di manovra?
+Ok, i giroscopi sono ingabbiati, l'interruttore di manovra è spento. Sono spento.
+Roger. Abbiamo ricevuto una richiesta dal Capo per la misurazione della pressione sanguigna, dato che non ne hanno avuta una al passaggio. Oltre.
+Ok, te lo meriti comunque. A breve. Inoltre, vorrei darti la temperatura di ingresso della tuta, che era di 62 gradi.
+Roger.
+La temperatura della cupola della tuta è di 70 gradi e il circuito è confortevole.
+Meraviglioso. Abbiamo anche una richiesta da Cape Canaveral. Al tuo prossimo sorvolo della California, tra le 10:00 e le 11:00, trasmetteranno la tua voce in diretta TV. Passo.
+Roger, capisci a.
+Vorrebbero che tu dicessi qualcosa al pubblico televisivo in diretta in quel momento. Passo.
+Roger.
+A questo punto eseguirò un test di orientamento. Ho mancato di 5 cm il rifornimento manuale (manopola) e la ripressurizzazione della capsula (manopola).
+Prova a toccare l'indicatore di assetto di imbardata, tocca l'indicatore di assetto di imbardata a 270 gradi. Prova a toccare la leva del rateo di emergenza manuale. E ci riuscirò, ci metterò la mano sopra. Credo di aver superato questo test rispetto all'altro (sbadigliando) - sto sbadigliando - con un margine considerevole.
+Sigma Seven, qui Cap Com.
+Andare avanti.
+Letture in questo momento?
+Ripeti.
+C'è qualcosa che desideri sapere dalle letture da terra in questo momento?
+Negativo, sembra tutto pulito. Immagino che non abbia molto senso sottopormi a degli scanner, visto che qui sto procedendo piuttosto bene.
+Roger, hai tempo per il tuo rapporto intermedio.
+Quello era a.
+Bene.
+Ora vedo il mio atteggiamento. Sembra che sia piuttosto buono. È inclinato di circa 55 o 60 gradi.
+No, è tutto sbagliato. Ora capisco che devo essere stato capovolto. L'orizzonte sta iniziando a comparire, e alcune stelle.
+Sigma Seven, Cap Com, 1 minuto a.
+Roger, grazie per la collaborazione, è stato un piacere parlare con te.
+, Proverò di nuovo con l'HF dopo che vi avrò lasciati, giusto per vedere come va.
+Nave dell'Oceano Indiano, qui Sigma Seven in HF. Come leggete? Passo.
+, qui è Sigma Seven su HF. Come si legge? Passo.
+Penso che con questo volo potrò finalmente dare un'occhiata a questo fotometro.
+Spegnete prima le luci della cabina. - Sono spente - Spente - Perdita totale.
+Sto osservando bene Orione in questo momento. Bellissima vista. Ci sono le Pleiadi, Alvagrin. Osserverò Alvagrin e vedrò cosa posso fare.
+Ho spento Alvagrin per leggerlo. Ora, questo esperimento non sarà utile; ho bisogno delle luci della cabina per vedere. È terribilmente difficile trovare il fotometro a estinzione. Vediamo se ci riesco ora. Ho messo a confronto Alvagrin, la sorgente standard, nelle stesse condizioni di illuminazione. Spento a 3,8.
+Al momento non sono in grado di effettuare altri test sulle stelle. Torno a osservare la superficie terrestre. C'è parecchia luce lunare e di conseguenza l'orizzonte è molto luminoso.
+Metterò il fotometro in una zona dove potrebbe essere di nuovo disponibile. A questo punto, le velocità sono quasi esattamente negative: l'imbardata è 0; il beccheggio è -½; e il rollio è ½ a sinistra. Abbiamo sicuramente un'asta fredda.
+Questo periodo di calma deve aver contagiato molte persone sul campo. Credo che dovremmo inserire altri dati qui. Raccolti alle. E a quest'ora vogliono un rapporto intermedio. Glielo faremo avere.
+Ok, facciamo un controllo elettrico. Il bus principale è a 24 volt, il bus isolato è a 24 volt (ticchettio dovuto all'orologio, ovviamente), e sono 27-27,5 volt.
+Ciao Muchea Cap Com, sono Sigma Seven. Ti ricevo. Come faccio, passo?
+Sigma Seven, qui Muchea Cap Com. Mi pare di aver letto... ripeto.
+Roger, qui Sigma Seven. Ti sento forte e chiaro, Gene. Non ci sono cambiamenti nel mio stato. Passo.
+Sigma Seven, sono Muchea. Non ho capito molto bene, ma vorrei chiederti la pressione sanguigna. Il Dottor Berry gradirebbe la misurazione della pressione sanguigna durante le ultime tre orbite.
+Roger, Gene. Dico che non ci sono cambiamenti nel mio stato dall'ultimo rapporto delle 05:00. Passo.
+Roger, mi risulta che non ci siano stati cambiamenti di stato dall'ultimo rapporto.
+Esatto, tutte le quantità sono uguali.
+Tutte le quantità sono uguali.
+Roger. E le temperature. Gene, ho una modifica. L'inverter da 250 è ora a 120 (gradi).
+Ricevuto. Controlla, l'inverter 250 ora è a 120 (gradi).
+Molto bene.
+Roger. Non abbiamo la telemetria, quindi se hai premuto il pulsante della pressione sanguigna non ci serve a niente. Se riceviamo la telemetria, ti richiameremo.
+Mi chiedevo come diavolo avresti fatto a procurartelo. Però andrà a bordo (registratore). Tutta l'alimentazione a corrente continua è di 25 volt o superiore. Passo.
+Ripeti.
+Tutta l'alimentazione a corrente continua, d-c, è pari o superiore a 25 volt. Oltre.
+Hai detto che i volt CC sono 25?
+È affermativo. Sono tutti in buona forma.
+Questo è Sigma Seven, a. Nessuna velocità di imbardata, un leggero rollio a sinistra di ½ grado al secondo. Un leggero beccheggio di ¼ di grado al secondo.
+Sigma Seven, qui Muchea. Non ho letto le vostre trasmissioni per l'ultimo minuto. Vi passo la parola al PCS.
+Roger, Muchea.
+Salve, Nave Comando del Pacifico, Nave Comando del Pacifico. Qui Sigma Seven in HF. Passo.
+Salve, Nave Comando del Pacifico. PCS, qui Sigma Seven. HF. Passo.
+Ciao PCS, PCS. Sono Sigma Seven. Come si legge? Passo.
+Sigma Seven, PCS. Ti abbiamo letto in modo debole ma leggibile. Come me?
+Ti ho sentito forte e chiaro, Al. Ed è stato un piacere parlare con te oggi.
+Al momento sto parlando di HF.
+Pronti, Sette.
+Roger.
+Sette, qui è Cap Com. Tutto quello che vuoi dire.
+Niente di particolare. Voglio comunque salutarti. Tutti i sistemi sono perfetti. Non ci sono cambiamenti nelle quantità dopo il riepilogo. Fine.
+Roger. Abbiamo un messaggio per te. Vorrebbero tentare di contattarti via radio alle Hawaii tramite gli aerei ripetitori. Quindi, potresti passare alla banda UHF prima di acquisire le Hawaii? Passo.
+Capisco, Al, Roger.
+Non lo abbiamo ancora fatto. Potremmo farlo tra un paio di minuti.
+Giusto, sono molto a sud di te, come sai. Com'è il tempo lì?
+Mi sembri un po' irritato, Wally.
+Roger, siamo ancora piuttosto distanti. Com'è il tempo lì?
+Ripeti.
+Com'è il tempo lì?
+In realtà il meteo qui è abbastanza buono. Credo che al tuo prossimo passaggio potresti riuscire a vedere il tifone. Ti darò direzione e distanza la prossima volta che verrai.
+Molto bene, come forse saprai, abbiamo avuto un bel po' di agitazione durante la prima orbita di questa tuta.
+Mi dispiace, Seven, non ti capisco molto bene.
+Roger, ho detto che abbiamo avuto molti problemi con il circuito della tuta all'inizio del volo.
+Sigma Seven, ti stai separando troppo.
+Roger. Tornerò.
+Perché non ti prendi una pausa, hai parlato parecchio.
+Bello spettacolo.
+... Hawaii.
+Esatto, Al, ne parleremo meglio la prossima volta.
+Roger. Ci vediamo alla prossima.
+Roger, oggi qui è davvero bello.
+A questo punto sono in registrazione VOX. Passerò alla banda UHF per i ripetitori aerei nella zona delle Hawaii. È l'ora.
+... Ti darò un voto su - 3,2,1. VOTO..
+Roger, ho avuto quei 3 secondi. Sono più veloce di te di 3 secondi, Al.
+Capire in 3 secondi velocemente.
+Esatto.
+Roger.
+Ora passerò alla banda UHF. Sei davvero chiarissimo.
+Roger. Ci vediamo alla prossima.
+Roger.
+Qui Sigma Seven, che trasmette in modalità cieca su UHF-hi. Qualcuno mi legge? Passo.
+Ciao Huntsville, ciao Huntsville, sono Sigma Seven, hai letto il mio UHF? Ciao, passo.
+A questo punto, ho una velocità di imbardata di ½ grado al secondo a destra, una velocità di beccheggio di ½ grado al secondo in alto e una velocità di rollio di ½ grado al secondo a sinistra.
+Sigma Seven, Sigma Seven, qui è... Cap Com su HF, mi ricevi?
+Qui Sigma Seven, stazione chiamante, riesco a malapena a sentirvi.
+Sigma Seven, Sigma Seven, qui è Watertown Cap Com in HF. Se mi ricevete, Cape Flight vi chiede di andare in UHF, andare in UHF e provare a contattare l'aereo ripetitore. Ripeto: nella fase cieca, Cape Flight vi chiede di andare in UHF e provare a contattare l'aereo ripetitore.
+Qui Sigma Seven, vi leggo forte e chiaro da Watertown. Sono stato in UHF.
+Aereo staffetta, qui Sigma Seven. Per favore, passate alle Hawaii. Passo.
+Sigma Seven, Sigma Seven, qui Watertown Cap Com. Cape Flight vi chiede di andare in UHF - andate in UHF - e di tentare di contattare l'aereo ripetitore.
+Qui Sigma Seven. Sono in UHF. Capisco i requisiti.
+Aereo Staffetta, Aereo Staffetta, qui è Sigma Seven. Passo.
+Staffetta....
+Hawaii Cap Com.
+Ciao Gussy. Come mi senti?
+Hawaii Cap Com, qui Sigma Seven. Vi ho appena sentito forte e chiaro.
+Sigma Seven Sigma Seven, Hawaii Cap Com.
+Hawaii Cap Com, qui Sigma Seven, vi ricevo forte e chiaro. Come faccio?
+Hawaii Cap Com, Sigma Seven, vi ho sentito molto chiaramente e ad alta voce. Passo.
+Sigma Seven, Sigma Seven, qui Watertown Cap Com in HF. Se ci sentiamo, andiamo in UHF, andiamo in UHF e proviamo a contattare l'aereo ripetitore.
+Hawaii Cap Com, Hawaii Cap Com, Sigma Seven. Fine.
+Salve, Hawaii Cap Com. Qui Sigma Seven. Passo.
+Hawaii Cap Com, Hawaii Cap Com, qui Sigma Sevn. Passo.
+Questo è Sigma Seven, che riproduce l'effetto di un volo capovolto all'alba, con un'imbardata di 90 gradi. È la cosa più ovvia per te, qual è la direzione del tuo percorso. Come guardare fuori dal finestrino di un treno. Vedi il terreno che ti scorre accanto. Ci sono nuvole di ogni tipo. Le vedo passare accanto a me proprio sul piano a 90 gradi, a 90 gradi rispetto all'asse longitudinale del veicolo. Una rappresentazione grafica dell'imbardata. Mentre viro, la mia estremità smussata inizia ad assumere la corretta posizione di imbardata, anche se sono capovolto. Vedo una piccola isola a questo punto. E la cabina di pilotaggio è di nuovo bella e luminosa. Abbiamo luce approssimativamente a questo passaggio. Ecco, ora siamo quasi in imbardata.
+Sigma Seven, Sigma Seven, Hawaii Com Tech. Come leggi? Passo.
+Qui Sigma Seven, UHF-hi. Vi sento forte e chiaro. Come faccio?
+Hawaii Com Tech, Sigma Seven, ricevo il tuo messaggio di caricamento e cancellazione. Come faccio? Passo.
+Sigma Seven, Sigma Seven, Hawaii Com Tech. Come leggi? Passo.
+Ti ho sentito forte e chiaro, Hawaii, come sono? Credo di aver appena visto Midway quella volta. Tornerò da quelle parti un po' più tardi. Erano circa le 5... dalle 7 alle 6, ripensandoci.
+... leggi?
+Hawaii Com Tech, Sigma Seven. Forte e chiaro.
+Sigma Seven, Com Tech, Hawaii. Come leggi?
+Hawaii, Sigma Seven. Ti sento forte e chiaro.
+Sigma Seven, qui sono le Hawaii, qui è Hawaii Cap Com.
+Ciao Gus. Come stai?
+Davvero buono. E tu?
+Oh, bene. Non mi annoio qui. Ho appena sorvolato Midway poco fa. L'ho visto bene. Sto accelerando verso di voi, ovviamente a nord. Ho dato a Gene Duret il mio rapporto intermedio, se potesse venirmi a prendere in alta quota. A dire il vero....
+Procedi con il tuo resoconto.
+Ok, come sai, la modalità di controllo è impostata per la deriva. La modalità selezionata è normale, automatica, giroscopi ingabbiati. Ho selezionato l'assetto di rientro. Sono ovviamente in modalità fly-by-wire low. L'interruttore di manovra è spento. Ti darò le quantità di carburante e ossigeno. Solo per confrontare le tue con le mie. Ho ancora l'89% di auto e il 90% di manuale.
+Roger. Era l'89-90?
+Questa è una risposta affermativa 89-90.
+Roger
+Ossigeno, ne ho 55 e 75 (psi, in centinaia).
+Roger.
+A, ho 56 sull'ossigeno e 75. Non c'è praticamente alcun cambiamento.
+Roger.
+La temperatura di ingresso della tuta è ancora sui 15-16 gradi. La cupola è sui 22 gradi. È la temperatura che voglio. È semplicemente meravigliosa.
+Ricevuto. Confermiamo queste quantità, Wally. Sembra che tu sia in buona forma. Hai ricevuto il messaggio di andare in UHF prima che scadesse il tempo.
+Esatto, ce l'ho sulla mia scheda, anche Watertown me l'ha trasmesso in alta frequenza. Ma né Watertown né tu avete potuto sentirmi. Io vi ho sentito forte e chiaro.
+Mi stavi leggendo tramite relay?
+La risposta è affermativa, quindi ti suggerisco di trasmettere alla cieca se hai qualcosa di interessante per me.
+Roger. Lo farò comunque, e sono contento di sapere che almeno ci hai beccati.
+Giusto, ti ho sentito molto tempo fa e, direi circa
+Ripeti quella volta.
+Ripetuto per tutto il tempo. Mi è sfuggito.
+Roger.
+Con questo passaggio si rompe sicuramente la tradizione.
+Roger, ti piace il volo alla deriva?
+Ottimo sport. Le tariffe non sono costanti. Cambiano.
+Roger, capisco. Le tue tariffe cambiano.
+È affermativo. Non ho mai avuto più di circa, direi circa 3/4 di grado al secondo in una direzione.
+Wally, stai interrompendo e riattaccando la voce. Forse stiamo perdendo la testa.
+Okay. Riesci a capirmi meglio con il push-to-talk?
+A - abbiamo un'imbardata a destra di 1 grado al secondo, un beccheggio di 0 gradi al secondo e un rollio a sinistra di 3/4 di grado al secondo. Nessuna variazione nella quantità di carburante. Nessuna azione rilevabile dei propulsori. Stiamo virando e acquisendo l'orizzonte a questo punto.
+California Cap Com, qui Sigma Seven, passo.
+Ciao Sigma Seven, sono Cal Cap Com. Come ti senti? Passo.
+Ti ho sentito forte e chiaro, John. Come me?
+Sei forte e chiaro. Qui sotto è tutto a posto. Immagino che tu abbia colto la parola. È una conferma?
+Affermativo. Ce l'hai con me adesso? Mi metto in moto prima di tutto quel jazz.
+Okay, Roger. è solido.
+Ok. Ho i giroscopi normali, automatici, con gabbia. Ora accendo e poi vado - correzione - accendo e fly-by-wire. Sto monitorando il bus a-c in questo momento. Arriva a 115. Ho 25 ampere, in buone condizioni.
+Ricevuto. Confermiamo.
+Rimango in attesa del mio faro. L'orologio segna circa, credo, quando l'ho acceso, quindi dovrebbe essere buono circa. Non ho spiccioli per i materiali di consumo, John. Qui sembra davvero buono.
+Roger. Qui tutto sembra a posto. Abbiamo solide basi e confermiamo le tue azioni.
+Roger. A questo punto ho un atteggiamento davvero strano, ti do un indizio. Ah, ah, sto guardando la Terra dall'alto. Sto venendo verso di te a testa in giù, capovolto.
+Roger. Puoi farti un'idea da questo punto di vista.
+Sì. Ogni tanto ti viene davvero l'illusione di essere pronto per una S divisa, non è vero?
+Giusto.
+Wally, ti faccio un conteggio fino a qui, così... iniziamo. Lo terranno in onda per 2 minuti a partire da. Sono circa 20 secondi, qui.
+Okay, John, sembra divertente.
+Ok, Sigma Seven. Qui è Cal Cap Com. Sei a. Due minuti in diretta TV. Vai avanti, Wally.
+Roger, John. Sono appena uscito dalla configurazione di spegnimento, in cui avevamo l'inverter spento. È tornato in buone condizioni e rimarrà acceso per il resto del volo. Gli ampere e i volt sono corretti. Gli ampere sono scesi a circa 19 ampere, dopo l'accensione. All'inizio erano a 25. Questa volta sto venendo verso di voi a razzo, il che è un modo insolito per chiunque di noi di avvicinarsi alla California, lo ammetto.
+Roger, Wally, avete qualcosa da dire a tutti, vi guardano da ogni parte del Paese per questa cosa. Andiamo in diretta.
+Sembra una cosa fantastica, capisco perché piaccia a te e Scott. Ora ho un trucco. Sto guardando gli Stati Uniti e sto iniziando a inclinarmi leggermente con questa velocità di deriva. E vedo la luna, che sono sicuro nessuno negli Stati Uniti possa vedere bene come me in questo momento.
+Penso che probabilmente hai ragione.
+Ah, ah. Immagino che una vecchia canzone, "Drifting and Dreaming", sarebbe appropriata a questo punto, ma a questo punto non ho la possibilità di sognare. Mi sto divertendo troppo.
+Da qui le cose sembrano andare davvero bene, Wally.
+Grazie, John. Credo che in questo momento stia girando un po' per gli Stati Uniti come un paio di Immelman.
+Roger. Wally, hai avuto modo di osservare uno strato di foschia?
+Sì, l'ho notato. È piuttosto affascinante; in realtà, di sera è fuorviante. Ti dà la sensazione di essere catapultato molto più in basso. Ci hai fatto caso?
+Roger.
+Si prevede che la temperatura salirà molto più in alto in serata.
+Ah, vedo che mi hai beccato con una Z Cal.
+Negativo, non ha inviato Z Cal, Over.
+Oh, qualcuno l'ha fatto. Forse Scotty.
+Potrebbe averlo fatto.
+Roger... Z Cal è fuori ora.
+Vedi, non puoi essere subdolo con me, vero Scott? Ora ho la PO2 (pressione parziale dell'ossigeno), che va a 0 quando lo fai. Okay, R Cal. Come va? Qualcuno vuole la pressione sanguigna.
+Ripeti, Wally.
+Ok, ora ti mando la pressione sanguigna.
+Roger, in attesa. Cal sta uscendo.
+Pressione sanguigna alta.
+Abbiamo la tua pressione sanguigna. Ti aspettiamo per un referto standard.
+Roger, Scott. Sono in volo di deriva, ma ho acceso il bus a-c. Funziona molto bene. Accenderò i fari più tardi. La modalità di controllo selezionata è fly-by-wire, anche se non la sto controllando. L'interruttore automatico è automatico, l'interruttore del giroscopio è ancora in gabbia. L'assetto di rientro è selezionato, la manovra è disattivata. Le quantità sono tutte nel verde. La temperatura della tuta è di circa 60 gradi. Mi trovo abbastanza bene. L'impianto elettrico è verde e l'a-c è verde.
+Roger, potremmo avere un altro controllo della pressione, per favore? Non ho ricevuto l'ultimo. Il tuo (area di recupero) 5-1 TORF (tempo di retro-accensione) ce l'ho. Sei pronto a copiare?
+Lasciami fare prima questo, poi ti darò la pressione sanguigna.
+Roger,.
+Sono Roger. Per tua informazione, Ascension ti ha copiato durante l'ultimo passaggio e sono pronti a copiarti di nuovo questa volta.
+Roger, ti mando un BPMS.
+Roger.
+Ho il tuo.
+Quello è Roger, per (area di recupero) 5-1.
+Roger.
+A proposito, Wally, se prima di leggere l'ultima parte della tua pressione sanguigna, non dimenticare di spegnerla.
+Roger. Grazie.
+Passerò alla registrazione VOX solo momentaneamente.
+Ora, nel controllo del dosimetro, la lettura è ancora inferiore a 1/10 sulla scala più bassa.
+Able 8 scattata a. Una costa. Avrebbe dovuto essere la costa di... Tampico, appena a sud del Texas.
+Finora sono state scattate solo foto a colori, niente bianco e nero. Proverò a scattare un'altra foto di una struttura nuvolosa.
+Avanti. Avanti. Cape Cap Com.
+Sigma Seven. Cape Cap Com.
+Qui Sigma Seven. Forza, Deke.
+Roger, la tua voce è debole e intermittente. Riesci a sentirci? Passo.
+Roger. Arrivo proprio qui, dall'altra parte della penisola dello Yucatan.
+Sigma Seven. Attenti, non vi riceviamo ancora.
+Roger.
+Sigma Seven. Cap Com. Proviamo di nuovo.
+Deke, qui è Sigma Seven. Stiamo sorvolando la penisola dello Yucatan.
+Roger. Sei ancora debole e intermittente.
+Roger.
+Sigma Seven. Cap Com. Come leggi adesso?
+Ti ho sentito forte e chiaro. Come mai?
+Roger, sei stato forte e chiaro. Prima eri molto confuso.
+Roger. Sto usando il controllo parziale in modalità fly-by-wire a bassa velocità. Acquisirò il controllo quando sarò in retroattività. Nessun problema, l'uccello vola splendidamente, quindi dategli un po' di tregua.
+Roger.
+Quando hai un'imbardata di 90 gradi, è come guardare il finestrino di un treno: niente di più. È più o meno quello che sto passando ora. Sto solo camminando lungo l'orizzonte, Deke.
+G
+Mettiamoci un po'....
+... pressione per l'ambiente.
+Ripeti, Deke.
+Dateci la pressione della cabina.
+Ricevuto. Pronti. Bene. Sono circa 5 (psi) sul pulsante.
+Roger.
+Va bene.
+Hai già mangiato? Non siamo riusciti a confermarlo.
+Esatto. Avevo delle pesche e un paio di cubetti. Non volevo finirle tutte in una volta.
+È una buona idea.
+Distribuiscilo un po', sai.
+Come ti senti in generale?
+Molto bene, Deke. È la prima volta che ho la possibilità di rilassarmi da dicembre scorso. Ho anche fatto un po' di esercizio per tonificare i muscoli. Non proprio una passeggiata, ma un po' di stretching.
+... (Dici - dici che sei cosa?)G
+Roger.
+Hai detto che ti piacerebbe alzarti e camminare?
+Ho fatto un po' di esercizio.
+Ricevuto. Capisco.
+Ormai sono quasi in retrospettiva. Ho quasi fatto un'inversione di marcia completa di 180 gradi.
+G
+Tra poco andrò a prendere il tono.
+Cape Cap Com. Auto One, mi capisci?
+Sigma Seven, Sigma Seven. Auto One. Sai leggere?
+Qui Sigma Seven. Vi leggo forte e chiaro. Come faccio?
+Ciao, Cape Cap Com....
+Sigma Seven, Sigma Seven. Auto One. Sai leggere?
+Avanti. Cape Cap Com.
+Sigma Seven, Sigma Seven. Auto One. Sai leggere?
+Qui Sigma Seven. Vi sento forte e chiaro.
+Roger. Sigma Seven. Cape Cap Com. Auto One.
+Roger, Cape Cap Com. Auto One. Contatto... relè.
+... Cape Com Tech. Come leggi?
+Come si legge Auto One?
+Roger.
+?: Hai chiamato Com Tech?
+Sigma Seven. Auto One. Leggi Cap.Com?
+Questo è affermativo. Qual è il tuo problema?
+Sigma Seven, Sigma Seven, questa è Auto One. Sai leggere Cape Com Tech?
+Affermativo. Per l'amor di Dio.
+Auto Uno. Guerra. Mi senti?
+Ricevuto. Auto Uno. Leggere Warfare forte e chiaro.
+Roger. Bravo allora.
+Roger. Bravo.
+Auto Due Bravo.
+?: Mercurio lo raccoglierà.
+Auto Due. Guerra. Sai leggere?
+Auto Two riporta la dicitura Guerra.
+Ricevuto. Chiama Sigma Seven.
+Sigma Sette. Auto Due. Sai leggere?
+Qui Sigma Seven. Ti ricevo. Cosa vuoi?
+Sigma Sette. Auto Due. Sai leggere?
+Ciao Sigma Seven. Cape Cap Tech. Come si fa a copiare?
+Ti seguo forte e chiaro, Murph.
+Roger. Pronti per Cape, per favore.
+Va bene.
+Sigma Seven. Cap Com. Come leggi adesso?
+Ti ho sentito forte e chiaro, Deke. Come me?
+Molto meglio. Ora ti ho fatto superare la staffetta di Grand Turk.
+Oh! Che ne dici? Ora sono in modalità rientro automatico. Fine.
+Capisco. Modalità retro automatica.
+Negativo. Modalità di rientro automatico.
+Ricevuto. Capito. Rientro.
+Roger. E sembra davvero ben piazzata.
+Sigma Seven, Sigma Seven. Auto One. Sai leggere?
+Sigma Seven, Sigma Seven. Auto One. Sai leggere?
+Sigma Seven, Sigma Seven. Auto One. Sai leggere?
+Sigma Seven, Sigma Seven. Auto One. Sai leggere?
+Auto Uno, qui Sigma Sette. Ti capisco. Come fai a capirmi? Passo.
+Questa è la Sigma Seven, solo in registrazione VOX. Ho ristabilito la modalità automatica in modalità normale, senza l'azione dei propulsori ad alta potenza. A questo punto ho l'85% di auto e il 90% di manuale. E sento che, ora che sono in funzione, posso fare degli esperimenti dove prima non ero in grado di fare. Ora abbasso la capsula in modalità fly-by-wire. Per prima cosa controllo: se accendo i miei radiofari, nessuno qui sotto può contattarmi. Se qualcuno ha un radiofaro in Sud America, merita di sentirlo. I radiofari sono accesi, per ben 3 ampere. Apro la visiera per asciugarmi il mento e penso che berrò un sorso d'acqua.
+Chiudo la visiera. Ok. Diamo un'occhiata e vediamo dove siamo. A questo punto abbiamo fatto un controllo del dosimetro. Passo in modalità fly-by-wire per l'assetto di rientro. Ora proviamo con la modalità proporzionale manuale, questa volta.
+In modalità proporzionale manuale, con la leva manuale estratta e il comando di velocità selezionato. Sto lentamente ma inesorabilmente entrando in retroattività. Tutti gli assi funzionano benissimo. Impostazione in rollio. Velocità di imbardata, potenza, potenza. E voglio che questo conti: tornerò al fly-by-wire basso.
+Che stupidaggine. Ora passiamo al fly-by-wire basso. Ho avuto un caso di doppia autorità e ho davvero fatto un pasticcio. Ma è meglio risparmiare carburante. È fin troppo facile entrare in doppia autorità, anche con la logica tremenda che hai su tutti questi sistemi. Il beccheggio è dentro; l'imbardata è dentro; selezione dell'assetto di rientro; il rollio è dentro; in fase di rientro, ora. E lei è dentro.
+Ok. Penso che possiamo invertire la rotta e scattare qualche foto dell'ufficio meteorologico, se possibile. Inquadrare il resto, il resto di questi, solo leggermente. Questo è A 10, e 11 sta arrivando, con un banco di nuvole sulla sinistra. Ok. Rimetto la targa e salvo questo ad A. Tolgo di nuovo la targa, zap. Ok. Questo è caricato, A 12 rimane.
+La capsula a questo punto è, a... è in configurazione scimpanzé. Ho usato molto il proporzionale manuale. Ora ho il 79% in manuale e l'81% in automatico. Vediamo come andiamo. Ah, 81, 80 automatico, 71 manuale.
+Ho fatto un pasticcio, accidenti.
+Che furbo. - Il retro dell'ufficio meteorologico è finalmente uscito. Il primo scatto non vale la pena di essere usato, quindi lo cambierò. - Okay. Abbiamo tirato fuori il cursore. Filtro meteorologico inserito, se riesco a trovarlo. Questo lato verso l'obiettivo. Lì, abbiamo inserito un filtro. Scatterò a 64 ASA.
+Prendi un valore di luce a, e quel valore di luce è 13 per 64 ASA. Molto buono. Abbastanza luminoso,... Le darò 13, e faremo un paio di scatti veloci a causa del primo scatto pessimo. Primo scatto fatto a
+Secondo colpo.
+La capsula è in perfetto assetto. Scatti ideali per l'ufficio meteorologico. Credo di aver persino acceso il mirino in questo periodo. Fotografo le nuvole in bianco e nero.
+Nel bianco. Pronto a sparare a 6 -. Quello era un obliquo. Tiro numero 3. Farò il tiro numero 4 quasi dritto, per quanto riesco a mirare. Oltre un po' d'ombra mentre ci avviciniamo al tramonto. Okay, quello era.
+Questo è il tempo trascorso dalla capsula. Ora copieremo il rapporto intermedio manuale e posso farlo in questo momento.
+Ok, siamo a 81 - 79 (percentuale di carburante manuale)...cabina 90 (gradi)... tuta 63 (gradi)... Cupola 71 (gradi).
+Ora siamo alla mappa due.
+A questo punto, ho eseguito un controllo elettrico completo. Tutti i sistemi elettrici sono verdi. Gli ampere sono circa 19 ampere. Questo è molto logico dopo che siamo stati inseriti. Il carico è crollato a causa del rilascio dei relè a Tr+5.
+Tutta l'attrezzatura è in buone condizioni. Ci avviciniamo a 6+50, di notte, e questa volta voglio consultare le mappe stellari per dare un'occhiata a questo orso. Ecco perché ci sono.
+Mi sono divertito a sperimentare e ora avrò il piacere di essere pronto per il rientro in qualsiasi momento. Okay. Vediamo, siamo arrivati ​​a... come 0 52.
+C'è un orizzonte interessante. Il sole è spostato a sinistra di circa - oh, direi 40 gradi. C'è una linea scura sulla superficie terrestre, arancione tra le nuvole, una fascia gialla chiara, una bianca chiara e una blu. Un blu molto chiaro e a questo punto ho il pianeta Mercurio in vista. Prima che il sole tramonti. Ed è nella posizione corretta.
+Descrivendo la fascia blu. C'è una fascia blu relativamente scura proprio sulla superficie terrestre, poi una fascia azzurra, poi un'altra fascia blu scura, poi una grande fascia bianca che è il bagliore dell'aria, e poi una nera profonda che va da un blu grigiastro a un nero denso. Sembra quasi di essere sotto una nuvola di pioggia, per quanto riguarda la transizione dalla fascia blu all'oscurità totale. E accenderò le luci della punta delle dita. E Mercurio è proprio all'orizzonte. Arturo dovrebbe essere in vista, ma immagino che non riusciremo a vederla.
+Ok, vedo Mercurio attraversare il bagliore dell'aria. Vedremo se regge. Quando ho detto "Vedo", è stato l'inizio. MARK,T il primo cambiamento di colore, che ora è un azzurro chiaro. Ed è ancora visibile. MARK,T un blu più scuro. Visibile MARK,T nel giallo-arancio della superficie terrestre. Questo era - Mercurio, che scendeva all'orizzonte. Dovrei vedere la Luna e Venere abbastanza presto. A - e a Sono finito.
+Ok, sembra che stiamo vedendo alcune aree illuminate sopra la punta meridionale dell'Africa. Ho sicuramente una città in vista, e... questa è Sigma Seven. In trasmissione, ho avuto solo la registrazione VOX. Ho sicuramente una città in vista in Africa. È apparsa per la prima volta a pochi secondi. Le luci sono molto nitide. A questo punto sono in retroattività per dare un segno della mia posizione, e la luna è sulla mia traiettoria di volo per i riferimenti di imbardata.
+Scommetto tutti i miei soldi che quella città era la mia sinistra, ed era Port Elizabeth.
+Indian Ocean Cap Com, qui Sigma Seven. Fine.
+Indian Ocean Cap Com. Sigma Seven. Oltre.
+Sigma Seven, Sigma Seven. Impossibile leggere la trasmissione. Passo.
+Indian Ocean Cap Com. Sigma Seven. Oltre.
+Roger. Ora ti leggo. Passo.
+Roger. Ti ho capito male.
+Hai un breve resoconto per me? Passo.
+Roger. Ti darò la mia configurazione. Sono in modalità di controllo automatico retroattivo; i giroscopi sono normali; l'interruttore di manovra è spento; tutti i materiali di consumo sono in verde; l'impianto elettrico funziona a dovere; la capsula sta tracciando bene. La Luna è un riferimento perfetto a questo punto, è esattamente sulla traiettoria prevista, così come Venere, come probabilmente saprai da laggiù.
+Roger. Abbiamo un. Hai circa 3 secondi di vantaggio sul tuo.
+Potresti darmi un conto alla rovescia, per favore.
+Roger. Al mio segnale sarà. MARKT
+Erano 33, circa 4 secondi di differenza. Vedo che hai di nuovo dei bei fulmini.
+Sigma Seven. Per non parlare della parola, ma mi manderesti la pressione sanguigna? Passo.
+Va bene.
+Qui Cap Com. In attesa.
+Roger. Se mi lasci un commento, a questo punto andrò a controllare Venere per vedere se è estinta e come si presenta.
+Roger.
+Bene. Venere è estinta a un valore di 5,2.
+Sette. Che ora era quella che hai indicato?
+Sto solo registrando dati.
+Anche la luce standard si spegne a 3,8.
+Foto scattata in bianco e nero della luna. Con il filtro meteorologico rimosso. Foto numero 6. E mentre la luna tramonta ne proveremo un'altra con una velocità di otturazione inferiore. Cercando di tenerla con attenzione. Questa è la seconda foto scattata della luna al tramonto. A questo punto il dorso della fotocamera verrà reinstallato e la fotocamera riposta in caso di un tentativo di retrofotografia.
+Ciao! - Un bel lampo di luce.
+La telecamera verrà riposta nella cupola spaziale.
+Fari automatici. I fari sono accesi ora. La telecamera è riposta.
+Ok, mentre leggo gli strumenti, il 250 è 145 (gradi). Questo è l'inverter da 250. L'inverter da 150 è 105 (gradi) e l'inverter di riserva è 119 (gradi), la temperatura retrograda è 75 (gradi). Imbardata a destra 100 (gradi), imbardata a sinistra 90 (gradi), beccheggio in discesa 96 (gradi), beccheggio in salita 102 (gradi), scambiatore di calore in cabina 42 (gradi), rollio a sinistra manuale 98 (gradi), rollio a destra automatico 108 (gradi), rollio a sinistra automatico 108 (gradi), sempre lo stesso. Molto bene. E questo rapporto è stato fatto a.
+A questo punto, tutti i sistemi sembrano molto buoni. Questo è il veicolo più compatto che si possa immaginare.
+A quel punto, vedo un'area illuminata. Molto ben illuminata. Sembra più un aeroporto. Meglio identificare dove dovrebbe essere: dovrebbero essere le Filippine. Forse è a Zamboanga, e lì. Una serie di luci molto evidenti. Molto facile da vedere.
+Correzione, alle 07:00 mi ha fatto superare.
+... È segnato sulla carta. Stavo guardando dall'alto, quasi con sguardo retrospettivo. Si vedeva molto chiaramente.
+Ora stiamo vedendo un pianeta. Ricevuto. Giove. Vedo una fila di stelle per Grus, e il caro vecchio Formalhaut - lì nell'angolo in alto, Grus che scende nel mezzo. E Formalhaut che scende proprio nel mezzo. Molto bene.
+Tutti gli atteggiamenti sembrano funzionare molto bene. Testa e divano con linea di tracciamento funzionano. Il mio reticolo è qui, un rapido controllo.
+Impossibile attenuare sufficientemente il reticolo per un'acquisizione notturna. MARK di nuovo Grus, cioè delle stelle stesse nella finestra... Thaurus sta arrivando proprio attraverso la linea centrale. Potrei imbardare a destra di circa 5 gradi, il che soddisferebbe la stima. Poi rollare a sinistra di circa 5 gradi, il che è piuttosto grafico. Per un'osservazione retrospettiva, questa sembra un'ottima configurazione. Non ci saranno problemi di assetto di volo qui con la luna luminosa... luce che sarebbe la luce dell'alba. Occasionalmente si può vedere una luce al suolo, in particolare lungo la catena di isole in questo punto.
+Sigma Seven, Sigma Seven, questa è PCS Com Tech, PCS Com Tech. Mi hai letto? Passo.
+Qui Sigma Seven. Vi leggo forte e chiaro. Come faccio?
+Roger. Sigma Seven. Ti leggo 5 alla volta, 5 alla volta. Vado alla Cap Com.
+Roger.
+Ciao Seven. Sono in attesa del tuo resoconto.
+Roger, Al. Sono in modalità automatica; retrograda; gli interruttori del giroscopio sono normali; la manovra è disattivata. La capsula è pronta per la retrosequenza, ma per stivare due carte. Sono sicuro che andiamo. Ho l'81 percento in modalità automatica, (carburante) e l'80 percento in modalità manuale (carburante), che è lo stesso del mio rapporto intermedio. Non sono cambiati. Ho 52 (psi, in centinaia) sull'ossigeno primario, 75 (psi, in centinaia) sull'ossigeno secondario. La tuta è pronta a 62 (gradi). Come prima.
+Roger, Seven. Non ho capito la lettura del carburante manuale. Ti sei un po' scompigliato. Me la puoi dare, per favore?
+Ricevuto. Il manuale è all'80%.
+Roger. Ho l'81% di cambio automatico, l'80% di cambio manuale, l'ossigeno a 5.200 psi e 7.500 psi.
+Esatto.
+Beh, direi che puoi partire senza problemi. Al momento non siamo in contatto con Cape Cod, ma sembra che tu possa percorrere l'intero itinerario.
+Esatto. Ora, il mio, credo, è veloce di circa 3 secondi, come sai.
+Roger. Perché non mi dai un trucco per calcolare il tempo?
+Okay. Ti do un 35. MARK 35.T
+Roger. Sei avanti di circa 3 secondi. Il tuo TORF (tempo di retroaccensione) è 08 Volume 1 21.
+Roger. Ecco cosa ho dentro.
+Anche il tuo impulso è veloce di 2 secondi. La retrosequenza per (area di recupero di emergenza) 5-Echo è nominale.
+Roger. 5 Echo, Al. È una vera palla.
+Cavolo, sembra che ti stia divertendo molto. Ti lascio qualche secondo di silenzio mentre ti mando una calibrazione.
+Va bene.
+Sette, questa è Cap Com.
+Roger. Vedo che sei ancora su R Cal.
+Confermato. La R Cal è ora disattivata.
+Roger. Mi sta venendo voglia di farlo.
+Abbiamo confrontato l'effetto della superficie libera del liquido sul baricentro della capsula e consigliamo di svuotare le sentine prima del rientro.
+Ah! Ah! Ah!
+È durante la prossima orbita.
+Sono d'accordo.
+Inoltre, Seven. Alle 7:00, che dovrebbero verificarsi intorno alle 10:00, il tifone si troverà a circa 400 miglia, a circa 45 gradi a sinistra della tua rotta. Quindi dovresti riuscire a individuarlo.
+Oh, molto bene. Lo cercherò.
+E vi stiamo ascoltando forte e chiaro e saremo pronti per il vostro controllo HF.
+Roger.
+Se non hai altro da dire, ci vediamo la prossima volta.
+Ok, faccio un salto.
+In attesa.
+Roger, Al. Grazie mille.
+I gyros sono gratuiti.
+Sette. PZ.
+Qui è Sigma Seven. In HF. Qui è Sigma Seven. In HF. Un breve conteggio a. Questo serve per verificare la copertura HF sul World Wide Range. La durata della trasmissione è di 60 secondi. Vorrei sapere cos'altro potrei dire per perdere tempo. Se respiro abbastanza forte, questo potrebbe aiutare. La capsula funziona molto bene e credo che stiamo per raggiungere la fine dei 60 secondi. Utilizzando HF, trasmetto e registro su tutto il World Wide Range. E questa è Sigma Seven. Controllo.
+Sette, questo è PCS. Leggi ancora?
+Questo è affermativo su HF. Come mi interpreti, Al?
+Forte e chiaro, Wally. Potresti, se hai tempo, raccontarci come stai procedendo nei test di orientamento? Passo.
+Sembra che stia migliorando. Ciò che tocco sono solo questi tre oggetti, ma ogni volta che li tocco mi avvicino sempre di più.
+Molto bene. Gli specialisti del restringimento delle teste ne saranno entusiasti.
+Immagino che siano completamente senza lavoro.
+Okay Wally san. Ci vediamo la prossima volta.
+Giusto Al. Grazie ancora.
+Sigma Seven, Sigma Seven, questa è Huntsville Com Tech.
+Huntsville Com Tech, qui Sigma Seven. In alta frequenza. Mi senti? Passo.
+Sigma Seven, Sigma Seven, questa è Huntsville... Sigma Seven, Sigma Seven, questa è Huntsville Com Tech.
+Sigma Seven. Hawaii Cap Com. Potresti sentirmi?
+Huntsville Com Tech. Qui Sigma Seven. In UHF. Hawaii Cap Com. Vi ricevo. Passo.
+Sigma Seven, qui Cap Com. Fine.
+Roger. Huntsville, qui Sigma Seven. Ti ricevo forte e chiaro. Hai qualcosa da riferire al Capo? Passo.
+Negativo. Qui tutto sta andando a gonfie vele. A quanto pare sono impegnato per sei ore e ne sono molto contento. L'impianto funziona a meraviglia. Nel caso Al non riuscisse a rimettermi il carburante. Ho l'81% di cambio automatico, l'80% di cambio manuale, - a questo punto sono in modalità automatica, controllo retroattivo.
+Sigma Seven. Ripeti, per favore. Passo.
+Ok. A questo punto sono in modalità di controllo automatico e retro. - I giroscopi sono gratuiti per il test dello scanner.
+Sigma Seven. Me lo dai HF, per favore?
+Hawaii Cap Com. Puoi trasmettermi in UHF? Ricevuto. Passo in HF. Pronto per il riscaldamento.
+Sigma Seven. Ripeti UHF.
+Qui Sigma Seven. In HF. Mi sentite in HF? Passo.
+Sigma Seven, qui Watertown Com Tech. Vi ricevo in UHF. Passo.
+Questa è Sigma Seven. Watertown. In HF. Ti ricevo in UHF. Come mi ricevi? Passo.
+Sigma Seven, Sigma Seven, questa è Watertown.
+... ci vai ancora? Finito.
+Qui Sigma Seven. Si parte. Sigma Seven. Commutazione UHF.
+Sigma Seven. Vai ancora? Sigma Seven, Sigma Seven. Vai ancora? Vai ancora?
+Hawaii Cap Com, Hawaii Cap Com. Sigma Seven. Su UHF. Sono molto interessato. Oltre.
+Sigma Seven, Sigma Seven, qui è Watertown Cap Com. Come si legge HF? Passo.
+Watertown, qui Sigma Seven. Sono in HF - correzione, sono in UHF - ciao. Vi ricevo in HF forte e chiaro.
+Sigma Seven, qui Watertown Com Tech chiama HF. Come leggete? Passo.
+Watertown. Sigma Seven ti legge forte e chiaro.
+Sigma Seven, Sigma Seven, qui è Watertown Com Tech. Come si legge l'HF?
+Watertown Cap Com, qui Sigma Seven. Vi ricevo forte e chiaro UHF. Passo.
+Sigma Seven, Sigma Seven, qui è Watertown Com Tech. In alta frequenza. Come si legge?
+Sigma Seven ti legge forte e chiaro. Fuori.
+Sigma Seven, Sigma Seven, qui Watertown Com Tech. HF. Come si legge?
+Qui Sigma Seven. Vi leggo forte e chiaro. Fuori.
+Sigma Seven, Sigma Seven, qui Watertown Com Tech. HF. Come si legge?
+Sigma Seven, Sigma Seven, qui Watertown Com Tech. HF. Come si legge?
+Hawaii Cap Com, Hawaii Cap Com. Sigma Seven. Mi leggi? Passo.
+Hawaii Cap Com, Hawaii Cap Com. Sigma Seven. Fine.
+Sigma Seven, Sigma Seven, qui Watertown Com Tech. HF. Come si legge?
+Sigma Seven, Sigma Seven, qui Watertown Com Tech. HF. Come si legge?
+Sette. Hawaii Cap Com. Avanti.
+Sette. Hawaii Cap Com... finita.
+Hawaii Cap Com, qui Sigma Seven. Come stai leggendo adesso?
+Hawaii Cap Com. Sigma Seven.
+Sigma Seven, Sigma Seven. Hawaii Cap Com. Ti leggo. Passo.
+Qui Sigma Seven. Vi sento forte e chiaro. Come mai?
+Hawaii Cap Com. Sigma Seven. Finito.
+Sigma Seven, Sigma Seven. Hawaii Cap Com.
+Ricevuto. Hawaii Cap Com, qui Sigma Seven.
+Hawaii Cap Com. Sigma Seven. Hawaii Cap Com. Sigma Seven. UHF-hi. Fine.
+Ciao, Hawaii Cap Com. Sigma Seven. UHF-ciao.
+Sigma Seven, Sigma Seven. Hawaii Com Tech. Su HF/UHF. Come si legge? Passo.
+Hawaii Com Tech. Sigma Seven. Forte e chiaro. Come faccio?
+Hawaii Com Tech. Sigma Seven. Forte e chiaro su UHF/HF. Passo.
+Roger, Sigma Seven. Ci sentiamo su HF/UHF. Attendi per Hawaii Cap Com.
+Roger.
+Sigma Seven. Hawaii Cap Com. Fine.
+Roger, Gus. Vi leggo da un bel po'. Passo.
+Ah, bene. Abbiamo perso ogni contatto con te. Ho l'orario di retrosequenza corretto per l'area 6-1. Sei pronto a copiare?
+Aspetta 1 secondo.
+Sei pronto a copiare il tempo della retrosequenza, Wally?
+Ok, andiamo.
+Roger,.
+Roger,.
+Esatto.
+Va bene.
+Dimmi il tuo stato.
+Roger. Sono a posto. Potevo ricevere tutte le stazioni del Pacifico, ma a quanto pare non mi ricevevano. Consiglieresti loro di trasmettere in modalità nascosta? Avevo ottime comunicazioni con la nave comando del Pacifico.
+Hai detto che avevi buone comunicazioni con PCS?
+Questa è una risposta affermativa. Ideale.
+Roger. Stai esagerando. È difficile capirti. Questa è una buona comunicazione con PCS?
+La risposta è affermativa.
+Ricevuto. Ricevuto.
+Riuscivo a sentire Watertown, Huntsville e te, forte e chiaro in ogni momento.
+Roger.
+Ho ancora abbastanza carburante. La capsula si muove perfettamente in modalità automatica, retro. Ho l'81% di cambio automatico e l'80% di cambio manuale.
+Wally.
+Andare avanti.
+Vorresti resettare il tuo orologio?
+Ricevuto. Alle 08:51:27. In standby. Ricevuto, è impostato sulle 08:51:27. Sei d'accordo?
+Ricevuto. Ho quella impostazione.
+Roger.
+Considerando l'errore, Cape consiglia di impostarlo su 08 51 31.
+Ricevuto. Questo significa che devo attivare la retrosequenza. Giusto?
+Ci puoi misurare la pressione?
+Roger.
+Wally, dammi un.
+Roger. Ho... ti do 45 secondi. MARK T 45 secondi. Hai letto, Gus?
+Wally, ti abbiamo perso. Credo che il tuo trasmettitore si stia spegnendo. Ti darò un. MARK. (Il valore calcolato è distorto, non ottenibile)
+Roger. Ho preso il tuo voto. Sono veloce di 4 secondi. Hai letto Hawaii?
+Hawaii Cap Com. Sono veloce di 4 secondi. Sigma Seven trasmette in modalità cieca.
+Ciao Sigma Seven, ciao Sigma Seven, sono Cal Cap Com, Cal Cap Com. Trasmetto in modalità nascosta. Abbiamo avuto un'interruzione di corrente al nostro ricevitore. Sto trasmettendo in modalità nascosta. Reimposta il tuo orologio per la retrosequenza alle ore 19:00. Questo tiene conto dell'errore del tuo orologio all'ultima lettura. L'ultimo rapporto era impostato su 27 secondi. Questo dovrebbe essere 33 secondo l'ultimo controllo che abbiamo avuto con te. Cape vuole che tu reimposti quel valore a 33. Sono Cal che trasmette in modalità nascosta,
+Roger, Cal. Ho impostato 05 - correzione,. Guaymas Cap Com, mi leggi? Passo.
+Guaymas Cap Com. Sigma Seven. Finito.
+Sigma Seven, qui Cal Cap Com. Trasmissione ripetuta in modalità cieca. Cape consiglia di reimpostare l'orologio a 33 secondi. Uscita.
+Sigma Seven, qui Cal Cap Com, di nuovo alla cieca. Assicuratevi che il frontalino sia chiuso. Frontalino chiuso.
+Bene. Questa è la Sigma Seven, qui è la California. Abbiamo il resto acceso, che indica buono. Questa è l'impostazione corretta.
+Sigma Seven, qui Guaymas Com Tech. Mi senti? Passo.
+Roger, Guaymas. Come mi senti? Passo.
+Roger. Sigma Seven. Guaymas Cap Com. Forte e chiaro. Hanno avuto un'interruzione di corrente lungo la California. Stiamo leggendo il tuo tempo di retrosequenza corretto. Al mio segnale, vediamo, il tempo trascorso dalla tua capsula è in questo momento 4 secondi più veloce, Wally. Questo... questo tiene conto di questo errore. Passo.
+Roger, Scott. Capisco. Scusate. Ho appena finito il mio manzo e le verdure. Sono in buona forma quassù. Ho avuto buone comunicazioni con Al. L'orologio è impostato correttamente. La capsula sta tracciando bene.
+Ricevuto. Molto bene. Ricordatevi di chiudere la mascherina in questo momento. Ricordatevi di farlo anche prima del rientro.
+Roger. L'ho fatto.
+Bene, per ora.
+Roger. La piastra facciale è chiusa e ho subito una manovra ombelicale.
+Roger.
+Sembra tutto davvero bello, Scott.
+Qui la situazione è davvero bella, Wally. Stai facendo un ottimo lavoro e non vediamo l'ora di rivederti presto a Midway.
+Roger. Faremo anche un po' di servizio in barca.
+Scott, hai delle scansioni dell'orizzonte su di me?
+Ricevuto. Aspetta un attimo, Wally.
+Vorrei che controllassi il mio atteggiamento nei confronti del rollio.
+Roger. Al mio posto ci sarà. MARK.T
+Cosa? È vero? È quello che dice il mio orologio.
+Giusto. Lo era. Il Capo lo aveva chiesto. Siamo 4 secondi dietro di te, Wally.
+Oh, ok. Giusto. Ora, qual è il mio atteggiamento nei confronti del tuo scanner?
+Okay. Il tuo scanner a rulli mostra meno - meno - meno 10 (gradi), Wally.
+Roger. Sono d'accordo. Credo di essere un po' più inclinato di 10 gradi. Lo farò con gli assi manuali e poi la lascerò volare di nuovo. E vedremo cosa fa.
+Wally. Che ne dici di un'ultima misurazione della pressione prima di andare?
+Ricevuto. Pronto.
+Sigma Seven. Al mio segnale, il tempo trascorso a terra sarà. In attesa. MARK.T
+Roger. Sono d'accordo.
+Roger.
+A questo punto passerò al fly-by-wire basso. Leva manuale inserita. L'assetto della capsula sembra essere molto buono.
+Al momento è il minimo fly-by-wire. Sigma Seven?
+Esatto. Voglio solo controllare questo rollio durante il giorno. Il beccheggio è davvero onesto, così come l'imbardata. Credo però di dover correggere circa 6 gradi di rollio.
+Roger. I gyros sono normali? È corretto?
+Esatto.
+Wally, mostriamo anche una posizione senza giroscopio a terra.
+Roger. Sono appena andato a quel posto libero. In attesa.
+Roger. E hai intenzione di tornare presto?
+Momentaneamente.
+Roger.
+Ci sto arrivando adesso.
+Ok. Ferma la pressione. Ne abbiamo una bella, Wally.
+Ok. Pronti, tutto normale.
+Roger. Stiamo leggendo: i gyros sono normali.
+Ricevuto. Il problema era il test dello scanner. E il rollio è andato come previsto. E sto tornando alla normalità dei giroscopi, a quest'ora, con circa 2 minuti di anticipo. Questa è la routine che era sul piano di volo, se puoi vederla.
+Roger.
+Ok, ora che abbiamo rimesso in funzione gli scanner, dovremmo risolvere questo problema di rollio che avevo lì. Comunque, il pitch era piuttosto buono, è bellissimo.
+Ricevuto. E i giroscopi mostrano, in questo momento, solo una differenza di 4 gradi, e questa differenza sta diminuendo.
+Roger. Ecco l'accordo. È quello che volevo che controllassi per me mentre ero alla tua stazione, Scott. Grazie. Quindi sembra che sia puro. Ora sono in...
+Anche gli scanner sono in accordo - scanner di beccheggio in accordo con i tuoi giroscopi, e noi abbiamo
+Roger. Sono felice qui.
+Qui Sigma Seven. Un controllo HF di 30 secondi, a minuti, a partire da 10 secondi dopo. Questo è un test di 30 secondi, mentre scendo lungo la costa della Bassa California, in rotta verso il Sud America. Ogni sistema funziona perfettamente. Ho ancora 5 secondi di controllo. Fine del test. Sigma Seven. Passaggio a UHF per la trasmissione.
+Guerra. Auto Due.
+Sigma Seven. Cape Com Tech. Mi leggi? Passo.
+Roger, Cape Com Tech. Ti ho sentito forte e chiaro. Come mai?
+Guerra. Staffetta Auto Uno.
+Cape Com Tech. Sigma Seven. Come si legge, ripetitore UHF?
+Cape Com Tech. Sigma Seven. Su UHF. Passo.
+Il ripetitore UHF è buono. Mi capisci? Passo.
+Sigma Seven, Sigma Seven. Cape Com Tech, trasmissione Cape Com Tech 1 2 3 4 5 4 3 2 1. Come leggi? Fine.
+Ti sento forte e chiaro, Murph. Come fai a sentirmi? Passo.
+CC_?: Chiamata TMS. Ripeti per favore... Hai ricevuto Cape Com Tech? Passo.
+Salve, Quito. Sono Sigma Seven. Puoi riferire a Cape che li ho letti forte e chiaro? Passo.
+Sì, stai passando bene. Qualunque sia il traffico che hai, accettalo volentieri. Vai avanti.
+Qui è tutto pronto. Potresti riferirlo a Cape Canaveral? Ho tutto sotto controllo. Siamo tutti a posto.
+Molto bene. Grazie mille. Non hai niente da dire? Puoi dire qualcosa in spagnolo ai ragazzi qui sotto?
+Temo di no. Però vorrei venire a trovarti. Sto ammirando una splendida vista della campagna.
+Mi fa piacere sentirlo, ma potresti salutarli? Lo apprezzerebbero moltissimo. Vogliono passarti alla loro radio qui.
+Devo mandare i miei saluti alle persone della nostra stessa zona. Il fatto che siamo due emisferi uniti è dimostrato ancora oggi dalla nostra capacità di sorvolare i rispettivi Paesi, consapevoli di essere una cosa sola.
+Diresti loro "Buenas dias" o qualcosa del genere?
+Bene, tutto quello che posso fare ora è dire: Buenas dias a tutti.
+Ah, ah. Grazie mille. Penso che gli piacerà.
+CC_?:... Cape Com Tech? Finita.
+Potresti riferire a Cape Com Tech - Cape Com Tech che posso leggerlo?
+Chi puoi leggere?
+Potresti riferire a Cape Canaveral Com Tech che l'ho letto.
+Stai leggendo Cape Canaveral in questo momento?
+La risposta è affermativa.
+Ok, glielo dirò. Grazie mille.
+Sigma Seven. Auto One Cap Com. Hai ricevuto Cape Com Tech? Passo.
+Sigma Sette. Affermativo.
+Sigma Seven, qui Cape Com Tech. Qui Cape Com Tech. Come leggete? Passo.
+Sigma Seven. Forte e chiaro.
+Sigma Seven. Auto One Cap Com. Mi leggi? Passo.
+Questa è Sigma Seven. Affermativa. Leggo.
+Sigma Seven, Cape Com Tech UHF/HF. Come si legge?
+Sigma Seven. Forte e chiaro.
+Stavi chiamando Quito o Cape Com?
+Cerco di parlare con il Capo. Ma a quanto pare non si rendono conto che sto ancora parlando. Quito, li sento tutti forte e chiaro.
+Cap Com. Hai letto Cape Com Tech? Passo.
+Sigma Seven, Sigma Seven. Auto One Cap Com. Se leggi, fai un breve conteggio. Finito.
+Questa è la Sigma Seven. Non abbiamo un'esercitazione di trasmissione. Leggo 1 2 3 4 5 5 4 3 2 1. Sigma Seven. Fuori. Sono stanco di continuare a parlare con Com.
+Sigma Seven, Sigma Seven. Auto One Cap Com. Sai leggere? Passo.
+La lettura del valore di luce, per la pellicola in bianco e nero, è 13 per ASA 64. Imposto il valore di luce a 13. Scatto la foto numero 7 con filtro. Il continente sudamericano è difficile da fotografare a causa delle condizioni meteorologiche. Scatterò un panorama a quest'ora. A partire da quasi 8 ore. In effetti, sarà così. MARKT, 7, 8, 9 fotografie in bianco e nero, pellicola in bianco e nero. Dieci fotografie, pellicola in bianco e nero. Gli scatti vengono eseguiti a 250 5.6 (1/250 di secondo e f5.6) all'infinito. Scatto la foto numero 11, guardando a sinistra. Sto attraversando il continente sudamericano a questo punto. Ho un grande fiume in vista. Scatto una foto, con la fotocamera rivolta verso il basso il più possibile. Credo di aver inquadrato molto bene la finestra della capsula lì. Tornerò a B-1 ora. Ho scattato le prime 12 foto. Sono su B-1, scatto le strisce di nuvole. Ho scattato con il B-2 e queste sono tutte foto in bianco e nero, con il filtro dell'ufficio meteorologico. Scatterò le ultime foto di questa serie. Questa è la fine delle foto dell'ufficio meteorologico. Credo che ne abbiamo scattate abbastanza per soddisfare i requisiti. Estrazione del filtro. Riposizionamento della diapositiva sul retro. Rimozione del dorso nero.
+Riporta il colore alla normalità. Ho preso una lettura del valore di luce del continente sudamericano all'inizio, ma devo cambiare il valore ASA. Il valore ASA è cambiato in 160. Il valore di luce misurato in questo momento è 15.
+Foto del terreno molto interessanti. Ne scatterò una dell'orizzonte solo per i posteri. All'epoca, quella foto era A numero 12, poi è stata reimpostata su B e ora ho B-1. Sto scattando alcune foto a colori del continente sudamericano. Non credo che avremo molta fortuna.
+Questo è stato a B-2. Mi sto avvicinando a B-3. Picchiate a questo punto a circa 10 gradi. L'errore di rollio che si è sviluppato durante il periodo in cui avevamo gli scanner spenti è scomparso. A questo punto, aumenterò il flusso della tuta a circa... giusto un po' per aumentare il raffreddamento per il rientro. Vedo se riesco ad abbassarlo ancora un po'. L'assetto è quasi perfetto. L'imbardata è buona. Il beccheggio è un po' brusco. È chiaro che il reticolo di imbardata non è adatto per il lavoro notturno.
+Ora ripongo la macchina fotografica per controllare la luce di Durban, visto che non abbiamo avuto fortuna con il flare.
+La macchina fotografica è riposta. Il fotometro è abbastanza leggero da poter essere estratto e rimosso. Prima di concludere, farò un altro controllo su un gadget a bassa quota. È salito di circa lo spessore di una linea. Ora segna 0,06, ovvero meno di 0,1. Tutti questi saranno ora riposti nel vano portaoggetti; erano sul portello, adiacenti alla molla di fermo del portello più vicina alla maniglia di emergenza. In un piano verticale parallelo alla borsa che contiene gli oggetti extra che non possono essere spinti altrove.
+A. Tra poco passerò all'assetto di rientro. Non c'è motivo di tenere aperto il vano portaoggetti in questo momento. Devo procurarmi la fonte di luce standard, forse ci riesco. Mettila via in fretta. Quella rimarrà lì. Quella è la copertura dell'imbardata. Tutto il resto è pronto.
+Il cielo si sta facendo più scuro.
+Fly-by-wire basso e beccheggio fino all'assetto di rientro. Ora sto per passare al fly-by-wire basso.
+Assetto ok. Ritorno all'assetto di rientro, correzione retroassetto. Nessun motivo per rimanere all'assetto di rientro. Nessun motivo per rimanere all'assetto di rientro, quando possiamo vedere così bene in retroassetto. E questo è davvero l'assetto di cui abbiamo bisogno per volare. Avvicinamento al retroassetto. Controllo del rollio. Controllo dell'imbardata. L'assetto di rientro è selezionato. Arresto del beccheggio a breve. (Il beccheggio si sta avvicinando molto lentamente). Il beccheggio è fermo - in beccheggio. Passaggio ad automatico, giroscopi normali, manovra disattivata.
+Frontalino chiuso. L'ho aperto momentaneamente, solo per pulirmi il naso e cercare di pulire una lente, cosa che non riesco a fare. Selezione rientro. La telecamera è riposta. Ora spegnerò la sorgente luminosa standard e non posso spostare la luce della cabina sul lato di dritta; quindi, la spegnerò come riferimento continuo. Ecco, ora è spenta, a 3.3. Sorgente della cabina spenta a 3.3 a
+Il fly-by-wire low ha dato ottimi risultati.
+Al momento, ho impostato la temperatura della tuta su 8. La quantità di refrigerante della tuta è ora impostata su 8. La temperatura dell'ingresso della tuta è ora di 65 gradi, il che è confortevole. In effetti, prima ero piuttosto fresco, ma vorrei rinfrescarmi di nuovo. E la temperatura della cupola è di circa 73 gradi.
+La cabina è pronta, non voglio più abbassare la cupola. È andata molto bene. Controllo in tempo: 18 minuti. Bene sull'orologio. Propulsori: il rollio a sinistra automatico è 119 (gradi). Il rollio a destra automatico è 115 (gradi). Il rollio a sinistra manuale è 100 (gradi). Lo scambiatore di calore della cabina è 43 (gradi). Il pitch up automatico è 95 (gradi). Il pitch down automatico è 95 (gradi). L'imbardata a sinistra automatica è 80 (gradi). L'imbardata a destra automatica è 100 (gradi). Inverter a 250, oh che bello, meno di 160 (gradi). L'inverter a 150 è 110 (gradi). Lo standby è 125 (gradi). Passiamo allo scambiatore di calore della cabina.
+Controllo dei volt CC in questo momento. Bus principale 24, bus isolato 27½ (volt), uno è 25 (volt). Due è 25 (volt). Tre è 25 (volt). Il primo di riserva è 25 (volt), il secondo di riserva è 25, l'isolato è 28 (volt). Torniamo al principale. Sia le ventole che il motore sono a 115 (volt). Assorbimento 20 ampere. Ossigeno rimanente 50 (psi, in centinaia) primario, 75 (psi, in centinaia) secondario.
+Farò un test di orientamento a questo punto, mentre sono in volo e non sono così impegnato. Cerco la maniglia manuale - e ci sono andato, esattamente lì. Cerco l'assetto di imbardata. L'ho colpita a 20 gradi, a destra 20 gradi. Cerco la maniglia di emergenza. Proprio lì, negativa, quella - leggermente fuori, ho toccato prima il lato della scatola. Non l'ho colpita esattamente, ne sono sicuro. Questo è il completamento del test di orientamento.
+Ho la Luna in vista. C'è Venere. La Luna sta tracciando magnificamente. Proprio in imbardata, proprio in beccheggio, proprio in rollio. Tutti e tre gli assi sono bellissimi.
+Sembra così triste, mi resta poco meno di mezz'ora per giocare con questo. Ora passerò al fly-by-wire basso. Giroscopi liberi, passo al pitch per osservare la luce di Durban. Giroscopi liberi, fly-by-wire basso, correzione, a questo punto passerò al proporzionale manuale. Non ho caricato alcuna tariffa, quindi tornerò a. Pulito. Passo al comando rate. Uscita proporzionale manuale. Proverò questa modalità per vedere se ci sono delle differenze. Giù di pochissimo, 23 minuti.
+Nave dell'Oceano Indiano, questa è la Sigma Seven. Mi senti? Passo.
+Nave dell'Oceano Indiano. Sigma Seven. Mi leggi? Passo.
+Nave dell'Oceano Indiano. Sigma Seven. Mi leggi? Passo.
+Nave dell'Oceano Indiano. Sigma Seven. Mi leggi? Passo.
+...come leggi? Passo.
+Nave dell'Oceano Indiano. Sigma Seven. Mi leggi? Passo.
+Roger, Sigma Seven. Ti leggo 5 alla 5.
+Roger, Indian Ocean Ship. Non ho visto il razzo. Torno al retroatteggiamento.
+Roger. Sei riuscito a controllare le luci di Durban?
+Intendo le luci di Durban. Non sono riuscito a vederle. Vedo delle luci a terra, in questo momento, al centro della finestra, proprio nel momento in cui si vedono le luci di Durban. Sono sotto le nuvole e non sono abbastanza chiare per un riconoscimento completo. Finito.
+... breve resoconto.
+Ripeti. Passo.
+Potresti farci un breve resoconto? Passo.
+Roger. Sono tornato in - retroattitudine. Torno alla configurazione scimpanzé. I giroscopi sono normali. Tutto è stivato tranne il fotometro, che verrà stivato a breve.
+Roger.
+Ho impostato la valvola di raffreddamento del circuito della mia tuta sulla posizione numero 8 solo per preraffreddarla un po' e funziona correttamente.
+Roger. Possiamo avere un altro controllo della pressione sanguigna? Passo.
+Ricevuto. Prossimamente.
+Sigma Seven. Hai detto che il tuo att - la tua modalità era retrò?
+Ci arrivo proprio adesso.
+Roger.
+A questo punto la luna sta tramontando.
+Ripeti.
+La luna è appena tramontata. E vedo dei fulmini in vista su questa zona.
+Roger. Sei pronto a dare un'occhiata alla tua checklist pre-retrosequenziamento?
+Affermativo. Aspetta solo 1 secondo. Andrò a.
+Va bene.
+Bene, pronti per la checklist pre-retrosequenziamento.
+Vuoi aiuto?
+Ripeti.
+Hai bisogno di aiuto con la lista di controllo?
+Negativo. In questo momento sono di atteggiamento positivo. Ti darò il resto della checklist per la tua lettura.
+Roger. Potresti premere per fermare la pressione sanguigna, per favore.
+Ricevuto. Fatto. Ho l'Atitude Select Retro.
+Roger.
+Ho attivato i propulsori di correzione retrograda, normali invece che bassi. Passerò all'antenna HF con bicono, anche se al momento sto usando l'UHF.
+Roger.
+Sono in modalità bicono e la visiera è chiusa. Tutti gli altri oggetti sono nella loro posizione corretta. Passo.
+Roger.
+Lista di controllo completa, eccetto per il braccio dell'interruttore a scoiattolo.
+Roger. Potresti darci i dati relativi alla pressione in cabina e alla tuta?
+Ricevuto. Pronti. La pressione in cabina è di 4,9 (psi), quasi 5. La temperatura in ingresso della tuta è di 63. La temperatura in cabina è di 92 (gradi).
+Sigma Seven. Ripeti pressione cabina. Non ti ho letto.
+La pressione della cabina è 5, 5,0 (psi).
+Roger.
+Sto riscaldando i gyros, anche se dovrebbero comunque avere un bypass.
+Sigma Seven. Tutto sembra a posto. Pronti a partire.
+Roger, qui sembra a posto.
+Sigma Seven. Abbiamo 1 minuto per.
+Roger, qui sono completamente al sicuro e pronto a sparare a comando.
+Roger.
+Qui tutti gli atteggiamenti sono perfettamente coerenti. Come si confrontano con te lì?
+Qui Sigma Seven. Ora controllerò i propulsori fly-by-wire.
+A questo punto, ho completato i controlli dei propulsori ad alta potenza. Un rapporto in ritardo. Ogni asse ha funzionato egregiamente. Ora ho il 75% di carburante in modalità automatica e il 75% in modalità manuale.
+Tutti gli assetti rispondono molto bene. La cupola termica della tuta è di circa 22°C, l'ingresso della tuta è di circa 16°C, con una leggera diminuzione. Sicuramente è l'impostazione di volo ottimale, tra 22°C e 24°C, per questo veicolo. La porterò ancora a 24°C. Ho impostato il regolatore della quantità di refrigerante della tuta in posizione 8, a.
+Questa è una lettura più accurata del carburante, se riesco ad arrivare fino a lì con le dita, sarebbe 78, 78 (percentuale) - prima della retromarcia. Sono pronto per eseguire la retromarcia - controllo automatico - dopo la retromarcia - passerò al fly-by-wire e alzerò il passo fino all'asse di rientro - correzione - dopo la retromarcia, sgancio, passerò al fly-by-wire, alzerò il passo fino all'assetto di rientro e selezionerò il comando di velocità a 08
+In questo momento, la pressione in cabina è di circa 4,8 psi. La tuta apparentemente è di circa 4 psi e il manometro della tuta segna 4,9 psi. Questo è il manometro sulla tuta.
+La punta delle dita della mano sinistra, quella con indice e dito medio, alla fine ha ceduto. Non ha davvero la resistenza a lungo termine che stiamo cercando.
+L'orizzonte è molto limpido. Rollio e beccheggio sono ottimi. Anche l'imbardata è buona. Credo che ora ci sia un miscuglio di stelle che ci danno un'idea.
+Si ha l'illusione di essere su un treno o su un altro veicolo, a causa del ronzio, e si ha la sensazione di essere su un binario di qualche tipo e di stare guidando. Un po' come il rumore di una nave quando si è in mare. Il rumore del ventilatore, presumo, e gli inverter danno la stessa illusione.
+Bene. Abbiamo Grus e Giove nella posizione giusta. Quindi il nostro riferimento di imbardata è azzeccato. Nessun problema. Quando mi sporgo molto verso il basso riesco a vedere Giove, e Formalhaut dovrebbe scendere poco dopo.
+C'è un leggero rollio verso destra, segnalato anche dal giroscopio. In arrivo tra 8 minuti e 50 secondi.
+Deve essersi attivato il relè Tr-10, anche se non ho indizi, a parte i giroscopi di velocità in arrivo, su cui non posso scommettere perché sono comunque attivi quando l'interruttore viene selezionato per bypassare il Tr-10.
+Giroscopi normali. Assetto - fly-by-wire. Retrofire attivato, i 3 fusibili sono attivati. Siamo grassi!
+C'è Giove e c'è Formalhaut al centro della finestra, questa volta. L'assetto è davvero rigido ora. Solo per caso, suppongo. Il rollio è perfetto, l'imbardata è perfetta.
+La PO2 della cabina in questo momento è compresa tra 3,9 e 4,0 psi. Lo scambiatore di calore della cabina è a circa 50 gradi Celsius. La cupola è in fase di risalita.
+Cupola, cupola della cabina è circa 57 (gradi). La temperatura della cabina è 90 (gradi). L'ingresso della tuta è 62. L'ossigeno rimanente è 50 (psi, in centinaia) primario, 75 (psi, in centinaia) secondario. Tutto l'impianto elettrico sembra a posto. Il carburante rimanente è ancora 78, 78 (percento).
+Mancano 5 minuti al passaggio alla luce retrograda.
+Mancano cinque minuti alla luce retrograda.
+L'assetto è molto buono, bello e rigido. La pressione è ottima. Il veicolo ha un aspetto molto bello.
+Rollio a sinistra, non tanto bene. Vediamo cosa abbiamo. Un rollio di cinque gradi si nota subito.
+Controllo gli altri sistemi. Sembrano tutti abbastanza costanti. La temperatura della cupola della tuta è ancora di circa 71 gradi, quella dell'ingresso della tuta è di 62 gradi, il che stavolta è confortevole. La pressione della cabina, la pressione della tuta e il manometro della tuta corrispondono tutti entro circa 1/10 di psi. In questo momento, vedo un po' di luce nel periscopio.
+Mancano circa 2 minuti al retrofire. Sono in UHF-hi, trasmissione e registrazione, R/T. Tutti gli interruttori dei fusibili sono nella posizione corretta, tranne i fusibili dell'interruttore di atterraggio.
+Ecco che spunta un po' di sole.
+Nave Comando del Pacifico, qui Sigma Seven. Mi senti? Passo.
+Sigma Seven, qui nave comando del Pacifico. Mi senti? Passo.
+Affermativo, Sette. Mi stai ricevendo?
+Roger, Al. Vi leggo forte e chiaro.
+Capisco che sei pronto per tornare a casa, Wally.
+Roger. Ho sistemato tutto, Al, tranne l'interruttore, che metterò sul tuo conteggio.
+Molto bene. Utilizzerai la modalità retrò e lo standby proporzionale manuale.
+Affermativo. La maniglia è in posizione in questo momento; la tirerò fuori.
+Okay. Il tuo atteggiamento sembra ottimo, Wally, e il tuo orologio è avanti di 5 secondi. - Quindi, con l'impostazione attuale, dovremmo arrivare puntuali.
+Roger, Al. Ho... mancano quasi 30 secondi. Vi darò la mia luce.
+Va bene.
+Ho acceso la spia dei 5 minuti. Questa è la spia dei 30 secondi: 5, 4, 3, 2, 1, LIGHTT. Eccola. Ho una spia e un tono. Il tono è spento.
+Molto bene. Il tempismo è perfetto, Wally. Farò il conto alla rovescia per la retrosequenza e tu armerai gli squib a 5.
+Esatto.
+Eccoci qui, 10, 9, 8, 7, 6, 5.
+Braccio di Squib.
+3, 2, 1. SEQUENZA.
+Ho la sequenza e la capsula è bella e stretta. Ho l'atteggiamento verde. Lei è seduta qui come una roccia stretta, Al.
+Roger, da qui l'atteggiamento sembra molto buono, Wally.
+Sì. Anche qui erano bellissime. Oddio! È una bella capsula, te lo dico io.
+Ecco qui.
+Roger.
+5, 4, 3, 2, 1, 0.T
+Ho (numero di razzo retrò) 1, e se la tiene stretta. Molto stretta. Ne ho 2, i miei atteggiamenti sono proprio azzeccati. Ne ho 3.
+Molto bene. Confermiamo. Retros 1, 2 e 3. L'assetto tiene molto bene. Interruttore di sgancio retro per armare.
+Roger.
+L'interruttore del fusibile di emergenza è acceso.
+Roger. Sono tutti in funzione. Il jet retrò è armato. C'è la luce del sole. Sono tutti molto contenti. Io, Al, userò il fly-by-wire per impostare l'assetto di rientro. Il manuale sta entrando.
+E ti mostriamo che hai circa il 68% di carburante rimanente in modalità automatica e l'84% in modalità manuale. Penso che le nostre letture siano probabilmente un po' più precise delle tue.
+Ho il 68% di cambio automatico e il 78% di cambio manuale.
+Roger.
+In attesa di un jet retrò. Ho un jet retrò e la luce è verde. A proposito, l'ho sentito.
+Molto bene. Confermiamo il retroscena.
+Ok. Sto usando il fly-by-wire basso per raggiungere l'assetto di rientro.
+Ok, ti ​​seguiamo fin qui.
+Roger. Sono un po' impreciso sul rollio, come puoi vedere. Niente sforzo. La metterò subito in rotazione quando sarò qui. Okay. È in rientro per quanto riguarda il rollio. Okay. Il telescopio sta arrivando. Sono sui giroscopi.
+Ricevuto. Confermiamo che il mirino è retratto.
+Roger.
+E sei molto vicino all'atteggiamento di rientro.
+Roger. Ora sono in atteggiamento di rientro.
+Ricevuto. Capisco che andrai prima di 0,05 g, con l'effetto damper ausiliario come riserva.
+Questa è una risposta affermativa. Ora lo farò in questo momento. E lei è stretta e mi tiene stretta.
+Capisco che ci sei dentro.
+Esatto. Voglio vedere se la logica del rientro era corretta.
+Ricevuto. E andrai prima di 0,05 g.
+Esatto, Al. Voglio darle un'occhiata. Quei retro erano davvero carini, e proprio azzeccati.
+Roger.
+Direi che gli atteggiamenti non sono cambiati di un grado.
+Davvero stretto. Davvero stretto.
+Giusto. Credo che mi metteranno sull'ascensore numero 3.
+Ah, ah. Bello spettacolo. Aspetta, chiamo il Capo. Vediamo se hanno qualcosa.
+Okay, Al.
+Ok. Dopo aver letto il retro, leggo che il 65% è automatico e circa il 78% è manuale (carburante). La leva del cambio manuale è attiva. Al momento sono attivo.
+Capisco che sei ancora dentro, ma la leva manuale è inserita.
+Esatto. Qual è il mio tempo nominale per 0,05 g.
+Siamo al fianco di Wally. Ci vediamo dopo.
+Roger, Al.
+Sigma Seven, Sigma Seven, qui è Watertown Com Tech. UHF. Come si legge?
+Roger. Watertown Com Tech, qui Sigma Seven. Ti ricevo forte e chiaro. Come faccio?
+Sigma Seven, qui Watertown Com Tech. Ti sento debole, ti sento debole. Per favore, fai un'altra trasmissione.
+Roger. Ti sento forte e chiaro, Watertown. Come fai a sentirmi adesso?
+Sigma Seven, Sigma Seven, qui Watertown Com Tech. Ho letto che vi siete lasciati. Ho letto che vi siete lasciati. Per favore, fate un'altra trasmissione.
+Roger, Watertown. Ti sento forte e chiaro. Ti prego di trasmettermi alla cieca, se non ti riconosco.
+Sigma Seven, Sigma Seven, qui è Watertown Com Tech. Vi leggo 3 alla volta. Aspettate, vi passo la parola a Com - Cap Com.
+Roger.
+Sigma Seven, questa è Watertown Cap Com.
+Roger. Watertown Cap Com. Come mi senti?
+Al momento è debole e illeggibile. Ma trasmetterò alla cieca. Per favore, controlla che il tuo frontalino sia chiuso e sigillato. Riesci a ricevere?
+Ricevuto. Piastra frontale chiusa e sigillata.
+Puoi verificare che il mirino sia completamente retratto e che la porta sia chiusa? Sembra scura?
+Il mirino è retratto e credo che dovrai confermarmelo.
+Capisco - Ho appena capito, ma vado avanti. Puoi confermare che l'interruttore UHF/DF è in posizione R/T.
+Esatto.
+Sono pronto a controllare la mia modalità al momento opportuno.
+Sigma Seven. Non ho capito l'ultima trasmissione, ma immagino tu abbia letto che dovremmo tenere l'interruttore UHF/DF in posizione R/T. Al momento non ho informazioni per te sul recupero dell'atterraggio, ma te le passerò se possibile.
+Roger. Hai acquisito le tracce?
+Aspettatevi un blackout da un momento all'altro. Continuerò a trasmettere nella speranza che il vostro registratore riesca a registrarlo.
+Roger.
+Se ne hai la possibilità, quando aprirai il paracadute principale, spegnerai i tre controlli dell'acqua per aiutare gli addetti alla riduzione dei dati?
+Wilco. Se ne avrò la possibilità. Ah, ah.
+Sigma Seven. Non dimenticare di controllare la pressione in cabina e l'altimetro. Se non funzionano, tira la leva di decompressione o quella dello snorkel.
+Ricevuto. Capisco.
+Sigma Seven. Continuerò a parlare nella speranza che possiamo risolvere questo problema di blackout. A 17K, la spia di emergenza dell'ossigeno dovrebbe accendersi. A quel punto, tira fuori lo snorkel.
+Ricevuto. Capisco.
+Avresti dovuto mandare la tua pressione sanguigna.
+L'ho fatto.
+Ti ho ancora in linea. Nessun blackout ancora.
+Ricevuto. Ora darò un'occhiata al comando rate.
+Ricevuto. Capito. Controllo il comando rate.
+Sigma Seven. Leggi ancora?
+Sigma Seven. Ti sento forte e chiaro. Come faccio?
+Chiaro.
+Roger.
+A proposito, Wally, come ti senti? Tutto bene, in questo momento?
+Oh, sono bellissimi, davvero ottimi. Ogni modalità di controllo ha funzionato perfettamente.
+Ti ho perso.
+Roger.
+Ho selezionato il comando "aux damp" e "rate". La finestra è quasi completamente chiusa. A questo punto sarebbe impossibile vedere fuori.
+Vedo che le cose si staccano, ma non riesco a vederle molto chiaramente. Entriamo in 0,05, un verde. A questo punto non uso più le mani. In comando di velocità, in smorzamento ausiliario. E ho avviato una velocità di rollio. Una leggera velocità di beccheggio, niente male. Finalmente riesco a vedere fuori dal finestrino per qualche strana ragione. Ecco un altro dispositivo a spirale. A questo punto misurerò un'altra pressione sanguigna, successiva a 0,05 g. Tutte le velocità sono molto nominali. Direi che il comando di velocità funziona abbastanza bene.
+Torno nel campo gravitazionale. E l'assetto sembra molto stabile. Sto rotolando proprio all'orizzonte. A questo punto fermerò la pressione sanguigna, mi siederò qui e mi riorganizzerò. Vedo lo strato di ioni. In questo momento sono capovolto.
+Gli assetti sono sotto controllo. Sembra esserci abbastanza carburante manuale. Sono ancora al 72%. A questo punto, il rateo ciclico è decisamente in beccheggio. L'imbardata è piuttosto rigida; i g stanno aumentando. La capsula è piuttosto stabile. C'è un flusso verde e ogni tanto sembrano strisce arancioni. Sta andando molto bene durante il rientro. Un rollio lento piuttosto insolito. Aumenta fino a 2 g. Ho abbastanza carburante nel rateo di comando. Vedo arrivare delle scintille. Un chiaro bagliore verde, come una limonata; i g stanno aumentando. Le oscillazioni sono molto buone a questo punto. Circa 3 g.
+Ancora in assetto relativamente orizzontale. Il comando di rateo funziona bene. Sono contento che stia tenendo. Sta andando molto bene. Sto arrivando a 5,5 g. Il comando di rateo è ancora in funzione, il carburante è ancora al 70%, sembra basso. Sto arrivando a 6,5 ​​g, 7 g. Sto arrivando a 8 g. Il comando di rateo è ancora in funzione. Fa un'imbardata piuttosto accentuata. Non male, me la cavo abbastanza bene. Il carburante manuale è al 60%. Sta volando molto bene.
+In arrivo. Il picco g era indicato a 7½ (g).
+Ti leggo male. Come leggi?
+Roger. Ti ho letto bene, forte e chiaro. - Ho ancora circa 3 g attivi. La capsula funziona molto bene. Il comando di velocità tiene abbastanza bene. L'altimetro è pronto. L'assetto tiene molto bene.
+Sigma Seven, questa è Hawaii Cap Com.
+Ricevuto. Vai avanti.
+Tutto sembra essere nominale.
+Roger. Sembra normale. Tutto sembra a posto. Ho il 55 percento di carburante automatico. Sto attraversando 70.000 piedi, 65.000. Gli assetti sono molto stabili. Mi sto avvicinando ai 60 (mille). Il comando di velocità sta andando molto bene. Mi sto avvicinando ai 50 (mille). Sembra una dolcezza. Mi sto avvicinando ai 45.000. Sono sceso a circa 1 g. Mi sto preparando a dare gas, a 40, 41 (mille). Sto dando gas, e il gas è fuori. Lo senti; non riesco a vederlo a causa delle nuvole. Gli assetti tengono bene. La leva manuale è inserita. Il carburante sta andando abbastanza veloce. Ora vedo il gas. Sembra molto buono. Sto per usare l'aux damp. In realtà non ne ho bisogno. Il comando di velocità si sta esaurendo. E l'aux damp non sta facendo nulla, sta lì fermo. Lo metterò in modalità automatica solo per farla pompare.
+- circa 3 secondi.
+Roger, sto scendendo a 20.000. Sono pronto per lo snorkle. La pressione in cabina sta aumentando. Lo snorkle dovrebbe andare. Credo che il coperchio dello snorkle sia scoppiato. Li ho sentiti, lo tirerò comunque. Ho una velocità di emergenza. Credo di aver anticipato un po' lo snorkle su questo.
+Sto scaricando H2O2. Accendere il fusibile. Pronto. Il braccio di recupero è "arm". Pronto per il paracadute principale. Tutti gli interruttori sono nella posizione corretta. Il carburante manuale è quasi tutto esaurito. Ecco, il principale è fuori. È... è fuori, bellissimo. Cielo azzurro brillante. Ed è sbarrato, e sembra una torta di caramelle. Il carburante automatico sta scaricando. La velocità di discesa è di circa 35 (fps) in questo momento. Non vedo alcun problema. Mi preparerò all'impatto. Il carburante automatico sta scaricando. La pressione in cabina sta aumentando correttamente. Tutti i sistemi sembrano a posto. Sto bene, non ho caldo. Il paracadute principale sembra delizioso. La velocità di discesa è di 35 piedi al secondo. Non ho motivo di selezionare altro. Il sacco di atterraggio è fuori.
+Roger, Wally. Come vi sentite?
+Mi sento benissimo. È stato un volo meraviglioso, vero?
+Capisci, ti senti meraviglioso.
+Affermativo. Apro la visiera in questo momento per liberare le orecchie?
+Hai ricevuto le previsioni meteo per l'area di recupero?
+Probabilmente avevo troppo da dire. Cosa avete da dire, ragazzi?
+Ricevuto. Il meteo è di 2.000 gradi, visibilità 10 miglia, mare mosso di 3 piedi. Non abbiamo ancora alcun IP tracciato, ma dovresti essere molto vicino al Kearsarge.
+Roger. Ottimo, Gus. È un bellissimo scivolo. Voglio darti una buona descrizione prima di entrare nel... drink qui. Mi sto preparando all'impatto staccando il tubo della visiera.
+A che altitudine ti trovi, Wally?
+Ripeti.
+Altitudine?
+Ora mi trovo a circa 6.000 piedi.
+Capisco, 6.000.
+Esatto. Non sto affatto rotolando su questo paracadute. Ok, ho staccato quel maledetto tubo della visiera e la cinghia in velcro è allentata. La guarnizione della visiera è rotta. Smonto il tubo di uscita dal casco e lo infilo negli attrezzi. Non ho nemmeno caldo qui, Gus.
+Dici che fa caldo.
+Non ho caldo. Sono molto comoda.
+Ripetilo qui. Ma non leggere.
+Mi sento molto a mio agio.
+Parla lentamente. Così arrivi chiaro.
+Roger. Mi sento molto a mio agio.
+Molto bene. Abbiamo capito.
+Voglio restare a bordo.
+Sto spegnendo l'autobus. Voglio sbarazzarmi di queste valvole del refrigerante che volevano quei ragazzi, andranno tutte a 0. E sento già il segnale acustico ausiliario.
+Ora sono quasi pronto per l'impatto. Sono quasi in acqua.
+Oh! Rimani asciutto, tesoro.
+Ok. Ci sta mettendo un po' a raddrizzarsi, ma credo di aver tirato fuori dall'acqua la parte più piccola. Riesci a leggere? Passo.
+Roger. Sigma Seven. Flag Plot. Sei stabile e in acqua?
+Sembra che sia stabile sull'acqua. L'antenna a stilo è alzata. La vedo. Passerò all'antenna a stilo.
+Sono decisamente inclinato parecchio, ma sembra che non ci sia acqua nella capsula e sto molto comodo. Al momento si sta raddrizzando molto bene.
+Ricevuto. La portaerei vi ha segnalato la situazione e gli elicotteri sono in arrivo.
+Che ne dici? Fantastico.
+Ti senti ancora meglio?
+Oh! Mi sento sempre meglio. Ecco, ora sta diventando bella e dritta.
+Ripeti, Wally.
+Ora sta salendo dritta e in posizione eretta.
+Parlo molto lentamente. Ho difficoltà a leggere.
+Ok. A questo punto è quasi eretta nell'acqua. Ora monterò l'antenna a frusta, Gus, e spegnerò gli squib. Pronto.
+Mi dispiace, Wally. Non l'ho letto.
+Ok. Ho montato l'antenna a frusta e sto disattivando gli squib del braccio.
+L'antenna a frusta è alzata. Stai disattivando il braccio del petardo.
+Esatto.
+Ok. Vado a controllare la cabina di pilotaggio, per essere sicuro di non mettere nei guai i ragazzi. Sembra tutto a posto, Gus. Questa capsula è davvero deliziosa.
+Roger. Sono d'accordo.
+Sono a mio agio, nel massimo comfort. La temperatura nella tuta è ora di 22°C, quella in cabina è di circa 36°C. Tutto qui. Mi sento molto a mio agio.
+Ricevuto. Ripeti l'ultima parte prima di quella molto comoda.
+La temperatura di ingresso della tuta è di 22-22 °C. La temperatura della cabina è di 37-37 °C. Ritrarrò manualmente il mirino per toglierlo di mezzo quando i ragazzi si riprenderanno.
+Wally. Sei atterrato a circa 8.000 metri dalla portaerei. Che ne dici?
+Ci siamo quasi, non è vero?
+Cavolo, questo è un uccellino dolcissimo. Non riesco proprio a crederci.
+Wally. Hawaii Cap Com.
+Andare avanti.
+Il centro di recupero è stato informato del tuo stato. Stai bene. Vedono l'antenna a frusta e sono in arrivo.
+Molto bene. Mi trovo molto bene.
+Ciao Astro, ciao Astro, sono Swiss One. Come mi senti? Passo.
+Roger. Swiss One, qui Astro. Come stai oggi?
+Bene, bene. Ho tolto i petardi. Dammi un breve conteggio, per favore.
+Roger. Segue un breve conteggio: 1 2 3 4 5 5 4 3 2 1. Qui è Astro. Sigma Seven. Sono molto felice di essere tornato nella Pacific League.
+Bene. Sono felice di poter parlare con te.
+Oh, è una buona abitudine.
+Ciao Astro, qui è Swiss One. Ti abbiamo inquadrato. Da qui, sulla tinta verde, stai andando bene.
+Roger, mi sembra di immergermi in questa situazione, non è vero?
+Roger. Ora volo sopra di loro, torno indietro e scarico la squadra di nuoto.
+Bene. Bello spettacolo.
+Wally, stai bene.
+Bello spettacolo. Come ti sembra? Mi sembra piuttosto eretta. È leggermente inclinata verso quello che sarebbe il mio lato sinistro. È corretto?
+La risposta è affermativa.
+Roger.
+Bene. Andiamo, ora entriamo con i nuotatori.
+Roger, Svizzero Uno.
+Ora ti sento.
+Ricevuto. Ci sono quattro elicotteri sopra la testa.
+Oh, va bene.
+Di' ai ragazzi che sono perfettamente a mio agio. Posso aspettare quanto vogliono.
+Capire.
+Okay. Non dirglielo. Non lasciare che si taglino le mani su qualcosa qui: fallo con nonchalance.
+Roger.
+Grazie.
+Ok, Astro. I nuotatori sono in acqua.
+Roger.
+Vedo un piccolo spago vecchio che pende lungo il lato. Oh! È il mio pennarello.
+Vedo che il tuo pennarello è di un verde molto brillante.
+Sì. Lo vedo da una parte della mia finestra. A quanto pare, quello che stavo guardando era il pezzo di spago e quello era il pennarello. Ciao ragazzi!
+Sanno che sto bene? Immagino di averli sentiti bussare alla capsula.
+Astro. Capisco che tu abbia chiesto... vuoi rimanere nella capsula? Vuoi sapere se lo sappiamo?
+Immagino di sì. Non è vero?
+Giusto.
+Astro. Sono il pilota svizzero. La portaerei è a circa tre quarti di miglio, in avvicinamento.
+Ok, pilota. Credo che preferirei restare a bordo e avere una piccola imbarcazione che mi venga a fianco e che usi la tua routine del collare, ovviamente, per sostenermi, e che venga recuperata dalla nave. Passo.
+Roger. Capisco. Vuoi una piccola imbarcazione. Glielo dirò subito.
+Okay. Credo che siano stati istruiti a fare un aggancio con una piccola imbarcazione e poi a issarmi a bordo.
+Per favore, ripeti l'ultima.
+Ho capito che questo è il Kearsarge, è corretto?
+Affermativa.
+Da quanto ho capito, le è stato ordinato di portare me e la capsula a bordo insieme.
+Aspetterò ancora un po'.
+Va bene.

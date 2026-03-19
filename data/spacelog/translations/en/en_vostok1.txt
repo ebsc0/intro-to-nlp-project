@@ -1,0 +1,281 @@
+Do you read me?
+I hear you well.
+Do you read me?
+I hear you well.
+Start space-suit check procedure. Do you still read?
+Roger: start check of space-suit. In 3 minutes. Busy at the moment.
+Roger that.
+Finished space-suit check.
+Roger. Check UCB-connection.
+Do you read me?
+Do you read me?
+I hear you well, Do you read me?
+I hear you very low, there is indication of light and sound transmission on the panel. Obviously it's recording to tape. Do you understand?
+I've got you, I hear you well.
+I didn't read you. Please, turn off the music, if it's possible.
+Roger, one second. I hear you well.
+Do you read me? Transmission of the music goes through 2nd KB channel.
+Done. I hear you well.
+Roger. Good signal through KB-2, I hear you well.
+Switching to. Start counting: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+Roger that, continue work.
+Roger.
+Communication check. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Do you read me?
+Got you. I hear you well. Do you read me?
+Working on tape. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+I hear you well. Switching to. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Do you read me?
+I hear you great. Roger. Continue checking.
+Working on microphone. 1, 2, 3, 4, 5. Do you read me?
+I hear you well. Roger.
+Receive on the phone.
+How do you feel, Yuri Alekseyevich?
+Feel great. Checking of phones and speakers goes fine, switching to the phone.
+Roger. Things goes great, preparation of machine goes stable, everything is fine.
+Roger. I knew that.
+Roger. Great, everything is fine.
+Finished connection checking. Do you read me? Position of switches on the panel is set to default. Globe in place, latitude north 63 °, longitude east 97°, correction number 710, division time is 9 hours 18 min. 07 sec.; moving index is set to default position — first day 7. Pressure in cabin is 1, humidity 65%, temperature 19 °C, pressure in compartment 1.2, pressure in hand-driven orientation system is 175, first automatic orientation 155, second automatic orientation 157, pressure in cylinder 320 atmospheres. Feeling great, ready to launch. How do you hear me?
+Roger. Got your data, validating now. Received your launch readiness. Everything goes well on our side.
+Do you hear me? I need to transmit something.
+Hear you well.
+Yuri Alekseyevich, I want to remind you that after last minute of readiness will be 6 minutes delay before actual flight. Don't worry please.
+Roger. I'm absolutely calm.
+That great, wonderful. After minute of readiness there will be some things to do. I'm passing the phone to the Chairman.
+Rudnev here on the phone. Yuri Alekseyevich, how do you feel, any news there, what do you see through the windows?
+... everything fine. Do you read me?
+Roger. The Chairman heard you. Everything is fine here.
+Yuri, how is it going?
+How they taught us.
+Ok then, good, take care. Do you know who is talking to you?
+I know — it's.
+They will talk to you now.
+If you have time, please connect transmitter KB and talk, give count to 20. If you have time and not busy at the moment, let me know. Do you read me? Yuri, but start in one minute please. Do you read me?
+Roger. I will start your task right away.
+During separation move switch closer to you.
+Roger. Default position during work and on the orbit switch should be set to telegraph and. During separation set switch to "signal".
+Roger. Thats correct, Yuri.
+Do you read me?
+I hear you well. And myself?
+I hear you well. Yuri, what are you doing right now?
+Ok, I'm not very busy at the moment.
+I've found continuation of "". Got it?
+Got it, got it — continue.
+We will sing it tonight.
+Everything is going fine. How are you doing?
+Roger. Everything fine here too. Feel myself great, I'm planing to close the hatch #1.
+Do you read me? Checking communication in bunker.
+I hear you well. Please talk a little bit lower. Do you read me?
+Roger.
+Please tell, did you use HF with one or both buttons?
+Working with button on panel, right now. Now with button on control knob. Now with both buttons. Do you read me?
+Hear you well. Good sound with both buttons.
+Check if it's comfortable to use memoryboard and visibility of code table on "deli". Do you read me?
+Roger. Checking.
+Usability of memoryboard and reading signals checked. Everything is fine.
+Roger. That great, fellow.
+Yuri, there is big “Hi” from all folks here. I've just came from their place. Do you read me?
+Roger. Great thanks. Tell them warm greetings from me.
+Ok.
+Do you read me?
+I hear you well. And me?
+I hear you well. Preparations are going well. Everything is fine, Yuri.
+Roger. Preparations are going well from my side. Feeling well, ready for launch.
+Roger.
+Yuri Alekseyevich, do you read me?
+I hear you well, I know whom I'm talking to.
+Yuri Alekseyevich, I want to remind you that I won't give the word "seconds", but just the number approximately every fifty seconds, for example: 50, 100, 150 and so on. Is this clear?
+Roger. I expected that.
+Great.
+Request 20th on the phone.
+20th on call.
+My request is to know the time each second before or after start, if connection will be stable and it will be possible.
+Roger. Your request will be satisfied, Yuri Alekseyevich.
+Yuri Alekseyevich, we have a problem: after closing the hatch one of the contacts hasn't connected well. Because of that we will unmount hatch and will setup it again. Do you read me?
+Roger. Hatch is open, checking detectors.
+Ok, great.
+One hour pre-launch readiness. Continue checking of devices. Do you read me?
+Roger. One hour pre-launch readiness. Everything going fine, feeling wonderful, buoyant mood, ready for launch.
+Roger, Yuri.
+Are you working now on throat mike or?
+I'm working now on.
+Roger.
+Checking connection. Do you read me?
+Hear you well. And me?
+Hear you well too.
+Did you check the package? Can you reach it? Check the package and report.
+Checked the package. I can reach it. Do you read me?
+Roger. Great.
+Train cars are going away right now. Do you hear them?
+Don't hear the train. It's very noisy here, I hear only communication.
+Ok, got you.
+This is 50 minute readiness.
+Roger: 50 minute readiness.
+Do you read me? Have they started closing the hatch?
+I hear you well. It seems that they are finishing mounting the cover.
+Roger, everything fine here.
+Everything fine here too. Feeling good, buoyant mood.
+Thats wonderful. Moscow just asked about your mood and how are you doing there. We replied that everything is fine.
+Roger.
+Yuri, are you bored there?
+Would be nice to play music, if this is possible
+One minute.
+You probably should here noise right now. That's because they are lowering catwalks. All top works have finished. Do you read me?
+Roger: lowering catwalks, but I don't hear the noise. I feel some vibrations.
+Roger. That's fine.
+Station this is Zaria-1. Please complete 's request, play some music for him.
+Did you hear? Repeating Zaria: trying to accomplish your request. Play some music because I'm getting bored.
+What's up? Do you hear the music?
+No music right now, but I hope it will be soon.
+But didn't you hear that it was promised?
+So what? Music started playing, no?
+Nope, no music.
+It's ok, you know musicians; now they're here, now they're there, but they don't do anything very fast, as the saying goes, Yuri Alekseyevich.
+They are playing about love.
+Playing about love? That's wise, Yuri Alekseyevich, I think so.
+Yuri, are they playing music, right?
+Music is playing, everything is fine.
+That's great, means it won't be boring anymore.
+Yuri, the guys are happy that you are alright and feeling fine. Do you read me?
+Roger. Warm greetings to them. I'm listening to Utesov. For the soul -.
+Ok then, listen away.
+Impermeability checked - everything is normal. Do you read me?
+Roger: impermeability checked. I hear and check: impermeability checked. They are tapping there a little bit.
+That's fine, don't worry.
+We just saw you through television, your cheerful look made us happy. Do you read me?
+Roger. Feeling fine, cheerful mood, ready for launch.
+Great. Everything is going fine here.
+Yuri are you bored there?
+I'm fine, they are singing about love.
+How is it going? Everything is fine here, we are preparing. There is no delay in preparation, nothing wrong at all. Guys are going to now.
+Roger. Everything fine here: calm and feeling great. Greetings to the guys. I feel their support all the time. They are with me.
+Great, great, Yuri.
+Yuri, everybody send you best wishes all the time, ask to tell you “godspeed” and all best regards, and everything you can imagine. Do you read me? Everybody wish you best luck and goodness.
+Roger. Thank you very much.
+Rudnev speaking. Comrades from Moscow are asking about your health and wellness. We told them that everything is fine, you are feeling fine and we are ready for next actions.
+You told them truth. Feeling fine, cheerful mood, ready for further actions.
+Roger.
+Put yourself in start position to begin physiological functions test.
+Starting position for the physiological functions test taken.
+Roger.
+They will dismount installer right now. Do you read me?
+Roger: they will dismount installer.
+Installer's arm successfully dismounted. Do you read me?
+Roger: installer's arm successfully dismounted.
+Yuri Alekseyevich, we are going to move this radio station to the bunker right now. So we will have 5 minutes silence on the channel. Nikolay Petrovich and Pavel Romanovich are going to bunker. I will stay here till 5-minutes readiness, but they will transmit what I will tell them. Do you read me?
+Roger: right now everybody is moving to the bunker, there will be silence for a minute, then you will transmit through them.
+Yes, that's correct correct: we are retracting the arms, everything is going according to schedule, machine working fine.
+Everything fine here, too.
+How are the medical checks - heart beat?
+Do you read me?
+Roger. And me?
+I hear you well. Pulse - 64, respiration - 24. Everything is fine.
+Roger. This means my heart is still beating.
+What is the status?
+15-minutes readiness. Remind you: put on your gloves. Do you read me?
+Roger: 15-minutes readiness, put on my gloves. Proceeding.
+I've put on my gloves, everything is fine.
+Roger.
+Tape recorder doesn't work for either automatic or manual recording, it seems it's out of tape. Please rewind it.
+Roger: I will pass on your request. Rewind in process. Is the light on?
+Roger: rewind in progress. Let them rewind the whole tape.
+Roger, everything's fine.
+10-minute readiness. Is your helmet closed? Close the helmet and report.
+Roger: 10-minute readiness announced. Helmet is closed. Everything fine, feeling great, ready for launch.
+Roger.
+5-minutes readiness. Please set volume on maximum, volume on maximum.
+Roger: 5-minutes readiness announced, set volume on maximum. Maximum volume set.
+Everything goes fine. Put yourself in start position to begin physiological functions test.
+Roger. Everything goes fine, I've set in start position and prepared to physiological functions test.
+Roger.
+Everything great here. Before start of our operations -- a minute before -- a few minutes left. Do you read me?
+I hear you well. Roger: a few minutes before start of operations. Feel great, buoyant mood, everything fine.
+Roger, correct.
+One minute readiness. Do you read me?
+Roger: one minute readiness. Took launch position, that's why had delay with reply.
+Roger.
+You can keep silence during launch. Reply when you can, I will transmit details.
+Roger.
+Key to start! Purge in progress.
+Roger.
+Key set to drainage.
+Roger.
+Everything is fine: drainage valves have closed.
+Roger. Buoyant mood, feeling good, ready for launch.
+Great.
+Pressurization in progress, cable-mast moved away, everything fine.
+Roger, I feel that. I hear valves working.
+Roger. Great.
+# next two lines editorially moved back; in the transcript they are in the same minute UTC
+# however they clearly come before launch
+Ignition started.
+Roger: ignition started.
+Preliminary stage. Intermediate. Main… UP!
+Here we go! Noise is very decent. Everything's going well, buoyant mood, feeling great, everything is fine.
+We wish you good flight, everything is fine.
+See you soon my dear friends!
+Bye, see you soon!
+Vibrations quickening, noise is increasing slowly.
+Time 70.
+Roger, 70. Feeling great, continue flight, g-force is increasing, everything is fine.
+100. How do you feel?
+Feeling great. And you?
+Speed and time is fine. How do you feel?
+I feel fine.
+Everything is fine, machine works great.
+Fairing was dropped off, everything fine. How are you?
+Drop off of main fairing… I see Earth… g-force is increasing, everything fine, buoyant mood.
+Well done, great! Everything goes fine.
+I'm looking at clouds. The landing site. Beautiful, it's so beautiful. Do you read me?
+Roger. Continue the flight.
+Flight continues, congestion is increasing, slow rotations, everything feeling fine. Through the periscope I can see the Earth: it's almost covered with clouds.
+Everything goes well. Roger, we hear you well.
+Second stage separation.
+Working like it should. Last stage. Everything fine.
+Roger: I've heard inclusion. Feeling fine. I see Earth: visibility is good, buoyant mood, g-force is increasing, feeling fine.
+Roger.
+Everything goes fine. Do you read me? How do you feel?
+I hear you well. Feeling fine, flight going well. I see Earth, flight continues, visibility is good, I can see everything clearly, some is covered by clouds, flight continues, everything fine.
+I've got you, well done! Your communication is good, continue in this way.
+Everything working fine, let's proceed.
+How do you feel?
+I hear you low, buoyant mood, feeling fine, continue flight, everything goes fine, machine is working stable.
+I've got you, this is Kolpashevo.
+How are you?
+I hear you well, feeling fine, machine working well. I see the Earth through the periscope. Everything's fine. Hi. Do you read me?
+Roger.
+Roger. I know whom I'm talking with. Hi.
+How do you feel? This is Kolpashevo.
+I'm feeling fine, continue flight. Machine working stable. I see Earth in the window, sky, horizon. Flight is going fine. Do you read me?
+Roger.
+Happened - -
+lights are glowing, feeling fine, buoyant mood. Parameters of cabin: pressure 1, humidity 65, temperature 20, pressure in compartment 1, first automatic 155, second automatic 155, pressure in cylinder 320 atmospheres - -
+Come in. Do you read me?
+Zaria-3, dp you read me? I don't hear, don't hear Vesna.
+Roger, connection is normal.
+Flight is going well, everything goes fine. What can you tell me?
+Flight goes well. Feeling of weightlessness is fine. All devices, entire system working well. What can you tell me?
+I hear you well, devices works fine, feeling well.
+I hear you well. What you can tell about flight? What can you tell me about flight?
+No instructions from Korolyov, flight is going well.
+Roger. No instructions from Korolyov. Please tell me the flight status. Hi to the fair-haired boy!
+Do you read me?
+I hear you well. How do you hear me?
+How do you feel?
+I'm feeling wonderful, great, great, great. Tell me results about flight!
+Repeat please, don't hear you well.
+I feel fine, very good, great!
+Give me some data about the flight!
+Do you read me?
+Do you read me? - -
+Do you hear me? Transmitting next report message: 9:48 am, flight going fine. "Shutter-1" works fine. index is moving. Pressure in cabin unit 1, humidity 65, temperature 20°C, pressure in compartment 1.2, manual 150, first automatic 155, second automatic 155, cylinders 320 atmospheres. Feeling fine, buoyant mood.
+I can't hear the ground station. I'm in shadow.
+Roger.
+Solar orientation turned on.
+Roger.
+Flight goes fine, orbit is calculated.
+Roger: flight goes fine.
+Buoyant mood, continue flight, I'm over United States now.
+Roger.
+Do you read me?
+I hear you well. Flight goes - well - -
+Flight goes well.
+Major Gagarin, your flight goes well.

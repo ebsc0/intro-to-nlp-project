@@ -1,0 +1,281 @@
+Verstehst du mich?
+Ich verstehe Sie gut.
+Verstehst du mich?
+Ich verstehe Sie gut.
+Starten Sie die Überprüfung des Raumanzugs. Lesen Sie noch?
+Roger: Starte die Überprüfung des Raumanzugs. In 3 Minuten. Bin momentan beschäftigt.
+Verstanden.
+Raumanzugprüfung abgeschlossen.
+Roger. Überprüfen Sie die UCB-Verbindung.
+Verstehst du mich?
+Verstehst du mich?
+Ich verstehe dich gut, verstehst du mich?
+Ich höre Sie sehr leise, es gibt eine Anzeige für Licht- und Tonübertragung auf dem Bedienfeld. Offensichtlich wird auf Band aufgezeichnet. Verstehen Sie?
+Ich verstehe dich, ich höre dich gut.
+Ich habe dich nicht gelesen. Bitte schalte die Musik aus, falls das möglich ist.
+Roger, einen Moment. Ich höre dich gut.
+Verstehst du mich? Die Musikübertragung erfolgt über den zweiten KB-Kanal.
+Erledigt. Ich verstehe Sie gut.
+Roger. Gutes Signal über KB-2, ich kann Sie gut verstehen.
+Wechseln zu. Fang an zu zählen: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+Verstanden, weiterarbeiten.
+Roger.
+Kommunikationscheck. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Verstehst du mich?
+Verstanden. Ich höre dich gut. Verstehst du mich?
+Arbeit am Band. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+Ich verstehe dich gut. Weiter geht's mit 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Verstehst du mich?
+Ich verstehe, alles klar. Roger. Bitte weiter prüfen.
+Ich arbeite am Mikrofon. 1, 2, 3, 4, 5. Hörst du mich?
+Ich verstehe dich gut. Roger.
+Empfangen Sie telefonisch.
+Wie fühlen Sie sich, Juri Alexejewitsch?
+Fühlt sich super an. Das Überprüfen von Telefonen und Lautsprechern funktioniert einwandfrei, ich wechsle zum Telefon.
+Roger. Alles läuft super, die Maschinenvorbereitung verläuft stabil, alles ist in Ordnung.
+Roger. Das wusste ich.
+Roger. Super, alles in Ordnung.
+Verbindungsprüfung abgeschlossen. Verstehen Sie mich? Die Schalter am Bedienfeld sind auf Standardstellung eingestellt. Globus an Ort und Stelle, Breitengrad Nord 63°, Längengrad Ost 97°, Korrekturnummer 710, Teilungszeit 9 Stunden 18 Minuten 07 Sekunden; Bewegungsindex auf Standardposition eingestellt – erster Tag 7. Kabinendruck 1, Luftfeuchtigkeit 65 %, Temperatur 19 °C, Druck im Abteil 1,2, Druck im manuellen Orientierungssystem 175, erste automatische Orientierung 155, zweite automatische Orientierung 157, Zylinderdruck 320 Atmosphären. Alles in Ordnung, startbereit. Wie verstehen Sie mich?
+Roger. Ihre Daten sind angekommen und werden gerade geprüft. Die Startbereitschaft wurde bestätigt. Bei uns läuft alles nach Plan.
+Hörst du mich? Ich muss dir etwas mitteilen.
+Ich verstehe Sie gut.
+Juri Alexejewitsch, ich möchte Sie daran erinnern, dass es nach der letzten Minute der Bereitschaft zu einer sechsminütigen Verspätung vor dem eigentlichen Flug kommen wird. Bitte machen Sie sich keine Sorgen.
+Roger. Ich bin völlig ruhig.
+Das ist großartig, wunderbar. Nach einer Minute Vorbereitungszeit gibt es noch einiges zu erledigen. Ich übergebe das Telefon an den Vorsitzenden.
+Rudnev hier am Telefon. Juri Alexejewitsch, wie geht es Ihnen, gibt es Neuigkeiten, was sehen Sie durch die Fenster?
+... alles in Ordnung. Verstehst du mich?
+Roger. Der Vorsitzende hat Sie gehört. Hier ist alles in Ordnung.
+Yuri, wie geht's?
+Wie sie uns gelehrt haben.
+Okay, gut, pass auf dich auf. Weißt du, wer mit dir spricht?
+Ich weiß – es ist so.
+Sie werden jetzt mit Ihnen sprechen.
+Wenn du Zeit hast, verbinde bitte den Sender KB und sprich kurz. Zähle dabei bis 20. Falls du gerade Zeit hast und nicht beschäftigt bist, gib mir Bescheid. Verstehst du mich? Yuri, aber bitte beginne in einer Minute. Verstehst du mich?
+Roger. Ich werde Ihre Aufgabe sofort beginnen.
+Bewegen Sie den Schalter während der Trennung näher zu sich heran.
+Roger. Die Standardposition während des Betriebs und beim Einschalten des Orbitschalters sollte auf „Telegrafie“ eingestellt sein. Während der Trennung den Schalter auf „Signal“ stellen.
+Roger. Das ist richtig, Yuri.
+Verstehst du mich?
+Ich verstehe Sie gut. Und ich?
+Ich verstehe dich gut. Yuri, was machst du gerade?
+Okay, ich bin momentan nicht sehr beschäftigt.
+Ich habe die Fortsetzung von "" gefunden. Verstanden?
+Verstanden, verstanden – weiter geht’s.
+Wir werden es heute Abend singen.
+Mir geht es bestens. Wie geht es dir?
+Roger. Hier ist auch alles in Ordnung. Mir geht es blendend, ich werde jetzt Luke 1 schließen.
+Hörst du mich? Überprüfung der Kommunikation im Bunker.
+Ich verstehe Sie gut. Bitte sprechen Sie etwas leiser. Verstehen Sie mich?
+Roger.
+Bitte teilen Sie uns mit, ob Sie HF mit einer oder beiden Tasten verwendet haben?
+Ich arbeite gerade mit dem Knopf am Bedienfeld. Jetzt mit dem Knopf am Drehknopf. Und jetzt mit beiden Knöpfen. Verstehst du mich?
+Ich verstehe Sie gut. Der Klang ist mit beiden Tasten gut.
+Prüfen Sie, ob die Verwendung von memoryboard und die Sichtbarkeit der Codetabelle auf „deli“ komfortabel ist. Verstehen Sie mich?
+Roger. Ich prüfe.
+Die Funktionsfähigkeit der Speicherplatine und das Auslesen der Signale wurden überprüft. Alles in Ordnung.
+Roger. Ein großartiger Kerl.
+Yuri, herzliche Grüße von allen hier! Ich komme gerade von dort. Verstehst du mich?
+Roger. Vielen Dank. Richten Sie ihnen herzliche Grüße von mir aus.
+OK.
+Verstehst du mich?
+Ich verstehe dich gut. Und ich?
+Ich verstehe dich gut. Die Vorbereitungen laufen gut. Alles ist in Ordnung, Yuri.
+Roger. Meine Vorbereitungen laufen gut. Mir geht es gut, ich bin bereit für den Start.
+Roger.
+Juri Aleksejewitsch, hast du mich gelesen?
+Ich verstehe Sie gut, ich weiß, mit wem ich spreche.
+Juri Alexejewitsch, ich möchte Sie daran erinnern, dass ich nicht das Wort „Sekunden“ nennen werde, sondern nur die Zahl ungefähr alle fünfzig Sekunden, zum Beispiel: 50, 100, 150 und so weiter. Ist das verständlich?
+Roger. Das hatte ich erwartet.
+Großartig.
+Bitte 20. telefonisch anfordern.
+20. Rufbereitschaft.
+Meine Anfrage ist, die Zeit jede Sekunde vor oder nach dem Start zu erfahren, um festzustellen, ob die Verbindung stabil sein wird und ob dies möglich sein wird.
+Roger. Ihrem Wunsch wird entsprochen, Juri Alexejewitsch.
+Yuri Alekseyevich, wir haben ein Problem: Nach dem Schließen der Luke hat einer der Kontakte keinen richtigen Kontakt mehr. Deshalb werden wir die Luke ausbauen und neu montieren. Verstehst du mich?
+Roger. Die Luke ist offen, die Detektoren werden überprüft.
+Okay, super.
+Eine Stunde vor dem Start bereit sein. Geräteprüfung läuft weiter. Verstanden?
+Roger. Eine Stunde vor dem Start bereit. Alles läuft bestens, ich fühle mich großartig, bin bester Laune und bereit für den Start.
+Roger, Yuri.
+Arbeitest du gerade mit Kehlkopfmikrofon oder so?
+Ich arbeite gerade an
+Roger.
+Verbindung wird geprüft. Können Sie mich hören?
+Ich verstehe dich gut. Und ich?
+Ich höre dich auch gut.
+Haben Sie das Paket überprüft? Können Sie es erreichen? Überprüfen Sie das Paket und geben Sie Bescheid.
+Ich habe das Paket überprüft. Ich kann es erreichen. Verstehst du mich?
+Roger. Großartig.
+Die Waggons fahren gerade weg. Hörst du sie?
+Ich höre den Zug nicht. Es ist sehr laut hier, ich höre nur die Kommunikation.
+Okay, verstanden.
+Das entspricht einer Einsatzbereitschaft von 50 Minuten.
+Roger: 50 Minuten Bereitschaft.
+Verstehst du mich? Haben sie schon angefangen, die Luke zu schließen?
+Ich verstehe Sie gut. Es scheint, als ob sie gerade die Abdeckung montieren.
+Roger, hier ist alles in Ordnung.
+Hier ist auch alles bestens. Ich fühle mich gut, bin bester Laune.
+Das ist wunderbar. Moskau hat gerade nach unserer Stimmung und unserem Befinden dort gefragt. Wir haben geantwortet, dass alles in Ordnung ist.
+Roger.
+Yuri, langweilst du dich dort?
+Es wäre schön, Musik abzuspielen, falls das möglich ist.
+Eine Minute.
+Sie sollten jetzt wahrscheinlich Geräusche hören. Das liegt daran, dass die Laufstege heruntergelassen werden. Alle Arbeiten an der Spitze sind abgeschlossen. Verstehen Sie mich?
+Roger: Die Laufstege werden heruntergelassen, aber ich höre kein Geräusch. Ich spüre Vibrationen.
+Roger. Das ist in Ordnung.
+Station, hier spricht Zaria-1. Bitte erfüllen Sie die Anfrage von, spielen Sie ihm etwas Musik vor.
+Hast du es gehört? Zaria wiederholt: Ich versuche, deine Bitte zu erfüllen. Spiel etwas Musik, mir ist langweilig.
+Was geht ab? Hörst du die Musik?
+Im Moment gibt es keine Musik, aber ich hoffe, das ändert sich bald.
+Aber hast du nicht gehört, dass es versprochen wurde?
+Na und? Die Musik hat angefangen zu spielen, nicht wahr?
+Nein, keine Musik.
+Das ist schon in Ordnung, wissen Sie, wie das mit Musikern ist; mal sind sie hier, mal sind sie dort, aber wie man so schön sagt: „Die bringen nichts besonders schnell voran“, sagte Juri Alexejewitsch.
+Sie spielen ein Liebesspiel.
+Ein Spiel über die Liebe? Das ist weise, Juri Alexejewitsch, das denke ich auch.
+Yuri, spielen die da Musik?
+Die Musik spielt, alles ist in Ordnung.
+Das ist toll, das heißt, es wird nicht mehr langweilig.
+Yuri, die Jungs freuen sich, dass es dir gut geht und du dich wohl fühlst. Verstehst du mich?
+Roger. Herzliche Grüße an sie. Ich höre Utesov. Für die Seele.
+Okay, dann hört mal zu.
+Dichtheit geprüft – alles in Ordnung. Verstehst du mich?
+Roger: Dichtheit geprüft. Ich höre und prüfe: Dichtheit geprüft. Sie klopfen dort ein wenig.
+Das ist in Ordnung, keine Sorge.
+Wir haben Sie gerade im Fernsehen gesehen, Ihr fröhliches Aussehen hat uns erfreut. Verstehen Sie mich?
+Roger. Mir geht es gut, ich bin bester Laune und bereit für den Start.
+Großartig. Hier läuft alles bestens.
+Yuri, langweilst du dich dort?
+Mir geht's gut, sie singen über die Liebe.
+Wie läuft es? Alles bestens hier, wir bereiten uns vor. Es gibt keine Verzögerungen, alles bestens. Die Jungs legen jetzt los.
+Roger. Alles bestens hier: ruhig und mir geht es blendend. Grüße an die Jungs. Ich spüre ihre Unterstützung ständig. Sie sind für mich da.
+Großartig, großartig, Yuri.
+Yuri, alle senden dir die besten Wünsche, wünschen dir viel Erfolg und alles Gute – einfach alles, was man sich vorstellen kann. Verstehst du mich? Ich wünsche dir von Herzen alles Gute und viel Glück.
+Roger. Vielen Dank.
+Hier spricht Rudnew. Genossen aus Moskau erkundigen sich nach Ihrem Befinden. Wir haben ihnen mitgeteilt, dass alles in Ordnung ist, Sie sich wohlfühlen und wir für die nächsten Schritte bereit sind.
+Du hast ihnen die Wahrheit gesagt. Fühlst dich gut, bist gut gelaunt und bereit für weitere Aktionen.
+Roger.
+Nehmen Sie die Ausgangsposition ein, um den Test der physiologischen Funktionen zu beginnen.
+Ausgangsposition für den Test der physiologischen Funktionen wurde eingenommen.
+Roger.
+Sie werden das Installationsprogramm jetzt abmontieren. Verstehst du mich?
+Roger: Sie werden den Installateur abmontieren.
+Der Montagearm wurde erfolgreich demontiert. Verstehst du mich?
+Roger: Der Arm des Monteurs wurde erfolgreich demontiert.
+Juri Alexejewitsch, wir verlegen den Radiosender jetzt in den Bunker. Daher herrscht fünf Minuten Sendepause. Nikolai Petrowitsch und Pawel Romanowitsch gehen in den Bunker. Ich bleibe hier bis fünf Minuten vor Sendebeginn, aber sie senden, was ich ihnen sage. Verstehst du mich?
+Roger: Alle begeben sich jetzt in den Bunker, es wird eine Minute lang Stille herrschen, dann werden Sie durch sie hindurch senden.
+Ja, das ist richtig: Wir fahren die Arme ein, alles läuft planmäßig, die Maschine funktioniert einwandfrei.
+Hier ist auch alles in Ordnung.
+Wie verlaufen die medizinischen Untersuchungen – Herzschlag?
+Verstehst du mich?
+Roger. Und ich?
+Ich verstehe Sie gut. Puls – 64, Atmung – 24. Alles in Ordnung.
+Roger. Das bedeutet, mein Herz schlägt noch.
+Wie ist der aktuelle Stand?
+15 Minuten Vorbereitungszeit. Zur Erinnerung: Handschuhe anziehen. Verstanden?
+Roger: 15 Minuten Vorbereitungszeit, Handschuhe anziehen. Los geht's.
+Ich habe meine Handschuhe angezogen, alles ist in Ordnung.
+Roger.
+Das Tonbandgerät funktioniert weder im automatischen noch im manuellen Aufnahmemodus; es scheint, als sei das Band leer. Bitte spulen Sie es zurück.
+Roger: Ich leite Ihre Anfrage weiter. Vorgang wird zurückgespult. Ist das Licht an?
+Roger: Rückspulen läuft. Lasst sie das ganze Band zurückspulen.
+Roger, alles ist in Ordnung.
+10 Minuten Bereitschaft. Ist Ihr Helm geschlossen? Helm schließen und melden.
+Roger: In 10 Minuten startbereit. Helm geschlossen. Alles in Ordnung, fühle mich super, bereit zum Start.
+Roger.
+5 Minuten Wartezeit. Bitte Lautstärke auf Maximum stellen.
+Roger: In 5 Minuten ist es soweit, die Lautstärke soll auf Maximum gestellt werden. Maximale Lautstärke eingestellt.
+Alles verläuft planmäßig. Nehmen Sie die Ausgangsposition ein, um mit dem Test der physiologischen Funktionen zu beginnen.
+Roger. Alles läuft gut, ich habe die Startposition eingenommen und mich auf den Test der physiologischen Funktionen vorbereitet.
+Roger.
+Alles bestens hier. Noch ein paar Minuten bis zum Betriebsbeginn. Verstehen Sie mich?
+Ich verstehe Sie gut. Roger: Wenige Minuten vor Operationsbeginn. Mir geht es hervorragend, ich bin bester Laune, alles bestens.
+Roger, richtig.
+Eine Minute Bereitschaft. Verstehst du mich?
+Roger: Eine Minute Bereitschaft. Habe Startposition eingenommen, daher die Verzögerung bei der Antwort.
+Roger.
+Sie können während des Starts schweigen. Antworten Sie, sobald Sie können; ich werde Ihnen die Details übermitteln.
+Roger.
+Schlüssel zum Start! Bereinigung läuft.
+Roger.
+Schlüssel auf Entwässerung eingestellt.
+Roger.
+Alles in Ordnung: Die Ablassventile sind geschlossen.
+Roger. Beste Laune, fühle mich gut, bereit für den Start.
+Großartig.
+Druckaufbau läuft, Kabelmast entfernt, alles in Ordnung.
+Roger, ich spüre das. Ich höre die Ventile arbeiten.
+Roger. Großartig.
+Die nächsten beiden Zeilen wurden redaktionell nach hinten verschoben; im Transkript befinden sie sich in derselben UTC-Minute.
+# Sie kommen jedoch eindeutig vor dem Start.
+Zündung gestartet.
+Roger: Zündung gestartet.
+Vorphase. Zwischenphase. Hauptphase… AUF!
+Los geht's! Der Lärmpegel ist sehr angenehm. Alles läuft gut, beste Stimmung, ich fühle mich großartig, alles ist bestens.
+Wir wünschen Ihnen einen guten Flug, alles ist in Ordnung.
+Bis bald, meine lieben Freunde!
+Tschüss, bis bald!
+Die Vibrationen beschleunigen sich, der Lärmpegel steigt langsam an.
+Zeit 70.
+Roger, 70. Mir geht es hervorragend, ich fliege weiter, die G-Kräfte nehmen zu, alles ist in Ordnung.
+100. Wie fühlen Sie sich?
+Mir geht's super. Und dir?
+Geschwindigkeit und Zeit sind in Ordnung. Wie fühlen Sie sich?
+Mir geht es gut.
+Alles ist in Ordnung, die Maschine funktioniert einwandfrei.
+Die Verkleidung wurde abgenommen, alles in Ordnung. Wie geht es dir?
+Ich löse mich von der Hauptverkleidung… Ich sehe die Erde… die G-Kräfte nehmen zu, alles in Ordnung, ich bin bester Laune.
+Gut gemacht, super! Alles läuft bestens.
+Ich schaue in die Wolken. Den Landeplatz. Wunderschön, einfach wunderschön. Verstehst du mich?
+Roger. Setzen Sie den Flug fort.
+Der Flug geht weiter, die Besatzung wird dichter, die Rotationen sind langsam, aber alles läuft gut. Durch das Periskop sehe ich die Erde: Sie ist fast vollständig von Wolken bedeckt.
+Alles läuft gut. Roger, wir verstehen dich gut.
+Zweite Trennstufe.
+Funktioniert einwandfrei. Letzte Phase. Alles bestens.
+Roger: Ich habe von der Inklusion gehört. Mir geht es gut. Ich sehe die Erde: Die Sicht ist gut, meine Stimmung ist gehoben, die G-Kräfte nehmen zu, mir geht es gut.
+Roger.
+Alles läuft gut. Verstehst du mich? Wie fühlst du dich?
+Ich verstehe Sie gut. Mir geht es gut, der Flug verläuft gut. Ich sehe die Erde, der Flug geht weiter, die Sicht ist gut, ich kann alles klar erkennen, einiges ist von Wolken verdeckt, der Flug geht weiter, alles bestens.
+Ich hab's kapiert, gut gemacht! Deine Kommunikation ist gut, mach weiter so.
+Alles funktioniert einwandfrei, fahren wir fort.
+Wie fühlen Sie sich?
+Ich höre dich, niedergeschlagene, heitere Stimmung, mir geht es gut, Flug geht weiter, alles läuft gut, Maschine läuft stabil.
+Ich hab dich, hier spricht Kolpashevo.
+Wie geht es dir?
+Ich verstehe Sie gut, mir geht es gut, die Maschine funktioniert einwandfrei. Ich sehe die Erde durch das Periskop. Alles in Ordnung. Hallo. Verstehen Sie mich?
+Roger.
+Roger. Ich weiß, mit wem ich spreche. Hallo.
+Wie fühlen Sie sich? Das ist Kolpaschewo.
+Mir geht es gut, Flug fortsetzen. Maschine läuft stabil. Ich sehe die Erde im Fenster, den Himmel, den Horizont. Der Flug verläuft einwandfrei. Verstehst du mich?
+Roger.
+Passiert - -
+Die Lichter leuchten, ich fühle mich wohl, bin bester Laune. Kabinenparameter: Druck 1, Luftfeuchtigkeit 65, Temperatur 20, Druck in Abteil 1, erster automatischer Druck 155, zweiter automatischer Druck 155, Zylinderdruck 320 Atmosphären
+Komm herein. Verstehst du mich?
+Zaria-3, dp, hörst du mich? Ich höre nicht, Vesna, ich höre nicht.
+Roger, die Verbindung ist normal.
+Der Flug verläuft gut, alles läuft bestens. Was können Sie mir sagen?
+Der Flug verläuft gut. Das Gefühl der Schwerelosigkeit ist angenehm. Alle Geräte, das gesamte System funktionieren einwandfrei. Was können Sie mir sagen?
+Ich verstehe Sie gut, die Geräte funktionieren einwandfrei, mir geht es gut.
+Ich verstehe Sie gut. Was können Sie mir über das Fliegen erzählen?
+Keine Anweisungen von Koroljow, der Flug verläuft gut.
+Roger. Keine Anweisungen von Koroljow. Bitte teilen Sie mir den Flugstatus mit. Grüße an den blonden Jungen!
+Verstehst du mich?
+Ich höre dich gut. Wie hörst du mich?
+Wie fühlen Sie sich?
+Mir geht es wunderbar, großartig, großartig, großartig. Berichte mir von den Flugergebnissen!
+Bitte wiederholen Sie, ich verstehe Sie nicht gut.
+Mir geht es gut, sehr gut, großartig!
+Geben Sie mir bitte einige Daten zum Flug!
+Verstehst du mich?
+Verstehst du mich?
+Hören Sie mich? Nächste Meldung wird gesendet: 9:48 Uhr, Flug verläuft planmäßig. Verschluss 1 funktioniert einwandfrei. Index bewegt sich. Druck in Kabineneinheit 1, Luftfeuchtigkeit 65 %, Temperatur 20 °C, Druck in Kabinenabteil 1.2, manuell 150, erster automatischer Druck 155, zweiter automatischer Druck 155, Flaschendruck 320 bar. Mir geht es gut, ich bin bester Laune.
+Ich kann die Bodenstation nicht hören. Ich befinde mich im Schatten.
+Roger.
+Sonnenausrichtung aktiviert.
+Roger.
+Der Flug verläuft planmäßig, die Umlaufbahn wurde berechnet.
+Roger: Der Flug verläuft einwandfrei.
+Beste Laune, Flug geht weiter, ich bin jetzt über den Vereinigten Staaten.
+Roger.
+Verstehst du mich?
+Ich verstehe Sie gut. Der Flug verläuft gut.
+Der Flug verläuft gut.
+Major Gagarin, Ihr Flug verläuft gut.

@@ -1,0 +1,108 @@
+Abheben
+Ah, Roger; Start und die Uhr läuft.
+Jawohl, Sir, ich verstehe Sie laut und deutlich.
+Hier ist Freedom Seven. Treibstoff ist bereit, 1,2 g Kabinendruck bei 14 psi, Sauerstoff ist bereit.
+Roger...
+Freedom Seven ist immer noch aktiv
+Roger sieht gut aus.
+Das ist Seven. Treibstoff: 1,8 g, Kabinendruck: 8 psi, Sauerstoff: [Wert fehlt].
+Der Kabinendruck wird bei 5,5 gehalten.
+Ich verstehe, Kabinenhaltung bei 5,5
+Treibstoff vorhanden (2,5 g), Kabinenkapazität (5,5 g), Sauerstoffversorgung vorhanden, Hauptbuskapazität (24 g) und isolierte Batteriekapazität (29 g).
+Rog, ich lese dich fünfmal durch... okay
+Okay, jetzt läuft es viel flüssiger. Viel flüssiger.
+Roger
+Sieben hier. Treibstoff vorhanden, 4g, Kabinendruck 5,5, Sauerstoff vorhanden, alle Systeme betriebsbereit.
+Das System ist startklar... okay
+5 g
+Abgeschnitten. Turmabwurf grün
+Entwaffnen
+ist grün
+Periscope erscheint und die Wende hat begonnen
+ASCS ist in Ordnung
+Kontrollbewegungen
+Okay, ich schalte auf manuelle Tonhöhenverstellung um.
+Das ist manuelle Tonhöhenänderung
+Die Tonhöhe ist in Ordnung
+Umschalten auf manuelles Gieren
+... verstehen, manuelles Gieren
+Roger Freedom, okay
+Gieren funktioniert. Umschalten auf manuelles Rollen.
+Roll ist in Ordnung
+Okay, sieht gut aus...
+Auf dem Periskop. Was für eine wunderschöne Aussicht!
+Bewölkung über Florida. 3 bis 4 Zehntel nahe der Ostküste. Sichtbehinderung bis nach Hatteras.
+Ich kann Okeechobee sehen. Identifiziere Andros Island. Identifiziere die Riffe.
+retro 5 4 3 2... 1
+Retrosequenz starten. In der Retro-Haltung sind die Grünen
+Die Steuerung ist reibungslos.
+Retro-Modell, sehr geschmeidig
+Retro zwei
+Retro drei
+Alle drei Retrospektiven sind gefeuert.
+Okay. Drei Retro-Raketen wurden ausgelöst. Retro-Jettison ist wieder scharf.
+Der Booster...
+Negativ
+Umstellung auf Fly-by-Wire
+Roll ist in Ordnung
+Roger; ich habe kein Licht
+Ich habe kein Licht. Ich sehe, wie die Gurte abfallen. Ich habe ein Geräusch gehört. Ich werde die Überbrückungsfunktion nutzen.
+Überschreibung aktiviert, die Leuchte leuchtet grün
+Ah, Roger
+Das Periskop fährt ein.
+Ich bin im Fly-by-Wire-Modus. Ich gehe in die Wiedereintrittsposition.
+Du hast den roten Knopf gedrückt
+Okay, Buster. Wiedereintrittsposition, ASCS auf Normalbetrieb umstellen.
+ASCS ist in Ordnung
+Umschalten auf HF für Funkprüfung
+Freedom Seven, Cap Com, wie liest man HF?
+Ah, Roger, ich verstehe dich laut und deutlich, HF, Deke. Wie geht es mir?
+Freedom Seven, Cap Com. Ich habe Ihre Antwort nicht gelesen.
+Ah, ich verstehe dich laut und deutlich, HF. Wie geht es mir?
+Zurück zu UHF
+Okay. Hier ist Freedom Seven.
+„G“-Aufbau 3, 6, 9
+Okay – Okay
+Es kommt laut und deutlich an.
+Okay
+Okay
+Hier ist Seven – Okay
+45.000 Fuß jetzt
+40.000 Fuß
+Ich bin wieder bei ASCS.
+35.000 Fuß
+30.000 Fuß
+Capcom, wie lesen Sie jetzt?
+Ah, Roger, Deke, ich verstehe euch ganz deutlich. Wie geht es mir?
+Wechseln Sie zu...
+Ah, Roger
+Der Schleppköder ist grün bei 21. Das Periskop ist ausgefahren. Der Schleppköder ist ausgefahren.
+Die Bremsfallschirm-Auslösung funktioniert. Ich habe 70 % Automatik und 90 % manuelle Steuerung. Die Sauerstoffversorgung ist noch in Ordnung.
+Und der Schnorchel ist (ausgefahren) bei etwa 15.000 Fuß.
+Notdurchfluss ist eingeschaltet
+Bereit für die Hauptleitung
+Hauptstraße auf Grün
+Der Hauptstrom ist gerefft
+Der Hauptstromkanal ist grün. Der Hauptstromkanal ist ungerefft und sieht gut aus.
+Der Hauptfallschirm ist in Ordnung. Die Sinkrate beträgt etwa 35 Fuß/Sekunde.
+Hallo CapCom. Freedom Seven. Wie lesen Sie?
+Hallo CARDFILE 23, hier spricht Freedom Seven. Können Sie lesen?
+Freedom Seven, hier spricht Indian Cap Com, hören Sie mich?
+Gut, Indian Cap Com, ich melde mich. Ich befinde mich in 7.000 Fuß Höhe, der Hauptfallschirm ist in Ordnung, der Landesack ist auf Grün, mein Peroxid ist abgelassen, mein Zustand ist gut.
+Roger Freedom Seven, ich verstehe, Sie befinden sich auf 7000 Fuß, Ihr Hauptfallschirm ist geöffnet, Ihr... ist in Ordnung, vorbei
+Das ist positiv – bitte weiterleiten.
+Hallo CARDFILE 23, CARDFILE 23, Freedom Seven. Ende.
+Freedom Seven, Freedom Seven, hier ist KARTENDATEI 23, über
+Ah, hier spricht Seven. Bitte melden Sie sich bei CapCom. Meine Flughöhe beträgt jetzt 4.000 Fuß, Zustand wie zuvor, der Hauptfallschirm ist in Ordnung, der Landesack hat sich geöffnet, das Wasserstoffperoxid wurde abgelassen.
+Ah, Rog, verstehst du...
+Ah, Kartei 23, Freedom Seven
+Freedom Seven, das ist Nummer 23
+Ich bin jetzt in etwa 1.500 Fuß Höhe. Der Hauptschirm sieht noch gut aus. Die Sinkgeschwindigkeit beträgt 30 Fuß/Sekunde.
+Ahh, Rog
+Freedom Seven, hier ist 23. Ich habe... Übertragungen von Cape Cap Com, über
+Ah, Roger
+Ah, Freedom Seven, hier spricht Cape Cap Com, über uns
+Hier spricht Seven. Bitte weiter.
+Haben Sie im Moment etwas zu übermitteln?
+Negativ. Nur zur Info: Mein Zustand ist weiterhin gut. Ich bereite mich auf den Aufprall vor.
+Roger

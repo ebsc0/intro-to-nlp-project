@@ -1,0 +1,2416 @@
+Accensione!
+Decollo! Decollo 13 37 26! Decollo 13 37 26!
+Oh, il tempo è partito. È vero!
+Il lancio inizia in orario.
+Rotolo completato.
+Il tono è in linea.
+Riduzione della pressione in cabina.
+La nostra altitudine sta salendo un po'.
+Pesa solo 1 g.
+MARK. 50 secondi.
+SÌ.
+Pressione della cabina sigillata a 5,5.
+Roger.
+Qual è la pressione in cabina, Gemini VI?
+La pressione dell'aria sembra buona.
+Roger. Ottimo tracciamento.
+Roger.
+C'è stata una leggera correzione dell'imbardata. Sembra buono.
+Roger, Wally.
+MARCO. 1 più 40.
+Ricevuto. Modalità 2.
+Ricevuto. Modalità 2.
+Ecco l'aggiornamento DCS.
+Ricevuto. Aggiornamento.
+Ciò equivale a circa 2-1/4 g.
+La traiettoria sembra davvero buona.
+Molto bene. Ho un buon secondo stadio.
+Roger.
+Aggiornamento DCS.
+Ricevuto. Aggiornamento.
+Messa in scena.
+Roger. Messa in scena.
+Passaggio a tariffa elevata.
+Deve esserci l'Iniziato alla Guida. È davvero sottile.
+Roger. Iniziato alla guida.
+Da qui lo sterzo sembra buono, Gemini VI.
+Roger. Sembra un sogno.
+Ho visto un lampo in quella fase.
+Roger.
+Gli errori di atteggiamento sono tutti pari a zero.
+Roger.
+Che ne dici! Hai letto quella parte, Elliot? Gli errori di atteggiamento sono zero!
+Roger.
+Sei proprio sulla buona strada, Gemini VI.
+Molto bene.
+Bene. Proprio nel segno (orizzonte su 8-ball).
+Ora inizierà a caricarsi.
+Sì, sono solo circa 2.
+Censurato --
+Da qui in poi vai, Gemelli VI.
+Roger. Hai ricevuto un bel VIA da parte nostra. È fantastico!
+Roger, Wally.
+Gli errori di atteggiamento sono ancora pari a zero.
+Bello spettacolo.
+Non l'ho copiato, Tom.
+Censurato...
+SÌ.
+Sì. Ora sta accelerando un po', circa 4 g.
+Attendere il punto 8.
+Roger.
+MARK. Punto 8. V su VR.
+Ricevuto. Punto 8. Modalità 3.
+Trenta 1, 2, 3, 4, 5, 6, 7, 8, 9.
+Censurato
+Censurato - -
+Censurato
+Censurato
+... per Attitude on, Wally. Pronti a separare la navicella spaziale.
+Va bene.
+Abbiamo iniziato a 39. Arriveremo a 59. Sembra davvero stabile qui.
+Bellissimo!
+... separazione.
+Gemelli VI. Sei GO.
+Buona velocità. 25.710.
+Separazione.
+Okay, settembre. Bene... comando.
+Molto bene.
+E carenature Jett, Wally.
+Va bene.
+Censurato
+Le carenature sono sparite.
+Sono nel Rate Command?
+Ti trovi nel Rate Command.
+Va bene.
+Bene. Ci siamo.
+L'atteggiamento è 72. 25.730.
+Gemelli VI, il tuo tempo 1-Alpha è 17 più 02 e ti copio l'inserimento.
+Roger. 17 02. Qui tutto sembra fantastico.
+È ottimo!
+In attesa di IVI.
+Okay. Che ne dici di mettermi in gabbia?
+Ok. Ricevuto. Vado al CAGE SEF.
+Va bene.
+GABBIA SEF.
+Ok. Ti do le IVI. Sono 11 in avanti, 2 a destra, 2 in basso.
+Copia. 11 avanti, 2 a destra, 2 in basso.
+La risposta è affermativa.
+Va bene...
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato Ok, torniamo su SEF.
+Roger.
+Va bene.
+Oh, che bella inserzione!
+Anche la gamma positiva, Wally?
+Ripeti.
+Gemini VI, la tua orbita è 87 per 141. Seguiranno altri aggiornamenti.
+Fantastico! Molto bene!
+Ok, vediamo anche delle piccole cose bianche intorno a noi. Sono piccole macchie bianche.
+Roger.
+Lasciatemi togliere gli squib e siamo a posto.
+Mettiamolo in modalità Plat e riorganizziamoci. Okay?
+Sembra una buona idea.
+Bene. Lo chiamerò per questi indirizzi. Concluderemo la questione.
+Va bene.
+Houston, Gemini VI. Pronti a copiare gli indirizzi?
+Andare avanti.
+Roger. Indirizzo 72, 25729; Indirizzo 94, 00025; Indirizzo 97, 00011; Indirizzo 52, Meno 00000; Indirizzo 73, 03015. Tutto sembra davvero nominale.
+Roger, Tom. Li ho copiati tutti.
+Lista di controllo post-inserimento. Andrò a prendere...
+Gemelli VI. Spegni il registratore vocale.
+Le batterie sono cariche.
+Ricevuto. È spento, Elliot. Stiamo controllando lo scanner primario in modalità piattaforma DCS. Tutti i miei squib sono spenti.
+Roger. E hai notato la sua interferenza?
+Certamente no. Non ci hanno lasciato molta scelta una volta premuto quel pulsante.
+Roger.
+Elliot... non ci sono dubbi sul decollo.
+Ruggero, Gemelli VI.
+... ora è più comodo.
+Roger.
+Le cose stanno andando molto bene per la scuola primaria. Probabilmente controlleremo anche la scuola secondaria dopo la LOS.
+Roger.
+Tutte le modalità di controllo sono molto buone.
+Roger, Tom. Roger, Wally.
+Ok. Ho un po' di fumo alla finestra. Spero che non ci sia pericolo...
+Roger.
+Gemelli VI, il tuo GMT LO è 13:37:26.
+Per la cronaca, l'accelerazione g per l'ingresso in orbita è di 6,8 g.
+Gemelli VI, Canarino CAP COM. Come leggi? Passo.
+Gemelli VI. Forte e chiaro. Come me?
+Roger. Ti ho sentito forte e chiaro.
+Abbiamo un vettore Bermuda per te. Sei alto 87 pollici e largo 140 pollici, e hai bisogno di una manovra fuori piano e di una regolazione dell'altezza.
+Ricevuto. Capire 87 per 140, che richiederà una regolazione fuori piano e in altezza.
+Che tipo di velocità fuori dal piano avevamo al momento dell'accensione?
+Stand-by.
+Va bene.
+... Sei pronto a copiare, Canary?
+Andare avanti.
+Ora stiamo leggendo 60 al secondo in avanti, 22 a sinistra e 4 in basso.
+Ricevuto. Ricevuto.
+... Cambia comunicazione. Potremmo aver avuto un incidente fuori dal piano.
+Va bene.
+Calcolata fuori dal piano a circa 31 piedi al secondo.
+Va bene. Grazie.
+Ricevuto. Tutti i sistemi sono operativi a terra.
+Roger. Siamo tutti uguali.
+È stato un lancio meraviglioso e stiamo procedendo bene.
+Mi fa piacere sentirlo.
+Come stanno i ragazzi della VII classe qui?
+Ripeti.
+Come stanno i ragazzi del VII? Sono venuti qui un po' di tempo fa?
+Certo che sì. Sono circa 5 minuti avanti a te.
+Roger. Di' loro...
+Va bene.
+Quando sarai pronto, VI, controlleremo le comunicazioni.
+Andare avanti.
+Ricevuto. Chiamami per l'adattatore UHF Set numero 1. Mi ricevi?
+Roger. Ti ho sentito forte e chiaro. Come faccio?
+Leggi lo stesso.
+Roger.
+Gemelli VI, Canarie. Ricevi su UHF 1?
+Affermativo. Ora siamo sullo scanner secondario... a breve lo pomperemo in alta frequenza.
+Roger.
+Gemelli VI, Houston. Come leggi?
+Gemini VI, Houston CAP COM. Come leggi?
+Questo è Gemini VI....
+Roger. Ti ho sentito forte e chiaro. Sembra che la comunicazione tra noi sia buona.
+Roger... dove... UHF...
+Ruggero, VI.
+Ritorno allo scanner principale dopo 34 minuti. Tempo di riscaldamento circa 30 secondi. Gli daremo 2 minuti per una buona possibilità.
+Gemelli VI, Gemelli VI, Houston. Come leggi?
+... Elliot, ti sento forte e chiaro. Come mai?
+Roger. Sei debole ma molto chiaro. Sta migliorando. Potresti confermare che il radiatore è su FLUSSO, l'adattatore in banda C è su CONTINUO e il rientro in banda C è su COMANDO?
+Roger. Il tuo radiatore ora è in FLUSSO. In attesa. Banda C DISATTIVATA... flusso ancora massimo, fa ancora un po' caldo qui dentro... Abbiamo C - rientro in COMANDO; faro adattatore in CONTINUO. Fine.
+Ruggero, Gemelli VI.
+... VII.
+Non ho copiato la tua ultima trasmissione, VI.
+... Gemelli VI.
+Avanti, VI.
+Ricevuto. Entrambi i riscaldatori sono risultati normali...
+Ripeti, VI. Sei debole e un po' confuso.
+Ricevuto. Sia lo scanner primario che quello secondario sembrano funzionare molto bene.
+Bisogna sapere che sia gli scanner primari che quelli secondari hanno un bell'aspetto.
+La temperatura della nostra tuta è scesa di circa 1 grado.
+Ricevuto. La temperatura della tuta è scesa di 1 grado.
+Carnarvon CAP COM, Gemini VI. Mi leggi? Passo.
+Gemini VI, Carnarvon CAP COM. Vi leggo forte e chiaro.
+Roger. Il... fuoco sei e nove... Mark.
+Ricevuto. Ricevuto.
+Sembra che da quelle parti ci siano dei temporali piuttosto forti.
+Affermativo, VI. Ti diamo il via libera sul radiatore.
+Roger.
+Spegnere le pompe secondarie e impostare l'interruttore operatore su NORMALE.
+Carnarvon, hai una stima della nostra combustione fuori dall'aereo?
+Roger. Abbiamo un aggiornamento per te. Vorremmo anche avere le tue letture GO e NO-GO, per favore.
+Ok. Aspetta.
+Bene. Siamo pronti per te.
+Va bene. Vai avanti.
+Siamo in attesa delle tue letture, Gemelli VI.
+Devi avere qualcosa che noi non abbiamo. Vuoi che ti diamo le quantità per GO.
+Roger. Ho bisogno delle letture delle batterie dell'adattatore 1, 2 e 3, per favore: tensione e corrente.
+Roger. La batteria dell'adattatore 1 è 24,5 volt, 1 A è 7,0 ampere. La batteria dell'adattatore D è 24 e 6,8 ampere. Il numero 1C è 24 e 6,9. 2 A è 24 e 8,5 ampere. 2B, 24 e 8,3. 2C è 24 e 9,0. Finito.
+Ricevuto. Riceviamo.
+Gemelli VI. Vi diamo il VIA per 17-1. Inoltre, ho un aggiornamento per voi sulle vostre manovre. Siete pronti a copiarle?
+Roger in GO per 17-1 e pronto a copiare sul
+B; Delta-V, 13.5. Regolazione altezza; Delta-V, 59.5. Regolazione fase:; Delta-V, 31.3. Cambiamento di piano verso sud:; Delta-V, 44.3. Coellittico:; Delta-V, 33.7. Inizio fase terminale:; Delta-V, 42.5. Finale fase terminale. Hai ricevuto?
+Roger. Li abbiamo. Abbiamo una stima generale. Quello che ci interessa ora è il primo. Puoi riportarlo all'altezza regolata per gli Stati Uniti?
+Vi aggiorneremo sulla regolazione finale dell'altezza sulle Hawaii. Inoltre, vorremmo che controllaste l'asse X... È leggermente fuori tolleranza. Quindi non premete START COMP fino a tardi per la regolazione dell'altezza. Ci occuperemo meglio degli Stati Uniti.
+Roger. Capisco che abbiamo una leggera... esplosione qui. Non spingeremo la COMP INIZIALE per questo fino a poco prima della combustione.
+Ciò è confermato.
+Possiamo vedere il conteggio degli IVI aumentare.
+Roger. Ti piacerebbe un trucco per perdere tempo?
+Affermativo. Vorremmo un trucco per risparmiare tempo.
+Va bene. Ti darò un trucco per calcolare il tempo. Sono 57 minuti e 30 secondi.
+MARCO. 57 30.
+Ricevuto. Ce l'abbiamo. A questo punto, abbiamo... e stiamo ricevendo un rumore intermittente... Non ne vediamo nemmeno uno. Okay.
+Roger. Puoi posizionare l'interruttore Cryo Quantity sulla posizione ECS O2, per favore?
+Roger.
+Gemini VI, Carnarvon. Puoi portare l'interruttore Cryo in posizione OFF.
+Ricevuto. Spegnimento. Il nostro PQI è del 98,0%.
+Roger, su questo.
+In questo momento, SEF, abbiamo un bagliore notturno che attraversa la luna. L'ora era 59 minuti e 10 secondi. Stimiamo che lo strato sia di circa mezzo grado. Era più o meno dello stesso spessore della luna.
+Censurato
+Censurato
+Penso che a questo punto avreste potuto notare che stavamo pulendo la cabina di pilotaggio, preoccupati per la temperatura della tuta. Finalmente siamo arrivati ​​al punto in cui eravamo convinti che fosse tutto a posto.
+Censurato
+Censurato
+Ok, su questo ci fermiamo. Spegniamo il registratore.
+Gemini VI, Hawaii CAP COM.
+Forza, Hawaii.
+Come stai lassù stamattina?
+Molto bene. È bello essere quassù.
+È bello averti lassù. Ti stiamo mostrando GO qui a terra, e qual è la tua situazione?
+Abbiamo completato il GO. La temperatura della tuta è tornata sotto controllo. Vi darò una lettura.
+Andare avanti.
+Ora ci sono circa 19 gradi e stiamo bene. Un attimo.
+Ok. Vuoi spegnere le pompe secondarie? Passo.
+Secondari disattivati.
+Ok. Ci pensiamo noi. Pronti. Qual è la temperatura della cabina?
+... la temperatura della cabina è di 90 gradi.
+Roger, 90 anni. Ho le informazioni sulla regolazione dell'altezza. Pronto a copiarle?
+Pronto per la copia.
+B; Delta-V, 14.0; il tuo tempo di combustione, 0 più 24; imbardata 180, beccheggio 0; Nucleo 25, 00140; i nuclei 26 e 27 sono tutti zeri. I tuoi propulsori di manovra saranno posigradi. Questa è la tua regolazione dell'altezza.
+Ricevuto. Per la regolazione dell'altezza, ecco: Delta-V, 14,0; durata, 0 più 24; imbardata 180 gradi, beccheggio 0; nucleo 25, 00140; 26 e 27, tutti zeri; propulsori a fuoco frontale, manovre posigrade.
+Ok. Hai detto tutto bene.
+VI, Hawaii.
+VI, vai.
+Ok. Restiamo a disposizione se hai bisogno di altro. Possiamo aiutarti ora?
+Positivo. A quanto pare tutte le albe saranno dalla parte di Tom, ma non puoi rimediare.
+Okay. Ripetilo. Non sono riuscito a capirti molto bene.
+Roger. A quanto pare tutte le albe saranno dalla parte di Tom Stafford, ma non puoi... non puoi rimediare.
+Okay. Molto bene. Aggiorneranno i tuoi bias dopo aver completato la tua campagna elettorale negli Stati Uniti.
+Molto bene. Cominceremo ad allentarlo... tra poco.
+Roger. Capisco. Resterò qui.
+Roger. Grazie. Fuori.
+Censurato
+Censurato
+Censurato
+Ok, spegni il registratore.
+Gemelli VI, Houston. Come leggi?
+Gemelli VI, Houston. Come leggi?
+Gemini VI, Gemini VI, Houston CAP COM. Come leggi?
+Gemelli VI. Stai entrando e uscendo. Riprova.
+Roger, Houston. Stai... Stai diventando più chiaro ora. Come mi leggi?
+Ricevuto. Ora tutto ok. Siamo in attesa della tua segnalazione. Ti informiamo che si tratta di un passaggio UHF 6.
+Roger, Elliot. Siamo... prima modalità di rodaggio... regolazione dell'allineamento... davvero bellissimo.
+Roger. Siamo pronti ad accoglierti, VI.
+Guaymas. Questo è VI... pregiudizio su questa combustione... appena prima del tempo di combustione.
+Ricevuto. E dopo la tua masterizzazione, quando avrai completato il test, abbiamo intenzione di aggiornare il bias dell'accelerometro. Ti contatteremo dopo la masterizzazione.
+Va bene.
+Houston CAP COM, Gemini VI. VII ti sta parlando? Possiamo sentire qualcosa da qui sotto, è normale.
+Negativo. Al momento non ci stanno parlando.
+Sono sicuro di aver letto la trasmissione di qualcuno, ed è normalissimo.
+Roger.
+Gemini VI, Houston. Manca 1 minuto alla partenza.
+SEGNO.
+Roger. Siamo proprio con te.
+Questo è il Gemini VI, in fase di prima accensione con regolazione dell'altezza, in fase di registrazione. Fine. L'accensione sarà a 1 ora, 34 minuti e 2 secondi. 14 piedi al secondo a poppa.
+E la costa del Golfo ne è piena.
+Vedete? (IVI)
+Che cosa?
+Cambiato.
+Va bene.
+È iniziato.
+Stand-by.
+... MARK. Brucia.
+MARK. Masterizzazione completata.
+Va bene.
+Va bene.
+Giù 2, Wally. Okay.
+Va bene.
+Censurato
+Censurato
+Censurato
+Questo è uno... Provo con l'81.
+Va bene.
+... 80 00 04. Okay. Torna un po' indietro.
+Ok. Avanti.
+Continua a lampeggiare ancora un po'.
+Ecco fatto.
+I nostri residui sono pari a zero. La quantità di propellente rimanente è 87,5.
+Capire 87.5. È corretto?
+Questo vale per la lettura della quantità. Corretto.
+Roger. Ora sei pronto per il PRE-LANCIO del computer, così possiamo aggiornare il bias dell'accelerometro.
+Roger. Grazie. Tutti i sistemi sono...
+Ripeti la tua ultima trasmissione, VI.
+Io dico che tutti i sistemi funzionano benissimo.
+Ricevuto. Le tue trasmissioni UHF sono leggermente distorte, Wally. Potresti provare a regolare il microfono.
+C'è un oggetto rosso che ci segue. Subito dopo l'accensione dell'Height-Adjust. A quanto pare, si sta spostando verso poppa. Ha sicuramente un colore rosso. Non è un oggetto estraneo. È ovviamente parte della navicella spaziale.
+Ehi, ecco di nuovo la luna!
+Il tempo di registrazione è sceso a 37 minuti e 25 secondi.
+SEGNO.
+Gemini VI, hai ricevuto l'aggiornamento?
+La risposta è affermativa.
+Roger.
+Stiamo riscontrando molti problemi con... la combustione.
+Gemelli VI. Qualunque cosa tu abbia fatto al tuo microfono, fallo in modo diverso. Ora stai peggio.
+Come mi leggi adesso, Elliot?
+Molto meglio.
+Okay. Quello che ho detto è... per tenermi in riga, ma la Gulf Coast è offline.
+Roger.
+Gemini VI, Houston, abbiamo completato l'aggiornamento del bias dell'accelerometro. Puoi tornare alla fase PRELAUNCH e - correzione - alla fase CATCH-UP. Ti consigliamo di ripetere il controllo del bias dell'accelerometro.
+Gemelli VI. Okay.
+Ho un aggiornamento del nodo per avvisarti quando sarai pronto per copiare.
+Andare avanti.
+Nodo 01 12 08; Rev 1; 179 gradi ovest; 08 ore, 28 minuti, 42 secondi, ascensione retta. Ricevuto?
+Roger... sono le 01:12:08; Rev 1; 179 gradi ovest; 08:28:42, ascensione retta. Hai l'orario della nostra prossima accensione?
+Non è cambiato nulla rispetto alla manovra riassuntiva che Carnarvon ti ha dato, Tom. Ce l'hai già, o vuoi che te la dia di nuovo?
+Parli piuttosto velocemente. Non ne sono ancora sicuro.
+Ok. Sono le 2 18 02 per recuperare.
+Ricevuto. 2 più 18 più 02.
+Ricevuto. E il Delta-V sarà di 59,5. Vi aggiorneremo.
+Roger per l'aggiornamento Delta-V. Grazie.
+Gemini VI, Houston.
+Forza Houston.
+Vorremmo invitarti a recarti a START COMP in questo momento, così possiamo controllare i tuoi accelerometri mentre sei ancora in contatto qui.
+Roger.
+INIZIA LA COMPETIZIONE.
+Roger.
+Gemini VI, Houston.
+Forza Houston.
+Abbiamo perso un multiplexer e non siamo in grado di rilevare diverse temperature qui a terra. Vorrei avvisarvi. Queste sono la temperatura della cabina, la temperatura della tuta sinistra, la temperatura della tuta destra e la velocità di autonomia logaritmica, e questo è tutto.
+Bene. Ora andiamo al SEF e iniziamo a tirare fuori tutta la nostra attrezzatura fotografica.
+Roger.
+Gemelli VI. Leggi ancora Houston?
+Roger, Houston. Gemini VI ti legge forte e chiaro.
+Roger. Ho un aggiornamento sul tuo recupero.
+Gemelli VI. Avanti.
+GET della combustione 2 17 59; Delta-V, 63,4; tempo di combustione, 1 più 20; imbardata 0, beccheggio 0; Core 25, 00634; Core 26 e 27, tutti zeri; propulsori di poppa, manovra, Posigrade. Ricevuto?
+Roger, Houston. Per l'Altezza Regolata, il GET è ora 2 più 17 più 59; Delta-V, 63,4; durata, 1 più 20; imbardata 0, beccheggio 0; Nucleo 25, 00634; 26 è 0; 27 è 0; propulsori di poppa, Manovra Posigrada.
+Ricevuto. E questa è la tua manovra di recupero.
+Gemini VI, Houston CAP COM. Come leggi?
+Roger. Ho una piccola modifica da apportare al tuo aggiornamento sulla manovra di recupero quando sarai pronto a copiare.
+Andare avanti.
+Ok. GET della masterizzazione 2 18 00; Delta-V, 60.8; durata, 1 più 17; Core 25, 00608; tutto il resto uguale. Ricevuto?
+GET è 2 più 20 più 00; il Delta-V è 60,8;... la durata è 1 più 17; Core 25 è 00608.
+Roger. Non credo che tu abbia capito il messaggio delle 18:00. Mi hai ricevuto?
+2 più 18 più 00.
+La risposta è affermativa.
+Gemini VI, per tua informazione, il controllo della polarizzazione dell'accelerometro che abbiamo effettuato qui è stato molto buono.
+...Ricevuto.
+Houston CAP COM, Gemini VI. Vi abbiamo ricevuto forte e chiaro attraverso tutte quelle trasmissioni.
+Roger, Gemelli VI. Molto bene.
+Li abbiamo sentiti dare una lettura che indicava una quantità di carburante del 16 percento, ed è stata l'ultima volta che abbiamo sentito qualcosa.
+Roger. Molto bene, VI.
+Ho qualcosa in vista alle ore 12. È una stella.
+Ce l'ho. Okay, Wally, la prossima cosa...
+Gemini VI, Houston. Stavi copiando le risposte di Gemini VII?
+Una sola risposta: la prima risposta era una quantità di carburante del 16 percento.
+Roger. Vogliamo che la situazione migliori.
+Roger.
+Gemini VI, Houston. Se ci state leggendo, siamo in attesa della vostra accensione e del conto alla rovescia. Abbiamo 4 minuti e 52 secondi.
+Roger. In attesa.
+... Houston. Abbiamo il nostro... in vista.
+Ripeti, VI. Hai ciò che hai in vista
+La toppa della nostra tuta pressurizzata in vista.
+Gemini VI, non abbiamo capito quell'ultima trasmissione.
+Ricevuto. Abbiamo la toppa con l'emblema del Gemini VI in vista.
+Ricevuto. Riceviamo.
+SEGNO.
+Un minuto per bruciare.
+Interfono continuo. Premere START COMP alle 2:17:30. È più semplice recuperare il consumo energetico.
+E che dire dell'OAMS?
+Questo è quello che abbiamo appena ottenuto dalla piattaforma. Ho controllato tutti gli indirizzi.
+Va bene.
+Vuoi portarli fuori?
+Stanno lavorando lentamente, dentro e fuori; non ci resta che aspettare fino alla fine.
+Vediamo se riusciamo a sentire questi tizi.
+Va bene.
+SEGNO.
+Bruciare.
+E ci stiamo muovendo.
+Sento quell'accelerazione.
+Sento un'accelerazione.
+Censurato
+Sono passati 50 secondi.
+Roger.
+MARK. È passato 1 minuto.
+Roger.
+Attendere l'arresto della combustione.
+SEGNO.
+Ricevuto. 1 minuto e 16 secondi. Pronti a tagliarli.
+Abbiamo alcuni grandi cali e altri grandi cali.
+SÌ.
+Ok. Scendi di circa 3.
+Un po' più giù, Wally. Va bene.
+Ok. Lasciami controllare di nuovo.
+Ottimo. 0 su 82. 81.
+A destra?
+1.9 a destra.
+Vuoi prenderlo?
+Un po' più a destra. Sette decimi.
+Sei decimi. Un po' più a destra.
+Non è carino?
+Non l'ho visto.
+Ok, dovrebbe bastare. Siamo passati. Questo è un decimo.
+Togliere a poppa?
+A poppa. Ok, ti ​​dico quanto. 80. A poppa 2,5.
+Continua così. Aspetta. 09. Dovrebbe averlo.
+Lasciami controllare di nuovo.
+Solo un piede indietro.
+Ecco fatto.
+Ecco fatto. 01.
+Censurato
+Censurato
+La quantità di propellente rimanente con residui pari a zero su 80, 81, 82 è del 79 percento.
+Okay. Dovremmo riesumare quella classifica mondiale Censored Censored.
+Sì, ce l'ho.
+Hai capito?
+Questo è dalla tua parte.
+Mi dispiace.
+Bene. Il prossimo è il cambio di aereo.
+SÌ.
+Ok. Quali erano i numeri per questa cosa?
+Va bene.
+Bene. Rev 1; 179 gradi ovest.
+179 ovest.
+SÌ...
+Stand-by.
+Va bene.
+Ok. È Rev 1 e il GET è 01 12. Ci va vicino. Non ci servono i secondi.
+12. 1 ora e 12 minuti.
+Ok, ho capito.
+Okay. L'altro era...
+Non ne ho ancora bisogno.
+SÌ.
+La stella, intendi?
+8 ore e 29 minuti, a tutti gli effetti. Giusto.
+Avremmo dovuto registrare questa cosa.
+SÌ.
+Questo è bello.
+Bene. Ora siamo a 1 ora e 32 minuti. Siamo a 1 ora o?
+Oh sì. Sì.
+2 ore. Va bene.
+Siamo circa 1 ora e 10 minuti dopo.
+1 ora e 10 minuti?
+SÌ.
+Va bene.
+Quindi guarda 1 ora e 10 minuti più avanti. È più o meno così, più o meno qui dentro.
+Proprio qui.
+Eccoci qui. Tra poco saremo a Carnarvon.
+Tra 12 minuti saremo a Carnarvon.
+Minuto più 22.
+La pressione in cabina è 4,9. Sembra ancora buona.
+OH.
+Com'è la temperatura della nostra tuta qui, Wally?
+Circa 67, 68. Censurato
+Censurato
+Ok. Lasciamoli lì (due pompe). Diciamo che ci serve un po' di velcro qui, se puoi.
+Va bene.
+Gemini VI, Carnarvon CAP COM.
+Ciao, Carnarvon. Sono Gemini VI.
+Roger. Hai qualche informazione da comunicarci sulla Manovra di Fasatura?
+Ricevuto. Buona combustione. Nessun residuo. La quantità di propellente rimanente è circa il 79%.
+Ricevuto. Ricevuto, hai bruciato tutto il residuo; la quantità di propellente rimanente è il 79%.
+La risposta è affermativa.
+Ricevuto. Ci sarà un'altra manovra di regolazione dell'altezza che avrà luogo sugli Stati Uniti durante il prossimo passaggio. Riceverete aggiornamenti sulle Hawaii.
+Ricevuto. Capito. Aggiornamento sulle Hawaii. (Altezza regolabile.)
+Chiediglielo - -
+Roger. Ho le informazioni sul cambio di aereo, se sei pronto a copiarle.
+Roger. Questa volta mandalo un po' più lentamente.
+Sei pronto?
+Vuoi tenermelo?
+Carnarvon, Gemini VI. Pronto per la copia.
+Roger.
+... 0317; propulsori, a poppa; manovra, a sud. Ricevuto?
+Roger, Carnarvon. Per il cambio di aereo. A GET 02 più 42 più 07; Delta-V, 31,7; durata, 0 più 40 secondi; imbardata, destra 90 gradi, beccheggio 00; Core 25, 26, 0; Core 27, 90317; propulsori di poppa, manovra verso sud.
+Roger. E potresti controllare che il tuo switch T/M sia in REAL-TIME ACQ-AID?
+Ricevuto. TEMPO REALE e ACQ.
+Oh, ecco che arriva la luna. Un arancione brillante.
+OH.
+Ok, mi occupo di questo problema qui.
+Okay. Questa è una 2 42, Wally.
+Che ore sono?
+Ripetilo. 02?
+Che cos'è?
+Questo è il nostro cambio di piano. 31,7 piedi al secondo.
+Gemini VI, Carnarvon CAP COM.
+Vai, Carnarvon.
+Roger. Potresti lasciare il tuo interruttore T/M in posizione REAL-TIME ACQ-AID fino al completamento del rendez-vous, per favore?
+Ricevuto. Lascia che siano REAL-TIME e ACQ a completare l'incontro. Deve essere stato inavvertitamente eliminato.
+Roger.
+Rumore in una lattina a 2 ore e 35 minuti. Vuoi dire che abbiamo ancora 7 minuti?
+SÌ.
+Senti qualcosa?
+No, assolutamente no. Prova HF qui.
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Ok, Wally. Ne abbiamo 37.
+SÌ.
+Ok, facciamo un giro.
+Tasso di orbitazione.
+Pulse. Vado a recuperare. Dovrò accendere il computer quando saremo lì.
+Censurato
+Censurato
+Censurato
+Ciao a tutti, Alpha e Beta Centauri e la Croce del Sud.
+SÌ.
+Guarda quei fulmini! Ne ho davvero tanti qui sotto.
+Va bene.
+Vedete quelle stelle?
+Sì. Lì abbiamo... proprio lì andiamo a zero imbardata. Avremo Alpha e Beta Centauri proprio sul muso!
+SÌ.
+Ok. Lasciami ricontrollare e poi lo resettiamo.
+Bene. Ce ne sono 40. Ora resetta.
+Ce ne sono 41.
+Ok. 42, giusto?
+42 07, Wally.
+Va bene.
+Siamo in modalità Registrazione Continua. Ci vediamo a
+Voglio solo scaldare un po' di più la situazione.
+Ok, abbiamo circa 30 secondi per continuare.
+Ok. Inizia la competizione.
+Va bene.
+Comando di velocità.
+In attesa di bruciare il tempo. Alle 42:07.
+Sono le 42:07.
+Stand-by.
+SEGNO.
+Censurato
+Censurato
+Sono passati 30 secondi.
+Masterizzazione completata.
+Esatto, 40 secondi.
+Bellissimo!
+Va bene. 82.
+Okay. Solo un po' più giù.
+Questo porta il punteggio a due decimi. Direi che per ora va bene. Ne basta un altro.
+Bene. Un decimo su 82. 81.
+Due decimi a sinistra.
+Bene. Siamo arrivati ​​a uno. 80.
+Censurato
+Censurato
+Bene. 80 è zero.
+Ricevuto. Zero.
+I residui sulla combustione erano 80, tutti zeri. 81 a un decimo e 82 a un decimo, quasi.
+Il carburante rimanente è il 74 percento.
+Bene.
+Ne avevamo 79 per iniziare.
+Roger.
+Ragazzi, quel comando di velocità è una delizia!
+Ok. Disattiva la registrazione.
+Linea SEF. Linea SEF a 2 ore e 46 minuti e abbiamo completato la combustione Plane-Change.
+Qual è il nostro prossimo evento?
+Il nostro prossimo evento è coellittico.
+Che ore sono?
+Okay. Ce ne ha dato uno anticipato alle 3 più 47, quindi è quasi un'ora.
+Va bene.
+Questo è il momento di preparare la nostra attrezzatura finale.
+Sì. Passerò alla modalità platino. È quello che volevo dire.
+Giusto. Okay. Cavolo, è bello aspettare che la transizione sia finita e...
+Bene, avremo ancora un po' di carburante.
+SÌ.
+La pressione della nostra sorgente è ancora molto buona. Sorgente OAMS: la registrerò.
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Gemini VI, Hawaii CAP COM.
+Hawaii, Gemelli VI. Vai.
+Come stai lassù?
+Ottimo. Completata la combustione del cambio aereo. Nessun residuo. Il carburante rimanente è al 75%.
+Bene. Hai bruciato tutti i residui e il carburante rimasto è al 75 percento.
+Questo è confermato. Ora torniamo alla linea SEF.
+Ok. Se hai troppo caldo, puoi attivare il circuito secondario, se preferisci.
+Vuoi farlo?
+Roger. Torniamo a un solo ventilatore. Credo che accenderemo il circuito secondario.
+Ok. Vuoi spegnere il riscaldatore ECS O2?
+Va bene.
+Roger.
+Hai abbastanza calore per mantenere la pressione. E ho questa regolazione dell'altezza qui, se vuoi copiarla. È una bruciatura a tweak.
+Circuito secondario.
+Roger.
+Circuito secondario acceso e - -
+Ricevuto. Provvederemo a modificarlo.
+Ok. Riceviamo, la pompa è accesa. GET B 03:19; Delta-V, 0,8; il tuo tempo di combustione, zero più 01; imbardata e beccheggio sono zero; Core 25, 00008; Core 26 e 27 sono zeri; usa i tuoi propulsori di poppa; la manovra è Posigrade.
+Ricevuto. Copiato per il GET di regolazione dell'altezza di combustione, 03 più 03 più 19; Delta-V, 0,8, durata, 0 più 01; imbardata 00, beccheggio 00; nucleo 25, 00008; 26 e 27, tutti zeri; propulsori di poppa, manovra posigrada.
+Hai ragione. Siamo in buona forma.
+Li manderemo.
+Censurato
+Censurato
+Censurato
+Censurato
+Se vuoi, puoi mettere il filtro lì sotto.
+Penso che indosserò semplicemente gli occhiali da sole.
+Censurato
+Censurato
+Censurato
+SÌ.
+Sto passando alla modalità HORIZ SCAN.
+Va bene.
+VI, Hawaii. Hai bisogno di altro?
+VI, negativo. Stiamo solo guardando il sole sorgere.
+Roger. Anche la tua coorte se la sta cavando molto bene.
+Molto bene. Non lo abbiamo più sentito da allora, parecchio tempo fa.
+Va bene.
+Ci hanno già sentito?
+Li chiamo. Restate in attesa.
+VI, Hawaii.
+Nessuna gioia. Non riuscivo a leggerli.
+Va bene. La prossima volta probabilmente le leggerai forte e chiaro.
+Molto bene.
+Saremo a tua disposizione se avrai bisogno di qualcosa.
+Digli di restare esattamente dove sta andando.
+Ripeti.
+Digli semplicemente di continuare ad andare dove sta andando.
+Lui sarà lì quando arriverai.
+Roger.
+Gemini VI, Gemini VI, Houston. Pronti per la tua bruciatura.
+Ricevuto. Mancano circa 3 minuti.
+Roger.
+... che ne dici di darmi un hack GET solo per vedere come si comporta questo orologio?
+Hai detto GET o GMT?
+OTTENERE.
+RICEVUTO. Ricevuto. Abbiamo 3 più 00.
+MARK, 20 secondi.
+Ok, e poi il Greenwich Mean Time.
+Ricevuto. Prossimamente alle 16:37 - correzione - 16:38:00.
+SEGNO.
+Hai ricevuto, VI?
+Ricevuto. Ci pensiamo noi.
+Mi dai un voto sul 39, per favore?
+Roger.
+E stiamo portando il GMT alla prova in 40 secondi.
+Roger.
+Prossimamente alle 16:39.
+SEGNO.
+Roger.
+Il timer ha guadagnato 40 secondi, quindi lo abbiamo reimpostato.
+Ruggero, VI.
+Passaggio alla registrazione continua. OTTIENI 3 ore, 2 minuti e 15 secondi.
+Manca circa 1 minuto alla combustione.
+SEGNO.
+Roger.
+A...
+Siamo in modalità recupero.
+Puoi buttarlo dentro.
+Sì. Va bene.
+Oh, va bene.
+Premo il pulsante. Dato che sono solo otto decimi, non voglio che si accumuli. Lo premo a 03, il che ci darà 19 secondi.
+Va bene.
+Ho preso 19. Giusto?
+Giusto.
+Inoltrare.
+Preparatevi a bruciare.
+SEGNO.
+Censurato
+MARK. Un decimo, un decimo.
+Bella modifica.
+Dando un residuo di un decimo.
+Ottima ipotesi.
+Bene. Passiamo a Horizon Scan. Velocità di orbita.
+Roger.
+Siamo in Orb Rate, Horizon Scan.
+Roger.
+Censurato
+Censurato
+Censurato
+Censurato
+Abbiamo un aggiornamento del piano di volo quando sarai pronto a copiare, VI.
+Forza, Elliot.
+Stand-by.
+Appuntamento di prova. Otterrete Spacecraft VII alle 05:00; imbardata 0, beccheggio 5,5 gradi; tempo di percorrenza di 248 miglia nautiche, 03:15:00. Ricevuto?
+Ricevuto. Per il rendezvous di prova con la navicella spaziale, ore 05:00: imbardata 0, beccheggio 5,5; 248 miglia nautiche; 03 più 15 più 00.
+Ricevuto. E ovviamente questo è in inclinazione. Ho anche 39:41: Rev 4; 112,2 gradi est; 08:22:57, ascensione retta. Veicolo spaziale 49:21. Ricevuto?
+Il radar è già acceso?
+Roger. Dimmi gli orari della Revolution 4, l'inizio.
+Il momento per Rev 4 - l'aggiornamento del nodo - il momento è
+Ricevuto. Sono 05 più 39 più 41; Rev 4; 112,2 gradi est; 08:22 più 57, ascensione retta; e
+Sono le 05:49:21.
+Mi dispiace. 05 49 più 21.
+Roger.
+Bene, allora dovremmo procedere e accendere questo radar.
+Ce l'ho addosso.
+Ce l'hai? Allora devo accendere l'interruttore.
+Va bene....
+Va bene.
+Gemini VI, la tua predisposizione all'accelerometro sembra ancora molto buona.
+Gemelli VI. Ruggero.
+Molto bene....
+Radar acceso alle 05.
+Censurato
+Censurato
+Censurato
+Che ore sono NSR?
+Bene. Circa 47. Mancano circa 40 minuti.
+Va bene.
+Censurato
+Censurato
+Gemelli VI, passiamo a VII per qualche minuto. Torneremo presto con voi, probabilmente avremo un aggiornamento per voi.
+Roger. In attesa.
+Dovremmo avere una serratura in 15 minuti?
+Sì. È allora che dovrei essere in grado di leggere la portata sull'MDIU.
+Ok, siamo pronti. Vuoi andare su OPERATE sul radar e vedere cosa abbiamo?
+Mi piacerebbe un po'!
+Anche io.
+Ha sbattuto le palpebre un paio di volte.
+Guardalo.
+Censurato
+Censurato
+Censurato
+Meglio chiamarli. Dovremmo riuscire a bloccarli subito.
+Che cosa?
+Dovremmo agganciarci subito.
+Lascialo stare.
+Ora è il momento del ciclismo.
+Radar e atteggiamento.
+Che cosa?
+Radar e atteggiamento.
+Dobbiamo avere la luce di blocco.
+Va bene.
+Lo ottengo alla massima gittata, 248,66.
+Che cosa?
+Censurato
+Censurato
+Censurato
+Puntato verso l'alto di circa un paio di gradi. (Ago di elevazione del radar.)
+SÌ.
+Non ho ancora avuto un lock-on, Tom.
+Sì, lo so.
+Perché non li chiamiamo e glielo diciamo? A questo punto dovremmo essere già abbastanza sicuri.
+Quando avviene la combustione coellittica?
+3 più 47. È una stima approssimativa. Ci aggiornerà presto.
+Riportalo in STANDBY per un po'.
+Va bene.
+Beh, non lo so - -
+Perché non li chiamiamo?
+Ci sono le isole.
+Sì. Sì, ho capito - -
+Houston, Gemini VII è in questo momento sul transponder?
+A questo punto, il VII è sul transponder?
+Il transponder del Gemini VII è acceso?
+Ripeto, VI.
+E sono BEF. È corretto?
+Il transponder del Gemini VII è acceso?
+La risposta è affermativa.
+E dovrebbero essere in alto. È corretto?
+Roger.
+Li hai copiati?
+Credo di aver sentito un Roger.
+Credo che sia solo Roger.
+Esatto. Ha detto Roger.
+Ecco il nostro registratore. (Spia luminosa di avviso di due minuti.)
+Ok, non abbiamo ancora un lucchetto. Prevedo che ne prenderò uno a breve.
+Roger.
+Stabilizzato.
+Il registratore è appena scarico?
+SÌ.
+Gemini VI, Houston. Ci chiediamo se la temperatura della tua tuta sia migliorata da quando siamo passati al refrigerante secondario?
+Conferma. Ora siamo a circa 62.
+Roger.
+Houston, stiamo vedendo qualcosa sul radar, ma non abbiamo ancora una certezza.
+Gemini VI, Houston. Se sei pronto a copiare, scarica l'aggiornamento NSR.
+Stand-by.
+Gemelli VI. Pronto per la copia.
+Ricevuto. GET della combustione 3 47 37; Delta-V, 42,9; tempo di combustione, 54 secondi; imbardata 0, beccheggio 3 gradi; Core 25, 00429; Core 26, 00023; Core 27, zeri; propulsori, a poppa; manovre, Posigrade giù. Ricevuto?
+Ricevuto. Per la manovra NSR GET di accensione, 03 più 47 più 37; Delta-VT, 42,9; durata, 54 secondi; imbardata 0, beccheggio 3 gradi; Core 25, 00429; 26, 00023; 27, tutti zeri; propulsore, a poppa; manovra, Posigrade giù.
+Affermativo, Gemelli VI.
+Gemelli VI, Houston. Come leggi?
+Gemelli VI. Vai.
+Ecco un breve aggiornamento sulla tua ultima manovra. Sei pronto a copiare?
+Andare avanti.
+Il Delta-V è 42,5; durata 53 secondi; imbardata - correzione - beccheggio in calo di 2 gradi; Core 25 è 00425; Core 26, 00011. Tutto il resto è uguale. Ricevuto?
+Ricevuto. Per... di Delta-V, è 42,5; il beccheggio è ora di 2 gradi; il Core 25 è 00425; il Core 26 è 00011. Abbiamo quello che sembra un calo di carico. La frequenza radar sta diminuendo, come descritto nel nodo di rendezvous...
+Roger, Gemini VI. Ho capito che il test di agganciamento radar e rendezvous sta procedendo bene. La durata è di 53 secondi. Ricevuto?
+Ricevuto. La durata è di 53 secondi. E, ancora una volta, per verifica, il piano è 03 più 47 più 37.
+Esatto.
+Roger.
+Gemini VI, come si legge ora Gemini VII?
+Forte e chiaro, ragazzi. Vi stiamo guardando.
+Molto bene. Anche noi ti sentiamo forte e chiaro.
+... aspetta, saremo lassù tra poco.
+Roger.
+Gemini VI, Houston. Ricevo la tua osservazione, ma presumo che si tratti di radar. Non hai una visuale. Puoi confermarlo?
+Roger.
+Houston, qui Gemini VI. Il nostro radar sembra valido. Passo.
+Ricevuto. Ricevuto. Il test radar è valido. Pronto per la tua esplosione.
+Roger.
+Gemini VI, Houston. In arrivo la combustione NSR. Mark, un minuto.
+Roger.
+Ci atterremo al 44 percento della quantità di propellente.
+Roger.
+Pronti a bruciare. Brucia.
+Stiamo spendendo il 16 percento per la ricarica. La corrente principale è spenta.
+Registrazione continua. La masterizzazione avrà luogo alle 03:47:37. In attesa di masterizzazione.
+Pronti a bruciare.
+Non ho copiato, VI.
+Bruciando.
+... O.
+Roger.
+La combustione è stata completata, non ci sono residui.
+Ricevuto. Combustione completa, nessun residuo.
+Bruciato?
+Faccio un burndown a circa 3 e poi lo aumento. Okay?
+Hai la quantità OAMS?
+Affermativo. È il 68 percento.
+Va bene.
+Sembra una buona idea?
+SÌ.
+Capisco il 68 percento. È corretto?
+Va bene. Corretto.
+Va bene.
+Ci fermeremo a 90 cm al secondo dal momento in cui saremo pronti a bruciare.
+82. Okay. Vai avanti.
+2.7. Portala giù.
+Censurato
+Censurato
+Roger. Stiamo apportando una piccola correzione. Nessun problema.
+Continua a bruciare. Aspetta. Ce l'hai fatta.
+Bellissimo! Ok, ora vado a tirarlo fuori.
+Inoltrare?
+Lasciami prendere 81.
+Giusto.
+Giusto?
+Giusto.
+Bene. Come va?
+Bene. Bene. Siamo scesi a quattro decimi. Bene.
+Passiamo ora all'attacco.
+Va bene.
+Gemelli VI, Carnarvon.
+Vai. Carnarvon.
+Ricevuto. Vorrei anche verificare che la tua frusta HF sia retratta.
+Abbiamo il nostro... si ritratterà.
+Ricevuto. Vorremmo anche una quantità di propellente OAMS, per favore.
+Ricevuto. 68 percento.
+Ricevuto. Ricevuto il 68%.
+Non c'erano residui.
+Ricevuto. Ricevuto.
+Finora non abbiamo avuto alcun piacere con le luci dell'orologio o con le luci ACQ.
+Ricevuto. Ricevuto.
+Gemini VI. Siamo ancora a circa 247 km. Abbiamo un GET di 3-4 ore, 0 minuti e 0 secondi; la nostra autonomia è di 154,52; nuova cartuccia del registratore installata; 20; Theta, 5 gradi; R, 31,23; Delta-R è 2,59; Delta-Delta-R è meno.
+Gemini VI. Siamo ancora a circa 154 miglia di distanza.
+Roger.
+Gemini VI... 15 minuti e 40 secondi dopo NSR, 712.
+A 30 40 Theta era 5,4; intervallo, 123,42; Delta-Delta-R era zero.
+Ah.
+Hawaii... In attesa.
+Ripeti.
+... punto dati.
+Con chi sto parlando?
+Gemelli VI.
+Ok, vai avanti, VI.
+Gemini VI, Hawaii CAP COM.
+VI. Attendere...
+Hawaii, questa è Gemini VI a 35 virgola 40 - 35,40. Theta, 6,4 gradi; escursione, 115,58; Delta-V totale, 523; Delta-V, 924,8. Il blocco totale sembra del tutto normale.
+Hawaii, qui è Gemini VI. A 35 40 abbiamo dati Theta, 6,4 gradi; autonomia, 115,58; Delta-V totale, 523; Delta-VI 24,8. Il grafico dei dati sembra completamente nominale. 24:32 CC - - nominale e ripetiamo l'autonomia.
+L'intervallo era 115,58.
+Ok, ho copiato tutto. Ti mostriamo GO qui a terra. Come stai?
+Molto bene qui.
+Ok, resteremo qui.
+Bene. Prossimo punto dati. Eccone un altro.
+Chiamami semplicemente quello che hai, non quello che stai ricavando. Giusto?
+Tom?
+SÌ.
+Non gridare i tuoi calcoli aritmetici; grida solo i tuoi indirizzi, tutto qui.
+Sì. Va bene.
+VI, Hawaii. Come leggi?
+Forte e chiaro.
+Va bene.
+Un altro punto. Vuoi riprovarci o no?
+Aspetteremo un minuto.
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Il prossimo è di 30 minuti.
+Hawaii, Gemini VI. Non abbiamo fornito dati... e vorremmo sapere che tipo di velocità fuori dal piano abbiamo?
+Hawaii, Gemini VI. Abbiamo i tuoi dati e, in cambio, vorremmo sapere che tipo di velocità fuori dal piano abbiamo.
+Ok, aspettate un attimo.
+Roger. Ti chiameremo.
+Roger. Ti chiameremo.
+Affermano che VI mostra ancora 2 piedi al secondo - 2 piedi al secondo.
+Il prossimo punto dati dovrebbe essere a 39?
+Bene. Stiamo arrivando.
+Hawaii, Gemini VI. Nuovi dati: 6,4 gradi; 110,41 miglia nautiche; Delta-V totale: 486.
+Hawaii, Gemini VI. Nuovi dati: 6,4 gradi, 110,41 miglia nautiche; Delta-V totale: 46.
+Ricevuto. Ricevuto.
+Questo era NSR più 39 - 39 minuti, 0 secondi.
+Ho capito tutto.
+SÌ.
+Hawaii, hai già ricevuto una risposta dall'aereo?
+Eccezionale! Qui siamo al TOP.
+D'ora in poi dipenderà tutto da noi.
+40 40. Giusto, Wally?
+Bello spettacolo laggiù. D'ora in poi dipenderà tutto da noi.
+Che ne dici?
+Nuovo punto dati, Hawaii. Theta, 6,9; intervallo, 107,82.
+Nuovo punto dati, Hawaii. Theta, 6,9; intervallo, 107,82.
+Lo copio.
+Le temperature delle tute stanno scendendo piacevolmente.
+Bene.
+Hawaii, la temperatura della nostra tuta è di circa 15 gradi. Sembra davvero a posto.
+... circa 59 ora. Funziona davvero bene.
+Molto bene.
+Va bene...
+Lo indossi e hai ragione...
+Va bene.
+Segno.
+Sembra che sia occluso là fuori. Ci riprovo.
+Sì, siamo molto vicini su queste posizioni dei dati, Wally.
+Bene.
+Quel Delta-Delta-R è sicuramente in arrivo.
+Molto bene.
+Saranno 44 minuti. Giusto?
+Giusto. P6...
+45 40 GET Theta, 7,5; intervallo, 1000,01; Delta-V totale era 430; Delta-VI è 202,1; la variazione angolare è diminuita notevolmente a circa - a un GET di 450,0 secondi o un tempo di fase totale di 1 ora e 2 minuti.
+Gemini VI trasmette il punto dati a 49 minuti Theta, 8.0; R, 94.82; Delta-V totale, 396; Delta-VI,
+Ruggero VI.
+Che ne dici di questo meccanismo? Tutto bene?
+Il tuo orologio è davvero bello. Siamo d'accordo con te.
+Roger. L'abbiamo un po' scosso.
+... gli aghi radar sono un po' più spugnosi rispetto a... 1 o 2 gradi.
+Roger.
+A questo punto abbiamo così tanta luce solare negli occhi che non potremmo più vedere... fuori.
+Ruggero, VI.
+Entrambe le nostre finestre sono parecchio appannate.
+Roger.
+Nuovo punto dati 50,40 Theta, 7,9; R, 92,22; Delta-V totale, 376; Delta-VI, 175,1. Sembra che l'interruttore di controllo funzioni bene.
+Roger, Tom.
+Ho una manovra di backup della fase terminale quando sei pronto a copiare.
+Stand-by...
+Pronto per la copia.
+Tempo trascorso fase terminale 1 più 29 più 17; GET della combustione, 5 più 16 più 54; Delta-V, 33,0; durata, 41 secondi; Core 25, 00301; Core 26, 90135; Core 27, 00016; Delta-V, 32,9, 1,5, 1,5; tempo di combustione, 40 in avanti, 04 in basso, 04 a sinistra; imbardata zero, beccheggio 26,8; portata 139; velocità di portata, 32,69. Ricevuto?
+Ricevuto. Tempo trascorso fase terminale: inizio 1 più 29 più 17; GET, 5 più 16 più 54; Delta-VT, 33,0; durata, 41 secondi; Nucleo 25, 00301; 26, 90135; 27, 00016. Attenti, aspettate, chiamo gli altri tra un secondo.
+Roger, Tom.
+Ok, continuiamo ora, ok,... 32,9; tempo di combustione, 40 secondi in avanti 1,5; 04 secondi su e giù; indirizzo 81, 1,5 04 secondi a sinistra; imbardata zero, beccheggio 26,8 gradi; autonomia 139; rateo di autonomia 32,69. Per quanto riguarda la distanza e il rateo di autonomia, ho capito che sono in iarde.
+L'autonomia dovrebbe essere di sole 33 miglia.
+Gemini VI, qui abbiamo tutto al contrario. Ha una gittata di 32,69 e un rateo di 139; e la combustione up-down è ridotta.
+Ricevuto. La combustione dall'alto verso il basso è disattivata.
+Roger.
+In questo momento, non sarebbe pratico per noi girarci o muoverci in qualsiasi direzione per evitare la luce del sole, dove abbiamo un cielo luminoso sotto di noi e la luce del sole alla nostra destra.
+Ruggero, VI.
+Circa un intervallo di...
+Theta 59 minuti più 10,0 gradi; autonomia 79,25; Delta-V totale 300.
+22 1 Segna...
+Stand-by.
+Nuovo punto dati Theta, 10,7; intervallo, 76,66.
+Ruggero, VI.
+Circa un intervallo di...
+Punto dati Theta, 11,1 gradi; autonomia, 71,48 miglia.
+Ruggero, VI.
+Theta, 11,8; intervallo 68,90; Delta-V totale è 232; Delta-VI è 101,1; punto dati era 05:40. Dati 12,5 Theta; intervallo 63,75; Delta-V totale, 199; Delta-VI, 84,2. Punto dati 40:... 13,5 Theta; intervallo 61,19; Delta-V totale è 181; Delta-VI, 74,8. 12:20: Theta è 13,7; R, 58,63; Delta-V totale è 169; Delta-VI è 69,5; 40: Theta è 15,5; intervallo è 53,55; Delta-V totale è 136... Theta, 15,5; intervallo, 53,55.
+Gemini VI, RKV CAP COM.
+Forza, RKV.
+Ricevuto. Secondo i dati degli Stati Uniti, il tuo TPI ti darà circa 2 minuti di ritardo.
+Roger.
+A 14 minuti, Theta con 15,0; R, 56,09.
+... ha scelto di allinearsi sulla piattaforma per i primi 5 minuti.
+Theta, 15,5; intervallo, 53,55.
+Vedo qualcosa alle ore 12.
+C'è così tanto sole che non riesco a vedere nulla.
+Sono distrutto.
+Questa è Gemini VI. Ho un bersaglio illuminato verso le ore 12. Potrebbe essere una stella, e potrebbe essere VII. La controlleremo.
+Gemelli VI...
+Theta, 17,0; intervallo, 51,00.
+Ruggero, VI.
+È proprio al sole.
+Ehi, credo di aver capito! Questo è VII, Wally!
+Negativo.
+SÌ.
+O è Sirio o è VII.
+Segnare su un bersaglio con un GET di 05 05 50
+RKV, abbiamo Sirio o VII in vista! È proprio al centro del reticolo. Il radar è agganciato.
+47,1 è Delta-VI; Theta, 17,0; intervallo, 51,00.
+Va bene.
+Autonomia di 19 minuti, 48,5 miglia; Sirio o la navicella spaziale VII sono ben visibili; 109 Delta-V totali, 48,50; Theta è 17,7.
+Ho una stella in vista. Sembra essere a sinistra dell'oggetto che ho in vista e 10 gradi più in basso. Sembra un'altra stella luminosa.
+Qui è Gemini VI. Hai aggiornamenti su dove -... il bersaglio?
+Gemini VI, Houston. Non ho copiato.
+Un aggiornamento su dove si trova la star...
+Aspetta, controlliamo.
+Roger.
+Theta, 18,4; intervallo, 46,00.
+In questo momento i raggi del sole rimbalzano sul muso della navicella, eliminandone ogni area. Alcune stelle luminose sono visibili a sinistra e in basso. Ora vedo la Cintura di Orione. Quindi Sirio è considerevolmente sotto il nostro muso. Non è una stella che riconosco.
+A 20 20 19,2; intervallo, 43,52; 85 Delta-V totale.
+Esatto. 85.
+71. Sono 30,6. Sono 30,6; sono 30,6... Ora andiamo un po' oltre e torniamo indietro finché non siamo proprio lì.
+È Alpha?
+No, non ancora...
+Ora... un bersaglio è allineato al centro della Cintura di Orione. Approssimativamente il centro geometrico di Orione.
+Giusto...fai notare.
+Questo potrebbe essere il Punto Alfa.
+Proprio così.
+Ok. Questo sarà alle 24. Giusto?
+Fatto. Prossimamente.
+Non abbiamo - potrebbe esserci stato un punto sbagliato.
+Abbiamo tempo. Sì.
+Oh, oh. Quell'altro potrebbe essere stato Point Alpha.
+Considereremo questo come Alpha.
+Voglio considerarlo Alpha.
+Fate?
+Lo faccio. Pronto. Subito.
+Proprio così.
+SEGNO.
+Punta... su di esso...
+Bene. È Alpha?
+20.8. Giusto?
+Giusto.
+...bello spettacolo.
+Punto Alfa. 41 06. E questo è tutto - -
+24 minuti. 20.8 a 41:06.
+Il bersaglio era esattamente sulla stessa inclinazione del reticolo e mezzo grado a destra, quindi gli aghi del radar si erano azzerati di mezzo grado. Meglio del simulatore, vero?
+SÌ.
+E lui si muove e Orion no, quindi quello è l'obiettivo. Censurato
+Censurato
+Ti abbiamo preso, Frank.
+Va bene.
+Proprio così, Wally! Bravo! Eccoci qui!
+Il prossimo sarà a 25 40. Giusto?
+Fatto. Prossimamente.
+Ecco qua. Ottima osservazione.
+Scendendo verso Sirio.
+Questo è ciò che dovrebbe accadere, non è vero?
+SÌ.
+Bene. Il prossimo sarà Point Charlie.
+Erano 25 e 40, non è vero?
+Controlla. 27 20, Charlie.
+27 20 è Charlie.
+Va bene.
+Sono le 31:50.
+Cavolo, ti stai avvicinando furtivamente a Sirio! E sei anche brillante come Sirio.
+SÌ.
+Li hai presi entrambi, Wally. 27 20.
+Okay... Giusto. MARK.
+Bellissimo Delta-V. Premi START COMP.
+... Spingere.
+Ok, ne porterò 69 fuori da qui.
+Sembra buono.
+031 Avanti. Era giusto?
+Era giusto!
+È giusto... Prenderò questi dati qui.
+Censurato
+Censurato
+Censurato
+Okay. Frank, qui la luce si è spenta. (La luce del sole è scomparsa.) Devo accendere un po'...
+Fino ad allora eri più luminoso di Sirio.
+Questa cosa è un po' bassa qui. Prendo l'altra.
+Controlla anche le luci ACQ.
+Ok, la mia soluzione di riserva è 60 cm al secondo in salita e 70 cm in avanti, il che ci porterà a questa posizione. Faremo un circuito chiuso al punto dati di distanza. Velocizzeremo il riepilogo. Per qualche motivo è stato sbagliato.
+27 20 - 31 50 è il momento in cui effettuiamo il reset.
+Cercherò di attenuare un po' la situazione per te.
+Registri questi numeri? Ho bisogno di aiuto.
+Giusto, va bene.
+Li hai in vista?
+Negativo.
+Ancora no. Giusto?
+Possiamo andare a GET del burn... 17. Ha impostato 54... andrà tutto bene.
+Va bene.
+Sto arrivando a 30 minuti. Giusto?
+Sì. Vedo solo dei piccoli puntini. Ora mancano 30 minuti.
+Molto bene.
+Tra poco bruceremo.
+Va bene.
+Ok, Wally, stiamo arrivando. 31 minuti.
+Non c'è più molto da fare.
+Ti sei alzato un minuto prima.
+Ripeti.
+In alto ce n'era uno. In basso prima. E uno a destra.
+SÌ.
+Eccoci qui. Comando di velocità.
+Stiamo bruciando.
+Ok, ho azzerato il mio orologio e sto contando.
+Un'altra spia è accesa. Meglio controllarla.
+Va bene.
+Okay, Wally.
+Va bene.
+Basta registrarlo per 3-5 minuti. Ci sono riuscito.
+Va bene.
+Dopo 5 minuti. Giusto? Vado a fare rifornimento, Mark.
+Il carburante rimanente è il 62 percento.
+Che ne dici?
+Solo 180 chili. Dovrebbe bastare.
+Immagino di sì.
+Censurato
+Censurato
+Censurato
+Oh, che ne dici della sincronizzazione oraria?
+Ok, manca ancora un minuto, Wally.
+Ho sincronizzato il mio orario proprio lì.
+Il tempo di trasferimento è andato abbastanza bene, Frank. Imposta l'orologio su 2 minuti e passeremo a circa 30 gradi.
+... la combustione avviene piuttosto bene...
+Roger.
+... a circa 30 gradi, Frank.
+Va bene.
+30 gradi. Continua a seguire.
+Mancano 20 secondi, mancano 2 minuti.
+Ok. Mancano 20 secondi ai 2 minuti.
+Censurato
+Censurato
+Censurato
+Andiamo per 4, Frank. Per 3 minuti.
+Ricevuto. 3 minuti.
+Ehi, una volta che saremo su Censored
+Dici che ora stai beccheggiando a 3 gradi?
+Circa 3 gradi.
+Giusto...
+Circa 32. Ora inizierà ad aumentare molto velocemente.
+Ho avuto una bella bruciatura.
+Come brucia?
+Non possiamo vedere... Spero che funzionino.
+La mia fonte luminosa è molto debole. Probabilmente è la luce del molo.
+Abbiamo una luce molto fioca.
+Non si vedono luci che spingono.
+Negativo...
+Finora abbiamo un radar davvero buono, quindi ha una buona logica di blocco.
+Ho Sirius ma non ho nessun altro.
+È sotto di noi.
+Ok. Dobbiamo hackerare per 4 minuti?
+Va bene.
+Mancano 3 minuti, se riesci a farlo.
+... 3 minuti...
+Quanto?
+Va bene. 5, 4, 3, 2, 1.
+SEGNO.
+3 minuti.
+Ricevuto. Ce l'ho fatta.
+C?: Okay. Siamo sincronizzati.
+Ok. I nostri dati sembrano buoni. Sì, ci siamo un po' vicini, Wally.
+Vicino?
+Sì, intendo dire che ci siamo trasferiti un po' tardi perché... abbiamo giocato in modo conservativo.
+Roger.
+Come sta andando il nostro tasso di autonomia?
+Ok. Ne vuoi un po'? Sono circa 105. No, 155.
+Va bene.
+Il valore nominale è 165.
+La luce là fuori è davvero fioca.
+No. Non è questo.
+Lassù c'è davvero una luce fioca...
+Lo batteremo un paio di volte.
+Bene. Questo è tutto.
+Ora è tutto finito.
+Va bene...
+Sta arrivando adesso.
+Roger...
+E non abbiamo luci ACQ... zero.
+Sì. È quello che vedo. (Primo avvistamento notturno.)
+Non voglio accecarti, Wally, su questa cosa.
+Bene. Vado avanti, Frank.
+Ne mancano circa 35.
+Circa 35 gradi.
+Roger.
+Hai acceso la luce del molo?
+Le luci sono accese.
+...spegnendo la luce del molo.
+... Ancora.
+Sbrigati un po' così posso allineare la piattaforma.
+Devo ottenere dei dati.
+Ehi, fermati lì! Resta dove sei!
+Vuoi che faccia così o che resti dove sono? Credo che sia meglio che resti dove sono.
+38.3. Okay, ce l'hai fatta.
+Scendendo. (Verso la piattaforma.)
+Quattro.
+Tre.
+Proprio sulla linea.
+Dov'è il nostro complotto?
+Proprio lì.
+Comincia a capire il punto. Puoi parlarne con loro.
+SÌ.
+Gemini VII, VI. Dal nostro grafico sui punti dati, sembra che siamo esattamente sulla linea. L'ultimo punto dati era a 38 gradi a circa 22 miglia.
+Partenza dopo 10 minuti.
+SÌ.
+Okay. Mi avvicino e ti guardo di nuovo, Frank.
+Angolo di beccheggio... Meglio che resti concentrato.
+L'ho preso.
+Sbattere le palpebre?
+Stai sbattendo le palpebre.
+Sembra che tu stia sbattendo le palpebre, Frank.
+Ok, era lui.
+Un po' a destra.
+Circa 50 gradi.
+Circa 50 gradi, Frank.
+Ok, prendiamo quel dato.
+Proprio così.
+Cosa ottieni, Wally?
+Sono 7 avanti, 5 a sinistra, 7 su.
+Ne sono rimasti 5 e ne sono usciti 7. Andate a prenderlo!
+Chi è il primo?
+Sì. Se vuoi, puoi ottenere una spinta ortogonale.
+E avanti per ultimo.
+Sì. In alto e a sinistra.
+SÌ.
+Ok. Dobbiamo tracciare dal 15 al 17.
+Circa 55 gradi, Frank.
+Affermativo. Affermativo.
+Lui vuole... che tu...
+Sì. Dobbiamo alzarci un po'.
+Bene.
+Un po' più in basso. Lo tolgo dalla palla.
+Wally, se puoi, fai un giro di prova.
+Okay. Circa 105-110.
+Va bene.
+Bello spettacolo.
+Registrazione.
+Lettura del rateo di lancio 110. L'assetto è a circa 55 dalla palla. La distanza è 13,06.
+Bene.
+Ricevuto. Circa 16 gradi.
+Molto bene.
+Wally, come ti è sembrato che lo seguisse rispetto alle stelle su quel reticolo? Questa è solo una valutazione.
+Le mie stelle sembrano piuttosto cupe là fuori.
+Non ne ho. C'è la luce del molo.
+Ora hai proprio ragione, Frank.
+Molto bene.
+Ok. Mancano 15 minuti.
+Pista piuttosto buona. La luce del molo è brillante come quella dell'Agena.
+Se ne hai la possibilità, potresti fornirmi qualche lettura della portata.
+Meno di 100. Ora circa 90.
+Bello spettacolo!
+Adesso è davvero luminoso, vero? (Luce del molo.)
+SÌ.
+16 minuti.
+Mi avvicino furtivamente per venirti incontro, Frank. Proprio al traverso e sulla sinistra ci sono due stelle chiamate Castore e Polluce.
+Pece.
+L'inclinazione del campo da baseball è di circa 70 gradi.
+L'idea è che andiamo...
+SÌ.
+Cavolo, la luce del molo disattiva le luci ACQ, non è vero?
+Sì. Perché non glielo dici? Sono troppo occupato.
+Frank, sei proprio come pensavamo prima. La luce del tuo dock oscura completamente le luci ACQ.
+Oh no, no, no! (Non spegnere la luce del molo.)
+7,77 (Intervallo.)
+Okay. Lo zero indirizza 25, 26 e 27. Meglio così.
+74.2. Va bene. 25.
+Ci sono delle stelle là fuori. Bene!
+Hai 19 minuti?
+Prossimamente il 19.
+Certo che sì. Altrimenti otterrei i dati.
+Bene. Bel concerto, Wally!
+Vedete Castore e Polluce?
+Oh, sì, certo che sì.
+Eseguiamo il controllo di backup.
+Sì. Okay. Aspetta... Okay, hai 3 secondi, Wally. 2, 1. MARK.
+Fatto.
+Siamo circa 10 gradi in anticipo sul previsto, ma non è poi così male. Abbiamo fatto scalo un po' in ritardo... senza problemi, Wally.
+SÌ.
+Bene. Il prossimo punto dati sarà a 22 minuti.
+Giusto.
+Ok. La prossima correzione sarà probabilmente... forse un po' più in alto. Eccola qui; ho la mappa per voi. Ci siamo.
+Oh, sì.
+Ecco dove trasmettiamo. Ci stiamo avvicinando.
+...mancano 20 minuti.
+22 è 94,3. E questo è 14,3. Il totale.
+Direi il 60 percento in più.
+Tutto qui, giusto?
+Non riesco a scattare una foto.
+Oh, sì.
+6 fino al backup.
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Che cos'è?
+4 avanti, 5 a destra, 3 in alto.
+4 avanti, 5 a destra, 3 in alto.
+6 a destra.
+5 a destra, 3 in alto.
+Va bene.
+5 a destra.
+Circa 110 gradi.
+Questo è tutto ciò che dovremmo avere.
+Sì. Tutto qui.
+Okay. Modalità recupero, Wally.
+Questo vale 250.
+Modalità a impulsi.
+Indirizzi sgomberati 25, 26 e 27. Okay.
+Ora la registrazione è continua?
+Roger.
+Bene.
+Ok. Abbiamo un vero pass. 15 in corso.
+110 - 110 - 110 gradi, 69 sono 110 gradi. 2,77.
+Molto bene.
+E dateci 55.
+Censurato
+Censurato
+Censurato
+2. Siamo proprio qui. Questo ci ha fatto entrare, proprio lì.
+Va bene.
+Questo ci ha fatto entrare. Buon lavoro.
+Davvero fantastico. Non è caduto per niente.
+Va bene.
+Il punto R è circa 45... Bene.
+Okay. A 27 minuti dopo... Gli daremo l'angolazione del lancio, va bene?
+Va bene.
+115 gradi di lancio. Quella palla... lancio... È più o meno giusto.
+SÌ.
+Sembra che stiano salendo?
+Un po.
+... Lasciamolo stare per un po'.
+Va bene. 17 a 27, 117, 60.
+Come si presenta la trama?
+2 miglia. 100 - 206. Forse ti costa un po' di più.
+No. Sembra piuttosto buono. Vorremmo avere un percorso parallelo.
+Sì. È piuttosto difficile contestare la cosa. Ci sono delle belle stelle.
+Okay. Bello spettacolo. Te lo faccio notare.
+SÌ.
+120 gradi, 1,7 miglia. Ora siamo a posto, Wally.
+... 120 gradi.
+1,7 miglia.
+Roger.
+Prossimamente.
+Non sale né scende? O giusto?
+Oppure a destra.
+Com'è la portata?
+Circa 42.
+Bene. Bello spettacolo.
+Va bene.
+Semmai, sta diminuendo un po'.
+Ok. Vai avanti e smettila.
+SÌ.
+Distanza ora.
+Va bene. 22 - -
+Molto bene.
+125 gradi - 125 gradi a 1,2 miglia.
+Sì, è meglio non farlo scendere adesso. Cercherò di procurarmi un'altra bilancia.
+SÌ.
+Roger.
+Ecco la spia RCS.
+Ok. Riscaldatori RCS: accendeteli.
+Un miglio, Wally.
+Roger.
+1 miglio, a 127 gradi.
+Esatto. Mantenere la palla ferma.
+Sembra buono.
+SÌ.
+Stiamo ricevendo la loro luce.
+Guarda quella luce brillante! Eccolo lì. Aspetta e basta.
+Anche noi usciamo al sole, Wally.
+SÌ.
+Che ne dici?
+Spero che ne abbia un po'...
+Roger.
+74. Sono 30 (minuti).
+Roger.
+Ora sta scendendo parecchio.
+Che cosa?
+Sta scendendo rispetto alle stelle.
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Censurato
+Ok. Ho percorso 0,57 miglia.
+... per un po.
+Belle stelle sullo sfondo a nord (censurato)
+Oh sì...54.
+Censurato
+Pronti a frenare.
+Pronti a frenare.
+Freno a.48 maschi nautici.
+Punto. Lo chiamerò così.
+.4 miglia nautiche.
+Giusto.
+.30 a...
+Ah, ah.
+Un quarto di miglio nautico.
+Censurato...
+Sembra che tu abbia rallentato. Stiamo tenendo
+Va bene...
+1200 piedi.
+1200 piedi a 33.
+Siamo in buona forma.
+Roger. È sceso un po'.
+.17. Circa 1000 piedi, Wally.
+1000 piedi.
+.16 alle 33:30.
+800 piedi.
+Roger.
+800 piedi a 37 (minuti).
+Ho ottenuto il punto R a circa 6.
+Bello spettacolo.
+Vuoi cancellare gli IVI?
+L'IVI è chiaro.
+È numerato.
+Gruppo -
+Ce ne sono 25.
+Va bene. 27...
+Sembrano in fiamme.
+Così luminoso.
+Ce ne sono 27 a poppa, ne restano 14.
+Continuate a fornirci questa gamma.
+660 piedi.
+540 piedi.
+Roger.
+540 piedi a 35 (minuti).
+Controllo.
+360 piedi.
+Roger.
+Oddio, sono così luminosi!
+SÌ.
+300 piedi.
+Roger.
+Siamo proprio sotto di loro.
+Roger.
+L'inclinazione è di 90 gradi.
+Roger.
+240 piedi. SEGNALA.
+Roger.
+Ti stai divertendo? (Primo contatto con VII.)
+180 piedi.
+120 piedi.
+Ciao!
+Tutti i codici postali sul nostro radar. Mostra 300.
+È corretto?
+Con 120, Wally.
+Roger.
+120 a - 36.
+A 36 anni sono ancora 120.
+Censurato
+Se vogliono risparmiare energia, puoi chiedere loro di spegnere la luce del dock.
+Bene. Spegni subito la luce del molo, Frank, se vuoi risparmiare energia.
+SÌ.
+Ricevuto. (Domanda di VII sull'antenna sporgente.)
+Ho sentito qualcosa?
+Il nostro HF è...
+... Abbiamo tutte le superfici...
+Probabilmente. Riprenderò un po' di più l'HF.
+Hai una grossa corda appesa alla schiena.
+È proprio di questo cinturino che abbiamo parlato.
+Sì. Sembra che tu abbia una grossa corda appesa dietro, Frank. Probabilmente è la cinghia di cui parlavi.
+Sì, e anche tu ne hai uno. Che ne dici di passare a dare un'occhiata?
+Ne sarei molto felice.
+Gemini VI, Gemini VI, Houston CAP COM. In attesa.
+Oh, oh! La luce del sole!
+Houston, qui Gemini VI. Avanti.
+Roger. Siamo interessati al tuo stato.
+Quel sole è accecante.
+Ciao Houston. Gemelli VI.
+Contiene 120.
+Gemelli VI. Houston è in attesa.
+Roger. Siamo tutti seduti qui a giocare a bridge insieme.
+Bene, abbiamo un... a che distanza siamo, Tom?
+Ricevuto. Abbiamo 120 piedi costanti.
+Ricevuto. Capito. Mantengo la posizione a 120 piedi.
+Non riesco a vederlo.
+Riesci a vederlo?
+Hai un sacco di roba tutta intorno alla parte posteriore. Dev'essere... fuori dal... test...
+Non riesco a vederlo. Se puoi, probabilmente...
+Fammi sapere quanto pensi che siamo vicini, Frank. Non riesco proprio a vederlo. Ho il sole negli occhi.
+Okay... Un po' su, solo un po'. Hai proprio l'imbardata giusta, Wally.
+Ho gli aghi radar. È tutto quello che riesco a vedere. Completamente al sole.
+Vuoi che resti fermo adesso, Wally? Siamo quasi a faccia in su.
+Questo è il VII.
+Forza, Frank.
+Procederò e lo metterò in modalità Inertial neutral qui e rimarrò proprio all'orizzonte, se è questo che Precious desidera.
+Grande...
+Ripeti.
+Andrà tutto bene, Frank.
+Va bene.
+Houston, qui Gemini VI. Il propellente rimanente è circa il 50%.
+Ricevuto. Ricevuto. Resta l'OAMS, 50 percento.
+Gemini VI, Hawaii CAP COM.
+Andare.
+Ok. Ti stiamo mostrando GO qui a terra. Puoi dirmi qual è il tuo stato?
+Siamo in formazione con VII e qui tutto è a posto.
+Roger. Congratulazioni! Eccellente!
+Grazie. Mi sono divertito un sacco.
+Ragazzi, state davvero mostrando un po' di... cedimento con quei fili che pendono lì.
+Basta... tocca a me.
+Da dove sono appesi?
+Beh, Frank, sembra che esca dalla separazione tra... potrebbe essere la fibra di vetro. È lunga circa... oh... dai 3 ai 4,5 metri.
+Il piano di separazione dal booster, giusto?
+Affermativa.
+Ed è proprio lì che ne hai uno. Si muoveva davvero forte lì quando accendevi i propulsori.
+Sembra lungo circa 2,40 o 2,70 metri e con un doppio filo.
+Giusto.
+Gli faremo una foto.
+Gemelli VI, Hawaii.
+Forza, Hawaii.
+Ho un aggiornamento per te, se non sei troppo impegnato per copiarlo: è breve.
+Lascerò che sia Tom a parlarti.
+Va bene.
+Bene. Gemini VI pronto per la copia.
+Okay. D-8 06 35 00; passaggio alle Hawaii; Rev 4. D-8 10:00; passaggio alle Hawaii; Rev 5. Tutto qui.
+Ricevuto. D-8 a 06 più 35 più 00; superato alle Hawaii 08 più 10 più 00; superato alle Hawaii su Rev 5.
+Bene. Molto bene. Ci sei.
+VI e VII, Hawaii. Restiamo a disposizione se avete qualcosa da dirci.
+Sembra che ci sia un po' di traffico qui, tutto qui.
+Chiama un poliziotto.
+È stato piuttosto impegnativo durante la corsa finale. Mentre guardavamo fuori, abbiamo potuto vedere le due stelle dei Gemelli che si allontanavano a destra di Gemini VI - correzione - VII. Erano tutte in fila.
+Roger.
+Ti abbiamo perso, VI.
+Mi ha perso di vista, signore?
+Roger.
+Devo affermare alcune piccole cose.
+Va bene.
+Ora tieni la sinistra.
+Questa è la luce notturna, vero?
+Ripeti.
+Questa non è una luce notturna, oppure è una luce sperimentale?
+No. Dovrebbero essere entrambi spenti.
+VI, qual è il tuo raggio d'azione?
+20 piedi.
+Roger.
+La bandiera o le lettere sono... Sembrano bruciate tanto al momento del lancio quanto al ritorno dal rientro.
+Jim, ho notato che il tuo campo blu è praticamente bruciato.
+Giusto.
+Gemini VI, Houston.
+Forza, Elliot.
+Hai una stima del TPI del carburante e del carburante dei freni?
+Ricevuto. Pronti.
+Gemini VI, siamo interessati ai Delta-V sull'avvio della fase terminale e sulla frenata, e anche diversi milioni di persone sono interessate a una descrizione più dettagliata della frenata e del mantenimento della posizione.
+Roger, Elliot. Gemini VI. Siamo partiti con un Delta-V che era a 031 in avanti. Inizialmente è partito a 007 in su ed è sceso a 004 in su all'avvio e a destra a 001. Al completamento del TPI avevamo il 62% di carburante rimanente.
+Roger.
+E ora le grandi domande.
+Ora ne abbiamo circa 49, Elliot.
+Ricevuto. Ora è il 49 percento.
+Affermativo. La nostra prima rotta era 007 avanti, 005 a sinistra e 007 in alto. La rotta intermedia finale era 004 avanti, 06 a destra e 003 in alto. Questo è più o meno in linea con il grafico. Siamo un po' al di sotto della linea nominale del grafico in quel momento. In frenata, abbiamo generato un Delta-V di 27 piedi al secondo. Ci sono 27 piedi al secondo a poppa, per un totale di circa 14 piedi rimanenti.
+Ricevuto. 27 piedi al secondo a poppa e circa 14 a sinistra.
+Roger. Ne mancavano 14.
+Roger.
+E raggiungeremo la posizione a 120 piedi all'ora. Abbiamo indicato il 50 percento di carburante.
+Ricevuto. Ricevuto.
+I punti R, per tutto il percorso, sembravano abbastanza nominali e l'unica soluzione di backup che ho trovato per la parte centrale del percorso risultava molto vicina al circuito chiuso.
+Roger, Tom.
+In questo momento siamo SEF VII e BEF e siamo - oh, direi cosa - a 10 piedi di distanza.
+Ricevuto. A proposito.
+SÌ.
+Ripeti, il tuo raggio d'azione è VI.
+Circa 10 piedi.
+Roger.
+Censurato
+Censurato
+Censurato
+Censurato
+Gemelli VII e VI, potreste continuare con la descrizione della vostra stazione?
+In questo momento, VI si trova a circa 3 metri sopra e a sinistra di VII. Stiamo volando muso contro muso, a circa 4,5 metri di distanza l'uno dall'altro.
+Roger.
+Possiamo vedere molto chiaramente gli scanner dell'orizzonte in alto...
+Wally, vedo che i tuoi propulsori laterali sono attivi a circa 40 piedi da quello che possiamo vedere visivamente.
+Come stanno?
+Non possiamo dirlo ora. Siamo troppo vicini. Ma quando stavi eseguendo la manovra di frenata, li vedevamo... parecchio lontani.
+Tornerò, così potremo conoscerci un po' meglio.
+Sembra che quei fili siano stati staccati dal booster e non dalla navicella spaziale...
+Sì, hai la stessa cosa, solo che è dietro la tua.
+I fasci di fili, ovviamente.
+Gemini VI, ho capito bene che hai riferito che i pennacchi dei propulsori sono stati visti a 40 piedi di distanza?
+Era Gemini VII, e sono sicuro che li abbiano visti da quella distanza. Noi li vedevamo; sembrava che fossero a... giù con loro.
+Houston, in questa manovra di frenata i nostri propulsori laterali si attivano a una certa distanza.
+Ruggero, VII.
+Sì. Cosa c'è di confuso?
+Gemini VI, cambieresti il ​​tuo adattatore C-Band in COMMAND?
+Gemini VI, adattatore per COMANDO.
+Cosa hai detto, Wally?
+Voi ragazzi avete davvero delle belle occasioni.
+Ah! Ah! Ah!
+Se indossi il bianco, sei alla moda.
+Giusto.
+Gemini VI, Houston.
+Forza, Elliot.
+In quell'aggiornamento alle Hawaii, le osservazioni del passaggio alle Hawaii, Rev 4 e Rev 5, in realtà non si applicano a te. Quelle erano istruzioni per le Hawaii.
+Domani mattina alle 12?
+...dopo domani mattina.
+... più facili sabato.
+Io passo.
+Come sta andando la scorta alimentare?
+Oh, è in buone condizioni.
+Resiste, ma è sempre la stessa cosa, giorno dopo giorno.
+... punto fuori. Giusto, sì.
+Ti abbiamo recuperato, Wally, quando il sole si è riflesso sul tuo adattatore.
+SÌ.
+Wally, è bello vedere le luci accese per la finale?
+Affermativo. È buono.
+Va bene.
+A quale distanza potevano vedere?
+Di solito appena prima del trasferimento, ma...
+Questo è un trasferimento a lungo raggio.
+Roger.
+Gemini VI, hai fatto qualche giro in aereo?
+No, stavo solo dando un'occhiata in giro. Stiamo cercando di prepararci per un passaggio notturno qui...
+Roger.
+Ciao Wally!
+Andare avanti.
+Quando arriviamo negli Stati Uniti, proviamo per circa 5 minuti, ti va? Ci provo: il carburante sta rimbalzando un po'.
+Sicuro.
+Va bene.
+Se vuoi fare un passo indietro, vado sulla piattaforma per il pass notturno.
+Quando arrivo lì, lascerai la piattaforma alzata?
+Sì, lo lasceremo così.
+Va bene.
+Questo ti aiuterà, Frank, oppure... un po' più indietro?
+Va bene. Ora sono in modalità platino.
+Roger.
+...in prima linea in questo momento.
+Roger.
+Questo indicatore oscilla intorno al 15 percento se lo si guarda a destra... a sinistra...
+Oh, bene. Credo che sia meglio che ci spostiamo.
+Gemini VI, Gemini VI, Houston CAP COM. Come leggi?
+Forte e chiaro, Houston. Forza.
+Potresti darci un resoconto del tuo servizio notturno?
+Nessun problema. Siamo a circa 6 metri di distanza l'uno dall'altro, utilizzando le luci di attracco e le luci della cabina della navicella.
+Ricevuto. Capisco, nessun problema. A 6 metri di distanza. Uso le luci di attracco su VI.
+Stiamo utilizzando le luci di attracco di VI per illuminare - -
+Roger, capito. Luci di attracco su VI per illuminare VII.
+Veicolo spaziale...
+Ripeti.
+... solo per parlare.
+Non sei vicino.
+...ti chiamo.
+Quella è la tua discarica.
+Oh, va bene.
+Riesci a vedere la barba di Frank, Wally?
+Sì, ora vedo meglio la tua.
+Jim, ti sei pulito la bocca dopo aver mangiato?
+Jim, ti sarai appena pulito la bocca. Davvero?
+Sì. Giusto.
+Com'è la visibilità attraverso queste finestre? Da questo lato è pessima.
+Sì. È piuttosto brutto. Abbiamo notato... che alcuni vedono attraverso le finestre. Da questo lato la situazione è piuttosto brutta.
+Attraverso la tua finestra, sono proprio sopra di noi.
+Gemini VI, Houston. Vorremmo sapere se hai già effettuato un giro in aereo diurno.
+Negativo. Abbiamo annullato per ottenere...
+Ruggero, VI.
+...siamo soddisfatti di restare qui finché ce lo permettete.
+Al momento ne abbiamo ancora circa il 47 percento.
+Ricevuto. Ne rimane il 47 percento.
+Gli incendi boschivi li sconfiggono davvero, non è vero, Jim?
+Giusto. Sono sempre stati lì, Wally.
+Sì. Quel fuoco laggiù alla tua sinistra è un incendio di petrolio, credo.
+Oh, ne vedi uno dall'alto?
+Giusto. Forse era alla tua sinistra. È... notte.
+Va bene.
+...in qualunque modo tu lo faccia.
+Tra i segni neri.
+Con la luce accesa, Wally, riesco a vedere solo la fiamma sulla parte anteriore dell'ugello.
+Roger.
+Bevi acqua, vero, Wally?
+Roger.
+... voltmetro molto da guardare.
+... giornata difficile.
+Ah! Ah!
+Non lasciarti prendere in giro. Sono solo...
+Roger....
+... Buon Natale e fatela finita.
+Sì. Vorrei ancora che ci fosse una pentola di carburante qui.
+Dovresti elaborare un...
+Giusto.
+Giusto.
+Tornate indietro solo un po'.
+Non sembra esserci alcuna forma di... esce solo una massa densa.
+...atteggiamento da palla di fuoco...spegni la luce e tutto ciò che riesci a vedere è la fiamma iniziale.
+... per un po.
+Mentre ci avvicinavamo al luogo dell'appuntamento, potevamo vedere l'incendio fino a circa 40 piedi di distanza.
+Molto bene.
+Ora non sapevamo nemmeno che fossi lì, Wally.
+Proprio qui.
+SÌ.
+Roger....
+Ah! Ah!
+Ora ti vedo un po' meglio... decollare...
+Il mio... spento.
+No. Immagino sia perché ho così tanti riflessi sulla finestra.
+Roger. L'abbiamo visto.
+...luce solare.
+Roger. Potrei colpirti con quello.
+P?:...
+P?:... Molto bene... sul prossimo volo.
+... il tuo piano di volo, Hawaii.
+7 ore e 22 minuti... per uno sfogo.
+Spunta 22.
+Roger.
+Passeremo al tuo esperimento e poi voleremo in giro, se per te va bene.
+Prendiamoci circa 5 minuti... per provare a muoverci in questa modalità.
+Oh, va bene.
+Anzi, che ne dici di farlo adesso?
+Certo, il mio interruttore di manovra è spento da 15 minuti.
+Ok, ci aggireremo un po' e vedremo come sarà.
+Molto bene.
+L'esperimento inizierà tra circa 13 minuti, questa mattina.
+Okay... Modalità Plat e Nodo 2.
+Lo so... con te.
+Sembra che vada piuttosto bene.
+Sì, quei riscaldatori funzionano bene.
+Sì, hai ragione.
+Ecco cosa intendo: ci sono momenti in cui sembra che non ci sia niente.
+Sì, un paio di fiocchi bianchi e questo è tutto.
+SÌ.
+Lo scarico avverrà tra circa 2 minuti e mezzo. Contatto radar.
+Ok, Gemini VI. Vuoi mettere l'interruttore di lettura della quantità in posizione ECS O2?
+Ce l'hai fatta.
+Va bene.
+Voglio fare un... volo da queste parti molto presto.
+Ricevuto. Inizia subito lo scarico del nastro.
+Roger.
+Siamo pronti a scaricare.
+Cavolo, quelle finestre sono davvero rovinate. Ho dato un'occhiata alla tua finestra, Wally. È davvero sporca.
+SÌ.
+Siamo stati fortunati.
+Va bene.
+...questo è un problema davvero grande.
+Wally, puoi dirmi se c'è una qualche purga?
+Ripeti.
+Potresti dire se stiamo effettivamente epurando?
+Vedo dei fiocchi bianchi, delle bolle, delle cose bianche che si staccano. Non sono proprio bolle, ma...
+Potresti spostarti un po' più in basso per essere più in linea con noi?
+Scendendo.
+VI, Quantità letta commutata su OFF.
+Ricevuto. Spegni.
+Roger.
+VI, abbiamo terminato l'esperimento.
+Roger....
+VI, Hawaii.
+Forza, Hawaii.
+Ok. Non abbiamo altro per te qui. Hai bisogno di qualcosa?
+Se abbiamo bisogno di qualcosa, ti disturberemo... stiamo volando in giro proprio ora.
+Va bene. Resteremo qui.
+Ricevuto. Abbiamo circa il 46 percento di oggetti di scena.
+Ripeti la quantità di oggetti di scena. 46 percento?
+Esatto.
+Va bene. Grazie.
+Stai esagerando, Wally?
+Giusto.
+Va bene.
+Si tratta di Freon liquido o Neon o qualcosa del genere tratto dall'esperimento IR freddo.
+Oh, è proprio questo?
+SÌ.
+Come appare la situazione da lì dietro?
+Sembra buono.
+controlla...
+... il carico sta guardando?
+Stiamo esaminando direttamente il tuo veicolo.
+Quanto... ho?
+... Volo.
+...parlate pure.
+Qui sotto il naso, durante l'imbardata.
+...abbastanza pulito da lì in poi.
+Gemini VI, riceverai l'aggiornamento del blocco tramite CSQ.
+La combustione ha avuto successo.
+Tra circa 30 minuti scaricherai, VI.
+Potresti resistere per 1 minuto?
+Certo che sì.
+Gemini VI, qui Houston.
+Questa è la lettera VI. Ti leggo forte e chiaro.
+Roger, Gemini VI. Riceverai l'aggiornamento PLA su questa rivoluzione tramite CSQ se riesci a copiarlo.
+Meglio aspettare ancora un'orbita. Finita.
+Ho capito che vuoi aspettare un'altra orbita. È corretto?
+Afferma... aspetta ancora un'orbita.
+Ok. Lo aspetteremo per un'altra orbita.
+Grazie.
+Gemini VII, questo è VI, se riesci a mantenere l'imbardata per un po', proveremo ad avvicinarci e a scattare tutte queste foto ravvicinate di te.
+Gemini VI, Hawaii CAP COM.
+Forza, Hawaii.
+Come va?
+Molto bene. Stamattina ci proietteranno un sacco di film.
+Fantastico! Sarò felice di vederli. Ti mostriamo GO qui a terra e ho ricevuto un aggiornamento sulla manovra di settembre quando sarai pronto a copiarli.
+Ok. Aspetta.
+Pronti a copiare?
+VI, Hawaii. Pronti a copiare?
+Stand-by.
+Va bene.
+VI è pronto per la copia.
+Okay. OTTIENI B 9 44 00; Delta-V, 9 piedi al secondo; il tuo tempo di combustione è 0 più 15; imbardata e beccheggio sono zero; Nucleo 25, 90090; i Nuclei 26 e 27 sono tutti zeri; propulsori a fuoco frontale, una manovra retrograda, questa è la tua manovra di settembre.
+Ricevuto. Per la combustione di separazione GET, 09 più 44 più 00; Delta-VT di 9,0; durata, 0 più 15; imbardata 0, beccheggio 0... Nucleo 25, 90090; 26, 27, tutti zeri; propulsore in avanti con manovra retrograda.
+Okay, Tom, molto bene. Hai capito tutto.
+E aspetta. Voglio portarne uno fino a VII.
+Ok, VII e VI. Le Hawaii saranno pronte. Abbiamo ancora circa 4 o 5 minuti.
+Hawaii. Gemelli VI.
+Hawaii CAP COM, Gemini VI.
+Gemini VI, Hawaii CAP COM. ANDARE.
+Ricevuto. Abbiamo chiesto un'altra orbita per le riprese fotografiche. Non sembra esserci motivo di aumentare...
+Okay, Wally. Aspetta uno.
+Va bene.
+Gemelli VI, Hawaii.
+Andare avanti.
+Tutto quello che ti ho appena dato, puoi cancellarlo. Ti danno il via libera per un'altra rivoluzione.
+Molto bene. Abbiamo circa il 41 percento di carburante,... finito.
+Roger, ti seguo.
+Gemini VI, CSQ CAP COM.
+CSQ. Gemelli VI. Vai.
+Roger. Vorremmo che osservassi VII durante questa procedura di rollio e ci facessi sapere se vedi fuoriuscire acqua da VII.
+Roger. Osserverò, mi muoverò e scatterò foto.
+Roger.
+A questo punto, nessuna osservazione.
+Roger.
+Inoltre, VI, riceverai un aggiornamento sulla manovra entro settembre. Aggiornamento sulla manovra sulle Hawaii durante questa rivoluzione.
+Roger.
+Potresti informare il colonnello Cooper che abbiamo appena... fotografato e filmato il Gemini VII mentre sorvola l'Himalaya all'alba.
+Roger.
+Stiamo pianificando ora. Posso vedere se ci sono delle sostanze.
+Quella volta ho visto solo un fiocco, Frank.
+Ci sono un sacco di cose che stanno arrivando, proprio accanto a me.
+... per te, Wally.
+Ora ne vedo un po'. Sì. È la tua acqua che bolle?
+Credo di sì.
+Sì, ora lo vedo.
+Giusto.
+Proprio dietro di te, l'acqua bolle.
+Il cavo elettrico, Frank, è appeso. A giudicare dalla tua forza centrifuga, ora è praticamente dritto. Sembra lungo circa 3 metri... fino all'adattatore.
+Censurato
+Censurato
+Puoi affermare... frustate dappertutto proprio lì.
+Si trova proprio sul piano di separazione.
+Giusto.
+...venite a trovarci così...
+Va bene.
+VII, questo è VI. A quanto pare possiamo vedere un sacco di acqua uscire dappertutto sul retro di...
+Grazie.
+VI, questo è VII. Penso che abbia aiutato un po' anche le nostre celle a combustibile.
+Affermativa.
+Bello spettacolo. Spero che duri...
+... meglio iniziare..., Wally.
+Va bene. Andrò.
+... il cavo si avvolge dietro di te.
+Ho una vera palla di ghiaccio laggiù... acqua...
+Sì, certo che sì! È una palla grande!
+È il bollitore dell'acqua?
+Sembra proprio...
+C'era già prima, VI?
+Negativo.
+Ti consiglio di ruotarla a dritta di circa 30 gradi e la troverai proprio al sole.
+Gemini VI, CSQ. Dici che l'acqua... l'acqua ghiacciata appare oltre il bollitore?
+Sì, per noi è ovvio, sì.
+Volevamo ruotare di circa 180 gradi verso destra o sinistra e portare quella massa di ghiaccio al sole.
+Va bene.
+Provare l'uscita della caldaia.
+180 gradi a destra. Che ne dici?
+Bene.
+Gemini VI, Hawaii CAP COM.
+Gemelli VI.
+Bene. Ho ricevuto l'aggiornamento sulla manovra di settembre, se sei pronto a copiarlo.
+Stand-by.
+VI è pronto.
+Ok. Radar, tracciamento e telemetria affidabile su entrambi i veicoli. Ok. Vi mostriamo GO qui sul GET B; 11 più 14 più 29; Delta-V, 9 piedi al secondo; tempo di combustione, 0 più 15; imbardata 00, beccheggio 00; Core 25, 90090; Core 26 e 27 sono tutti zeri; e sarà un'accensione dei propulsori in avanti; Manovra Retrograda.
+Ricevuto. La separazione è 11 più 14 più 29; Delta-V, 9,0 piedi al secondo; durata, 0 più 15; imbardata 0, beccheggio 0; nucleo 25, 90090; 26 e 27, tutti zeri; propulsore in avanti; accensione retrograda.
+Ok, Tom. Hai capito tutto ed ecco cosa vorremmo che facessi prima di accendere la sonda. Ti vorremmo spostare di 1,5-3 metri a nord della navicella spaziale VII e di circa 15 metri dietro. Questo prima di accendere la sonda. Il motivo è tenere lo strumento D-4/D-7 della navicella spaziale VII lontano dal sole.
+Affermativa.
+Ti preoccupa che potremmo metterci tra lui e il sole?
+Ecco come appare.
+Non ci siamo mai stati, abbiamo fatto attenzione.
+Okay, Wally, è lì che vorrebbero che tu andassi, appena prima di iniziare la combustione. Okay?
+Okay. Cercherò solo di tenere la nostra ombra lontana da lui per tutto questo tempo.
+Ricevuto. Molto bene. Avrai l'UHF 6 sull'RKV.
+Roger.
+Gemelli VI, Hawaii.
+...è un ottimo punto di partenza per iniziare a bruciare un po', Wally. Credo che semplicemente non volessero che il sensore IR puntasse verso il sole.
+Ti ho beccato, Frank.
+Ho messo entrambi gli occhi sulla presa d'acqua della tua caldaia... sembra piccola... più o meno delle dimensioni di un tubo.
+Ok, VI e VII. Ci vediamo domani.
+Grazie.
+Roger. Bello spettacolo.
+Censurato
+Censurato
+Censurato
+Hawaii. VI. Ci rimane il 36 percento del propellente.
+Ok, VII. 36 percento - correzione, VI, - 36 percento di propellente rimanente.
+Uno di questi quattro numeri funzionerà.
+Quella cosa si guida come una Maserati?
+Bene. Ricevuto.
+Si maneggia molto bene...
+Gemini VI, RKV CAP COM.
+Andare avanti...
+Come è andata la tua separazione?
+Roger.
+Roger.
+Gemini VI... durante la notte, RKV.
+Questo è affermativo.
+...dai, vuoi spegnere la luce posteriore?
+Okay, Frank... lauree.
+Vuoi che ti seguiamo?
+Gemelli VI, CSQ. Mi ricevi?
+Vorrei averlo... OTTIENI.
+Ripeti.
+... copia... OTTIENI... Possiamo - -
+Roger.
+... copia ora. Sei pronto?
+Andare avanti.
+11 40 41, ovvero Rev 8; 19,8 gradi est; ascensione retta, 08:15:27.
+Roger. Capisco 11 40 41 Rev 8; 19,8 gradi est; ascensione retta, 08 più 15 più 27.
+Roger, e VI sul tuo stato OAMS, il carburante rimanente è di 148 libbre; l'ossidante rimanente è di 193 libbre. I nostri calcoli indicano che si tratta di un effettivo 43 percento di propellente rimanente, e questo è stato calcolato prima della tua ultima combustione di set.
+... ti ho escluso. Potresti ripetere la domanda dopo la quantità?
+Roger. Hai copiato il carburante e l'ossidante rimanenti?
+NO.
+Bene. Quantità effettiva di propellente rimanente: 43 percento.
+Roger. Capisco il 43 percento. Stiamo leggendo circa
+Roger. Bene, questo calcolo è stato fatto prima della tua ultima combustione separata.
+Capire.
+Gemini VI, Gemini VI, Houston CAP COM. Sopra.
+Gemini VI, Gemini VI, Houston CAP COM. Come leggi? Passo.
+Gemini VI, Gemini VI, Houston CAP COM. Ho gli aggiornamenti sull'Esercito Popolare di Liberazione. Passo.
+VI. Oltre.
+Gemelli VI, Houston. Ora ti leggo molto debole. Pronti a copiare il tuo aggiornamento? Passo.
+Affermativa.
+Capisco che sei pronto. Area 9-Bravo. Questo è GET RC, 13:19:36; 400K è 20 più 25; l'inclinazione inversa è 26 più 13; tutti questi angoli di inclinazione, per tutti questi aggiornamenti, saranno di 90 gradi: GET RC, 14:17:05; 400K, 20 più 32; inclinazione inversa, 25 più 54. 11-2: GET RC, 52:02; 400K, 20 più 11; inclinazione inversa, 25 più 40. 12-2 GET RC, 17:25:40; 400K, 20 più 03; inclinazione inversa, 25 più 35; Area 13-2: GET RC, 19:01:21; 400K è 19 più 58; banca inversa, 25 più 28. Hai copiato Gemini VI?
+...abbiamo perso...
+Quanto resta di questo 17-1...
+Gemelli VI, Gemelli VI, la nostra stima ora è di circa 25 più 15, cioè 25 più 15.
+Gemini VI, RKV CAP COM. Stiamo ricevendo il tuo dump. Ti trasmetto una trasmissione.
+Roger.
+Roger.
+Gemini VI, RKV. Vi forniremo un aggiornamento sulla manovra posigrada non appena avremo completato il rapporto sullo stato dell'equipaggio del Gemini VII.
+Roger.
+Gemini VI, RKV CAP COM.
+Andare.
+Roger. Sei pronto a copiare l'aggiornamento della tua manovra?
+Ricevuto. Aspetta uno.
+Gemini VI pronto per la copia.
+Ricevuto. GET B 13 25 52; ​​Delta-V, 9 piedi al secondo; tempo di combustione, 0 più 11; 0 imbardata, 0 beccheggio; Core 25, 00090; Core 26 e Core 27, tutti 0; propulsori di poppa; la manovra è posigrada.
+Ricevuto. Accensione a 13 più 25 più 52; Delta-V, 09 piedi al secondo; 00 più 11 secondi; imbardata 0, beccheggio 0; nucleo 25, 00090; 26 e 27 tutti 0; propulsori a poppa, posigradi.
+Ricevuto. Hai capito.
+VI, hai copiato l'aggiornamento del blocco su Canton, l'aggiornamento del blocco completo?
+Questo è affermativo.
+Va bene.
+Roger. E tu, VI?
+...sembra un passaggio molto facile...
+Roger.
+Australia, siamo tutti pronti e... sia di giorno che di notte... nessuna difficoltà.
+Roger.
+La pressione è ora in modalità impulso e la piattaforma è attiva.
+Roger.
+Non abbiamo avuto problemi. Eravamo tutti in movimento, guardando...
+Sembra divertente.
+Certo che sì.
+C'è un sacco di belle ragazze che corrono sul retro di quella cosa.
+Hai scattato delle belle foto?
+Oh, speriamo proprio di sì. Abbiamo scattato circa... quattro rullini a colori da circa 50... Hasselblad.
+Roger. Dormi bene. Mi sento come una baby sitter. Ti metto a letto ogni sera e ora faccio da baby sitter a quattro di voi.
+Non preoccuparti, ti stiamo guardando.
+Gemini VI, qui CSQ Chirurgo. Pronto per la misurazione della pressione sanguigna del Pilota Comandante.
+Gemelli VI, CSQ. Mi ricevi?
+Gemelli VI, CSQ. Mi ricevi?
+CSQ. Ti ho sentito forte e chiaro.
+Roger. Pronti per il chirurgo.
+Andiamo subito lassù, Chuck.
+Il tuo polsino è a grandezza naturale.
+Abbiamo una pressione sanguigna valida. Siamo in attesa della pressione sanguigna del pilota.
+Il tuo polsino è a grandezza naturale.
+Abbiamo una pressione sanguigna valida. Aspettiamo un rapporto su cibo e acqua.
+Gemelli VI, in attesa del vostro rapporto su cibo e acqua.
+Vorrei anche leggere la temperatura della cabina e la temperatura di ingresso della tuta.
+Ricevuto. Nel rapporto su cibo e acqua, entrambi i piloti hanno consumato due pasti. Tra un minuto aggiungeremo il quantitativo di acqua. Temperatura in cabina: 84. La temperatura della tuta era di 58.
+Ricevuto. Vorrei conoscere la quantità di propellente rimanente e la pressione della sorgente OAMS.
+Il 32 percento indica la quantità di propellente. La temperatura della sorgente OAMS è di 70 gradi; la pressione è di 1650 psi.
+Copia. 1650.
+Abbiamo un valido impiegato temporaneo orale presso il Comando Pilota.
+Ok, se preferisci, ti preghiamo di effettuare un'ispezione della temperatura della cabina e di registrarla nel tuo registro di volo per il post-volo. Vorremmo conoscere la temperatura ambiente a bulbo secco e umido della cabina, la temperatura a bulbo secco e umido dell'ingresso della tuta. Rimuovi l'ugello blu e controlla direttamente il flusso di O2. Se possibile, vorremmo conoscere la temperatura della superficie del portello e la temperatura della superficie delle pareti laterali.
+Ok. Ci rilasseremo dopo una dura giornata di lavoro. Domani potrai finalmente goderti il ​​jazz.
+Affermativo. A tuo piacimento.
+Va bene.
+Vorrei una valutazione della tua ustione posigrada.
+Nessun residuo.
+Roger.
+Carnarvon CAP COM, Gemini VI.
+Gemelli VI, Carnarvon. Avanti.
+Roger. Solo per dirti che ti abbiamo superato. E potremmo avere un aggiornamento sul nostro nodo e per... controllare?
+Stand-by.
+Gemelli VI, Carnarvon.
+Andare avanti.
+Ho il tuo aggiornamento del nodo 20 42 09; Rev 13; uno uno - -
+Abbiamo la piattaforma alzata e siamo allineati alla piattaforma.
+Roger.
+La quantità di propellente rimanente è circa il 31 percento. L'hai capito?
+Ho copiato.
+... gradi.
+Gemelli VI, Carnarvon.
+Roger.
+Stiamo cercando di mantenere la conversazione il più bassa possibile, fino a un'altra rivoluzione... fino alla fine del periodo di sonno.
+Roger.
+Gemelli VI, Carnarvon.
+Vai, Carnarvon.
+Roger. Abbiamo avuto un piccolo problema con il tuo registratore. Vorremmo che impostassi la tua banda C di rientro su CONTINUO, per favore.
+Rientro in banda C, vai CONTINUO.
+Ok, l'interruttore di alimentazione del registratore è acceso.
+Interruttore automatico del registratore a nastro acceso.
+Ok, posiziona momentaneamente l'interruttore di riproduzione del nastro sulla posizione RESET, quindi torna su COMANDO.
+Impostare RESET su COMANDO.
+Gemini VI, Carnarvon. Sembra che abbiamo lo stesso problema con il tuo registratore che avevamo su VII. Se riesci a raggiungerlo, prova a toccarlo. Forse possiamo ottenere il movimento del nastro.
+Pensavo di aver avuto questo problema con... Station prima.
+Copia.
+Bene. Okay, resta in attesa di VI. Ora vado a VII e faccio una purga.
+Roger.
+Gemelli VI, Carnarvon.
+Gemelli VI. Vai.
+Ok, ho delle istruzioni per te. Ok, puoi accendere il computer. Vorrei accendere il computer, accendere il radar e metterlo in standby; dopo 5 minuti accendere il radar e copiare le letture radar ogni 10 minuti, tra Carnarvon e gli Stati Uniti.
+Ciò che vogliamo è autonomia, tono e tempo.
+Ok. Abbiamo acceso il computer, è in PRE-LANCIO. Abbiamo acceso il radar a 42 minuti dal termine del volo.
+Roger. Quello che vogliamo che tu non veda è il tuo tempo, la tua gittata e il tuo tono.
+Sulla navicella spaziale VII?
+Questo è confermato. Abbiamo già acceso il transponder.
+Ok, lui sarà dietro di me. Esatto, giusto?
+Questo è affermativo.
+Ok, ora vi diamo un'occhiata tutti; stiamo facendo pulizia.
+Ho anche un aggiornamento del piano di volo per te, quando sarai pronto a copiarlo.
+Sei pronto a copiare, VI?
+Affermativo. Avanti.
+Bene. Ore 22:25:06; rapporto sullo stato dell'equipaggio a Carnarvon. Questo completa l'aggiornamento; era solo un breve dettaglio. Puoi posizionare il tuo interruttore Cryo Gaging su ECS O2, per favore?
+Ricevuto. ECS O2. Alle 22:25:06, stato dell'equipaggio a Carnarvon.
+A Carnarvon... due.
+Carnarvon, Gemelli VI.
+Avanti VI.
+Ricevuto. Ho controllato il Pilota di Comando. Una pillola di Actyfed alle 21:35. È dovuto alla congestione nasale.
+Puoi ripetere, per favore?
+Roger. Ho preso una pillola di Actyfed (Spell Actyfed) alle 21:35.
+Ricevuto. Ricevuto. Ok, puoi riportare l'interruttore Cryo Gaging su OFF, VI.
+Roger. Andiamo a prendere VII.
+Gemini VI, Houston.
+Gemelli VI, Gemelli VI, Houston.
+Questo è Gemini VI. Vai.
+Roger, Gemini VI. Ti chiedo di calciare il registratore. Riteniamo che il nastro potrebbe essere fuori dai limiti e, calciandolo, potremmo ottenere un buon funzionamento del nastro.
+Roger. Mi do un calcio nel piede.
+Inoltre, ti chiediamo di fornirci la distanza, l'altitudine e il tempo che hai finora percorso dalla linea di vista a Gemini VII.
+Roger. Ora abbiamo un aggancio... a 21:50 avevamo un'autonomia di 22,24 miglia nautiche... a 22 più 00 avevamo un'autonomia di 17,63 miglia nautiche e abbiamo ancora un aggancio positivo. A 51 abbiamo un'autonomia di 16,0 miglia nautiche.
+Roger. Rileggi, Gemini VI.
+Roger. Alle 21:50 abbiamo un'autonomia di 22,24 miglia nautiche; alle 22:00 abbiamo un'autonomia di 17,63 miglia nautiche.
+Ruggero, Gemelli VI.
+... VII.
+Gemini VI, Texas CAP COM. Vorremmo ricordare al Pilota Comandante di indossare la sonda per la temperatura orale in questo momento.
+Hai appena rovinato una buona colazione.
+Scusa.
+Andare avanti.
+Ciao Houston, sono Gemini VI e ti invio i resoconti su acqua, cibo e sonno.
+Roger. Gemini VI, chirurgo di Houston. Avanti.
+Roger. Il pilota comandante ha un totale di 129 bevande da mezza oncia e tre pasti, il pilota ha 113 bevande da mezza oncia e tre pasti.
+Ricevuto. Copia tre pasti a testa, uno con 129 bevande da mezza oncia e uno con 113 bevande da mezza oncia, rispettivamente per il Pilota di Comando e il Pilota. Puoi darci un resoconto del tuo sonno?
+Abbiamo dormito circa 5 ore a testa.
+Quanto è buono?
+Gemini VI, chirurgo di Houston. Il pilota ci manderebbe la pressione sanguigna mentre aspettiamo la temperatura orale del pilota comandante?
+Roger. Houston, completata la doppia epurazione nella Sezione 2.
+Roger completa la doppia epurazione nella Sezione 2.
+Disattivare l'interruttore del Fuel Cell Control 2.
+Ricevuto. Completato.
+Ripetere il passaggio 5. Aprire -
+Il bracciale è a grandezza naturale, VI.
+Letture a circuito aperto sulla tensione 2A, 2B e 2C.
+Le letture della tensione a circuito aperto su 2A, 2B e 2C sono tutte fuori scala, circa 32 volt.
+Rimesso in linea.
+Ricevuto. La Sezione 2 torna in linea.
+Pilota di Comando VI, valido per incarico temporaneo orale.
+Dopo 10 minuti, il crossover si spegne.
+Houston, la Sezione 2 torna in linea e il Crossover è ancora attivo.
+Pilota Gemini VI, pressione sanguigna valida. Pressione sanguigna del pilota di comando. Siamo in attesa.
+Roger.
+Gemini VI, Houston. Disattivare l'interruttore di alimentazione del registratore.
+VI ha l'interruttore del Power Recorder disattivato.
+Mi dispiace, si è verificato un errore. Disattiva l'interruttore automatico del registratore.
+Ricevuto. Controllo disattivato.
+VII, qui è VI. Potresti riaccendere le luci di acquisizione per me, per favore?
+Il bracciale è a grandezza naturale, CP.
+Acquisizione in corso, VI.
+Roger.
+Pilota di Comando VI, gonfia di nuovo il polsino: hai staccato la lampadina.
+Il bracciale è a grandezza naturale.
+Gemini VI, Houston. Resteremo a disposizione per qualsiasi informazione relativa a orario, distanza e, se possibile, indirizzo 59 Theta, tra te e VII.
+Roger, Houston... fatevi avanti con la Theta, abbiamo la gamma.
+Roger. Ti chiediamo cortesemente di fornirci queste informazioni.
+Ricevuto. Il range a 20 - al nostro GET di 21,50,00 più 22,24. Il range 22 più 00 più 00 era 17,63. Il range a 22 più 12 più 00 era 18,33. Il range a 22 più 20 più 00 era 19,55. Il range a 22 più 30, il range era 26,31.
+Roger, Gemini VI. Puoi dirmi se la navicella spaziale VII si trova sopra o sotto la tua altitudine?
+Lui è al di sopra della nostra altitudine.
+Era sopra di te quando hai ricevuto quelle letture?
+La risposta è affermativa, e qui lo vedo con le luci riflesse.
+Lo hai inquadrato con la luce riflessa?
+La risposta è affermativa.
+Disponiamo di lampade con un elevato ACQ di luce riflessa.
+Puoi darmi una stima dell'angolo di elevazione - -?
+... ce l'abbiamo per te, ma vogliamo darci una sistemata qui dentro; rintracciarlo dimostra solo che siamo in grado di incontrarci, e lo abbiamo fatto. Vorremmo stivare la cabina di pilotaggio qui il prima possibile.
+Roger.
+Quindi sappiamo già qual è la portata del radar e il Theta. Vuoi darci un aggiornamento su qual è il vero orario retrogrado?
+Gemini VI, Houston. Capisco. Avrete qualche stivaggio non nominale?
+Stiamo valutando di lasciare le sacche d'acqua nella scatola di poppa destra e di non spostarle in quella di sinistra; altrimenti saranno identiche.
+Ricevuto. Sacche d'acqua nella parte destra di poppa, anziché nella scatola di poppa sinistra.
+Esatto. Saranno dove erano al momento del lancio.
+Roger. Nello stesso posto in cui si trovavano al momento del lancio. E vorrei verificare nuovamente che, al momento in cui sono state effettuate queste letture, Gemini VII si trovava sopra di voi.
+La risposta è affermativa.
+Grazie mille, Gemelli VI.
+Ricevuto. 4 o 5 gradi sopra. Ora possiamo vederli.
+4 o 5 gradi in più; grazie mille.
+Ci stiamo provando: potresti darci un aggiornamento sui tempi di accensione del 17-1, così possiamo prepararci?
+Roger.
+14:53:21 GMT. GET è 25:15:55. Gemini VI, Houston. Hai ricevuto?
+Ricevuto. Abbiamo un GMT di 14 più 53 più 51. RICEVI RC a 25 più 15 più 55.
+Ricevuto. Il GMT è 14:53:21. Il tuo GET è corretto.
+Roger. Gemelli fuori.
+Gemini VI, Houston. Verificare che l'interruttore di alimentazione del registratore sia acceso. L'interruttore di controllo del registratore sia spento.
+La risposta è affermativa. Il nostro registratore è acceso, ma il controllo è spento.
+Grazie mille, Tom.
+Gemini VI, chirurgo di Houston. Hai notato qualche effetto dell'Actyfed?
+Sto usando meno fazzoletti. Mi manca anche non poter... svegliarmi presto la mattina.
+Ruggero, Gemelli VI.
+Dovremmo... ma stiamo andando bene.
+Ruggero. Copia, VI.
+Buongiorno, Capitano Schirra.
+Buongiorno, Chris. Che spettacolo!
+Stai andando alla grande. Mettiamola giù con l'ascensore.
+Numero 3 o numero 2?
+La scelta è tua.
+Roger. Proveremo entrambi.
+Aspetta. Dovremo cambiare il targeting.
+...preparandosi per quell'appuntamento.
+...o saremo sulla barca.
+Roger.
+VI, VII.
+Forza, Jim.
+Vuoi scommettere chi si avvicina di più?
+Ho bisogno di un po' di soldi lì.
+Faremo la scommessa senza contattare le stazioni di terra.
+Gemelli VI, Canarino.
+Ricevuto. Il radar si è spento.
+Molto, molto bene. Vorremmo che il tuo computer fosse in PRELAUNCH.
+Ricevuto. Ci vado. È in PRE-LANCIO.
+Roger. Grazie.
+Mi dispiace, VI, ma non abbiamo molto da dirti.
+Ci dispiace davvero per quelle celle a combustibile.
+Lo copiamo.
+Bello spettacolo, Canaries.
+Roger. Grazie.
+Gemini VI, Carnarvon CAP COM.
+Roger, VI. Vai.
+Roger. Ho un aggiornamento per la tua RN meno RP per l'Area 17-1, se sei disposto a copiarlo.
+Stand-by.
+Pronto per la copia.
+Ricevuto. Angolo di inclinazione 00 gradi; RN meno RP, più 107; angolo di inclinazione 44 gradi; RN meno RP, 0; angolo di inclinazione 90 gradi; RN RP, meno 197. Ricevuto?
+Roger... quel primo...
+Ripeti, Gemelli VI.
+... compilare le carte di rientro...
+Gemini VI, Carnarvon CAP COM. Ci state lasciando. Potreste ripetere, per favore?
+Ricevuto, ricevuto. Su questi aggiornamenti, non abbiamo ricevuto nulla del genere. Che ne dici di andarci piano, ok?
+Ricevuto. Ripeti. Per l'Area 17-1 angolo di inclinazione 00 gradi; RN meno RP sarà più 107; seconda lettura - angolo di inclinazione, 44 gradi; RN, RP sarà 0; terza - a 90 gradi angolo di inclinazione, RN meno RP sarà meno 197. Ricevuto?
+Ricevuto. Ricevo su 17-1 angolo di inclinazione 00 gradi; RN meno RP, più 107; angolo di inclinazione di 44 gradi; RN meno RP, 0; angolo di inclinazione di 90 gradi; RN, RP, meno
+La risposta è affermativa.
+Da terra hai un bell'aspetto.
+Ricevuto. Stiamo appena completando alcuni dei nostri principali lavori di stivaggio.
+Gemini VI, Hawaii CAP COM.
+Forza, Hawaii.
+Come stai stamattina?
+Davvero buono. Perfetto per un look retrò.
+Molto bene. Ti mostriamo GO qui a terra e non ho niente per te, Gemini VI.
+Negativo... tutte quelle cose sono state fatte attraversando gli Stati Uniti.
+Roger. Capisco. Se hai bisogno di qualcosa, chiamami.
+Okay. Grazie, Hawaii.
+Gemelli VII, Gemelli VI. Ci vedete?
+Negativo.
+Di certo non si può.
+Adesso puoi, vero?
+No. Di certo non puoi, Wally.
+Siamo alla luce. Accendiamo la luce di attracco.
+Stiamo solo andando alla deriva. Non so da che parte stiamo guardando.
+Va bene.
+Gemelli VI, Gemelli VI. Mettiti... addosso, per favore.
+Ricevuto. Sono in onda.
+Roger.
+Roger, Houston.
+Gemini VII, qui Gemini VI. Abbiamo un oggetto, sembra un satellite che viaggia da nord a sud, probabilmente in orbita polare. È su una traiettoria molto bassa, viaggia da nord a sud e ha un tasso di salita molto alto. Sembra che potrebbe anche essere... Molto basso. Sembra che stia per rientrare presto. Aspetta uno... Potresti lasciarmi provare a raccogliere quella cosa.
+- JINGLE BELLS - da Spacecraft VI)
+Anche noi li abbiamo, VI.
+Quella era una registrazione dal vivo, VII, non una registrazione.
+Sei troppo, VI!
+Gemelli VI. Aspetta un aggiornamento sul tuo computer per un retrogusto. Sei pronto ad accettarlo?
+Gemelli VI. Affermativo. Siamo in PRE-LANCIO.
+Ricevuto. Sei pronto.
+Elliot... ho aggiornato il tuo libro. Siamo passati dalla fase PRE-LANCIO a quella di RECUPERO e poi di nuovo a quella PRE-LANCIO.
+Ricevuto. Lo rispediremo.
+Affermativa.
+Gemelli VI. Sono pronto a darti una lettura delle quantità MDIU in modo che tu possa verificarle. Sei pronto a copiare?
+Aspetta un secondo, per favore?
+Gemini VI è pronto per la copia.
+Roger. Indirizzo 03, 38549; Core 04, 61388; Core 05, 07513; Core 66, 65384; Core 07, 35999; Core 08, 40014. Mi stai ricevendo, VI?
+Hai completato il 6, sei svanito al 7. Ripeti per il 7. Sei svanito.
+Roger, Tom. Core 07, 35999; Core 08, 40014; Core 09, 12421; Core 10, 02346; Core 11, 29217. Mi ricevi?
+Ricevuto. Li ho copiati tutti. Controlleremo l'MDIU.
+Okay. Perché non li rileggi velocemente, Tom?
+Roger. 03 è 38549; 04 è 61388; 05 è 07513; Core 66, 65384; 07, 35999; 08, 40014; 09, 12421; Core 10, 02346; Core 11, 29217.
+Roger, Tom. Per tua informazione, il nostro T/M lo verifica e abbiamo trovato una soluzione che sembra corretta. Potresti rileggere il messaggio 03? Sono stato interrotto. Non ho ricevuto la tua risposta. Credo fosse corretta.
+Ricevuto. 03 è 38549.
+Ricevuto. Hanno controllato tutti, Tom.
+Le faremo un tentativo.
+Ho anche un aggiornamento per voi sull'Area 17-1.
+Quando sei pronto per copiare.
+Andare.
+GET RC 25 15 58; RET 400K; 20 più 15. RET RB 26 più 38, sponda sinistra 55. Ricevuto?
+Roger... GET RC 25 15 58; RET 400K, 20 più 15; inversione di inclinazione, 26 più 38; inclinazione a sinistra di 55 gradi.
+Roger. Esatto, VI.
+Gemini VI, vogliamo provare un altro dump di nastro qui, solo un altro tentativo. Potresti accendere l'interruttore di controllo del registratore e verificare che il circuito di alimentazione del registratore sia acceso?
+Ricevuto. Registratore acceso, interruttori automatici accesi.
+Roger.
+Houston, Gemini VI. Tutti i controlli risultano soddisfacenti.
+Molto bene, VI.
+Gemini VI, Houston. Come procede con i preparativi per il ritorno? Stai sistemando tutto?
+Roger. Abbiamo una telecamera fuori e la metteremo nella scatola quando avremo finito.
+Molto bene. Non lasciare che quel satellite ti sfugga di mano.
+Glielo hai proprio lasciato sfuggire.
+Gemini VI. Non abbiamo alcuna gioia nel vedere il tuo scarico di nastro. Ti preghiamo di disattivare l'interruttore di alimentazione del registratore e di lasciare acceso l'interruttore di controllo.
+Ricevuto. Spegnimento, accensione dei comandi.
+Roger, Tom.
+Houston, Gemini VI. Avete le ultime... letture per il nominale?
+Sei molto debole, VI. Ripetilo.
+Roger. Hai la tariffa IVI nominale più recente con le letture?
+Sono gli stessi che ti abbiamo dato prima del volo. Il numero 308.
+Houston, qui Gemini VI. Suggerisco... di stivare.
+Ripeti, Tom. Sei stato un po' troppo veloce. Qualcosa sullo stivaggio.
+Roger. Ripetici la copertura IVI. Non mi sembra ancora corretta.
+Ricevuto. Sono 308 ampere, in stand-by.
+E 117 in meno.
+Ricevuto. Copia 308 ampere e 117 giù.
+Roger.
+Tananarive, Gemini VI. Richiedi un trucco temporale su GET.
+Roger, Gemelli VI. Qui è Tananarive. Ai miei posti.
+SEGNO.
+Roger.
+Non riuscivo a capirlo, VI, ripeti.
+Roger...
+Negativo, non abbiamo tempo trascorso a terra su VI.
+Gemini VI, Carnarvon CAP COM.
+Carnarvon, Gemini VI qui.
+Roger. Abbiamo delle informazioni per te se sei pronto a copiare.
+Forza, ti copiamo.
+Roger, le condizioni meteo nella zona di recupero sono: 0,5 di nuvolosità, visibilità di 10 miglia, vento di 3 nodi, 360 gradi da nord. Mare di 3 piedi, molto leggero. Barometro 30.06.
+Ricevuto. La ripresa è di 0,5 di copertura nuvolosa, 10 miglia di visibilità, 3 nodi e 360 ​​gradi da nord, mare di 3 piedi e molto leggero, barometro 30,06.
+Affermativo. Vorremmo anche che chiudessi l'interruttore di alimentazione del registratore e che l'interruttore di riproduzione del nastro fosse in posizione COMANDO.
+L'interruttore di alimentazione è chiuso e in posizione COMANDO. Potresti darci un suggerimento sul nostro GET?
+Roger. Vediamo, sei a 24 ore e 54 minuti e circa 35 minuti e 35 secondi.
+Puoi darci il Mark a 53 45?
+MARCO. 53 45.
+Roger. Ci siamo.
+Ricevuto. Mancano circa 2 minuti al tuo timer dell'evento, che scade 20 minuti dopo.
+Controllo.
+Gemini VI, Carnarvon CAP COM.
+Andare avanti.
+Durante il retrofire, utilizzare entrambi gli anelli. Dopo il retrofire, disattivare l'anello B e non utilizzarlo, utilizzare solo l'anello A, a meno che entrambi gli anelli non siano necessari per il controllo dell'assetto.
+Roger. Questo è quello che volevo fare.
+Ricevuto. Non vogliono che tu lo scarichi dopo aver attivato la droga.
+Vuoi dire di lasciare il carburante nei tubi?
+La risposta è affermativa.
+Dieci secondi. 3, 2, 1.
+SEGNO.
+Sono con te.
+Ricevuto. Il tuo TR è perfettamente sincronizzato con il terreno.
+Il volo dice che sull'anello B bisogna liberare le linee, ma lasciare le valvole del motore spente.
+Roger, questa è una posizione OFF, giusto?
+Roger.
+Carnarvon, il nostro valore PQI finale è del 29%. Questo è Gemini VI.
+Ruggero, VI.
+Gemini VI, Carnarvon CAP COM. Avremo la visuale a breve. Stai bene qui a terra. Ci vediamo al ranch.
+Roger. Grazie per tutto il tuo aiuto. Abbiamo avuto una bella giornata.
+Roger. È stato un piacere. Carnarvon ti saluta.
+Roger. Mi piacerebbe venire a trovarti un giorno.
+Gemini VI, Gemini VI, Houston CAP COM. Come leggi?
+Questo è Gemini VI, forte e chiaro.
+Roger. Puoi confermare che la checklist TR meno 4 più 16 è completa?
+Affermativa.
+Ricevuto. Pronti per il conto alla rovescia.
+Entrambi gli anelli sono...
+Non l'abbiamo copiato, VI.
+60 secondi. Segna 1 minuto.
+Ripetilo, Houston.
+Ci voleva 1 minuto per retrosparare.
+1 minuto.
+30 secondi.
+10, 9, 8, 7, 6, 5, 4, 3, 2, 1, Retrofire.
+... retrofire.
+Ruggero, VI.
+... 309 a poppa, 1 a destra...
+Capisco 309 a poppa e 1 a destra. Ripeto giù.
+116, Roger.
+Ripeto, VI.
+Roger....
+Ruggero, VI.
+Gemini VI, Hawaii CAP COM.
+Forza, Hawaii.
+Ok, dimmi il tuo atteggiamento durante il retrofire.
+...per quanto ne so.
+Bene. Tutti e quattro i retro, MANUALE o AUTOMATICO.
+Tutto AUTO e... 1 piede al secondo nominale.
+Molto bene. Consiglio retrojett.
+Hawaii, ora siamo tutti puliti e abbiamo un atteggiamento di reinserimento.
+Roger. Stai davvero bene qui a terra.
+Roger.
+Gemelli VI, ti darò un trucco per iniziare il tuo test di conteggio. Più 3 minuti e circa 15 secondi.
+Roger. Sento di averne bisogno.
+SEGNO.
+Roger.
+Bene, siete tutti a posto?
+Tutto pronto, grazie.
+Ok. Hai ricevuto Retrojett?
+È affermativo. L'ho detto chiaramente. Immagino di non avere avuto tempo di fare calcoli a quel punto.
+Okay, molto bene.
+Proprio al momento giusto.
+Roger.
+Il tuo RCS sembra davvero in buone condizioni.
+Certamente.
+L'O2 secondario e il bus principale sembrano davvero in buone condizioni.
+Roger. Questo uccello è sempre stato una bellezza.
+Stai per ricevere un buon comando di pescaggio profondo!
+Ah, Ah, Ah!
+Mi dispiace, non posso unirmi alla Flotta del Pacifico... sbarco.
+Roger.
+Davvero un ottimo lavoro Frank e Jim; ci vediamo in spiaggia.
+Okay, Wally.
+Hai avuto modo di vederci durante quel...
+Non siamo riusciti a farti una foto perché al momento non abbiamo propulsori.
+Roger. Hai avuto modo di vederlo?
+NO.
+Va bene.
+VI, Hawaii.
+Forza, Hawaii.
+Bene. Il tuo orizzonte sarà illuminato a 400K.
+Roger.
+Hai tempo per 400K?
+400K, 20 più 15.
+Ce l'abbiamo. Grazie.
+Va bene.
+Abbiamo... 26 più 38.
+Questo è affermativo.
+Molto bene.
+Sembra davvero buono, VI.
+Roger.
+VI, Hawaii. Non abbiamo altro da dire. Ci vediamo presto.
+Roger, Hawaii. Grazie, Jim.
+Roger.
+Gemelli VI, Houston. Come leggi?
+Roger. Al momento non abbiamo ulteriori aggiornamenti sul tuo tempo di 400K.
+Roger, Elliot.
+Davvero un bell'effetto, Wally. La sintesi al computer sembra davvero buona da qui.
+Molto bene.
+Gemini VI, Houston. Gli elicotteri sono in volo.
+Roger, Elliot. Abbiamo un buon orizzonte.
+Roger, orizzonte.
+Gemelli VI, il tuo tempo sui 400K è buono.
+Roger.
+Gemini V dice che l'ascensore è abbassato.
+Roger.
+Gemini VI, Houston. Ecco gli aggiornamenti sul tuo REP RB.
+... Pronto per la copia.
+REP RB 26 più 39; rollio a sinistra 47, rollio a destra 47; la deviazione iniziale dell'ago mostra un superamento di 12 miglia.
+Roger... REP RB 26 più 39; rollio a sinistra di 47 gradi, rollio a destra di 47; iniziale... mostra un superamento di 12 miglia.
+Roger.
+Gemini VI, quello era REP RB. L'hai ricevuto?
+Roger. REP RB, 26 più 39.
+Roger.
+Gemelli VI, Houston. Come leggi?
+Gemelli VI, forte e chiaro.
+Roger. Ti abbiamo letto fino a uscire dal blackout.
+Ok, restate sintonizzati, noi...
+Gemini VI, qui... ti ho sul radar. Ti sto seguendo a 43 miglia. Passo.
+Roger.
+Ricevuto. Abbiamo un contatto radar con te dalla portaerei Gemini VI.
+Roger, saremo...
+Roger. Ti stanno aspettando.
+Roger....
+... Sopra.
+... Credo.
+Gemelli, Gemelli VI. Abbiamo il tuo orario di droga a 29 più 45; orario principale a 31 più 06.
+Fa 29 più 45.
+Gemini VI, Gemini VI, in volo. Sopra.
+Drogue è fuori uso.
+Ricevuto, drogato.
+Gemini VI, come è apparso il rientro sugli indicatori?
+Tutto bene durante la fase di droga; stiamo bene...
+Gemini VI, Houston. Puoi darci un'idea di come è apparso il rientro sugli aghi?
+... Gemelli VI. Finito.
+Qui è Houston. Forza, VI.
+...questa è la trasmissione di Gemini VI alla cieca. Come si legge?
+Houston ti legge, Gemelli VI. Puoi confermare la tua posizione principale?
+Gemini VI, qui Russ Land Leader. Roger, ti stiamo ricevendo. Crediamo di essere a 30 miglia di distanza, in arrivo. Passo.
+Gemelli VI, Roger.
+Gemini VI, qui Russ Land Leader. Puoi darci la tua altitudine?
+Si trova a 2.000 piedi e scende a circa 35 piedi al secondo.
+... 2.000 piedi.
+Affermativo. 30 piedi al secondo.
+Gemini VI, 1.000 piedi, 30 piedi al secondo.
+Roger, Leader. Roger, fuori.
+Gemelli VI, Leader della Terra Russa. Come leggi? Passo.
+Gemini VI, Gemini VI, in volo. Sopra.
+Gemelli VI, Gemelli VI. Questa è... Fine.
+Gemelli VI, Ricerca 2. Finito.
+Roger... e siamo in ottima forma. Vorremmo salire a bordo... tra poco e... Passo.
+... Questo è Airborne 2... Fine.

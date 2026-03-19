@@ -1,0 +1,281 @@
+Vous me lisez?
+Je vous comprends bien.
+Vous me lisez?
+Je vous comprends bien.
+Début de la procédure de vérification de la combinaison spatiale. Vous lisez encore?
+Roger: commencer la vérification de la combinaison spatiale. Dans 3 minutes. Je suis occupé pour le moment.
+Bien reçu.
+Vérification de la combinaison spatiale terminée.
+Roger. Vérifiez la connexion UCB.
+Vous me lisez?
+Vous me lisez?
+Je vous entends bien. Vous me recevez?
+Je vous entends très faiblement, il y a une indication de transmission de lumière et de son sur le panneau. De toute évidence, il s'agit d'un enregistrement sur bande. Vous comprenez?
+Je vous comprends, je vous entends bien.
+Je ne vous ai pas lu. Veuillez éteindre la musique, si possible.
+Roger, une seconde. Je vous entends bien.
+Vous me recevez? La transmission de la musique passe par le canal 2 KB.
+C'est fait. Je vous comprends bien.
+Roger. Bon signal via KB-2, je vous entends bien.
+Passons à. Commencez à compter: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+Bien reçu, continuez le travail.
+Roger.
+Vérification de la communication. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Vous me recevez?
+Je vous comprends. Vous me recevez?
+Enregistré sur bande. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+Je vous entends bien. Je passe à: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Vous me recevez?
+Je comprends. Bien reçu. Continuez à vérifier.
+Je travaille sur le microphone. 1, 2, 3, 4, 5. Vous me recevez?
+Je vous comprends bien. Roger.
+Recevoir sur le téléphone.
+Comment vous sentez-vous, Youri Alexeïevitch?
+Je me sens très bien. La vérification des téléphones et des haut-parleurs se déroule sans problème, passage au téléphone.
+Roger. Tout se passe à merveille, la préparation de la machine est stable, tout va bien.
+Roger. Je le savais.
+Roger. Parfait, tout va bien.
+Vérification de connexion terminée. Vous me recevez? La position des commutateurs du panneau est par défaut. Globe en place, latitude nord 63°, longitude est 97°, correction 710, heure de division: 9 h 18 min 07 s; l’index de déplacement est par défaut (premier jour: 7). Pression cabine: 1 bar, humidité: 65 %, température: 19 °C, pression dans le compartiment: 1,2 bar, pression dans le système d’orientation manuel: 175 bar, première orientation automatique: 155 bar, deuxième orientation automatique: 157 bar, pression dans le cylindre: 320 atmosphères. Tout est en ordre, prêt au décollage. Vous me recevez?
+Roger. Nous avons bien reçu vos données, en cours de validation. Nous avons reçu votre confirmation de disponibilité pour le lancement. Tout se déroule comme prévu de notre côté.
+Vous m'entendez? J'ai quelque chose à transmettre.
+Je vous entends bien.
+Yuri Alekseyevich, je tiens à vous rappeler qu'après les derniers préparatifs, il y aura un retard de 6 minutes avant le décollage. Ne vous inquiétez pas.
+Roger. Je suis parfaitement calme.
+C'est parfait. Après une minute de préparation, il y aura quelques tâches à accomplir. Je passe le téléphone au président.
+Rudnev à l'appareil. Yuri Alekseyevich, comment vous sentez-vous? Avez-vous des nouvelles? Que voyez-vous par les fenêtres?
+…tout va bien. Vous me recevez?
+Roger. Le président vous a entendu. Tout va bien ici.
+Yuri, comment ça va?
+Comment ils nous ont appris.
+Très bien, prends soin de toi. Sais-tu qui te parle?
+Je sais — c'est.
+Ils vont vous parler maintenant.
+Si vous avez le temps, veuillez connecter l'émetteur KB et parler, comptez jusqu'à 20. Si vous êtes disponible, faites-le-moi savoir. Vous me recevez? Yuri, mais commencez dans une minute, s'il vous plaît. Vous me recevez?
+Roger. Je vais commencer votre tâche immédiatement.
+Lors de la séparation, rapprochez l'interrupteur de vous.
+Roger. La position par défaut pendant le travail et sur l'orbite doit être réglée sur « télégraphe ». Pendant la séparation, réglez le commutateur sur « signal ».
+Roger. C'est exact, Yuri.
+Vous me lisez?
+Je vous comprends bien. Et moi?
+Je vous entends bien. Yuri, que faites-vous en ce moment?
+D'accord, je ne suis pas très occupé en ce moment.
+J'ai trouvé la suite de "". Compris?
+Compris, compris — continuez.
+Nous la chanterons ce soir.
+Tout va bien. Et toi?
+Roger. Ici aussi, tout va bien. Je me sens en pleine forme, je compte fermer l'écoutille n° 1.
+Vous me recevez? Vérification des communications dans le bunker.
+Je vous entends bien. Parlez un peu moins fort, s'il vous plaît. Vous me recevez?
+Roger.
+Veuillez indiquer si vous avez utilisé la fonction HF avec un seul bouton ou avec les deux boutons?
+Je travaille avec le bouton du panneau, là. Maintenant avec celui de la molette. Maintenant avec les deux. Vous me suivez?
+Je vous entends bien. Le son est bon avec les deux boutons.
+Vérifie si l'utilisation du tableau de mémoire et la visibilité du tableau de codes sur « deli » sont confortables. Tu me reçois?
+Roger. Vérification en cours.
+L'utilisation de la carte mémoire et la lecture des signaux ont été vérifiées. Tout est en ordre.
+Roger. Ce type est formidable.
+Yuri, tout le monde te salue. Je viens de chez eux. Tu me reçois?
+Roger. Un grand merci. Transmettez-leur mes salutations les plus chaleureuses.
+D'accord.
+Vous me lisez?
+Je vous comprends bien. Et moi?
+Je vous entends bien. Les préparatifs se déroulent bien. Tout va bien, Yuri.
+Roger. De mon côté, tout se déroule bien. Je me sens bien, prêt pour le lancement.
+Roger.
+Youri Alekseïevitch, me lisez-vous?
+Je vous entends parfaitement, je sais à qui je parle.
+Yuri Alekseyevich, je tiens à vous rappeler que je ne donnerai pas le mot « secondes », mais simplement un nombre toutes les cinquante secondes environ, par exemple: 50, 100, 150, etc. Est-ce clair?
+Roger. Je m'y attendais.
+Super.
+Demande 20 par téléphone.
+20e de garde.
+Ma demande concerne la durée, seconde par seconde, avant et après le démarrage, afin de vérifier la stabilité et la faisabilité de la connexion.
+Roger. Votre demande sera satisfaite, Youri Alekseïevitch.
+Yuri Alekseyevich, nous avons un problème: après la fermeture de l'écoutille, un des contacts n'a pas fait un bon contact. De ce fait, nous allons démonter l'écoutille et la remonter. Vous me recevez?
+Roger. L'écoutille est ouverte, vérification des détecteurs.
+Ok, super.
+Préparation avant le lancement dans une heure. Poursuivez la vérification des appareils. Vous me recevez?
+Roger. Une heure avant le lancement. Tout se passe bien, je suis de bonne humeur, prêt pour le décollage.
+Roger, Yuri.
+Vous travaillez actuellement sur un micro de gorge ou?
+Je travaille actuellement sur.
+Roger.
+Vérification de la connexion. Vous me recevez?
+Je vous entends bien. Et moi?
+Je vous entends bien également.
+Avez-vous vérifié le colis? Pouvez-vous y accéder? Vérifiez le colis et faites un rapport.
+J'ai vérifié le colis. Je peux y accéder. Vous me recevez?
+Roger. Super.
+Les wagons de train s'éloignent en ce moment. Vous les entendez?
+Je n'entends pas le train. C'est très bruyant ici, je n'entends que les communications.
+Ok, je comprends.
+Il faut être prêt en 50 minutes.
+Roger: Prêt dans 50 minutes.
+Vous me recevez? Ont-ils commencé à fermer l'écoutille?
+Je comprends bien. Il semblerait qu'ils soient en train de terminer la pose du couvercle.
+Roger, tout va bien ici.
+Ici aussi, tout va bien. Je me sens bien, de bonne humeur.
+C'est formidable. Moscou a demandé comment vous alliez et comment vous vous portiez là-bas. Nous avons répondu que tout allait bien.
+Roger.
+Yuri, tu t'ennuies là?
+Ce serait agréable de jouer de la musique, si c'est possible.
+Une minute.
+Vous devriez probablement entendre du bruit en ce moment. C'est parce qu'ils abaissent les passerelles. Tous les travaux en hauteur sont terminés. Vous me recevez?
+Roger: Les passerelles sont en train de s'abaisser, mais je n'entends pas le bruit. Je ressens des vibrations.
+Roger. C'est parfait.
+Station ici Zaria-1. Veuillez répondre à la demande de [nom], jouez-lui de la musique.
+Tu as entendu? Je répète Zaria: j'essaie de répondre à ta demande. Mets de la musique, je m'ennuie.
+Quoi de neuf? Tu entends la musique?
+Pas de musique pour le moment, mais j'espère que ce sera bientôt le cas.
+Mais vous n'avez pas entendu dire que cela avait été promis?
+Et alors? La musique a commencé, non?
+Non, pas de musique.
+C'est normal, vous savez, les musiciens; un jour ils sont là, un jour ils sont là, mais ils ne font rien très vite, comme dit l'adage, Youri Alexeïevitch.
+Ils jouent sur le thème de l'amour.
+Jouer avec l'amour? C'est sage, Youri Alekseïevitch, je crois.
+Yuri, ils jouent de la musique, n'est-ce pas?
+La musique joue, tout va bien.
+C'est génial, ça veut dire que ce ne sera plus ennuyeux.
+Yuri, les gars sont contents que tu ailles bien. Tu me reçois?
+Roger. Mes salutations les plus chaleureuses. J'écoute Utesov. Pour l'âme.
+Très bien, écoutez.
+Étanchéité vérifiée – tout est normal. Vous me recevez?
+Roger: Étanchéité vérifiée. J'entends et je vérifie: Étanchéité vérifiée. Ils tapent un peu par là.
+C'est parfait, ne vous inquiétez pas.
+Nous vous avons aperçu à la télévision, votre sourire nous a fait plaisir. Vous me recevez?
+Roger. En pleine forme, de bonne humeur, prêt pour le lancement.
+Parfait. Tout se passe bien ici.
+Yuri, tu t'ennuies là?
+Je vais bien, ils chantent l'amour.
+Comment ça se passe? Ici, tout va bien, on se prépare. Il n’y a aucun retard, rien à signaler. Les gars partent maintenant.
+Roger. Tout va bien ici: calme et je me sens super bien. Salut les gars. Je sens leur soutien en permanence. Ils sont avec moi.
+Super, super, Yuri.
+Yuri, tout le monde t'envoie ses meilleurs vœux, te souhaite bonne chance et te souhaite tout le bonheur du monde. Tu m'entends? Que Dieu te bénisse et te souhaite le meilleur.
+Roger. Merci beaucoup.
+Ici Rudnev. Des camarades de Moscou s'enquièrent de votre santé. Nous leur avons assuré que tout va bien, que vous vous portez bien et que nous sommes prêts pour la suite.
+Tu leur as dit la vérité. Tu te sens bien, de bonne humeur, prêt à passer à l'étape suivante.
+Roger.
+Placez-vous en position de départ pour commencer le test des fonctions physiologiques.
+Position de départ pour le test des fonctions physiologiques effectué.
+Roger.
+Ils vont démonter le programme d'installation immédiatement. Vous me comprenez?
+Roger: ils vont démonter l'installateur.
+Le bras de l'installateur a été démonté avec succès. Vous me recevez?
+Roger: le bras de l'installateur a été démonté avec succès.
+Youri Alexeïevitch, nous allons transférer immédiatement cette station de radio dans le bunker. Il y aura donc cinq minutes de silence sur la fréquence. Nikolaï Petrovitch et Pavel Romanovitch se rendent au bunker. Je reste ici jusqu'à ce que les cinq minutes soient écoulées, mais ils transmettront mes instructions. Vous me recevez?
+Roger: En ce moment, tout le monde se dirige vers le bunker, il y aura une minute de silence, puis vous transmettrez par leur intermédiaire.
+Oui, c'est exact: nous rétractons les bras, tout se déroule comme prévu, la machine fonctionne parfaitement.
+Ici aussi, tout va bien.
+Comment se déroulent les examens médicaux – notamment le rythme cardiaque?
+Vous me lisez?
+Roger. Et moi?
+Je vous entends bien. Pouls: 64, respiration: 24. Tout va bien.
+Roger. Cela signifie que mon cœur bat encore.
+Quel est l'état d'avancement?
+Préparation dans 15 minutes. Petit rappel: mettez vos gants. Vous me recevez?
+Roger: 15 minutes de préparation, j'enfile mes gants. C'est parti.
+J'ai mis mes gants, tout va bien.
+Roger.
+Le magnétophone ne fonctionne pas, ni en mode automatique ni en mode manuel; il semble qu'il n'y ait plus de bande. Veuillez la rembobiner.
+Roger: Je transmettrai votre demande. Rembobinage en cours. La lumière est-elle allumée?
+Roger: Rembobinage en cours. Qu'ils rembobinent toute la bande.
+Roger, tout va bien.
+Préparation en 10 minutes. Votre casque est-il fermé? Fermez-le et signalez-le.
+Roger: Prêt dans 10 minutes. Casque fermé. Tout est en ordre, je me sens super bien, prêt pour le décollage.
+Roger.
+Préparation dans 5 minutes. Veuillez régler le volume au maximum.
+Roger: Prêt dans 5 minutes, volume au maximum. Volume maximum réglé.
+Tout se déroule correctement. Placez-vous en position de départ pour commencer le test des fonctions physiologiques.
+Roger. Tout se passe bien, je suis en position de départ et prêt pour le test des fonctions physiologiques.
+Roger.
+Tout est parfait. Avant le début de nos opérations… une minute avant… il reste quelques minutes. Vous me recevez?
+Je vous entends bien. Roger: quelques minutes avant le début des opérations. Je me sens super bien, de bonne humeur, tout va bien.
+Roger, exact.
+Prêt dans une minute. Vous me recevez?
+Roger: Prêt dans une minute. Position de lancement prise, d'où le délai de réponse.
+Roger.
+Vous pouvez garder le silence pendant le lancement. Répondez dès que possible, je vous transmettrai les détails.
+Roger.
+Clé de départ! Nettoyage en cours.
+Roger.
+Clé réglée sur drainage.
+Roger.
+Tout est en ordre: les vannes de vidange sont fermées.
+Roger. Bonne humeur, je me sens bien, prêt pour le décollage.
+Super.
+La pressurisation est en cours, le mât du câble a été déplacé, tout va bien.
+Roger, je le ressens. J'entends les soupapes fonctionner.
+Roger. Super.
+Les deux lignes suivantes ont été déplacées vers l'arrière par la rédaction; dans la transcription, elles se trouvent à la même minute UTC.
+# toutefois, elles précèdent clairement le lancement
+Le contact a été mis.
+Roger: le contact a été mis.
+Étape préliminaire. Étape intermédiaire. Étape principale… EN HAUT!
+C'est parti! Le niveau sonore est très correct. Tout se passe bien, bonne humeur, je me sens super bien, tout va bien.
+Nous vous souhaitons un bon vol, tout va bien.
+À bientôt mes chers amis!
+Au revoir, à bientôt!
+Les vibrations s'accélèrent, le bruit augmente lentement.
+Temps 70.
+Roger, 70 ans. Je me sens très bien, je continue le vol, la force g augmente, tout va bien.
+100. Comment vous sentez-vous?
+Je me sens super bien. Et vous?
+La vitesse et le timing sont bons. Comment vous sentez-vous?
+Je me sens bien.
+Tout va bien, la machine fonctionne parfaitement.
+Le carénage a été déposé, tout va bien. Et toi?
+Je me détache du carénage principal… Je vois la Terre… la force g augmente, tout va bien, je suis de bonne humeur.
+Bravo, super! Tout se passe bien.
+Je regarde les nuages. Le lieu d'atterrissage. Magnifique, c'est tellement beau. Vous me recevez?
+Roger. Poursuivez le vol.
+Le vol se poursuit, la congestion augmente, les rotations sont lentes, tout semble bien se passer. À travers le périscope, je peux voir la Terre: elle est presque entièrement recouverte de nuages.
+Tout se passe bien. Roger, nous vous entendons bien.
+Deuxième étape de séparation.
+Tout fonctionne comme prévu. Dernière étape. Tout est en ordre.
+Roger: J'ai entendu dire que j'étais inclus. Je me sens bien. Je vois la Terre: la visibilité est bonne, je suis de bonne humeur, la force g augmente, je me sens bien.
+Roger.
+Tout va bien. Tu me reçois? Comment te sens-tu?
+Je vous entends bien. Je me sens bien, le vol se déroule sans problème. Je vois la Terre, le vol se poursuit, la visibilité est bonne, je vois tout clairement, certaines zones sont couvertes de nuages, le vol se poursuit, tout va bien.
+Je vous ai compris, bravo! Votre communication est bonne, continuez ainsi.
+Tout fonctionne correctement, continuons.
+Comment vous sentez-vous?
+Je vous entends, bonne humeur, vous vous sentez bien, continuez le vol, tout va bien, la machine fonctionne de manière stable.
+Je vous tiens, ici Kolpashevo.
+Comment vas-tu?
+Je vous reçois bien, je me sens bien, la machine fonctionne bien. Je vois la Terre à travers le périscope. Tout va bien. Salut. Vous me recevez?
+Roger.
+Roger. Je sais à qui je parle. Salut.
+Comment vous sentez-vous? Ici Kolpashevo.
+Je me sens bien, poursuivez le vol. La machine fonctionne de manière stable. Je vois la Terre par le hublot, le ciel, l'horizon. Le vol se déroule bien. Vous me recevez?
+Roger.
+Arrivé - -
+Lumières allumées, je me sens bien, bonne humeur. Paramètres de la cabine: pression 1, humidité 65, température 20, pression dans le compartiment 1, premier détendeur automatique 155, deuxième détendeur automatique 155, pression dans le cylindre 320 atmosphères.
+Entrez. Vous me recevez?
+Zaria-3, tu me reçois? Je n'entends pas, je n'entends pas Vesna.
+Roger, la connexion est normale.
+Le vol se déroule bien, tout va bien. Que pouvez-vous me dire?
+Le vol se déroule bien. La sensation d'apesanteur est agréable. Tous les appareils, l'ensemble du système, fonctionnent correctement. Que pouvez-vous me dire?
+Je vous entends bien, les appareils fonctionnent parfaitement, je me sens bien.
+Je vous entends bien. Que pouvez-vous me dire sur le vol?
+Aucune instruction de Korolyov, le vol se déroule bien.
+Roger. Aucune instruction de Korolev. Veuillez m'indiquer le statut du vol. Salut au garçon blond!
+Vous me lisez?
+Je vous entends bien. Comment m'entendez-vous?
+Comment vous sentez-vous?
+Je me sens merveilleusement bien! Donnez-moi les résultats du vol!
+Répétez s'il vous plaît, je ne vous entends pas bien.
+Je me sens bien, très bien, super!
+Donnez-moi des données sur le vol!
+Vous me lisez?
+Vous me lisez?
+Vous m'entendez? Transmission du prochain rapport: 9h48, vol en bon état. L'obturateur 1 fonctionne correctement. L'index est en mouvement. Pression cabine 1, humidité 65, température 20 °C, pression dans le compartiment 1,2, manuel 150, premier automatique 155, deuxième automatique 155, bouteilles 320 atmosphères. Je me sens bien, bonne humeur.
+Je n'entends pas la station au sol. Je suis dans l'ombre.
+Roger.
+Orientation solaire activée.
+Roger.
+Le vol se déroule sans problème, l'orbite est calculée.
+Roger: Le vol se passe bien.
+Bonne humeur, je continue le vol, je survole les États-Unis maintenant.
+Roger.
+Vous me lisez?
+Je vous comprends bien. Le vol se passe bien.
+Le vol se déroule bien.
+Commandant Gagarine, votre vol se passe bien.

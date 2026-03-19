@@ -1,0 +1,1249 @@
+Sento il decollo. Il cronometro è partito.
+Roger. [Cape Canaveral]
+Forte e chiaro, Gus.
+Roger, Aurora sette, pronti per... l'hack temporale.
+Roger.
+Un po' tremolante, ma abbastanza fluido.
+3, 2, 1, segno.
+Roger, il cronometro di riserva è partito.
+Roger, Aurora Sette.
+Cielo azzurro e terso; 32 secondi; 2740 metri, carburante e ossigeno costanti; pressione in cabina 15,1 psia; in calo. Un po' agitato alla massima velocità e per 1 minuto.
+Roger. Da qui hai una bella vista.
+Ok, 25 ampere e la potenza è buona.
+Roger. Stai bene.
+Mark, 1 minuto. La pressione in cabina è nei tempi previsti; carburante e ossigeno sono stabili, 24 ampere; tutta la potenza è buona.
+Roger. Il tono è 56 [gradi]. Sembri...
+Roger. Il mio pitch sembra buono, ora si sta un po' smussando. Sento che il programma di pitch sta ricominciando da capo.
+Roger.
+Il cielo si sta facendo piuttosto nero alle 01:30. Carburante e ossigeno sono stabili, la pressione in cabina si sta stabilizzando a 6,2 [psia], 22 ampere e la potenza è ancora buona, un cps di oscillazione in imbardata.
+Roger. Capisco. Il tono è 37 [gradi]. Stai davvero bene.
+Stand-by.
+Roger. C'è BECO in orario, e--
+Ah, Roger. Capisco BECO.
+Roger, ho avuto la sensazione che fosse una messa in scena. Confermi?
+Messa in scena?
+Confermi la messa in scena?
+Aurora Seven, confermiamo la messa in scena.
+Roger, g ha raggiunto il picco a 6,3.
+La torre è lontana. Non c'è più. Il semaforo è verde. Ora sto controllando il BECO.
+Roger, Aurora Sette.
+Il controllo BECO è completo
+Ricevuto. Capisco perfettamente. È corretto?
+Cioè. Roger.
+A 3 minuti. Carburante e ossigeno sono ancora stabili; la pressione in cabina è di 5,8 [psia]. La potenza sembra ancora buona; le mie condizioni sono buone.
+Roger. Un'inclinazione di meno, meno 2 gradi e mezzo, e sei a posto; sei a posto.
+Roger. Ti sento forte e chiaro, Gus.
+Aurora Seven,.., sei brava.
+Roger. Ti leggo ancora. Sono un po' a pezzi. A 30, la mia situazione è buona. Carburante e ossigeno sono stabili. La cabina mantiene 5,8 [psia]; La cabina mantiene 5,8 [psia]. La corrente è buona, 25 ampere.
+Roger.
+Quattro minuti. Aurora Seven è pronta. Carburante e ossigeno stabili; cabina in attesa, 25 ampere; potenza buona.
+Roger, Aurora Seven. Angolo meno 3 gradi e mezzo. Tutto bene.
+Roger, ti leggo ora sulle antenne delle Bermuda, molto più forte.
+Roger.
+4 più 30 il mio orologio. Carburante e ossigeno stabili, 3 1/2 g. La cabina mantiene 5,8 [psia]; la potenza di 25 ampere è buona.
+Roger, Aurora Seven. Hai superato 0.8, V su VR di 0.8.
+Ricevuto. 0.8.
+Ok, ecco il SECO. I posigradi sono stati attivati. Sono senza peso e sto iniziando la manovra fly-by-wire. Aux Damp è a posto.
+Roger. Stai bene qui sotto.
+Periscope è uscito e....
+Abbiamo un Go, con capacità di 7 orbite.
+Roger. Parole dolci.
+Roger.
+Ok, la virata si è fermata. Sto picchiando. Ho la luna al centro della finestra e il booster leggermente spostato a destra.
+Ricevuto. Capisco.
+Il fly-by-wire funziona bene su tutti gli assi; il mio atteggiamento è alto; ora sto scendendo.
+Ricevuto. Capisco.
+Roger. Il sistema di controllo fly-by-wire è ottimo. Ora ho il booster al centro del finestrino, che ruota molto lentamente.
+Roger, Aurora Seven. Capisco. Sembri davvero in forma.
+È molto tranquillo.
+Un flusso costante di gas, gas bianco, fuoriesce dal motore di sostegno. Ora sto andando all'ASCS.
+Ricevuto. Capisco.
+L'ASCS sembra reggere molto bene. Ho una piccola isola proprio sotto di me.
+Aurora Seven, in attesa dei tempi di retrosequenza.
+In attesa.
+L'area 1 B è 17 17.
+17 17 Roger.
+Roger, resto a disposizione per più tardi. È tutto quello che ho per ora.
+Roger, tempo di sequenza per la fine dell'orbita.
+Invia il tuo messaggio.
+Aurora Seven, tempo di retrosequenza per la fine dell'orbita: 28 26.
+01 28 26, Roger.
+Fine della missione, 04 32 39.
+04 32 39, Roger.
+Negativo 04 3, 04 32 39.
+Roger, capisci, 04 32 39.
+Roger.
+Roger, ho copiato.
+L'ASCS sembra a posto, tutti i propulsori fly-by-wire sembrano funzionare bene su tutti gli assi. Prossimamente... sto iniziando a smontare l'attrezzatura.
+Aurora Sette.
+Roger, la checklist della SECO è completa. Ha raggiunto il picco a 6,3 g.
+Cap Com. Finito.
+Forza, Gus. Forte e chiaro. Come faccio?
+Aurora Seven, Capitano Com.
+Roger, forte e chiaro. Come faccio?
+Aurora Seven, Cape Cap Com. Fine.
+Aurora Seven, Cape Cap Com. Fine.
+Forte e chiaro, Gus. Come faccio?
+Aurora Seven, Cape Cap Com. Se leggi, ritardo retroattivo alla normalità?
+Ritardo retrogrado normale. Ricevuto.
+... igee 86 [miglia nautiche].
+Roger. Ho copiato il perigeo 86 [miglia nautiche]. Non ho raggiunto l'apogeo.
+Mark. Una foto del booster. Ora trasmetterò e registrerò. 2, 3, 4, 5, 6,... 10, 11, 12 foto del booster, che viaggiano proprio al centro del booster, proprio al centro della finestra.
+Ora rivedo la checklist di inserimento. La tensione CC è principale. L'interruttore del fusibile del retromanuale è spento. Il retromanuale è spento. Tutti gli strumenti sono a posto. Tutte le batterie sono a posto. L'alimentazione CA è buona. Poi, vediamo, dov'è il booster? Ci sono delle bellissime nuvole laggiù. Il booster è di fronte a un grande schema di nuvole. Mi sembra di essere, mi sembra di essere molto più vicino alla Terra di quanto mi aspettassi. Il booster è a circa 3 chilometri di distanza ora.
+Ho alcune foto del booster, forse 17 o 18, tutte insieme. Poi verso l'orizzonte, da nord a sud. C'è la luna, che sta tramontando. Sto caricando la macchina fotografica in questo momento.
+Ci sono alcuni pezzi piuttosto grandi che fluttuano in giro. Il piano di volo è ora disponibile. I giroscopi si libereranno alle 12:33 e userò il fly-by-wire per seguire il booster. Lo farò... questo non è un buon problema di tracciamento. Le nostre velocità sono troppo vicine all'essere uguali. Lo metterò al centro della finestra di destra, in più. L'ho proprio al centro... lo sento... è andato oltre. Mi sta superando in beccheggio.
+I propulsori ad alta potenza funzionano bene, il tracciamento ravvicinato dovrebbe essere effettuato solo con il fly-by-wire a bassa potenza. Seguire il booster è un'impresa ardua con gli alti regimi. I giroscopi restano entro i limiti piuttosto bene. Il tempo trascorso è di 13:56. Al momento ho perso di vista il booster. A questo punto prenderò una retroattività per il radar Canary. Un pezzo grosso di...
+Torniamo ai gyros gratis o ai gyros normali.
+Aurora Seven. Qui è Canary Cap Com. Come leggi? Passo.
+Ciao, Canary Cap Com. Aurora Seven. Ti leggo forte e chiaro. Come faccio?
+Anche voi lo avete letto forte e chiaro. Abbiamo una traccia radar. Vi preghiamo di rimanere in orbita.
+Ricevuto. Capito. Io, la mia modalità di controllo è fly-by-wire, giroscopi normali, manovra disattivata. Tra poco ritroverò il controllo automatico e il retroassetto. Passo.
+Ricevuto. Puoi verificare che l'interruttore retrodelay sia in posizione normale?
+Il retroritardo è normale. Lo ripeto, il retroritardo è normale.
+Roger. Potresti procedere con il breve rapporto, le letture del carburante e dell'ossigeno.
+Ricevuto. Carburante 103-100 [percentuale]. Ossigeno 89-100 [percentuale]. Tutta la potenza è buona. Lo stato di Aurora Seven è Go sotto tutti gli aspetti. Passo.
+Ricevuto. Ripeti carburante, per favore. Passo.
+Carburante 103-100 [percento]. Oltre.
+Ricevuto. Ho ricevuto.
+Per favore, inviami la pressione sanguigna. Passo.
+Roger. La pressione sanguigna inizia ora.
+A ovest della vostra stazione, ho visto molti mulinelli e vortici di nubi. Immagini di questo momento: 2, 3, 4, 5. La modalità di controllo è ora automatica. Ho il booster direttamente sotto di me. Credo che il mio assetto non sia in accordo con gli strumenti. Probabilmente è a causa di quel periodo senza giroscopio. A parte una piccola differenza nelle indicazioni di assetto, tutto procede normalmente.
+Puoi confermare che l'orientamento, l'ASCS e il fly-by-wire funzionano normalmente?
+Ricevuto. Aspetta un attimo.
+Roger. Canary, TS plus 5 è verificato. Il cambio manuale è soddisfacente su tutti gli assi. Il fly-by-wire e il cambio automatico sono soddisfacenti su tutti gli assi. Anche l'Aux Damp è ok. Finito.
+Roger. Ho ricevuto. Ho nuovi orari di fine orbita, fine missione e 1 Bravo per te. Sei pronto a copiare?
+Aspetta uno.
+Invia il tuo messaggio, Canary.
+Ricevuto. Fine dell'orbita 01 28 17. Fine della missione 04 32 27. 1 Bravo 16 più 56. Ricevuto? Passo.
+Ricevuto. Fine dell'orbita 01 28 17, Hotel 04 32 39, 1 Bravo 16 56. Passo.
+Correzione. Aurora Seven, correzione 1 Bravo. Facciamo 16 più 52. Passo.
+Roger. Capisco. 16 52.
+Roger. L'altitudine dell'apogeo è 143 [miglia nautiche]. Il perigeo 86 [miglia nautiche]. Hai ricevuto? Passo.
+Roger. 143 e 86 [miglia nautiche].
+Ricevuto. Ecco gli orari di alba e tramonto. Alba, orbita uno: 1 più 21 più 00. Alba, orbita due: 2 più 50 più 00. Alba, orbita tre: 4 più 19 più 00.
+Roger, Canary. Perderò il segnale prima di ricevere queste foto. Voglio scattare qualche foto. Chiedi a Muchea, o, per correggere, a Kano, di inviarmele in questo ordine: tramonto, alba, tramonto, alba, pausa, pausa. Hai ricevuto?
+-- più 41 più 20. Hai ricevuto? Passo.
+Questo è negativo. Dovrò aspettare un po' per quelli.
+Li prenderò da Kann. Grazie.
+Misura la pressione sanguigna. Il tuo primo tentativo a terra era illeggibile. Passo.
+Bene. È in onda.
+Aurora Seven. Qui è Kano su UHF/HF. Mi senti? Passo.
+Roger, Kano Cap Com. Aurora Seven ti legge forte e chiaro. Come me?
+Roger, Aurora Seven. Kano Cap Com vi riceve forte e chiaro. Bentornato, Scott.
+Roger.
+Controllo della pressione sanguigna, per favore. Tieni premuto il pulsante per 4 secondi e poi leggi il breve rapporto.
+Ricevuto. Pressione sanguigna avviata, no. Le mie condizioni sono buone. Lo stato della capsula è buono. Furl è al 99-98%. Ossigeno, all'89-100%. La cabina tiene bene. Tutta la corrente continua è buona. Tutta la corrente alternata è buona, 22 ampere. Tutto è verde e dovresti leggere la pressione sanguigna. Passo.
+Roger. Stiamo misurando la pressione sanguigna. Vuoi controllare la tua pressione UHF bassa? Passo.
+Ricevuto. Ora passo alla banda UHF bassa, attendi 15.
+Ciao, Kano. Ciao, Kano Cap Com. Aurora Seven UHF bassa. Come leggi?
+Aurora Seven. Kano Cap Com ti legge forte e chiaro. Passo.
+Roger. Ti leggo allo stesso modo. Torno all'UHF alta.
+Aurora Seven, Kano Cap Com. Come leggi? Passo.
+Forte e chiaro, Kano. Invia il tuo messaggio.
+Roger, Aurora Seven. Ora state per iniziare la procedura di ingabbiamento e sganciamento? Passo.
+Roger. Sono un po' indietro con il piano di volo in questo momento. Non sono riuscito a installare la pellicola del MIT. Finalmente ce l'ho. A breve spiegherò la procedura di sgancio del giroscopio.
+Roger.
+Bene, il film del MIT è pronto.
+L'ASCS funziona correttamente.
+In quale modalità sei adesso?
+Ricevuto. La mia modalità è automatica, giroscopio normale, manovra disattivata.
+Aurora Seven, Kano Cap Com. Assicuratevi di essere in modalità fly-by-wire prima di seguire le procedure di sganciamento.
+Ricevuto. Ricevuto. Capito.
+Credo che non riuscirò a completare le foto del MIT in questo passaggio. Negativo, negativo, posso risolvere il problema. C'era troppa pellicola fuori dal contenitore, quello era il problema. La pellicola ora è ben inserita. Ora si sta montando il piccolo dorso.
+Alle 00:29:43, la prima volta che sono riuscito a scattare foto dell'orizzonte con la pellicola MIT. Impostata a F8 e 125°. Un'immagine a sud verso il sole, direttamente lungo la mia traiettoria di volo, è la numero due. La numero tre, 15 gradi a nord, al termine della capsula, alle 00:30:17.
+A questo punto, ripongo la telecamera. Passo alla procedura di sgancio del giroscopio. Ora, fly-by-wire. Giroscopi in gabbia. A questo punto, la manovra è iniziata.
+Picchiando verso il basso, imbardando a sinistra.
+Aurora Sette, Aurora Sette, Aurora Sette. Qui è I.O.S. Com Tech su HF e UHF. Come si legge? Passo.
+Roger, Indian Com Tech. Aurora Seven ti legge in modo debole ma leggibile. Vai avanti.
+Aurora Sette, Aurora Sette. Qui è I.O.S. Com Tech su HF e UHF. Come si legge? Passo.
+Salve, Comandante della Nave Indiana Aurora Seven. Forte e chiaro. Come faccio?
+Ciao, Indian Cap Com, Indian Cap Com, Aurora Seven. Come state leggendo?
+Ciao, Indian Cap Com, Indian Cap Com, Aurora Seven. Come state leggendo?
+Alle 00:34:28, aumento la temperatura della valvola dell'acqua della cabina e della tuta a 6 [gradi]. La temperatura dello sfiato del vapore ora segna 65 e 75 [gradi].
+Segna il passaggio costiero africano, circa 20 secondi fa.
+Al momento sto usando il filtro Airglow. Sto aprendo la visiera per vederlo meglio. Ciao, Indian Cap Com, Aurora Seven. Mi ricevi?
+In questo momento la manovra [interruttore] si attiva e io mi allineerò manualmente al retroatteggiamento.
+La stazione chiama Aurora Seven. Ripeti.
+Ok. Ci ho messo un po' a riordinare le idee. Altre tre foto con pellicola del MIT: 2, 3, direttamente contro il sole, con un tempo di posa di 00:39:42.
+Ok, stiamo passando...
+In questo momento, la parte posteriore grande della telecamera sta andando. C'è stato un periodo in cui non si registrava nulla perché ero in modalità VOX disattivato, invece di registrare. La parte grande...
+Alle 00:43:02, penso che i miei gyros siano correttamente allineati.
+Che fine ha fatto il periscopio?
+Oh, è buio, ecco cosa è successo. Sta affrontando una terra scura. Tramonto da F16 a F, ok; inizieremo con F16. Verso nord, verso sud. Prova a 250.
+Si sta facendo buio. Vediamo. Un contatto con Muchea, qualche volta. Oh, guarda quel sole.
+F11.
+F5.6 Quelli erano gli ultimi quattro, erano F3.8. È piuttosto buio. Non ho avuto il tempo di adattarmi al buio.
+Le luci delle foto sono spente. Le luci della cabina stanno diventando rosse a questo punto. Oddio, un rosso ampio, bellissimo, bellissimo, come nelle foto di John. Stiamo per passare al fly-by-wire.
+È un riflesso. È un riflesso nella finestra. Peccato.
+A questo punto capisco; non sono sicuro di registrare in modalità VOX. Vado in trasmissione. Vedo Venere, che si avvicina all'orizzonte.
+È a circa 30 gradi di altezza. Sta appena iniziando a comparire. Luminosa e immobile. Non riesco... riesco a vedere altre stelle sotto Venere. Tornando all'ASCS, ora.
+La fascia blu brillante dell'orizzonte, mentre il sole si abbassa sempre di più, continua a brillare. Sembra cinque volte la larghezza del... il diametro del sole. Sono... ora sono trascorse le 00:47:34.
+Ormai è quasi buio e non riesco a credere di essere dove sono.
+Oh cielo, ho usato troppo carburante.
+Beh, dovrò aumentare. Vediamo, andrò all'ASCS in questo momento.
+Al momento, il mio livello di carburante è al 75-100%. La finestra indica l'occlusione di Venere. No, non è corretto. Venere non ha occluso. Sto tirando fuori l'attrezzatura per misurare l'occlusione di Venere.
+C'è troppa luce rossa nella cabina di pilotaggio a causa della correlazione temporale. Venere è sopra l'orizzonte.
+Aurora Seven. Qui è Muchea Cap Com. Come si legge?
+Ciao, Muchea Cap Com, Aurora Seven. Forte e chiaro. Come sto, Deke?
+Rog. Tutto procede molto bene, papà. Sembra tutto a posto. Come va?
+Roger. Le cose stanno andando molto bene. Le mie condizioni sono ottime. Le condizioni della capsula sono ottime. La modalità di controllo è normale. Giroscopi automatici normali e manovra disattivata. Carburante 72-100 [percento]. Ossigeno 88-100 [percento]. Tutto è normale, a parte il fatto che sono un po' indietro con il piano di volo. Passo.
+Ricevuto. Capisco.
+La pressione sanguigna sta iniziando adesso.
+Bene. La pressione sanguigna inizia. Ti consigliamo di non fare esercizio durante la misurazione della pressione sanguigna perché la temperatura è alta.
+Roger. Questa è la storia della temperatura della tuta. Ho aumentato la temperatura di due gradi centigradi dal decollo. E ora circa... beh, 15 gradi sopra la soglia di lancio. Le temperature delle mie prese d'aria sono rispettivamente di 69 e 80 gradi. Proverò ancora una volta ad aumentare o diminuire la temperatura aumentando la portata. Se non funziona, le spegnerò e comincerò più in basso. Passo.
+Rog, capisci. Ti darò qualche informazione retrospettiva mentre mi mandi la pressione sanguigna. La fine dell'orbita è il 28/01/18. La fine della missione è il 32/04/28.
+Ricevuto. Capito. Fine dell'orbita 01 28 18 e 04 32 28 per fine dell'orbita. Passo. Fine della missione.
+Affermativo. Indichiamo che il tuo orologio è in ritardo di 1 secondo e che questo viene compensato.
+Roger. Grazie.
+Ora G.m.t., siamo quasi alle 13:36:57. Mark.
+Roger. Il mio G.m.t. e il mio G.m.t. di riserva sono perfettamente sincronizzati con il G.m.t. Over.
+Molto bene.
+Ok, se sei pronto, ti farò il controllo vocale di emergenza. Per questo, spegneremo i trasmettitori UHF e HF in modo che tu non debba cambiare il volume.
+Roger, in attesa.
+Aurora Seven. Muchea Cap Com. 1, 2, 3, 4, 5, 5, 4, 3, 2, 1 comando vocale. Come si legge?
+Roger, Deke. Vi leggo forte e chiaro, forte e chiaro, voce d'emergenza.
+Molto bene, molto bene. Torno alla UHF.
+Roger.
+Aurora Seven, Muchea Cap Com su UHF. Come si legge?
+Roger. Muchea Cap Com. Forte e chiaro. Dite a Jerry, Gus, Lewis e a tutti gli altri presenti che ho lavorato con voi "ciao". John Whittler, se lo vedete, ditegli di sellare Butch. Fermatevi, fermatevi. La vostra copertura nuvolosa è tale che posso aspettarmi di vedere luci o razzi a Woomera? Passo.
+Roger. La copertura nuvolosa qui è di 3.000 [miglia nautiche] di strato coperto, e pensiamo che probabilmente riuscirete a vederli attraverso le nuvole. Woomera è limpida.
+Roger.
+Sette da Muchea. Potresti inviarci un altro misuratore della pressione sanguigna?
+Ricevuto. Inizio ora.
+A questo punto ti invieremo una Z cal.
+Roger. E... mandalo pure. Ti interesserà sapere che ora non ho la luna. L'orizzonte è chiaramente visibile dalla mia posizione attuale; sono trascorse le 00:54:44. Credo che l'orizzonte sul lato oscuro senza luna sia ottimo per il beccheggio e il rollio. Le stelle sono adeguate per l'imbardata, forse 2 minuti di inseguimento. Passo.
+Roger, capito. Sembra molto buono. Z cal spento; R cal in arrivo. Mark.
+Ti consiglio di riportare il controllo del carburante al primo segno nero.
+Roger. Ci proverò. Scendo completamente e torno un po' più in basso rispetto a dove ero prima.
+Ricevuto. A questo punto la temperatura della tua tuta è leggermente scesa.
+Ripeti, Deke.
+La temperatura della tuta è scesa, il che è positivo.
+Beh, questo è il risultato di un aumento del flusso ultimamente. Credo che proverò ad aumentare piuttosto che diminuire.
+Ciao, Woomera Cap Com, Aurora Seven. Mi ricevi?
+Roger. Qui è Woomera. Qui è Woomera Cap Com. Ti ricevo forte e chiaro. Come faccio?
+Sono Muchea Cap Com. Non ti contatteranno per altri 3 minuti.
+Ricevuto. Forza, Deke. Sto solo cercando di farmi sapere qualcosa sul razzo.
+Roger. Capito. Ti darò le impostazioni, la correzione, gli assetti per il primo flare in questo momento. Sarebbe più 80 gradi di imbardata, meno 80 gradi di beccheggio.
+Roger, hai capito, Deke. Più 80 [gradi] di imbardata, meno 80 [gradi] di beccheggio.
+Ricevuto. Okay. Il Capo ora consiglia di tenere la tuta ferma dove si trovava, visto che sta per atterrare.
+Roger. Io... per tua informazione, l'ho aumentato solo leggermente. Le mie letture ora sono 7 [psia] e 7 [psia] su tuta e cabina. Quali sono le temperature dell'inverter e della linea del propulsore, Deke? Sono a posto?
+Rog. Ti stiamo perdendo. Ti stiamo perdendo sia in volo che in terra. Ti piacerebbe contattare Woomera in questo momento?
+Roger.
+Aurora Seven, Aurora Seven, qui Woomera. Ti sento forte e chiaro. Come me?
+Roger, Woomera. Ti leggo forte e chiaro anche io. Vorrei leggere le temperature del mio inverter e segnare la tua torcia. Passo.
+Ricevuto. Tra circa 2 minuti avremo la fiammata. Vi daremo un'indicazione delle vostre temperature.
+Ricevuto. E per tua informazione, il Rate Command funziona anche su tutti gli assi. Passo.
+Roger. Comando Rate--rate su tutti gli assi.
+Ciò significa che tutti i sistemi di controllo funzionano in modo soddisfacente. Fine.
+Ricevuto. Capito. Tutti i sistemi sono a posto. Abbiamo le vostre temperature. Il vostro inverter a 150, 152 [gradi]. Il vostro inverter a 250, 167 [gradi]. Ricevuto? Passo.
+Ricevuto. Grazie. Aspetto.
+Ci saranno i razzi. Tutti e quattro gireranno a circa 00 [più] 58 più 30. Abbiamo una copertura di otto per otto.
+Roger. Ora sono a più 80 gradi di imbardata e meno 80 gradi di beccheggio.
+Ricevuto. Ti daremo un trucco per calcolare l'orario quando arriveremo al test di brillamento.
+Roger.
+Qui è Woomera Cap Com, Sette. Il chirurgo riferisce che tutti i sistemi qui sotto sembrano a posto. E il reparto Sistemi informa che tutto è a posto sul suo pannello.
+Roger. Grazie. Anche a me sembra buono.
+Ricevuto. Sei forte e chiaro. Ci avviciniamo al test di riacutizzazione, tra circa 25 secondi.
+Roger.
+Buon rapporto aria-terra.
+Roger. Passiamo al fly-by-wire. Non costa poi così tanto.
+Ricevuto. Fly-by-wire, manuale acceso. È affermativo?
+Manuale è... no, ora la mia modalità di controllo è puramente fly-by-wire.
+Ricevuto. Si avvicina il test dei flare. Pronti. Segna 00 [più] 58 più 30. Tutti e quattro i flare sono in arrivo.
+Aurora Seven, Aurora Seven, qui è Woomera. Come si legge? Passo.
+Roger. Ti sento forte e chiaro. Cerco i tuoi segnali. Tieniti pronto.
+Ricevuto. Mancano ancora circa 60 secondi.
+La temperatura è arrivata a meno 50 [gradi] in rollio.
+Roger. Mi tiro indietro. Grazie, grazie. Mi tiro indietro.
+Non ho i tuoi razzi. Mi dispiace, Woomera.
+Ripeti, Sette.
+Nessuna gioia per i tuoi razzi. Non ho i tuoi razzi visibili.
+Ho copiato. Evidentemente la copertura nuvolosa è troppo fitta.
+In questo momento ho un'ampia copertura nuvolosa: aspetta.
+Hai provato Aux Damp quando sei in modalità fly-by-wire per vedere se riesci a mantenere l'assetto?
+Negativo. Ho verificato che l'Aux Damp funziona correttamente. Finito.
+Ricevuto. Capisco.
+Ho delle luci a terra sotto di me. Aspetta, cercherò di identificarle.
+Roger. Wilco.
+Aurora Seven, Aurora Seven, qui è Woomera Cap Com. Mi senti? Passo.
+Forte e chiaro, Woomera. Forza.
+Roger. Potresti darci un breve resoconto di questa volta?
+Roger. La mia modalità di controllo è fly-by-wire, i giroscopi sono liberi e l'interruttore di manovra è spento. Il carburante segna il 75-85 [percento], l'ossigeno l'88 e il 100 [percento]. Aspetta che prenda una rondella dall'aria. E tutto va benissimo. Passo.
+Roger. Sei intermittente. Qual è la temperatura della tua tuta? Passo.
+Ricevuto. La temperatura della tuta è ora di 70 [gradi]. La temperatura della tuta è di 70 [gradi]. Il vapore di scarico è di 70 [gradi]. Lo scarico della cabina è di 80 [gradi].
+Roger. Confermi... hai la schiena dritta al segno nero dello scriba?
+Questo è negativo. A questo punto ho impostato entrambi i valori su sette e, aumentando l'impostazione, la temperatura della muta è diminuita. Credo che mi piacerebbe provare a usarli con questa impostazione ancora per un po'. Finito.
+Roger. Capisco. Credo che a quest'ora dovresti fare il tuo spuntino di mezzanotte.
+Roger. Ci arriverò tra poco.
+Roger. Stai iniziando ad allontanarti o a svanire leggermente.
+Roger.
+Siete pronti a lanciarvi in ​​un volo alla deriva prima che passi troppo tempo?
+Roger. Posso farlo a quest'ora. Di notte sbandavo...
+... è affermativa?
+A questo punto sto per volare alla deriva. Fine.
+Roger.
+I giroscopi sono ingabbiati. Ho un tasso di imbardata di circa 2 gradi al secondo. Tutti i giroscopi sono a zero. Ho il Corvus direttamente sopra di me. Sto imbardando oltre la sua sommità. Sento che il mio assetto è... la linea di vista è quasi... quasi verticale.
+Al momento sono solo in registrazione VOX. Sono trascorse le 01:04:00. Sto cercando nelle mappe stellari.
+La finitura della mappa stellare è così lucida che è impossibile leggerla a causa del riflesso.
+Devo accendere le luci bianche, tutto qui.
+Alle 01:05:00.
+Gli atteggiamenti non mi preoccupano affatto. So che sto andando alla deriva liberamente. La luna ha attraversato la finestra non molto tempo fa.
+Vediamo, ora cosa posso... in questo momento sto muovendo le braccia avanti e indietro e posso far sì che questo si rifletta nell'indicatore di rollio, imbardata e beccheggio. Muovendo il busto, posso far muovere l'indicatore di beccheggio fino a 1 grado al secondo. Il rollio è, l'indicatore di beccheggio è molto sensibile a questo. Anche l'imbardata lo è. Vediamo, ora aprirò la visiera. Ci sono delle briciole di cibo che galleggiano nella capsula.
+Alle 01:06:106, ovvero dopo 1 minuto, 1 ora e 7 minuti, supero la scala a circa 8 in cabina e tuta.
+Ciao, ciao, Canton Com Tech, Canton Com Tech, Aurora Seven. Debole ma leggibile. Avanti.
+Aurora Sette, Aurora Sette. Qui è Canton Com Tech, Canton Com Tech. Mi senti? Passo.
+Salve, Canton Com Tech, Aurora Seven. Forte e chiaro. Come faccio?
+Il cibo... ciao, Canton Com Tech, Aurora Seven. Come leggi?
+Ciao, Canton Com Tech, Aurora Seven. Come stai?
+Questo cibo si è sbriciolato molto.
+Primo pasto alle 01:08:52.
+Ciao, Canton Com Tech, Canton Com Tech, Aurora Seven su HF. Come state leggendo?
+Sette, qui Canton Com Tech. Mi ricevi?
+Canton Com Tech, Aurora Seven. Forte e chiaro. Come si legge Aurora Seven su HF? Passo.
+Aurora Seven, Aurora Seven. Qui è Canton Com Tech. Mi senti? Passo.
+Roger, Canton Com Tech. Forte e chiaro. Come faccio?
+Aurora Seven, Aurora Seven. Qui è Canton Com Tech. Mi ricevi?
+Ciao, Canton Com Tech, Canton Com Tech, Aurora Seven. Forte e chiaro. Come faccio?
+Qui è Canton. Forte e chiaro, Aurora Seven. Puoi iniziare con un breve resoconto?
+Roger. Ti leggo da un po'. Ho provato a contattarti in HF senza successo. Il mio stato è buono; lo stato della capsula è buono; la modalità di controllo è fly-by-wire; i giroscopi sono ingabbiati; la manovra è disattivata. Il carburante segna il 74-85%. L'ossigeno è tra l'87 e il 100%. La temperatura della cabina è un po' alta, 104 gradi. La temperatura dello sfiato del vapore della tuta è di 70 gradi e quella della cabina è di 80 gradi, ma credo che stiano scendendo. Passo.
+Roger. Volevi controllare i tuoi dati di assetto con la nostra telemetria? Passo.
+Ricevuto. I miei... i miei gyros sono in gabbia in questo momento. Preparatevi.
+In attesa.
+Sto iniziando a percepire quello che credo sia... sì, è decisamente un modello di nuvole altrettanto basse.
+Roger.
+Io sono... vediamo, Canton, hai l'ora esatta dell'alba per la prima orbita? Passo.
+Ripeti, Aurora Seven.
+Ora dell'alba per la prima orbita. Finita.
+L'alba è alle 1 più 21 più 00.
+1 più 21 00. Ricevuto. Grazie.
+Potresti dirci se ti senti a tuo agio o meno? Avresti... una temperatura corporea di 102 [gradi].
+No, non credo sia corretto. La mia visiera era aperta; ora è chiusa. Non riesco a immaginare di avere così caldo. Sono abbastanza a mio agio, ma sto sudando un po'.
+Roger. Puoi confermare che la mascherina è chiusa e che rimarrà chiusa per il passaggio su Guaymas.
+Esatto, George. Lascerò la mascherina chiusa. Ho mangiato un pezzo del cibo di bordo. Si sta sbriciolando terribilmente e non mi piace spargerlo dappertutto, e in quel momento ho bevuto circa quattro sorsi d'acqua.
+Roger, quattro sorsi d'acqua.
+Ora vuoi iniziare il tuo commento sullo strato di foschia: c'era il... tono, e allo stesso tempo confermare che il piano di volo è nei tempi previsti.
+Roger. Non posso confermare che il piano di volo sia perfettamente in linea con i tempi previsti. Al tramonto non sono riuscito a vedere un altro strato di foschia, la stessa altezza sopra l'orizzonte segnalata da John. Osserverò attentamente all'alba e vedrò se riesco a individuarlo. Passo.
+Roger.
+Tutte le letture sembrano normali qui sotto. La capsula sembra a posto da qui sotto.
+Roger, il--
+... domande, puoi continuare con le tue osservazioni. Fine.
+Roger. Grazie, George, ci vediamo alla prossima.
+Ok, Scott. Buona fortuna.
+Aurora Seven, Hawaii Com Tech. Come mi senti? Passo.
+Ora sono in registrazione VOX. Ho sentito le Hawaii chiamare, ah ah, le Hawaii chiamare. Vado subito a trasmettere e vedo se riusciamo a intercettare le Hawaii.
+Ciao, Hawaii Com Tech, Aurora Seven in HF. Forte e chiaro. Come faccio?
+Ciao, Hawaii Com Tech, Hawaii Com Tech, Aurora Seven. Forte e chiaro. Come leggete l'HF? Passo.
+Ora registrerò solo mentre torno a UHF.
+Ciao, Hawaii, ciao, Hawaii Com Tech, Aurora Seven. Debole ma leggibile. Avanti.
+Aurora Seven, Aurora Seven,... su HF, UHF. Come si legge? Passo.
+Roger. Hawaii Com Tech. Aurora Seven ti sento forte e chiaro. Come faccio?
+Aurora Seven. Hawaii Com Tech. Come leggi?
+Bene. Mio... sono alle 01:19:02. Sono stato completamente disorientato diverse volte. Ecco, ho Cassiopea direttamente nella finestra e sto navigando in cerca dell'alba... fotografie. Il cielo è piuttosto chiaro a est.
+A quel punto si è accesa la spia dell'acqua in eccesso in cabina. Dovrò tornare indietro e spegnerla. La tuta è ancora alta. L'indicatore dell'acqua in cabina segna più 9, il che è difficile da credere.
+La mia temperatura, la temperatura del mio corpo non mi fa sentire... non mi fa sentire affatto male. La mia tuta... sì, anche la temperatura della mia tuta ora è scesa.
+Ma la temperatura dello sfiato del vapore è ancora di circa 70 [gradi].
+Ho le lucciole. Ciao, Guaymas.
+Ho le particelle. Ero rivolto dalla parte opposta al sole all'alba e non ho visto le particelle, solo... solo che si muovevano di 180 gradi, sono riuscito a captare... a questo punto... Aspetta, credo di vederne altre.
+Sì, ce n'era uno, movimenti casuali, alcuni sembravano addirittura procedere senza intoppi. Ce n'è uno là fuori. Quasi come una particella di fiocco di neve leggera catturata in un vortice. Al momento non brillano di luce propria.
+Potrebbe essere il gelo causato da un propulsore.
+Al momento trasmetterà solo a... registrazione.
+La condizione di assenza di peso è una benedizione, niente di più, niente di meno.
+In questo momento sto fotografando grandi banchi di nuvole sul Pacifico in direzione sud.
+In questo periodo sto lentamente scivolando verso un atteggiamento retrospettivo.
+Ciao, Guaymas Com Tech. Aurora Seven. Forte e chiaro. Come faccio?
+Roger. Aurora Seven, qui Guaymas Cap Com. Come faccio? Passo.
+Roger, Guaymas, forte e chiaro. La mia modalità di controllo è ora fly-by-wire; i giroscopi sono ingabbiati, sono in... manovra disattivata. Passerò direttamente alla modalità automatica. Il mio stato è buono; lo stato della capsula è buono. Il carburante è al 69-69 [percento], l'ossigeno è all'88-100 [percento]. Lo sfiato del vapore in cabina è sceso a +10, credo che sia una lettura errata dell'indicatore, e lo sfiato del vapore della temperatura della tuta sta scendendo lentamente, ora segna 68 [gradi]. Passo.
+Roger. Capisco 68 [gradi]. Com'è la tua temperatura confortevole? Passo.
+Roger. Il mio corpo è a suo agio. Ora sto seguendo una particella molto piccola, una particella isolata, circa... ce n'è un'altra, molto piccola, potrebbe essere un leggero fiocco di neve.
+Roger. Abbiamo... abbiamo... una brutta lettura della tua temperatura corporea, 102,4 [gradi], probabilmente errata.
+Non ci posso credere. La temperatura della mia tuta segna 15 gradi e mi sento piuttosto a mio agio. Sono sicuro che suderei di più se la mia temperatura fosse di 39 gradi.
+La temperatura di ingresso della tuta è di circa 61 gradi, quindi sembra piuttosto buona.
+Roger.
+Roger. Sembra che siamo riusciti a fare la seconda orbita, visto che per te tutto sembra a posto.
+Roger. Speravo che lo dicessi tu, Gordo.
+Inizi a risparmiare un po' di carburante e forse, forse, usi un po' di più il carburante manuale.
+Roger. Posso farlo.
+Roger, sei pronto per Z e R cal?
+Roger, mandali.
+Z cal in arrivo adesso.
+E, attenzione, passaggio costiero.
+Ripeti.
+Mark, passaggio costiero attraverso la Baja.
+Bene.
+Come appare?
+Metà coperto di nuvole, e... e l'altra metà è asciutta. Vuoi trasmettere... questo messaggio per me, Gordo, a tutte le truppe a Guaymas?
+Hola, amigos, felicitaciones a Mexico e soprattutto ai miei amigos de Guaymas. Desde el espacio external, su pais esta cubierto con numbes--and es--anche--se muy bello. Aqui el tiempo esta muy bueno. Buena suerte desde Auror Siete.
+Roger, muchas gracias, amigo.
+Ah ah, okay.
+Misurateci la pressione sanguigna.
+Ecco qui.
+Roger, tu... Vorrei passare il tuo tempo Alpha a te, Scotty.
+Roger.
+Roger, l'ora di Alpha è 01:36:13, con GMT alle 14:21:30. Questo tiene conto del tuo errore di orologio.
+Cioè 02 36 13?
+Roger, 01 36 13.
+Roger, 01 36 13 per 2 Alpha.
+Per il Golf, 03 00 31.
+Roger, 03 00 31 per il Golf.
+C'è un orario G.m.t. delle 15:45:48.
+Roger. In attesa del... mio segnale nel test radar su White Sands.
+Roger.
+Ricevuto. Comando, rotolate ora.
+Ora rotola.
+No, prima devo mettermi in un atteggiamento migliore per te, Gus. In questo modo non servirà a niente, intendo Coop.
+Roger.
+Ci leggi ancora, Scotty?
+Ricevuto. Forte e chiaro.
+Anche io ti sento. Hai già fatto il tiro per il radar?
+Questo è negativo. Temo che non ce la farò, Gordo, se non riesco a cogliere gli atteggiamenti... da vicino.
+Roger. Ora stiamo leggendo i tuoi atteggiamenti esattamente a zero.
+Ricevuto. I gyros sono in gabbia.
+Aurora Seven, qui Cape Cap Com in modalità emergenza.
+Roger, Cape. Forte e chiaro. Come faccio?
+Forte e chiaro. Torno alle frequenze HF/UHF.
+Roger.
+Siete pronti per il vostro 2 Bravo time?
+Ricevuto. Manda 2 Bravo.
+Ricevuto. 01 49 30.
+Roger. E il tempo di 2 Charlie è nominale.
+Ok. Aspetta uno.
+Ok, Gus, la mia situazione è buona; la modalità di controllo è fly-by-wire; i giroscopi sono ancora ingabbiati; la manovra è disattivata. Il carburante è al 62 e al 68 percento. Un po' più avanti sul consumo di carburante; la spia della quantità di carburante è accesa; la spia dell'acqua in eccesso in cabina è accesa. Proverò a impostare direttamente la modalità automatica.
+Roger. Puoi misurarci la pressione sanguigna?
+Roger. Ora arriva la pressione sanguigna.
+E dopo che la voce IOS sarà scesa, useremo Zanzibar in quell'area.
+Roger. Ho sentito IOS chiamare, ma non sono riuscito a contattarlo.
+Roger.
+Aurora Seven, usa un normale rilascio di palloncini.
+Roger.
+E mi darai un voto per questo?
+Ricevuto. Uno alle 01:37.
+01 37. Ricevuto.
+Ricevuto. Tra 2 minuti, Echo sarà quasi esattamente sopra la nostra testa.
+Roger.
+Potresti fornirci la temperatura della cabina e della tuta, per favore?
+Ricevuto. Il vapore della tuta è di 69 gradi e la cabina è di +11. La temperatura è scesa molto all'improvviso quando si è accesa la spia di eccesso d'acqua in cabina. Credo che aumenterò... Proverò ad aumentare il flusso d'acqua nella tuta ancora una volta. Se non funziona, abbasserò la temperatura a "chiuso" e ricomincerò da capo.
+Aurora Seven, riduci l'acqua nella tua cabina.
+Ok. Acqua in cabina per tornare indietro. Ora inizio da due. Sono 20 gradi sotto il valore di lancio.
+Ricevuto. Ti darò una Z cal.
+Roger.
+Okay. Ti darò una R cal.
+Accomodati pure.
+Aurora Seven, Cap Com. Mi capisci?
+Ricevuto. Forte e chiaro.
+Roger. Qui tutto sembra a posto, tranne il consumo di carburante; è meglio che tu ci faccia un po' attenzione.
+Roger.
+Aurora Seven, hai lanciato il pallone?
+Questo è negativo. Aspetta.
+Dispiegamento del pallone, ora. Il pallone è fuori e via. Io, io lo vedo molto lontano, ma... credo che ora sia molto lontano, e si stia allontanando costantemente. Non vedo la linea. Non vedo che sia stato fatto alcun tentativo di gonfiarlo. Sta solo andando alla deriva.
+Vedo solo la forma rettangolare che rotola in questo punto, a circa 200 metri di distanza, appena visibile; e ora aspetta, ecco una linea. Quella era la copertura, il pallone è fuori.
+Capito. Il palloncino è fuori.
+Quello è Roger.
+Qui l'accelerazione è molto ridotta.
+Aurora Seven, il pallone si è gonfiato?
+Il palloncino è parzialmente gonfio. Non è stretto. In questo momento ho perso la testa. Aspetta, ti darò una lettura migliore a breve.
+C'è un inizio di oscillazione.
+Si tratta di un'oscillazione del palloncino?
+SÌ.
+La linea non è ancora tesa. Ho alcune foto della linea che ondeggia dietro. Direi che abbiamo un'oscillazione di circa un ciclo al minuto. Sia in beccheggio che in imbardata.
+Quanti cicli al minuto?
+Un ciclo al minuto, o forse 1 ciclo in un minuto e mezzo.
+In questo momento la luna è appena sopra l'orizzonte.
+Ho una foto del palloncino.
+Aurora Seven, Cap Com. Ripeti il ​​tuo ultimo messaggio.
+Roger. Devo mettere via una lavatrice.
+Roger.
+Aurora Seven, Aurora Seven. Qui è Bermuda Flight. Come si legge? Passo.
+Roger. Bermuda Flight, ti ricevo forte e chiaro.
+Spegnere l'interruttore del wobulator.
+Ricevuto. Sfasatore.
+Segno!
+Lo sfasatore è spento.
+Lo sfasatore è ora attivo.
+Aurora Seven, Cap Com. Quale modalità di controllo?
+Controllo fly-by-wire.
+Grazie.
+Volo alle Bermuda. Come si legge?
+Ciao, Bermuda Flight. Ti leggo forte e chiaro. Come faccio?
+Mi misuri la pressione, per favore? La leggo forte e chiaro.
+Roger. La pressione sanguigna inizia ora.
+In questo momento ho perso di vista il pallone.
+Roger.
+Inoltre, alle Bermuda, il pallone non solo oscilla in coni di beccheggio e imbardata, ma sembra anche oscillare dentro e fuori verso la capsula; a volte la linea sarà tesa, altre volte sarà piuttosto lenta.
+Ora si trova a circa 50 gradi dalla traiettoria di volo.
+Immagini di vortici scattate appena a est delle Bermuda, ora che la linea dei palloni è stretta.
+Alle 01:45:30 ho chiuso completamente la valvola della cabina o dell'acqua della tuta e l'ho riportata su uno.
+Ora sto nastrando le spie di avvertimento della quantità di carburante in preparazione al lato oscuro. Credo che nastrerò anche l'acqua in eccesso in cabina. Non è un sistema di illuminazione soddisfacente...
+Ciao, Canary Cap Com. Aurora Seven. Forte e chiaro. Come faccio?
+Aurora Seven, Aurora Seven, qui è Canary Cap Com. Come si legge? Passo.
+Ciao, Canary Cap Com. Aurora Seven. Forte e chiaro. Come faccio?
+Ricevuto. Stai entrando nel raggio d'azione UHF. Procedi con il breve rapporto. Passo.
+Roger, Canary. Il mio stato è buono; lo stato della capsula è buono; la mia modalità di controllo è automatica; giroscopi normali; manovra disattivata. Carburante 51-68 [percento], ossigeno 85-100 [percento]; la temperatura dello sfiato del vapore della mia cabina sta aumentando e segna circa 19 [gradi], la temperatura dello sfiato del vapore della tuta segna ancora 70 [gradi]. Ho riportato il valore a zero e l'ho reimpostato a uno. Fine.
+... temperatura di scarico della cabina. Finita.
+La temperatura di scarico dell'abitacolo torna a salire fino a 19. Finita.
+Roger. Hai fatto qualche volo alla deriva? Passo.
+Sono Roger. Ho fatto un bel po' di voli alla deriva sul lato oscuro sopra Woomera e Canton. Oltre.
+Roger. Hai notato qualche strato di foschia? Passo.
+Roger, ho osservato strati di foschia, ma non quelli separati dall'orizzonte che ci aspettavamo e che John ha segnalato. La prossima volta terrò gli occhi aperti e cercherò di vederli dopo il tramonto. Sul lato illuminato non c'è altro che lo strato blu brillante e iridescente, che separa l'orizzonte vero e proprio dal nero profondo dello spazio. Passo.
+Aurora Seven, stai perdendo rapidamente i sensi. Stai perdendo i sensi. Il Centro Controllo Mercurio è preoccupato per il consumo di carburante della tua auto e del tuo manuale. Ti consigliano di cercare di risparmiare carburante.
+Roger. Di' loro che sono preoccupato anch'io. Cercherò di risparmiare carburante.
+Aurora Seven, Aurora Seven, non riesco a leggerti. Leggi Canary Cap Com? Passo.
+Roger. Canary, ho ricevuto il tuo messaggio. Passo.
+Ricevuto. Ho capito il messaggio copiato riguardante carburante e consumi.
+Quello è Roger.
+Il chirurgo qui ha richiesto una trasmissione della pressione sanguigna.
+La pressione sanguigna sta arrivando.
+Lo stiamo ricevendo anche noi da Canaries e sembra buono.
+Roger.
+Canary Systems segnala che tutte le letture della telemetria sembrano buone.
+Roger. Mi fa piacere sentirlo.
+Aurora Seven, hai qualcosa da raccontarci sul tuo test con il pallone? Passo.
+Roger. Il pallone oscilla su un arco di circa 100 gradi. Spesso scompare dalla vista. In questo momento, è quasi verticale. Segna un passaggio costiero in questo momento... sembra... quello che sto cercando di dirti è che oscilla di 180 gradi, sopra e sotto. Sopra.
+Oscilla anche dentro e fuori. A volte la linea è tesa, altre volte no.
+Quando guardo verso destra, ho la sensazione che...
+Ciao.
+Qui è Kano. Come si legge? Passo.
+Ciao, Kano. Aurora Seven. Forte e chiaro. Come faccio?
+Aurora Seven, Aurora Seven, qui è Kano. Come si legge? Passo.
+Ciao Kano. Forte e chiaro. Come faccio?
+Aurora Seven, Aurora Seven, qui è Kano. Come si legge? Passo.
+Kano, sono Aurora Seven. Ti sento forte e chiaro. Come faccio?
+Aurora Seven, Kano Cap Com. Qual è il tuo stato? Finito.
+Roger. Le mie condizioni sono buone; il carburante segna il 51 [percento] e... e il 69 [percento]; l'ossigeno è all'84 [percento] e al 100 [percento]; la pressione in cabina si mantiene buona. Tutta l'alimentazione CC e CA è buona. L'unica cosa da segnalare riguardo al piano di volo è che i livelli di carburante sono inferiori al previsto. La mia modalità di controllo ora è ASCS. Ho consumato il carburante extra nel tentativo di orientarmi dopo il lato notturno. Credo che ciò sia dovuto a requisiti contrastanti del piano di volo. Avrei dovuto prendermi del tempo per orientarmi e poi occuparmi di altri aspetti. Credo che rimanendo in automatico, posso evitare questo consumo eccessivo di carburante. E il pallone a volte è visibile e a volte non visibile. Non ho idea di dove si trovi ora, e non sembra... e sembra vagare avanti e indietro senza meta, e questo è tutto, Kano.
+Roger, Aurora Seven. Ci puoi misurare di nuovo la pressione sanguigna? Passo.
+Roger. La pressione sanguigna è in onda.
+Aurora Seven, come ti senti? La tua temperatura corporea è leggermente aumentata. Come ti senti? Passo.
+Roger. Mi sento bene. L'ultima volta... qualcuno mi ha detto che c'erano 39 gradi. Non mi sento, sai, come se avessi così caldo. La temperatura in cabina è di 39 gradi. Leggo 39 gradi, e la temperatura della tuta indica 24 gradi.
+Stai sudando?
+Leggermente, sulla fronte.
+Da quando ho abbassato la valvola dell'acqua della tuta, la temperatura dello sfiato del vapore è leggermente aumentata: al momento sto aumentando da uno a due gradi. Questo dovrebbe abbassarla. La temperatura dello sfiato del vapore in cabina è tornata a 40 gradi.
+Roger, Aurora Seven, ora sembra tutto a posto. Sembra che abbiamo perso le misurazioni della temperatura corporea delle stazioni precedenti. Al momento la temperatura è di 39 °C, ma finché vi sentite bene, continuate così.
+Roger, mi sento bene.
+Riesci a vedere qualcosa del Golfo di Guinea?
+Roger. Ho appena... ho appena superato la costa e in questo momento mi trovo sopra una fitta coltre di nuvole.
+Roger, Aurora Seven. Vorresti mandare un saluto al popolo nigeriano?
+Roger, per favore invia i miei saluti e i miei migliori auguri, miei e dei miei connazionali, a tutti gli africani. Passo.
+Roger. Grazie mille. Sono sicuro che sarà apprezzato. Passo.
+Roger.
+Aurora Seven, Kano. Siamo ancora in contatto? Passo.
+Ripeti, Kano.
+Roger. Potresti ripetere in poche parole perché ritieni che il consumo di carburante sia stato ottimo? Passo.
+L'ho speso... con il funzionamento manuale e fly-by-wire dei propulsori sul lato oscuro, e appena prima dell'alba. Credo di poter ridurre considerevolmente il consumo di carburante sulla seconda e terza orbita. Passo.
+Ricevuto. Capito. Passo.
+Hai iniziato l'adattamento notturno? Finito.
+Roger
+Aurora Seven, Kano. Per vostra informazione, l'inverter da 250 è impostato a 180 gradi in questo momento. Passo.
+Ripetilo, per favore.
+... Sopra.
+A questo punto, oh-oh, questo dannato sacchetto di cibo è un problema.
+In realtà, il sacchetto del cibo non è un problema, il cibo al suo interno sì. È sbriciolato. Non oso aprire il sacchetto per paura che le briciole penetrino nella capsula.
+La situazione è molto tranquilla.
+Roger: Zanzibar. Forte e chiaro. Come si legge Aurora Seven?
+Aurora Seven, Aurora Seven, qui Zanzibar Com Tech, trasmissione HF/UHF. Ricevuto? Passo.
+Roger. Forte e chiaro. Come faccio, Zanzibar?
+Auroral Seven, Aurora Seven, qui è Zanzibar Cap Com. La tua voce è debole, ma leggibile. Hai un breve resoconto per noi?
+Ricevuto. Il mio stato è buono; lo stato della capsula è buono; la mia modalità di controllo è automatica; i giroscopi sono normali; la manovra è disattivata. Il carburante di controllo è al 51 [percento] e al 69 [percento]; l'ossigeno è all'82 [percento] e al 100 [percento]. Questo è tutto, tranne che, finora, non sono riuscito a far scendere la temperatura dello sfiato del vapore della mia tuta molto al di sotto dei 70 [gradi]. L'impostazione dello sfiato del vapore, o valvola di controllo dell'acqua, in questo momento è 4 al segno di pre-lancio. Potrebbe essere troppo alta. La spengo a questo punto e la porto a 3, che è la posizione della cabina. Passo.
+Aurora Seven, Zanzibar Cap Com. Ricevuto, ricevuto. Avete gli orari aggiornati per le aree di emergenza?
+Roger: Ce l'ho.
+Molto bene. Vuoi iniziare il test del palloncino?
+Il pallone è fuori. Non vedo alcun motivo per non lasciarlo acceso attraverso il lato oscuro, e ho appena visto una particella passare a circa 60 o 90 cm al secondo.
+Roger, capito. Secondo il piano di volo, dovresti andare a FBW più o meno ora, e lui dice che sei in modalità automatica e mi chiedevo se hai intenzione di andare fino in fondo. Passo.
+Questo è negativo. Penso che il fatto che il carburante sia basso mi imponga di rimanere in modalità automatica, a patto che il consumo di carburante non sia eccessivo. Finito.
+Roger, Aurora Seven. Congratulazioni per il vostro viaggio finora e sono felice che tutto sia andato bene...
+Grazie mille.
+Ora vedo l'ampia fascia blu dell'orizzonte. Sembra che, allo scadere della capsula (02:07), abbia all'incirca il diametro sotto il sole. Sembra avere lo stesso spessore sotto il sole del diametro del sole. A nord e a sud diventa meno distinta e più chiara. Si estende più lontano dall'orizzonte.
+Roger, Aurora Seven. È difficile da pronunciare, qualsiasi cosa possiamo fare per te...
+Negativo. Penso che tutto stia andando abbastanza bene.
+Roger, ti aspettiamo. Fuori.
+Roger. Ci vediamo alla prossima.
+Aurora Seven, qui è la nave dell'Oceano Indiano. Passo.
+Roger, Indian Cap Com. Forte e chiaro. Come faccio?
+Ricevuto. Forte e chiaro. Abbiamo avuto problemi con il trasmettitore durante la tua precedente traversata. Abbiamo appena ricevuto un messaggio da Capo... per risparmiare carburante. Ho monitorato parte della tua trasmissione a Zanzibar e capisco... la situazione.
+Quello è Roger.
+Avete tempi di retrosequenza per 2 Delta, 2 Echo e Golf?
+Questo è negativo. Ho i valori nominali.
+Roger. 2 Delta e 2 Echo sono ancora nominali. L'area Golf è 03:00:29, 03:00:29.
+Ricevuto. 03 00 29.
+Roger, Aurora Seven, vi ho sentito forte e chiaro. Avete commenti per... l'Oceano?
+Sono Roger. Credo che potremmo avere qualche difficoltà con la modalità automatica. Lasciatemi dare un'occhiata al fly-by-wire per un attimo.
+Tutti i propulsori sono a posto.
+Roger.
+Tuttavia, i giroscopi non sembrano indicare correttamente.
+Roger.
+E anche questo non è corretto. I giroscopi sono... sono a posto; ma in standby ASCS. Potrebbe essere un problema di orientamento. Mi orienterò visivamente e... vedrò se questo risolverà il problema ASCS.
+Aurora Seven di Indian Cap Com. La tua pressione sanguigna è... piuttosto alta e dovresti, se possibile, misurare la pressione sanguigna sulla nave dell'Oceano Indiano.
+Roger. Ho già alzato la pressione sanguigna in aria. Passo.
+Ripeti, Aurora.
+Ora si parla di pressione sanguigna.
+Roger.
+La pressione sanguigna è buona.
+La tua pressione sanguigna è buona.
+Roger.
+Aurora Seven, qui Indian Cap Com. Abbiamo perso il contatto telemetrico. Come mi senti? Passo.
+Roger. Ti leggo ancora bene.
+... riferisci a Cape Canaveral che hai controllato il fly-by-wire e che tutti i propulsori sono a posto. C'è altro?
+Questo è negativo. A parte questo problema con la temperatura dello sfiato del vapore. Vado... apro la visiera un attimo; si raffredderà... sembra più fresco con la visiera aperta.
+Roger. Hai preso lo xilosio?
+Questo è negativo. Lo farò ora.
+Roger.
+Aurora Seven, conferma di aver controllato il fly-by-wire e che tutti i propulsori siano a posto.
+Ricevuto. Il fly-by-wire è controllato; tutti i propulsori sono a posto.
+Roger.
+Aurora Seven, Indian Ocean Cap Com. Non leggo la tua trasmissione.
+Roger. Indian Cap Com, Aurora Seven.
+Fuori.
+Bene, io l'ho fatto... sono solo nei registri e ora mi sto riscaldando.
+Non so cosa fare della cabina.
+Alzo il volume e vedo cosa succede.
+Ormai sono molto indietro con il piano di volo.
+Bene, al momento stiamo valutando la stabilità della capsula. La capsula è la più stabile.
+Sembra che io possa impostarlo a zero. Bene, lo farò ora. Allo scadere della capsula, il 17/02/32, azzererò tutte le tariffe.
+È il massimo che posso avvicinarmi allo zero. Alle 02:17:49, le mie velocità sono zero e gli atteggiamenti sono zero più, oppure a zero, meno 3, meno 48. Lasciamo riposare un po' queste cose e vedrò cosa possiamo fare per la temperatura della tuta.
+La temperatura nella cabina si sta alzando. Anche la temperatura della tuta sembra aumentare. La lascerò accesa fino alle 02:25 per vedere se questo la farà scendere un po'.
+Non ho bisogno di fare esercizio fisico. Non ne sento davvero il bisogno. Avrei troppo caldo.
+Arriveremo a Muchea tra poco.
+Ho un leggero rateo di beccheggio in questo momento, alle 02:19:13. Lo azzero ora. Fly-by-wire, ho un leggero rateo di imbardata a sinistra, lo azzero ora. Gli assetti in questo momento sono a -30.
+Entrambi gli autobus sono a posto. Vediamo... la batteria numero due è scesa a 22. La prima è a 24; la terza è a 24; la batteria di riserva uno e due sono a 24; la batteria isolata è a 27; la principale è a 23; la batteria IBU principale è a 27. La batteria due è carica. La batteria principale numero due è carica.
+Ora ho superato il lato oscuro. La luna non è ancora sorta e nonostante ciò, vedo ancora la zona illuminata dal sole che tramonta dietro di noi.
+Ora, in questo momento ho lo strato di foschia. Sembra più luminoso di... è bene aprire l'abitacolo, aprire la visiera.
+Il reticolo ora si estingue a circa 5,6.
+Ciao, Muchea Cap Com. Aurora Seven. Forte e chiaro. Come faccio?
+Ti ho letto forte e chiaro. Qual è la tua situazione?
+Roger. Le mie condizioni sono buone; modalità di controllo fly-by-wire; giroscopi normali; manovra disattivata. Il carburante è 45-6-70 [percento], cioè 45-70 [percento], e l'ossigeno è 84-100 [percento]. Ho solo un piccolo problema, ed è la mia incapacità di abbassare la temperatura dello sfiato del vapore della tuta, Deke.
+Roger, cosa sta succedendo adesso?
+Beh, leggo 70 [gradi]. Sono davvero un po' indeciso su come abbassarla, la valvola dell'acqua della mia tuta è ora impostata oltre i segni. Questo non sembra abbassarla, e nemmeno metterla... negativa. Sbagliato. La cabina era oltre i segni. La temperatura della tuta è al valore pre-lancio di circa quattro. Ora imposterò un'impostazione di più 6 e vedrò se questo la porterà sotto i 70 [gradi]. Passo.
+Okay. Bene. Stiamo indicando una temperatura adatta di 84 [gradi], che è un po' alta.
+Roger Il mio misuratore segna 7, 76 [gradi] sulla tuta.
+Rog.
+Ok. Lascia che ti dia un paio di retrospettive. Hai un nominale di 2 Dog; Gold è 03... 29; Hotel 04 32 26.
+Roger ha capito 26.
+Stiamo includendo il tuo orologio che è ancora indietro di un secondo.
+Roger.
+G.m.t. hack del 15 10 42---marchio.
+Roger. Ho ragione, e anche il sostituto.
+Roger. Potresti inviarci la pressione sanguigna, per favore?
+Inizio. Ricevuto. Inizio subito.
+Quale modalità di comunicazione stai utilizzando in questo momento?
+Sono al massimo della frequenza UHF, Deke.
+Bene. Ricevuto. Potresti provare a usare il pulsante del microfono invece del VOX? Vediamo come funziona.
+Roger. Appena avrò superato la pressione alta, ce la farò.
+Questo è il metodo push-to-talk. 1, 2, 3, 4, 5, 4, 3, 2, 1. E adesso?
+Non vedo alcuna differenza. Sono identici.
+Roger: la modulazione è abbastanza buona?
+Molto bene.
+Roger
+La stabilità della capsula, Deke, è davvero ottima. Ho notato che riesco a impostare una velocità di 1 grado al secondo sull'ago semplicemente muovendo la testa e le braccia, la mia testa e le mie braccia. Passo.
+Molto bene, eccellente. Per tua informazione, non ci saranno flare a Woomera su questo passo, dato che la copertura nuvolosa non ti permetterà comunque di vederli.
+Roger. L'ultimo tentativo non è andato a buon fine.
+Ok, ora ti mando una Z cal.
+Roger
+Segno!
+Z cal sta uscendo.
+Roger.
+Avanti con R cal.
+Roger.
+Arresto della pressione sanguigna.
+Ferma la pressione sanguigna. Ok, faremo oscillare R cal un paio di volte nel tentativo di risolvere il problema della temperatura.
+Roger.
+Ok, Rcal disattivato. Ti consigliamo di passare alla modalità manuale a questo punto e di risparmiare carburante. Basso a questo punto.
+Ricevuto. Ora passo alla modalità manuale.
+Roger.
+Al momento leggo che il carburante consuma tra il 45 e il 70 percento.
+Rog. Capisco il 45-70 [percento].
+La temperatura della cabina è di 107 [gradi].
+Cabina 107 [gradi].
+Non credo che tu abbia mai ricevuto gli orari dell'alba e del tramonto.
+Roger. Dammeli tutti quanti, Deke, o quelli che stanno arrivando. Dammi alzata, tramonto e alzata.
+Roger. Lo farò. La tua prossima alba sarà alle 02:50.
+Ricevuto. Ricevuto.
+Tramonto 03 41 20.
+Roger.
+Alba 04:19:00.
+Ricevuto. Ricevuto.
+Beh, sembra che tu te la stia cavando davvero bene lassù, papà.
+Ricevuto. Fa un po' caldo.
+Ho il sospetto di sì.
+Ho cavalcato il tuo cavallo negli ultimi due giorni.
+Bene.
+Per vostra informazione, Cape informa che se non rimaniamo in modalità manuale per un bel po' di tempo, probabilmente dovremo terminare questa orbita.
+Mi assicurerò di rimanere sul manuale.
+Roger.
+Anche qui hai ancora molta strada da fare.
+Ripeti.
+Anche la capacità di drifting è ancora disponibile.
+Roger.
+Hai visto delle luci sopra l'Australia...?
+Sì, certo. Cioè, Roger. Ho visto delle luci. Non sono riuscito a identificarle, però.
+Ricevuto. Capisco.
+Potresti fornirci un altro valore della temperatura del vapore della tua tuta? È cambiato qualcosa?
+Forse è scesa solo un pochino. Ora è circa zero; intendo circa 21 gradi. Era un po' più alta. La visiera è chiusa e comincio a sentire un po' più fresco.
+Molto bene.
+Abbiamo indicato un calo di 2 gradi all'ingresso della tuta, quindi sembra che tu stia facendo un po' di baldoria.
+Ricevuto. Ora, Deke, la mia modalità di controllo è manuale, giroscopi liberi e manovra disattivata.
+Ricevuto. Ho capito. Manuale; giroscopio libero; e manovra disattivata.
+Roger
+Aurora Seven, qui Muchea Cap Com. Mi stai leggendo?
+Continuo a leggere, Muchea.
+Molto bene.
+Ti lasciamo un po' in pace. A proposito, come sta andando il tuo pallone?
+Non l'ho più trovato da quando si è fatto buio. È... è... si muove parecchio, Deke. Non è completamente gonfio e non si allunga sulla corda come mi aspettavo. Rimbalza dentro e fuori e oscilla su e giù e di lato. Non ho ancora buone letture del tensiometro.
+Aurora Seven, Aurora Seven, qui è Woomera Cap Com. Come si legge? Passo.
+Ciao, Woomera. Aurora Seven. Forte e chiaro. Come faccio?
+Roger. Anche tu sei forte e chiaro.
+Abbiamo ricevuto la tua trasmissione su Muchea. Mi risulta che tu abbia ancora il pallone addosso. È una risposta affermativa?
+È affermativo. Ho il pallone addosso. Tuttavia, non lo vedo da un po'. Si muove parecchio e al momento non lo vedo. Credo che potrebbe essere visibile sullo sfondo della Terra in questo momento.
+Roger. Vedi la luna?
+Sono girato nella direzione sbagliata e la mia manovrabilità è limitata a causa del livello del carburante. Vedo il terminatore tra il lato illuminato dalla luna e quello non illuminato. Passo.
+Ricevuto. Capisco.
+Il controllo è manuale. È corretto?
+Esatto. La mia modalità di controllo è manuale; giroscopi liberi; manovra disattivata. Passo.
+Roger. Potresti darci... potresti darci la temperatura della cabina?
+Ricevuto. La temperatura in cabina è di 102 [gradi] in questo momento.
+Roger. Qual è la temperatura della tuta?
+Ok, restate in attesa.
+La temperatura della tuta è di 74 [gradi]; il vapore di scarico della tuta è di 71 [gradi].
+Roger. Capisco. Ti senti un po' più a tuo agio in questo momento?
+Non lo so. Ho ancora caldo e sudo ancora, ma non mi sento poi così a disagio. Vorrei... vorrei risolvere il problema della temperatura della tuta. È... a tutti gli effetti, è incontrollabile, per quanto ne so.
+Ricevuto. Capisco. Potrebbe essere necessario attendere ancora qualche minuto prima che faccia effetto. Sei al numero 6. È corretto?
+Esatto. La temperatura della tuta è 6.
+Roger. Systems segnala che la temperatura della tua tuta è scesa di 2 gradi sopra la stazione, se questo può essere di conforto.
+Roger. Grazie. Lo è.
+Roger.
+Hai mangiato qualcosa finora?
+Sì, certo. Tuttavia, il cibo si è sbriciolato parecchio; e non voglio più aprire la confezione per paura di ritrovarmi con le briciole sparse ovunque nella capsula. Posso confermare che mangiare cibo in formato bocconcino, come quello che abbiamo preparato per questo volo, non è affatto un problema. Anche i cibi friabili vengono mangiati senza problemi.
+Roger. Che ne dici dell'acqua?
+Avevo bevuto quattro sorsi più o meno a quest'ora durante l'ultima orbita. Non appena la temperatura della tuta si sarà stabilizzata un po', aprirò la visiera e berrò un po' d'acqua. Passo.
+Roger. Continui a parlare forte e chiaro.
+Roger.
+... fuori in questo momento.
+Per la cronaca ora...
+Una delle etichette di un interruttore fusibile è scivolata fuori, lateralmente, e ha legato insieme l'interruttore fusibile adiacente. Questo è successo agli interruttori fusibile principali di emergenza e di riserva.
+Ho messo in gabbia i giroscopi. Sono troppo critici. Proverò a navigare nel lato oscuro senza i giroscopi.
+L'interruttore fusibile dovrebbe essere incollato meglio in modo che spegnendo un fusibile non si spenga anche quello adiacente.
+Credo che sia meglio provare a prendere quella pillola di xilosio. Odio farlo.
+Oh sì. C'è la pillola di xilosio. Non si è sciolta. Tutto il resto della roba qui dentro si è sciolto.
+Ok. La pillola di xilosio è stata consumata alle 02:41:35. Il resto del cibo è piuttosto disordinato. Non sopporto questa temperatura in cabina.
+Salve, Canton Com Tech. Aurora Seven ti riceve forte e chiaro. Come faccio?
+Qui Canton Cap Com. Vi ho sentito forte e chiaro. Potreste iniziare il vostro breve rapporto, per favore?
+Roger, George. La mia modalità di controllo è manuale. I giroscopi sono ingabbiati, la manovra è disattivata. Il carburante è al 45 e al 64 percento, un po' in anticipo rispetto al previsto. L'ossigeno segna tra l'82 e il 100 percento. La temperatura dello sfiato del vapore nella tuta sta scendendo leggermente. È di poco inferiore ai 21 gradi. La pressione in cabina è di 4,6 psia. La temperatura della tuta è scesa a circa 21 gradi. Tutta la potenza è buona, ed ecco la pressione sanguigna. Passo.
+Ok, aspetto la pressione sanguigna.
+Stiamo ricevendo il controllo della pressione sanguigna. Fine.
+Roger.
+Hai intenzione di mangiare come richiesto da... Finito.
+Poco fa avevo la visiera aperta per la pillola di xilosio. Tutto il resto del cibo che ho a bordo si è sbriciolato o sciolto. È inutilizzabile nel suo stato attuale, quindi penso che la pillola di xilosio costituirà il mio ultimo pasto a gravità zero. Tuttavia, il primo, prima che il cibo si sbriciolasse, è stato piuttosto facile. Non è un problema mangiare questo boccone di cibo, in assenza di peso. Ho anche bevuto un po' d'acqua in quel momento, il che non ha rappresentato un problema.
+Roger. Da quello che hai detto allora, deduco che hai confermato che la tua visiera è chiusa per la decisione sulla terza orbita.
+Esatto. La mia mascherina è chiusa. Inoltre, qual è l'andamento della pressione della mia cabina al suolo? Passo.
+Aspettate, per favore.
+Stiamo verificando la tua richiesta, Scott. Potresti premere di nuovo quel pulsante? Abbiamo perso il tuo elettrocardiogramma.
+Oh, vuoi la pressione sanguigna o l'elettrocardiogramma?
+No, abbiamo perso l'elettrocardiogramma. Forse potresti premere su quei sensori. Ok, il chirurgo mi informa che l'elettrocardiogramma sta tornando. L'altra tua domanda è: la pressione in cabina si mantiene a circa 5,1 [psia].
+Roger. Nessun cambiamento nella lettura dal lancio. È corretto?
+Negativo su questo. È passato da 5,8 [psia] al lancio a circa 5,1 [psia] in un trend discendente molto, molto graduale.
+Ricevuto. In questo momento l'indicatore della pressione in cabina segna 4,8 [psia].
+Roger, non ho commenti da fare, solo che la tendenza qui sembra essere positiva.
+Roger.
+Hai commenti specifici sui tuoi esperimenti con i palloncini; ad esempio, il miglior contrasto di colore con il
+Sì, direi che l'arancione fluorescente è il migliore.
+Roger. Per tua informazione, la seconda alba dovrebbe verificarsi tra circa 3 o 4 minuti.
+Roger, grazie.
+Qui a terra tutto continua a sembrare ottimo. Ho una lettura qui a terra per la pressione in cabina. Per vostra informazione, è di 4,8 [psia]. Ora, questo conferma notevolmente la tendenza che si è delineata. La pressione della tuta è di 4,9 [psia].
+Roger.
+Ora scopriamo che la pressione parziale di O2 fluttua leggermente e si aggira intorno a 4,2 [psia].
+L'hai fatto?
+La pressione parziale di O2 è fluttuante: 4,2 [psia] - Oltre.
+Roger, ricevuto, George, grazie.
+Come ho detto prima, qui tutto sembra a posto. Il chirurgo mi sta cercando per farti provare un altro controllo della pressione. È comodo?
+Negativo. Ora non riesco a stare fermo. Devo preoccuparmi dell'alba.
+Ok, Roger. Non abbiamo altre domande. Se hai commenti, ti ascolteremo qui sotto.
+Negativo. Ho una bellissima alba dalla finestra. La registrerò così potrai vederla.
+Aurora Seven, Aurora Seven, Hawaii Com Tech. Come mi senti? Passo.
+Roger, Hawaii, Aurora Seven. Forte e chiaro. Come faccio?
+Aurora Seven, qui Cap Com. Puoi fornirmi un breve rapporto, per favore.
+Ricevuto. La mia modalità di controllo è manuale; giroscopi ingabbiati; manovra disattivata. Stand by uno. Il mio stato è buono e lo stato della capsula è buono. Voglio scattare qualche foto dell'alba. Passo.
+Roger. Prima fammi un breve resoconto.
+Ricevuto. Il carburante è al 45-62%. Finito.
+Roger. 45 e 62 [percento].
+Roger.
+Aurora Seven. Hai bevuto a Canton? Hai bevuto un po' d'acqua a Canton?
+Questo è negativo. Lo farò a breve.
+Roger, chirurgo, ritiene che ciò sia consigliabile.
+Roger.
+Hai una spia di avvertimento del rifornimento automatico?
+Esatto. L'ho segnalato, e credo di averlo fatto molto tempo fa. Al momento è coperto con del nastro adesivo.
+Roger.
+Aurora Seven, Aurora Seven, Cap Com. Cape Flight mi ha informato che noi... che si aspettavano che la cabina facesse questo.
+Roger, grazie.
+... temperatura di scarico... vapore di scarico?
+Ricevuto. La temperatura di scarico della tuta è di 70 [gradi]. La temperatura di scarico della cabina è di 49 [gradi].
+Roger.
+Aurora Seven. Qui Cap Com. Vorremmo che tornassi alla normalità dei giroscopi e verificassi che tipo di indicazione abbiamo, ovvero se la vista dal finestrino coincide o meno con quella dei giroscopi.
+Ricevuto. Aspetta un attimo.
+Vedo altre particelle bianche sotto la capsula. Sembrano viaggiare esattamente alla mia velocità. Ce n'è una che si allontana. A dire il vero, sta andando più veloce di me.
+Ricevuto. Capisco.
+Non ho visto un gran numero di queste particelle, ma ne ho viste alcune. Il loro movimento è casuale; mi sembrano esattamente come fiocchi di neve.
+Roger. Hai provato a tornare...
+Negativo. Lasciami prima rientrare nei limiti dello scanner.
+Ripeti.
+Per prima cosa devo adattare il mio atteggiamento ai limiti dello scanner.
+Roger.
+Ce n'erano altre, piccole particelle. Questa volta sembrano proprio fiocchi di neve.
+Ricevuto. Capisco. Le tue particelle sembrano veri e propri fiocchi di neve.
+Tuttavia--
+Scott, puoi misurarci la pressione?
+Roger. Pressione sanguigna, inizia ora. Ho il palloncino ora abbastanza stabile sotto di me, senza oscillazioni. E vai a gyros normale. Gyros normale ora.
+Roger. TM indica il tuo tono zero.
+LOS, Scott, abbiamo avuto LOS. Mi senti? Passo.
+Aurora Seven, Aurora Seven, qui California Com Tech, California Com Tech. Mi sentite? Passo.
+Ciao Cal Com Tech, Aurora Seven. Forte e chiaro. Come faccio?
+Aurora Seven, Aurora Seven, qui è California Com Tech, California Com Tech. Mi sentite? Passo.
+Salve. California Com Tech, Aurora Seven. Forte e chiaro. Come faccio?
+Anche noi vi sentiamo forte e chiaro. Preparatevi per Cap Com.
+Roger.
+Aurora Seven, California. Come leggi?
+Ciao Al, forte e chiaro. Come faccio?
+Sei stato forte e chiaro, Scotty. Un breve resoconto.
+Ricevuto. La modalità di controllo è manuale, giroscopi normali, manovra disattivata. Il carburante è al 45-50%. Il pallone è esaurito. L'ossigeno è all'81-100%. E le mie condizioni sono buone. Le condizioni della capsula sono buone, tranne per il fatto che non riesco a ottenere una temperatura ragionevole per il vapore di scarico della tuta. La lettura è ancora di 70 gradi. Passo.
+Roger, mi sembra che finché l'ingresso dell'aria nella tuta diminuisce, potresti continuare ad aumentare il flusso finché non ti sentirai a tuo agio.
+Roger.
+Capisco che sei pronto per l'orbita tre.
+Io sono... Roger. Sono pronto per l'orbita tre.
+Sette, questa è la California.
+Forza, California.
+Il Generale Kraft è ancora un po' preoccupato per il carburante per auto. Usatene il meno possibile; non usatelo a meno che non sia necessario prima del momento della retrosequenza. E penso che forse potreste aumentare la portata allo scambiatore di calore dell'inverter per cercare di abbassare la temperatura. Tuttavia, non sono ancora critici.
+Roger, per ora sono passato da 4 a 5 sull'inverter. E credo che aumenterò un po' anche sulla tuta.
+Roger. Stai parlando bene. Ti lascio un momento di silenzio mentre mando Z e R cal.
+Roger.
+Sette, questa è la California che invia Z cal al mio segnale.
+Roger.
+Uno, Mark.
+Z cal spento.
+Roger.
+Attendere R cal 3, 2, 1.
+Bene, ora sto iniziando a vedere tutte quelle particelle, sono molto lontane. Ne vedo alcune a 30 metri di distanza.
+Ricevuto. R chiama fuori.
+A me sembrano tutti fiocchi di neve. No, non è vero: non brillano di loro spontanea volontà.
+Roger, Seven. Hai... sudato o hai smesso di sudare in questo momento?
+No, sto ancora sudando, Al. Credo che aprirò la visiera e berrò un sorso d'acqua.
+Roger. Sembra una buona idea.
+Sette, potresti misurarci la pressione, per favore, tra un sorso e l'altro.
+Ok, ecco la tua pressione sanguigna. Ho bevuto circa 20 sorsi d'acqua. Aveva un sapore piuttosto buono.
+Roger, Seven. Ne siamo sicuri, stiamo ottenendo tempi Alpha e... Hotel. Hai Hotel, lo so. Che ne dici di 3 Alpha?
+Roger e Mark, ora una lettura del tensiometro. È la corda più tesa che abbia mai visto. Segna un'altra lettura del tensiometro.
+Roger. Li abbiamo.
+Ora ripeti la tua ultima domanda?
+Hai 3 Alpha di 03 11 00?
+Esatto.
+Ricevuto. Copiato.
+Sette, questa è la California. Leggi ancora?
+Ricevuto. Forte e chiaro.
+Roger, non abbiamo altre richieste. Ci vediamo alla prossima.
+Roger.
+Aurora Seven, Guaymas Cap Com.
+Ciao, Guaymas. Vai avanti.
+Roger, ti sentiamo forte e chiaro. Vorremmo effettuare un test del wobulator qui. Usiamo White Sands ogni volta che ci dai il comando.
+Roger, ne ho uno; in questo momento è il giroscopio di imbardata fermo.
+Il tuo wobulator è acceso adesso?
+Sì, il wobulator è acceso.
+Roger.
+Cosa c'era sulla tua imbardata?
+Ho l'ago dell'imbardata sullo stop 250.
+Roger.
+Non mi sbarazzerò del palloncino prima di ingabbiarlo, dopodiché potrò iniziare una lenta virata verso sinistra per staccarlo dallo stop.
+Roger.
+Roger. Puoi accendere il tuo wobulator ora e lasciarlo acceso?
+Roger. È acceso e non l'ho toccato.
+Ricevuto. Capisco.
+Vuoi toglierlo?
+Ricevuto. Acceso e spento a intervalli di circa 20 secondi.
+Okay, il wobulator si scatena... Ora.
+Ricevuto. Lo stiamo trasmettendo.
+Sono in grado di fare un giro di 360 gradi per loro in questo momento?
+Il tuo 00 yaw; hai un input yaw.
+Potremmo fare questo giro di 360 gradi su questo passaggio a White Sands?
+Gordo.
+Aurora Seven, Cape Cap Com.
+Roger Cape. Forte e chiaro, e break, break. Guaymas, il wobulator è tornato.
+Roger Cape. Avanti.
+Roger Aurora Seven, Cape Cap Com di nuovo in HF. Dammi il tuo rapporto.
+Ricevuto. Modalità di controllo manuale; giroscopi normali; interruttore di manovra spento. Carburante 45-45 [percento]; ossigeno 70 [percento], o, per una correzione, ossigeno 80 e 100 [percento]. La temperatura della tuta è di 68 [gradi], ora e sta scendendo abbastanza bene. La temperatura dello sfiato del vapore della tuta è di 69 [gradi], e inizia a essere un po' più confortevole. Passo.
+Roger: e come ti senti adesso?
+Mi sento abbastanza bene. Ho ancora caldo.
+Okay, sembra che andrà tutto bene.
+L'orario normale per il rilascio del palloncino è 3 più 34, Scott?
+3 più 34, Roger.
+Roger, puoi descriverci un po' il pallone e il suo funzionamento?
+Sì, ha una deriva casuale. Non c'è alcuna oscillazione che io possa prevedere. La... la linea che porta al palloncino a volte è tesa; a volte è lenta... abbastanza lenta da formare degli anelli. Il suo... il suo comportamento è del tutto casuale, per quanto ne so. Anche il palloncino non è gonfiato bene. Ha una forma oblunga, piuttosto che rotonda; e credo che quando il sole lo illumina, l'arancione fosforescente sia il più brillante, e anche l'argento. Questo è tutto quello che posso dirti, Gus.
+Roger. Il chirurgo consiglia di bere più acqua possibile. Bevetela il più spesso possibile.
+Roger.
+I tempi di retrosequenza per l'area 3 B e 3 C sono nominali.
+3 B e 3 C nominali. Ricevuto.
+Ti consigliamo di impostare i tuoi giroscopi sulla modalità normale, con l'interruttore di manovra disattivato.
+Ricevuto. I giroscopi sono normali e l'interruttore di manovra è spento.
+Roger.
+Potresti fornirci le impostazioni della tua valvola di controllo della temperatura, per favore?
+Roger, la tuta è 7,5, la cabina è circa 10. 10 per la cabina e 5 per gli inverter. Passo.
+Roger.
+Pronti per Z cal.
+Roger, in attesa.
+R cal.
+Segna la lettura del tensiometro. È il massimo che ho... non si può ottenere.
+Aurora Seven, Capitano Com.
+Forza, Capitano Com.
+...il volo è già alla deriva?
+Ripeti.
+Hai mai effettuato voli alla deriva?
+Questo è Roger. E se voglio risparmiare carburante per la retrosequenza, credo sia meglio ricominciare da capo. Passo.
+Roger, sono d'accordo con te.
+Ora la mia modalità di controllo è manuale; i giroscopi sono ingabbiati e lascerò che la capsula vada alla deriva per un po'.
+Roger e John vi suggeriscono di provare a guardare indietro, verso l'oscurità, all'alba per vedere quelle particelle.
+Verso l'oscurità.
+Roger. All'alba, prova a guardare verso l'oscurità.
+Okay, l'ho fatto e... e... non gli ho detto niente gioia.
+Roger.
+Aurora Seven, sei in volo alla deriva?
+Quello è Roger.
+Roger.
+Sto guardando verso il basso, quasi verticalmente. Credo che sia possibile distinguere quattro strati di nubi separati.
+Capire.
+Mongolfiera: manovrerò abbastanza da far uscire la mongolfiera dalla mia scia, così da poterne fotografare la partenza.
+Roger.
+A proposito, in questo momento ho quelle piccole particelle visibili nel periscopio.
+Ricevuto. Capito il periscopio.
+Aurora Seven, Capitano Com.
+Ricevuto. Vai avanti.
+Siamo ancora abbastanza soddisfatti del tuo stato di carburante. Non permettere... vorremmo che non lasciassi che nessuno dei due scenda sotto il 40%.
+Roger. Ci proverò. Ho il pallone che si scarica a intermittenza e non riesco a liberarmene.
+Devi capire che non puoi liberarti del palloncino.
+Esatto. Non verrà abbandonato.
+Va bene.
+Aurora sette, Cap Com.
+Forza, Capitano Com.
+Comunicaci la tua pressione sanguigna e il livello del carburante.
+Ok. Il carburante è al 45-42 [percento]. Pressione sanguigna nell'aria.
+Rog.
+Le particelle sono ancora visibili. Si muovono verso poppa, ma in un arco di circa 120 o 130 gradi.
+Aurora Seven, Capitano Com. Ripeti.
+Roger, ho di nuovo queste particelle che si spostano verso poppa, ma non sono esattamente parallele alla linea del pallone. Si spostano verso poppa entro un arco di circa 120-130 gradi.
+Roger.
+Aurora Seven, Cap Com. Puoi darci un commento sull'esperimento a gravità zero?
+Roger. In questo momento, il fluido è tutto raccolto attorno al tubo di livello; il tubo di livello sembra pieno e il fluido all'esterno è circa a metà altezza. C'è un menisco piuttosto grande. Direi un menisco di circa 60°.
+Aurora Seven, Cap Com. Ripeti il ​​più possibile il tuo ultimo messaggio.
+Ricevuto. Il tubo di scarico è pieno di fluido. Il fluido si trova a metà altezza del tubo di scarico, un menisco piuttosto ampio, con un angolo di circa 60 gradi. Passo.
+Aurora Seven, Aurora Seven, qui Canary Cap Com su HF. Mi senti? Passo.
+Salve, salve, Canary Cap Com, Aurora Seven. Vi ricevo forte e chiaro; HF. Trasmetto HF. Come mi senti? Passo.
+Aurora Seven, qui Canary Cap Com su HF. Mi senti? Passo.
+Roger, Canary Cap Com. Ti leggo forte e chiaro; HF. Come faccio? Passo.
+Queste immagini mostrano piccoli gruppi di nubi molto unite a sud di Canary, terza orbita.
+Deve essere l'attraversamento della [Zona di Convergenza Intertropicale] (ITCZ). Non ho mai visto un tempo del genere.
+Qui Canary Cap Com su HF. Ricevete? Passo.
+Aurora Seven, qui Canary Cap Com. Non abbiamo ricevuto alcuna vostra comunicazione. Qui Canary Islands, disconnessione.
+In questo momento ho tirato fuori il Voasmeter.
+Ciao.
+Ciao, Canary Cap Com, Aurora Seven. Ti leggo forte e chiaro. Come faccio?
+Aurora Seven, qui Canary Cap Com. Mi senti? Passo.
+Forza, Canary. Ti leggo forte e chiaro.
+Ora sono nella posizione di record. Penso che la risposta migliore all'autocinesi sia che non ce ne sia. Non ne ho notata nessuna, e tendo ad allineare l'orizzontale con la testa: una linea orizzontale sotto gravità zero è una linea parallela alla linea tracciata tra i tuoi occhi. Non capisco l'autocinesi. Non capisco... aspetta un attimo, forse sto iniziando a capirci qualcosa.
+Vorrei sottolineare che alle 3:26:33, ho visto nel cielo, in qualsiasi momento, 10 particelle. Senza dubbio mi sembrano brillare. Sembravano piccoli pezzi di brina. Tuttavia, alcune sembrano essere molto, molto lontane. Ce ne sono due che sembrano essere a 100 metri di distanza. Non ho azionato il propulsore da un po' di tempo. Eccone due più vicine. Ora una lettura del densimetro su queste che sono vicine. Estinte alle 5:5, il tempo trascorso è 3:27:39. Al momento non riesco a vedere alcuna stella nel cielo nero. Tuttavia, questi piccoli fiocchi di neve sono chiaramente visibili.
+La temperatura della cabina è scesa notevolmente e l'impostazione della tuta è 7.
+Lo aumenterò ancora un pochino.
+La temperatura della valvola della mia tuta e della valvola dell'acqua è ora di circa 8.
+Ciao, ciao, Kano Cap Com, Aurora Seven. Ti leggo forte e chiaro. Come faccio?
+Ho notato che ogni volta che mi giro verso destra tutto sembra verticale, ma io sono capovolto.
+Ora, per la cronaca.
+Ho ancora questa sensazione, potrei facilmente avere la sensazione di cadere sulla schiena.
+Potrei facilmente arrivare da un altro pianeta e sentire di essere sulla schiena e che la Terra è sopra di me, ma è più o meno la stessa sensazione che si prova quando si esce da una S divisa o da un Immelmann.
+Keno su HF. Se mi capisci, il chirurgo ti chiede di effettuare subito un controllo della pressione sanguigna, un controllo della pressione sanguigna per la cartella clinica. Passo.
+Roger. Ti leggo forte e chiaro, Keno. La pressione sanguigna inizia a salire in questo momento.
+La visiera si sta chiudendo.
+Aurora Seven, Aurora Seven, qui Kano Cap Com. Se mi senti, potresti controllare la pressione sanguigna per i registri di bordo? Passo.
+Ok. Sto togliendo... ho tolto il grosso dorso; per ora registrerò solo. Ho tolto il grosso dorso dalla macchina fotografica e sto cercando di procurarmi altra pellicola del MIT. Il filtro è inserito. La cassetta... è nella macchina fotografica.
+Le sensazioni di assenza di gravità sono meravigliose. È la prima volta che indosso questa tuta e mi sento a mio agio.
+Non so in che direzione mi stanno puntando e non mi interessa particolarmente.
+Roger. In questo momento sento Kano che chiede un controllo della pressione sanguigna. Glielo faccio subito. Vediamo, ho il carburante a 45-43, vorrei ancora un piccolo controllo, solo un piccolo controllo.
+Vediamo, vogliamo tornare indietro da quella parte.
+Non riesco a vedere alcuna relazione tra l'azione dei propulsori e le lucciole.
+Segna le immagini del MIT a 3 35 36, gira due volte all'infinito.
+Passaggio costiero sopra l'Africa.
+Sto scattando molte foto del MIT, alla scadenza della capsula [tempo] 03:38:38. Sarà l'unica possibilità che abbiamo. Potrei anche usare tutta la pellicola.
+Ciao, Indian Com Tech, Aurora Seven. Forte e chiaro. Come faccio?
+Aurora Seven, qui è IOS Com Tech, su HF e UHF. Come si legge? Passo.
+Roger Forte e chiaro. Come faccio, Indian Cap Com?
+Aurora Seven, qui Indian Cap Com. Non ho letto tutta la vostra trasmissione, ma la parte che ho ascoltato era forte e chiara. Procedete pure.
+Roger. Le mie condizioni sono buone, le condizioni della capsula sono buone. Sono in volo di deriva con controllo manuale. I giroscopi sono ingabbiati. Il carburante segna il 45-42%, l'ossigeno il 79-100%. Le temperature delle prese d'aria del vapore segnano entrambe 65 gradi; la temperatura della tuta è scesa bene. Ora è 62 gradi e tutta la potenza è buona. La pressione sanguigna sta iniziando a salire. Ho appena finito di scattare alcune foto del MIT e questo è tutto ciò che ho da dire al momento.
+Roger, Aurora Seven. Ho ricevuto il tuo manuale di modalità di controllo; giroscopio in gabbia; carburante 45-42 [percento]; ossigeno 79-100 [percento]; e non ho sentito l'ultima parte della tua trasmissione. Come fai a...
+Ricevuto. La mia situazione è buona; la temperatura della tuta si è abbassata considerevolmente; le temperature delle prese d'aria sono ora di 69 [gradi] gradi nella cabina e nella tuta, la temperatura della tuta è di 62 [gradi] gradi e la temperatura della cabina è di 101 [gradi]. Passo.
+Ricevuto. Temperatura della tuta 62 gradi e temperatura della cabina 101 gradi. La pressione sanguigna sta salendo, e sappi che stai seguendo i valori indicati sul manuale. Sappi anche che stai andando alla deriva per un po'.
+Quello è Roger. Io sono.
+Confermare.
+Ho il controllo manuale. Lascio che la capsula vada alla deriva. Passo.
+Roger.
+Un altro inconveniente rispetto al piano è che non sono riuscito a sganciare il pallone. Il pallone è ancora attaccato, quindi non dovrebbe esserci alcun problema.
+Ricevuto. Capisco che non ci siano problemi, ma il palloncino è ancora attaccato. Pronti a partire.
+Aurora Seven, qui Indian Cap Com. Tutti i nostri tempi di retrosequenza sono nominali. Vuoi che te li segnali? Passo.
+Negativo. Li ho tutti, grazie.
+Aurora Sette, la tua ultima trascrizione era illeggibile. Stai svanendo molto, anche se a intermittenza. Leggerò i tempi di retrosequenza alla cieca. Area 3 Delta, 04 12 32, 04 12 32; Eco 04 22 27; 3 Eco 04 22 27; e l'ultimo... che abbiamo è 04 32 26... ora e l'orologio della tua capsula è ancora entro 1 secondo.
+Ricevuto, Kano. Ho copiato tutto.
+Roger, Aurora. Siete state forti e chiare.
+I tramonti sono spettacolari. La Terra è nera dopo il tramonto. La Terra è nera; la prima fascia vicina alla Terra è rossa, la successiva è gialla; la successiva è blu; la successiva è verde; e la successiva è una specie di... una specie di viola. È quasi come un arcobaleno molto brillante. Si estende a...
+Indian Cap Com. Controlla di vedere tutti i colori tra l'orizzonte e il cielo notturno. Sembra che tu veda più strati di Friendship Seven.
+Roger. Questi strati si estendono per almeno 90 gradi da entrambi i lati del sole al tramonto.
+Aurora Sette, non ho sentito tutta la frase. Potresti ripetere, per favore? Passo.
+Roger. Questa fascia luminosa dell'orizzonte si estende per almeno 90° a nord e a sud rispetto alla posizione del tramonto.
+Ricevuto. Capito. A proposito del pallone, il Centro di Controllo Mercury sa che non...
+Sì. Ho provato a lanciarlo sopra la loro stazione, ma non ci sono riuscito. Potresti ricordare loro che il pallone è ancora lì.
+Roger, Aurora Seven. Capisco.
+Aurora Seven, Indian Cap Com. Le temperature dell'inverter sono 183 [gradi] per il 150 e 195 [gradi] per il 250. Tutti gli altri primari risultano a posto dalla telemetria.
+Roger. Grazie mille.
+Aurora Seven, mi senti? Passo.
+Forza, Indian Cap Com.
+Il nostro monitor medico dice che stiamo rilevando la tua respirazione. Credo che sia quasi la prima volta che ci capita.
+Molto bene. Ti garantisco che sto respirando.
+Ricevuto. Capisco.
+Questa volta la benda sull'occhio è al suo posto.
+Sto per registrare. Al momento è necessario solo registrare.
+Dopo 3 ore, 48 minuti e 51 secondi, bevo un bel sorso d'acqua. Questa volta fa piuttosto fresco. Mi sgranchisco un po' le gambe. È piuttosto buio. Sono in volo di deriva. Oddio! Che bello sgranchirmi quella gamba. Quella e anche quella destra.
+Ho bevuto un sacco di acqua e ho ancora sete. Anzi, credo che ci sia una perdita nell'orinatoio, ne sono sicuro.
+Ok, tocco di linea.
+Ok. Scuoto la testa violentemente da tutte le parti, con gli occhi chiusi, su e giù, beccheggio, rollio, imbardata. Niente nello stomaco; niente da nessuna parte. Ora c'è... proverò a premere il pulsante zero, tempo zero. Beh, me lo sono perso. Ero un po' disorientato su dove fossero esattamente le cose, non sono sicuro di cosa si voglia ottenere con questo, ma non c'è problema di orientamento. Il tuo... il tuo... orecchio interiore e la tua valutazione mentale dell'orizzontale, ti adatti a questo ambiente, come... come se ci fossi nato. È una grande, grande libertà.
+Non dimentichiamoci della finitura lucida della mappa stellare. La rende molto difficile da leggere.
+Alle 3:53.
+Ora sto usando il fotometro per cercare di ottenere una lettura. Ho visto un... no, è il pallone che vedo, che vaga ancora senza meta, illuminato dalla luce della luna in questo momento.
+Nessuno dei colori è particolarmente visibile. Penso...
+La spia dell'acqua in eccesso nella cabina è accesa in questo momento, 03:56:24. La abbasserò un po', quindi sarà più o meno all'altezza della tuta. Direi, vediamo, da questo, che è scesa fino a congelare.
+Ciao, Muchea Cap Com, Aurora Seven. Forte e chiaro. Come faccio?
+Arriva forte e chiaro.
+Roger. Deke, la mia modalità di controllo è manuale; i giroscopi sono bloccati; l'interruttore di manovra è spento. Il livello del carburante è 45 e 42 [percento]; l'ossigeno è 76 e 100 [percento]; le temperature dello sfiato del vapore sulla tuta sono 68 [gradi] e ho appena ricevuto una spia luminosa per l'acqua in eccesso in cabina; l'ago è sceso a 20. Reimposta l'acqua in cabina a circa 6 e in questa capsula sembra che le impostazioni ottimali siano tra 6 e 7. A parte questo, tutto, tutti i sistemi sono a posto. E la pressione sanguigna sta iniziando a salire.
+Ricevuto. Ok, inizio a misurare la pressione sanguigna.
+La visiera è rimasta aperta per un po', ho preso alcune letture sulle stelle attraverso lo strato di foschia con il fotometro. Ora la visiera si sta chiudendo.
+Ricevuto. Capisco che la visiera si sta chiudendo.
+Ti darò un orario retroattivo per la fine della missione e vorrei che impostassi l'orologio su questo orario.
+Roger.
+Capisco, 04 32 34.
+Bene.
+Bene. Ora entra nell'orologio... evviva.
+Indichiamo 35.
+Anch'io. Ho esagerato. Aspetta.
+Probabilmente è abbastanza per un lavoro governativo.
+Per te, al secondo.
+Roger. Tu indichi ancora 1 secondo di ritardo su g.e.t.; noi ti indichiamo su, su retrotime.
+Roger. Sto leggendo 04 32 34.
+Potresti per favore fare un po' di esercizio prima di misurare la pressione per la seconda volta.
+Roger. Ti darò l'esercizio calibrato in questo momento.
+Roger.
+Inizia l'esercizio, adesso.
+Ok, ora inizia la misurazione della pressione sanguigna. Questo significa 60 cicli in 30 secondi sull'attrezzo ginnico.
+60 cicli in 30 secondi.
+Hai provato per caso a fare la chiave T/M sul Capo durante l'ultima passata?
+Penso che dovrò segnare il tempo per la lettura del tensiometro sul palloncino.
+Molto bene.
+Tieni presente che hai ancora il pallone con te. È possibile che se ti metti in posizione di lancio e poi torni per sganciarlo, tu possa...
+Roger. Ci ho provato diverse volte, Deke. Non riesco proprio a liberarmene.
+Okay. Beh, probabilmente ti verrà addosso con il fuoco retroattivo; ma sono sicuro che perderai la testa poco dopo.
+Sì, immagino. Lo spero.
+Ok, per tua informazione, le nuvole sono a cinque decimi e solo un ottavo a nord sopra Port Moresby; quindi se vedi delle luci in quella zona, vorremmo saperlo.
+Roger, ti farò sapere.
+Potresti darci un c.e.t., hack, per favore.
+Roger. Il tempo massimo al mio turno sarà di 4 ore, 1 minuto e 35 secondi, in attesa. MARK, 4 01 35.
+Ricevuto. Ancora un secondo di ritardo, va bene.
+Il piano di volo prevede che tu beva un bicchiere d'acqua qui. Senti di averne bisogno?
+Roger. Ho appena bevuto tre lunghi sorsi d'acqua. L'ultimo, credo, circa 10 minuti fa, Deke.
+Allora probabilmente sei carico come un orso.
+Roger.
+Roger. Deke, lo strato di foschia è molto luminoso. Direi dagli 8 ai 10 gradi sopra l'orizzonte reale. E direi che lo strato di foschia è circa il doppio dell'altezza sopra l'orizzonte rispetto alla... la banda blu brillante al tramonto; è il doppio dello spessore. Una stella, le stelle vengono occluse quando attraversiamo questo strato di foschia. Ho un bel gruppo di stelle da osservare in questo momento. Cercherò di ottenere qualche lettura fotometrica.
+Roger. Capito. È il doppio del... tramonto.
+Non è il doppio dello spessore. È più sottile, ma si trova a una distanza circa doppia rispetto alla sommità della fascia al tramonto.
+Capire.
+È molto stretto e luminoso come l'orizzonte terrestre stesso.
+Rog.
+Questa è una lettura su Phecda nel Grande Carro prima dell'ingresso nello strato di foschia. Si occlude, si estingue a circa 2,5. Il reticolo si estingue a 5,5. Segno TM per il tempo al centro dello strato di foschia. Spica, in attesa.
+Aurora Seven, Aurora Seven, questa è Woomera Cap Com. Come leggi? Passo.
+Ricevuto. Tieni duro, Woomera.
+Roger. In attesa.
+Al centro dello strato di foschia, Phecda non... non riesco nemmeno a leggerne il valore con il fotometro. Phecda è ora sotto l'orizzonte, o sotto il segno di circa 5 secondi fa, ora è emersa dalla parte più luminosa dello strato di foschia. Ora è chiaramente visibile. Woomera, le mie condizioni sono ottime, il carburante è al 45 e 42 percento. Pronto, ti darò un rapporto completo a breve.
+Roger. In attesa.
+Visiera che si apre.
+Ricevuto. Visiera aperta.
+Aurora Seven, qui Woomera. Mi senti? Passo.
+Roger, Woomera, forte e chiaro.
+Dici che la visiera è aperta?
+È negativo. Non l'ho aperto. Non lo aprirò finché non avrò completato queste letture. Phecda ora si estingue a 1,7 gradi a metà, in posizione intermedia tra lo strato di foschia e la Terra. Okay, Woomera, la mia... la mia situazione è molto buona. La temperatura della tuta sta scendendo notevolmente. La temperatura dello sfiato del vapore non è scesa di molto, ma la temperatura ambiente della tuta è di 60 gradi. Mi sento abbastanza a mio agio. La temperatura della cabina è di 101 gradi; la cabina mantiene un valore indicato di 4,8; l'ossigeno è al 75-100 percento, tutta l'alimentazione a corrente continua continua a essere buona, 20 Ampere; entrambi i bus a corrente alternata sono buoni; il carburante segna 46 e 40 percento. Sono in volo di deriva. Ho bevuto molta acqua. La visiera si sta aprendo ora. E la pressione sanguigna sta arrivando in questo momento.
+Ciao, Woomera, Woomera Cap Com, qui è Aurora Seven. Hai ricevuto il mio ultimo messaggio? Passo.
+La temperatura della cabina e il flusso dell'acqua sono completamente disattivati ​​e ora si stanno riducendo a circa 7,5, un po' meno. Al momento, la valvola di sfiato del vapore della cabina registrerà solo i dati.
+La temperatura della cabina è 10 gradi; quella della tuta è 62 gradi. Vorrei aumentare un po' la temperatura, ma non ci riesco. La temperatura della tuta è 60 gradi; quella della cabina rimane a 102 gradi. Mi restano 22 minuti e 20 secondi per il retrofire. Credo che proverò a stivare un po' di questa attrezzatura in questo momento.
+C'è la luna.
+Non sembra diverso qui rispetto a quando siamo a terra.
+In questo momento la visiera è aperta e si sta chiudendo.
+Ho messo la luna al centro della finestra e si sposta molto, molto poco.
+Sembra esserci una zona stagnante nel mio casco. La tuta è fresca, ma sul viso è calda.
+E poi c'è lo Scorpione.
+Bene, vediamo.
+È molto interessante notare che il mio assetto, e il... è all'incirca di beccheggio più 30 gradi, rollio a destra di 130 gradi e imbardata a sinistra di 20 gradi. Il pallone in questo momento si muove proprio con me. Mantiene una direzione costante in ogni momento. Ecco di nuovo la fascia dell'orizzonte; questa volta dal lato illuminato dalla luna. Vediamo, con il filtro airglow, è molto difficile farlo a causa delle luci di quell'orologio di correlazione temporale. La visiera si sta aprendo ora. È impossibile adattarsi al buio qui dentro, con quella luce com'è.
+Va bene per la cronaca. Interessante, credo. Questo strato di foschia è molto luminoso attraverso il filtro anti-inquinamento luminoso. Molto luminoso. Sono le 4:17:44.
+Ora vediamo, otterrò una larghezza di banda precisa.
+È molto utile, perché la larghezza della banda... c'è il sole... La larghezza della banda dell'orizzonte è esattamente uguale alla X. Non riesco a spiegarlo; dovrò, a--
+Alba. Ahhhhh! Bellissime lucciole illuminate quella volta. Era luminoso quella volta. Ma è solo, okay, loro... va bene, ho... se qualcuno legge, ho le lucciole. Sono molto luminose. Sono emanazioni della capsula. Posso colpire il portello e farne uscire centinaia. Colpisco il lato della capsula; escono enormi flussi. Loro... alcune sembrano brillare. Lasciatemi virare dall'altra parte.
+Alcune sembrano brillare, ma non credo che lo facciano davvero; è solo la luce del sole. Cercherò di fotografarle. Sono brillanti. Credo che brillerebbero davvero fino al livello 9 del fotometro. Faccio un rap. Vediamo.
+Scatto alcune foto a F2.8 e posa B. Le foto di adesso, qui, una del pallone. Il sole è troppo luminoso ora. Ecco da dove provengono. Sono piccoli pezzettini bianchi di brina. Da questo deduco che l'intero lato della capsula debba essere ricoperto di brina.
+Aurora Seven, qui Hawaii Com Tech, come si legge?
+Ciao Hawaii, forte e chiaro. Come faccio?
+Hawaii Com Tech.
+Sette, Hawaii Com Tech, ti leggo momentaneamente in UHF. Come leggi? Passo.
+Roger, ti sento forte e chiaro, Hawaii. Come faccio?
+Aurora Seven, Hawaii Cap Com. Come mi senti?
+Roger, mi capisci o no, James?
+Cavolo, sei debole, ma ti capisco. Sei leggibile. Sei in UHF-Hi?
+Roger, UHF-Hi.
+Roger, orienta la navicella spaziale e vai all'ASCS.
+Roger, lo farò.
+Roger, copiato, in questo momento stiamo entrando in orbita.
+Aurora Seven, Aurora Seven, mi ricevi? Passo.
+Ricevuto. Ricevuto. Stiamo entrando in orbita in questo momento.
+Roger.
+Aurora Seven, Hawaii Cap Com. Mi sentite? Passo.
+Ricevuto. Forza, Hawaii.
+L'interruttore di manovra è spento?
+L'interruttore di manovra è spento.
+Roger. Sei pronto a iniziare la tua checklist pre-retrosequenziamento?
+Ricevuto. Un attimo.
+Sto allineando i miei atteggiamenti. Va tutto bene. Ho già completato parte della checklist di stivaggio.
+Roger.
+Aurora Seven, vuoi che ti legga una parte della lista di controllo?
+Roger. Lasciami prendere lo stivaggio e poi puoi aiutarmi con il pre-retrogrado.
+Roger. In attesa.
+Aurora Seven, possiamo procedere con la checklist? Ci restano circa 3 minuti di contatto.
+Roger. Procedi con la checklist. Ora sto entrando in retroattitudine e la mia modalità di controllo è automatica, mentre i miei atteggiamenti sono in standby. Aspetta un attimo, ho un problema.
+Ho un problema con l'ASCS. Credo che l'ASCS non funzioni correttamente. Lasciami... la retrosequenza di emergenza è attivata e il retromanuale è attivato. Devo valutare questo retro... questo problema con l'ASCS, Jim, prima di procedere oltre.
+Ricevuto. Pronti. Assicuratevi che il vostro dispositivo di emergenza sia attivato e che i fusibili principali di emergenza siano spenti.
+Ricevuto. Lo sono. Okay, ora passo al fly-by-wire, ad Aux Damp, e ora... gli atteggiamenti non vanno d'accordo. Cinque minuti alla retrogradazione; la luce è accesa. Ho anche una velocità di discesa di circa 3, 4 metri al secondo.
+Ripeti, ripeti.
+La mia velocità di discesa è di circa 12 piedi al secondo.
+Quale luce era accesa?
+Sì, sono tornato al fly-by-wire e sto cercando di orientarmi.
+Scott, proviamo a spuntare alcune cose da questa lista retrospettiva prima che tu arrivi in ​​California.
+Okay. Continua così, Jim.
+Roger. Jim, controlla la lista per me.
+Ricevuto. Interruttore Squib attivato; interruttore di retroespulsione automatica disattivato; giroscopi normali; leva manuale fuori; manopole di rollio, imbardata e beccheggio inserite.
+Rollio, imbardata e beccheggio sono inclusi.
+Retroattitudine automatica; retrazione automatica del mirino; interruttore di manovra disattivato; leva del periscopio sollevata; potenza UHF-Hi; trasmissione in UHF; segnale continuo; potenza VOX attivata per trasmissione e registrazione; tutte le batterie controllate. Ricevi?
+Ricevuto. È completo.
+Trasmetto in cieco. Abbiamo la LOS. Il tempo trascorso a terra è al mio posto, 4 ore, 29 minuti e 30 secondi. Trasmetto in cieco ad Aurora Seven. Assicuratevi che tutti gli interruttori di tono siano accesi; le spie luminose siano accese; l'interruttore del fusibile manuale retroazionato sia acceso; l'interruttore del fusibile del retroazionato sia spento. Controllate il pannello frontale e assicuratevi che sia chiuso.
+Aurora Seven. Hai ricevuto?
+Roger. Ho copiato tutto; penso che siamo in buona forma. Non sono sicuro di quale sia la situazione attuale dell'ASCS.
+Aurora Seven, Aurora Seven, qui è California Com Tech, California Com Tech. Mi sentite? Passo.
+Salve, California Com Tech. Forte e chiaro. Come faccio?
+Anche io ti sento forte e chiaro. Preparati per Cap Com.
+Sette, qui Cap Com. Sei in retroattività?
+Sì, non ho un accordo con l'ASCS nella finestra, Al. Credo che dovrò passare al fly-by-wire e usare la finestra e l'oscilloscopio. L'ASCS è pessimo. Io uso il fly-by-wire e il manuale.
+Ricevuto. Siamo d'accordo. Mancano circa 30 secondi.
+Circa 10 secondi al mio arrivo.
+Roger.
+La retrosequenza è verde.
+Ricevuto. Controlla rapidamente ASCS per vedere se la modalità di orientamento regge.
+Se i giroscopi sono spenti, dovrai usare l'assetto bypass.
+I gyros sono pronti.
+Ma dovrai usare il bypass dell'assetto e l'override manuale.
+Roger.
+Ok. Fuoco 1, fuoco 2 e fuoco 3. Ho dovuto partire manualmente. C'è un po' di fumo nella capsula.
+Gli atteggiamenti restano, Scotty.
+Ok, penso che abbiano retto bene, Al. Il... penso che fossero buoni. Non so dirti cosa non andava perché i giroscopi non erano proprio a posto. Ma retrojettison... 3 interruttori a fusibile sono accesi.
+Ricevuto. Dovremmo effettuare il retrogetto tra circa 10 secondi.
+Roger.
+È stato un bel colpo delicato. Tutti e tre hanno sparato. Retroattitude era rosso.
+Roger. Avrei dovuto abbandonarlo subito.
+Ah, proprio allora alle 34:10, in orario.
+Roger. Quanto carburante ti è rimasto in entrambi i serbatoi?
+Ho 20 e 5 [percento].
+Roger. Credo che sarebbe meglio usare...
+Userò il manuale.
+---al rientro, a meno che l'ASCS non ti tenga in assetto di rientro.
+Sì, è possibile. Dovrò farlo manualmente.
+Ricevuto. Ti consiglio di provare prima Aux Damp; se non funziona, passa al fly-by-wire.
+Ok, dovrò farlo.
+Il pallone è scomparso [dalla vista]. A quanto pare sono senza carburante manuale. Devo ricorrere al fly-by-wire per fermare questa caduta.
+Ricevuto. Utilizzo il fly-by-wire per fermare la caduta.
+Aurora Seven. Capisco che RSCS non ha funzionato.
+Sono senza carburante manuale, Al.
+Roger.
+0,05 g dovrebbe essere quando?
+Oh, hai un sacco di tempo. Dovrebbe essere il tempo trascorso 04:44
+Roger.
+Hai tutto il tempo. Prenditi il ​​tempo necessario per entrare in atteggiamento di rientro.
+Roger.
+Stavo giusto dando un'occhiata alla tua checklist per il rientro. Sembra che tu sia in ottima forma. Dovrai ritrarre manualmente il mirino.
+No, non l'ho fatto. Il mirino è arrivato, Al.
+Roger. Non ho capito. Molto bene.
+Come va con l'atteggiamento di rientro? Passo.
+Prima devo sistemare un paio di cose. Non lo so ancora. Ci vorrà un po' di tempo.
+Va bene.
+Ci sarà poco carburante.
+Roger Hai un sacco di tempo; hai circa 7 minuti prima di 0,05 g, quindi prendi...
+Roger.
+Ok. Riesco a distinguere molto, molto piccolo: terreni agricoli, pascoli sottostanti. Vedo singoli campi, fiumi, laghi, strade, credo. Tornerò all'atteggiamento di rientro.
+Roger Seven, ti consiglio di avvicinarti all'assetto di rientro, consumando il meno carburante possibile e di rimanere in attesa del fly-by-wire finché la velocità non si stabilizza. Passo.
+Roger. Lo farò.
+Sette, qui è la California. Vi stiamo perdendo. Preparatevi per Cape Canaveral.
+Roger.
+Aurora Seven, Cape Cap Com. Fine.
+Ciao Cape Cap Com, Aurora Seven. Forte e chiaro.
+Aurora Seven, Cape Cap Com. Fine.
+Salve, Cape Cap Com. Avanti.
+Roger. Hai la mascherina chiusa?
+Negativo. Lo è adesso. Grazie.
+Roger. Dammi il carburante, per favore.
+Il carburante è al 15% automatico. Indico il 7% manuale, ma è vuoto e inefficace.
+Ricevuto. Hai qualche minuto prima che inizi il blackout.
+Due minuti, dici?
+Aurora Seven, Capitano Com.
+Forza, Capitano Com.
+Volevo solo sentire cosa ne pensavi.
+Roger. Il carburante scarseggerà, Gus. Ora ho l'orizzonte in vista. Cerco di mantenere le tariffe molto basse. Ho appena perso parte del pallone. Il filo del pallone.
+...lista di controllo.
+Sì. Siamo in buone condizioni per lo stivaggio.
+Aurora Seven, hai completato il tuo rientro...
+Roger.
+Controllo.
+Le condizioni meteo nell'area di recupero sono buone. Cielo coperto; onde alte 90 cm; vento a 8 nodi; visibilità di 16 km; e la base delle nuvole è a 300 metri.
+Roger.
+Te ne daremo altri non appena avremo un IP.
+Roger.
+Aurora Seven, Cap Com. Puoi controllare il tuo vano portaoggetti e assicurarti che sia chiuso e che...
+Roger, è stretto.
+Rog.
+Da un momento all'altro potrebbe verificarsi un blackout.
+Roger.
+Ricevuto. Ti mostriamo che hai ancora un po' di carburante manuale.
+Sì, ma non riesco a ricavarne nulla.
+Roger.
+Aurora Seven, Cap Com. Leggi ancora?
+Ricevuto. Forte e chiaro.
+Non ho ancora impostato la velocità di rollio. Ne aggiungerò un po' quando inizierò ad avere un aumento della forza g.
+Leggevo solo 0,5 g sull'accelerometro. Ok, ecco alcuni valori.
+Ho il bagliore arancione. Immagino che ora siamo in blackout. Gus, fammi provare. C'è qualcosa che si stacca.
+Ok. In questo momento sto impostando una velocità di rollio.
+Andiamo ad Aux Damp.
+Spero che abbiamo abbastanza carburante. In questo momento vedo un bagliore arancione.
+Bagliore arancione brillante.
+Ora sto solo prendendo un po' di accelerazione.
+Non molto bagliore: solo un po'. Lettura 0,5 g. L'Aux Damp sembra funzionare bene. Spero che il carburante regga. C'è 1 g. Si vedono alcune strisce di fumo dietro. Ci sono alcuni lampi verdi là fuori.
+Il rientro sta procedendo piuttosto bene. Aux Damp sembra mantenere le oscillazioni piuttosto bene. Ora siamo a 1,5 g. Si è staccato un grosso pezzo fiammeggiante. Sembrava quasi che si fosse staccato dalla torre.
+Oh, spero di no.
+Ok. Stiamo leggendo 3 g, penso che dovremo lasciare andare il controllo dello smorzamento del rientro questa volta. Ora leggo 4 g. Il rientro sembra procedere bene. Le velocità lì sembrano essere gestite dall'Aux Damp. Non credo di oscillare troppo; sembra che stia rotolando proprio intorno a quel bagliore - il cielo dietro. Il carburante automatico segna ancora 14 (percento) a 6,5 ​​g. Le velocità si mantengono entro 1 grado e mezzo al secondo, indicando una velocità di rollio di circa 10 gradi al secondo. Abbiamo ancora raggiunto il picco a 6,8 g. Il bagliore arancione è scomparso. Siamo fuori dal picco di g. Indica ancora il 14 [percento] di carburante automatico; torniamo a 5 g.
+E sono in attesa dell'altimetro staccato. Capo, hai già letto? L'altimetro è staccato. 100 [1.000] piedi, la velocità di discesa sta diminuendo, la pressione in cabina è... la pressione in cabina si mantiene bene. Perde ancora un po' di flusso. No, sono onde d'urto. Fumo che esce da dietro. Mi preparo per la frenata a 45 [1.000 piedi].
+Le oscillazioni sono piuttosto buone. Credo che l'ASCS abbia ormai tirato le cuoia. L'interruttore del fusibile di emergenza è acceso.
+Ricevuto. Aurora Sette, le letture sono buone. Ora stiamo ricevendo delle oscillazioni piuttosto buone e siamo senza carburante. Dal sole sembra che ci siano circa 45 gradi. Ahi, sta arrivando... sta davvero andando oltre.
+Penso che sia meglio provare con il freno. Lo estraggo manualmente a 25 [1.000 piedi]. Sta tenendo, ed è arrivato giusto in tempo. L'interruttore del fusibile di sgancio principale è acceso ora, 21 [1.000 piedi] di altitudine indicata.
+Ora è attivo l'override dello snorkel. Portata di emergenza attiva. Interruttore principale del fusibile di emergenza a 15 [1.000 piedi], pronto per il paracadute principale a 10 [1.000 piedi].
+Pressione in cabina, altimetro in cabina in linea con l'altitudine. Ora dovrebbero essere 13.000 [piedi]. Punto 10; vedo che il paracadute principale è fuori, e ridotto, e mi sembra a posto. Il paracadute principale è fuori. Il sacco di atterraggio ora va in automatico. Il freno è sganciato. Vedo un paracadute perfetto, visiera aperta. La temperatura in cabina è solo di 110 [gradi] a questo punto. Il tubo del casco è staccato.
+Qualcuno legge? Qualcuno legge Aurora Seven? Passo.
+Salve, c'è qualcuno della squadra di recupero di Mercurio? Qualcuno legge Aurora Seven? Passo.
+Aurora Seven, Aurora Seven, Cape Cap Com. Finita.
+Roger. Ripeti. Sei molto debole.
+Aurora Seven, Aurora Seven, Cape Cap Com. Finita.
+Roger. Ti ricevo. Sono sul paracadute principale a 1500 metri. Le condizioni sono buone. Non sono in contatto con nessuna forza di recupero. Hai informazioni sui tempi di recupero? Passo.
+Ciao, ci sono forze di recupero di Mercurio? Come interpretate Aurora Seven? Passo.
+Aurora Seven, Cape Cap Com. Fine.
+Roger. Forte e chiaro. Aurora Seven legge il Capo. Forte e chiaro. Come faccio, Gus?
+Gus, come leggi?
+Aurora Seven... 95. Il tuo punto di atterraggio è a 200 miglia di distanza. Ti faremo arrivare con un balzo i soccorritori aerei.
+Roger. Capisco. Sto leggendo.
+Aurora Seven, Aurora Seven, Cape Cap Com. Attenzione, il punto di atterraggio è lungo. Vi faremo arrivare i soccorritori aerei tra circa un'ora.
+Ricevuto. Capito in 1 ora.

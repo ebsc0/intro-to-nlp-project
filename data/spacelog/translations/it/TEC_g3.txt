@@ -1,0 +1,1902 @@
+Bulloni e decollo.
+Ricevuto. Il cronometro è partito.
+C'è il programma di rotazione.
+Ricevuto. Rotolo.
+Bene. Il tiro è completato.
+Ricevuto. Rotolo completato.
+Ecco fatto.
+Roger. Pitch. Sei sulla buona strada,.
+Sì, amico!
+Più 50 secondi.
+Ricevuto. Ritardo in modalità II.
+Roger.
+La pressione in cabina si mantiene a 6,0, con un leggero aumento.
+Roger.
+Tutto è diventato silenzioso.
+Roger.
+Riduzione della pressione in cabina a 6,5.
+Roger. Modalità II.
+Roger.
+Primo aggiornamento ricevuto.
+Ricevuto. Aggiornamento.
+Ti trovi un po' in alto sulla traiettoria di volo, ma nessun problema,.
+Ok, Molly Brown è pronta per la messa in scena.
+Roger. Da qui la situazione è bella.
+Roger.
+Secondo aggiornamento ricevuto.
+Ricevuto. Aggiornamento.
+Ok, c'era la messa in scena.
+Roger. Palco.
+E stiamo spingendo.
+Bene. Da qui la spinta sembra buona.
+mostra l'errore di assetto del beccheggio su vasta scala.
+Bene. Stiamo iniziando a sterzare.
+L'orizzonte appare subito in vista.
+Roger.
+è VIA!
+Da qui la vista è bella.
+Oddio! Guarda quell'orizzonte.
+Da qui in poi lo sterzo è buono.
+Ehi, ci stiamo muovendo proprio lungo quell'orizzonte.
+Roger.
+Cosa hai detto, Gordo?
+Hai un bel po' di gas lì, eh?
+SÌ.
+Roger. Da qui in poi si parte.
+Roger. è VIA.
+Roger.
+Continuando a seguire la vecchia linea.
+Va bene.
+Sì, si vede molto bene il panorama. Il muso è sceso un po' sotto l'orizzonte. Ora è di nuovo in alto.
+Ricevuto. Aspetta il mio segno su 0.8.
+Roger.
+MARCA 0.8.
+Bello spettacolo.
+Roger.
+Sembra buono.
+Roger. Sei pronto,.
+Uno sette.
+Roger.
+Ok. Siamo separati.
+Roger. Carenature.
+Ecco, tutte le carenature sono andate perse.
+Va bene, va bene.
+Hai le IVI?
+Okay. 17 piedi/sec a, e ora ho 29 piedi/sec.
+Ricevuto. 23 giù?
+Sono 3 giù, 7 a destra.
+Ricevuto. 3 giù, 7 a destra.
+E 29 a poppa. A destra.
+E 23 a poppa. Okay.
+E l'inclinazione della palla è di 18° con il naso verso il basso.
+Ricevuto. Abbiamo un'orbita di 87x125,.
+, Capo.
+Roger. Hai un'orbita 87x125. Ti farò avere One-Alpha a breve.
+Roger.
+Roger. Il nuovo tempo One-Alpha è trascorso 18:12. 18 minuti e 12 secondi.
+Ricevuto. 18:12.
+Roger. Scrivi velocemente, John.
+Quell'orizzonte è esattamente dove avevano detto che sarebbe stato.
+SÌ.
+Vediamo, abbiamo fatto tutto quello che c'era scritto in questa lista, John? Vediamo: i retrorazzi sono sicuri. Sì.
+SÌ.
+potere—ATTEGGIAMENTO.
+Controllore di manovra: riposto. Luci di sequenza: test.
+Braccioli, piastre frontali: aperti.
+La bombola secondaria di O2 è chiusa. Io ho la mia. Valvola di scarico su NORMALE.
+, Capo.
+VAI, Capo.
+Sembra più bello lì che durante un volo balistico?
+Ripeti.
+Da lì sembra più bello che durante un volo balistico?
+Non riesco a capirti, Gordo.
+Roger. Che effetto fa?
+Sembra fantastico!
+Rog.
+Computer—PRE-LANCIO. Alta frequenza disattivata. Selettore antenna su ADATTATORE.
+Cape, come si legge sull'antenna dell'adattatore? Passo.
+Capo,. Oltre.
+Forse li abbiamo persi.
+SÌ.
+Cavolo, è dura guardare quel giroscopio.
+SÌ.
+Immagino che dovrai riporre gli spilli antidroga, eh?
+Sì. Metti via quelle spille di sicurezza.
+, Capo.
+Capo,. Come leggi?
+Capo,. Come leggi?
+Meglio andare all'antenna di rientro.
+Va bene.
+Cape, come leggi Molly Brown?
+Penso che ormai li abbiamo persi. Lasciamo l'adattatore sull'antenna e proviamo con i Canaries.
+Va bene.
+Mettiamoci in fila qui.
+Spengo la corrente e vedo cosa abbiamo. Guarda, abbiamo ancora... Voglio spegnerli. Li spegnerò uno alla volta, altrimenti potremmo avere un calo di tensione.
+Quanto manca al nostro arrivo alle Canarie?
+Il tempo è di circa 14. Solo un secondo. Okay, Canary è in acquisizione alle 14:50. 21:42.
+Va bene.
+Direi che sono stato messo abbastanza bene, non credi?
+SÌ.
+Grande!
+Accidenti, Gus, non riesco a inserire la pompetta per la pressione sanguigna. Davvero, non ci riesco.
+Vuole continuare a sbadigliarci in continuazione.
+Eh?
+Vuole continuare a sbadigliarci in continuazione.
+SÌ.
+Ci deve essere una perdita.
+Che tipo di perdita?
+Va bene.
+Vuoi la planimetria?
+SÌ.
+Se riesco a tirarlo fuori.
+Il citofono è rumoroso, vero?
+Non riesco a togliere la plancia da lì.
+Non riesco a tirarlo fuori, John.
+Non riesci a estrarre il plotboard?
+Di sicuro non ci riuscirò mai. Oh sì, ecco che arriva.
+, Canarino. Come leggi?
+Canarino, questo è. Come leggi?
+Roger. Ti ho sentito forte e chiaro,.
+Ti leggo allo stesso modo.
+Abbiamo i vostri sistemi solidi e tutti sembrano a posto.
+Ok, qui la situazione è piuttosto buona.
+Se sei pronta a copiare, ho il tuo momento 2-1. Mi ricevi, Molly Brown?
+Va bene.
+Bene. Pronti con 2-1.
+Roger. ΔV139. 15 55 47. 01 31 47. Rollio a sinistra 55°. GMTRB 16 05 31. Rollio a destra 65. Hai ricevuto?
+Li hai presi?
+SÌ.
+Ecco un pianeta lassù.
+Li hai presi?
+Roger.
+, Canarino.
+Ci stiamo preparando a rileggerveli.
+Roger.
+Roger. ΔV di 139. GMT di 16-assicura che—15 55 47.
+, Canary. Ti chiedo di posizionare l'interruttore del radiatore in posizione FLOW.
+Ricevuto. Il radiatore è in posizione FLOW. È stato così per tutto il tempo.
+Anche noi ci stiamo rinfrescando. Funziona.
+Lettura GMT 2-1—15 55 47. GMTRB 16 05 31. Angolo di inclinazione 55° a sinistra e 65° a destra.
+, Canary. Siamo a tua disposizione per il controllo della comunicazione UHF. Ricevi?
+Ricevuto. Siamo sulla UHF #2. Abbiamo percorso tutto il passaggio. Passo.
+, Canarino.
+Andare avanti.
+Non credo che mi leggano.
+Roger. Siamo in attesa del tuo controllo UHF COM. Potresti posizionare l'interruttore del radiatore in posizione FLOW?
+Roger. John ha risposto a tutte queste domande. È solo in REGISTRO.
+Ricevuto. Il radiatore è stato in FLUSSO per tutto il passaggio. L'UHF è stato sul n. 2 per tutto il passaggio. Finito.
+Roger. Ricevuto forte e chiaro. Siamo in attesa della tua pressione sanguigna.
+Roger. La pressione sanguigna sta scendendo.
+, Canary. Tieni presente che nei tuoi 15 secondi di combustione hai raggiunto una velocità di 12,6 piedi/sec. Hai copiato?
+Ricevuto. Capisco. Sembra che ci sia una perdita. Deve esserci una perdita in uno dei propulsori, perché ho un'imbardata continua a sinistra.
+Roger. Capisco che si ottiene un'imbardata continua a sinistra.
+Molto leggero. Deriva molto lenta.
+Roger.
+, Canary. Ho le temperature dei tuoi radiatori, se sei pronto a copiarle.
+Roger.
+Ricevuto. La temperatura di uscita del radiatore è fuori scala. La temperatura di ingresso del radiatore è 74.
+Ricevuto. Fuori scala. Ritorno al BY-PASS sul radiatore.
+Ricevuto. Capisco.
+, Canary. Pronti a far partire il vostro cronometro a 20 minuti di tempo trascorso a terra. Ai miei ordini.
+MARK! Hai ricevuto, Molly Brown?
+Roger. Ho copiato e le uova di riccio di mare si sono attivate.
+Roger.
+Ti informiamo che abbiamo ricevuto la tua pressione sanguigna,.
+Roger.
+La temperatura di uscita del radiatore è fuori scala e l'ora di Greenwich è 14:45.
+Il Rate Command sembra buono.
+Bene. I controlli sono completati.
+Leggete ancora, Canarini?
+, Canarino.
+Ricevuto. I controlli di controllo sono stati completati e anche la checklist di inserimento è stata completata.
+Ricevuto. Capisco.
+Il Capo mi ha consigliato di spegnere l'interruttore dell'elica e di riciclare un paio di volte, e questo potrebbe fermare la perdita.
+Non perde.
+Hai copiato Molly Brown?
+Ho copiato.
+Ecco, Gus, fammi mettere la spilla antidroga.
+, Canarino. Mi ricevi?
+Ripeti.
+Roger. Possiamo riprovare a preparare le uova di riccio di mare, per favore?
+Ricevuto. Sono trascorsi 20 minuti.
+Ricevuto. Capisco.
+Siamo sopra l'Africa, John.
+SÌ.
+Sapevo che non sarei riuscito a riporre quegli spilli finché non fossimo arrivati ​​sopra Kano.
+Qui dentro galleggiano ogni genere di spazzatura.
+Cavolo, sono d'accordo!
+Se mi dai la macchina fotografica, faccio un paio di foto.
+Bene. La valvola di scarico è in posizione NORMALE.
+Abbiamo un errore di scansione. Chissà cosa l'ha causato. Ehi, stiamo andando verso l'esterno e non posso farci niente.
+Lo scanner ti sta mandando in tilt?
+SÌ.
+Oh, lo so cos'era. Il mio ginocchio stava colpendo la cloche, vero?
+No, non credo. Comunque, sarebbe solo su Pulse.
+Dobbiamo far tornare la pressione a livelli normali.
+Abbiamo una perdita?
+Stavano parlando di questo evento.
+Vediamo.
+Guarda la pressione nella cabina!
+Che cosa?
+Abbiamo perso il —.
+Cosa abbiamo perso? Cosa abbiamo perso?
+Ho perso un convertitore primario.
+Veramente?
+SÌ.
+Spengo quel riscaldamento.
+Ok, tolgo la corrente elettrica.
+Sei sicuro di non aver urtato il convertitore portandolo in posizione OFF?
+Quell'interruttore lassù?
+No, non potresti, vero?
+NO.
+Vuoi riprovare sul primario e vedere cosa succede?
+Ecco come l'abbiamo perso. Sì.
+Vedere?
+SÌ.
+Va bene.
+Bene. Questo è tutto.
+, Capo.
+Come è sistemato quell'interruttore lassù?
+, Capo.
+Sì.
+, Capo.
+Capo, qui.
+Roger. Come va con quel propulsore?
+È ancora VIA. Stiamo ancora un po' andando alla deriva, Gordo. Non è male. Riesco a tenerlo con Pulse senza problemi. Ma abbiamo perso il nostro convertitore DC-DC primario.
+Roger. Ho perso il tuo DC-DC primario.
+Roger.
+Roger.
+Ma non dev'essere stato un problema dello scanner.
+Hai provato a usare il tuo interruttore, Gus?
+Sì, lo abbiamo fatto.
+Hai provato a usare l'interruttore automatico per interrompere quel propulsore irregolare.
+Negativo.
+Non so quale sia. Vediamo: imbardata a sinistra.
+Imbardata a sinistra. Sarebbe il numero 7 o 8.
+Non ne ricaviamo alcun vantaggio.
+Sta davvero aumentando, non è vero?
+Sì, ma si sta fermando.
+Questo ha fermato tutto, eccome.
+SÌ.
+Ho riacceso il riscaldamento automatico.
+Dovrei spegnerlo finché la pressione criogenica non scende.
+Perdita del controllo del volo.
+Ora ci sta portando nella direzione opposta.
+È difficile vedere qui dentro, non è vero?
+Non riesci a farlo? Non riesci a toglierlo?
+Che ore sono adesso?
+Ne sono trascorsi 32.
+Siamo quasi oltre... l'Africa.
+Da dove?
+Tra poco attraverseremo la costa orientale dell'Africa.
+Dammi uno di quegli asciugamani che hai nella scatola, per favore?
+Bene. Sono in cima?
+No, sono tornati indietro.
+Ciao! Stiamo arrivando dal lato notturno.
+, Capo.
+Guarda come è arrivata quella notte.
+, Cap.
+Ti ho letto bene, Gordo. Come leggi Molly Brown?
+Roger. Come va il tuo sistema di controllo?
+Cape. Come leggi Molly Brown?
+Ti leggo in modo debole ma leggibile.
+Sì, sei quasi illeggibile.
+Ripeti,.
+Ho detto che posso leggerti, Gordo.
+Roger, anch'io non ti leggo quasi mai.
+Come funziona il tuo sistema di controllo? Fine.
+Quella roba ci passa accanto.
+SÌ.
+Okay. Esatto. Ora ho chiuso la tuta.
+Là fuori ci sono dei fulmini.
+Sì.
+Guarda come passa quella roba. Oddio! Brilla davvero, vero?
+SÌ.
+Ora puoi vedere quei propulsori che sparano laggiù.
+Ora, tu mi dai la pressione sanguigna, non è vero?
+Te lo do. Vuoi che te lo dia?
+Dice di sì.
+Dice Comando: Oh! Temperatura orale.
+Oh, volevo dire la temperatura orale, John. Puoi tirar fuori il termometro?
+SÌ.
+Non riesco a inserire la pompetta per la pressione sanguigna.
+Forse stai spingendo la cosa dalla parte sbagliata.
+OH.
+Bene. Torniamo alla NORMALITÀ sulla valvola di scarico.
+Come si fa a distinguere le estremità?
+Tutto quello che so è che non si inserisce da una parte, ma si inserisce dall'altra. Non avevo mai visto un misuratore di pressione sanguigna del genere prima di questo volo.
+Guarda! È bellissimo!
+Ci sono la Croce del Sud e Alpha e Beta Centuri.
+Quei propulsori stanno funzionando?
+SÌ.
+Lo sto facendo.
+Oh, lo stai facendo?
+Sì, stiamo imbardando. Devo evitare che imbardi così tanto.
+Farò questo O2 —
+Vuoi che lo rimetta a posto e gli misuri la pressione?
+Se riesci a farlo entrare tu. Io non ci riesco.
+Che ore sono?
+Sono trascorsi 41 minuti. Arrivo a 42:19.
+Va bene.
+Circa un altro minuto.
+Torniamo al numero 1 sulla UHF.
+Tornando al numero 1 sulla UHF al tempo trascorso di 42.
+Là fuori non c'è alcun orizzonte.
+, questo è.
+Roger, come funziona il tuo sistema di controllo?
+Beh, il sistema di controllo funziona bene. Ho solo una leggera imbardata a sinistra.
+, Ti seguo molto debolmente. Lo ripeteresti?
+Tutto il sistema di controllo funziona correttamente. Abbiamo solo una leggera deriva verso sinistra.
+Ricevuto. Capito. Potresti confermare che sei su un convertitore CC-CC secondario?
+Affermativa.
+Stai utilizzando la logica di imbardata secondaria?
+Dovremmo provarci?
+SÌ.
+,. Sei nella posizione FLOW sul radiatore?
+Il radiatore è in posizione FLOW. Ora stiamo provando la logica di imbardata secondaria.
+Roger.
+Non so dove metterlo.
+Contiene urina?
+No, non c'è niente dentro. C'è solo aria. Dovrei metterlo nel contenitore per il cibo a poppa.
+Se è solo aria, forala.
+Beh, questo sì che è un pensiero.
+Roger. Impossibile inviare la pressione sanguigna. Il bulbo non entra più nel foro della tuta.
+Roger. Cape consiglia di posizionare l'interruttore del conducente su SECONDARY.
+Roger.
+Andare avanti.
+Temperatura di ingresso: 76°. Temperatura di uscita: 42°.
+Roger.
+Resteremo nel FLOW.
+Quel conducente secondario potrebbe aver fermato la deriva.
+Andare avanti.
+Non abbiamo ricevuto la misurazione della pressione sanguigna né la temperatura orale.
+Roger. Ti avevo detto che il bulbo della pressione sanguigna non entra più nel foro. Credo che l'O-ring sia inceppato, o qualcosa del genere.
+Ricevuto. Siamo pronti per la manovra respiratoria.
+Bene. Eccolo.
+Bene. Che ne dici di questo? Audio n. 2 in UHF e CALIBRA —
+,. Preparatevi per un trucco sull'ora GMT.
+Roger.
+Al mio turno, il GMT sarà 15:11:10.
+SEGNO!
+Ricevuto. Il mio orologio è avanti di 10 secondi.
+Roger.
+Hai già ricevuto la terapia orale temporanea?
+Andare avanti.
+Abbiamo copiato la tua manovra respiratoria e abbiamo la tua temperatura orale. Tutti i sistemi sembrano GO da terra.
+,, Carnarvon. Come leggi?
+Forte e chiaro. Come mai?
+Roger. Ti ho letto lo stesso. Potresti darci la tua situazione, per favore? E il capo vorrebbe sapere se qualcuno dei rimedi ha risolto il tuo problema di imbardata.
+No. Nessuno dei rimedi ha funzionato e siamo VIA.
+Bene. Hai un GO da qui sotto per la seconda orbita e, se rimani in attesa, ti invierò un TR 2-1 e un carico Gemini.
+Roger.
+Preparatevi per TR.
+Sei pronto?
+SÌ.
+Ok, abbiamo il tuo carico Gemini. Non siamo riusciti a far entrare TR. Abbiamo ricevuto un rifiuto di un veicolo spaziale su TR, ed è entrato in questo momento. Vorrei darti un hack su TR a 39:30, tra circa 10 secondi.
+Lo prenderai a pugni, vero?
+SÌ.
+, restate al mio posto.
+MARK! 39:30 è il tuo TR. Il tuo orologio TR è sincronizzato con tutti quelli a terra e il tempo trascorso dalla tua navicella spaziale è sincronizzato.
+Ok. Il tempo del computer è di 39:28. È abbastanza vicino.
+Roger, e credo di vedere una luce da Perth.
+Roger. Ho capito che vedi la luce da Perth. Ti daremo un aggiornamento sullo stato del radiatore tra un minuto e, se puoi, indicaci il tuo orario GMT per il tuo esperimento. Te ne sarei grato.
+Roger. Il GMT di quell'esperimento sul sangue —
+Il tempo trascorso dall'esperimento del sangue è stato di 50 minuti e 18 secondi. Questo è il tempo trascorso.
+Ricevuto. 50 minuti e 18 secondi. Il radiatore in entrata è 73, il radiatore in uscita è 38. Stai andando piuttosto bene.
+Roger.
+E se John è pronto a copiare una qualsiasi di queste manovre, ce l'ho per te.
+Tutto pronto.
+È pronto a copiare.
+Okay. GMTB 15 43 23. ΔV di 139. Durata della combustione: 2 minuti e 39 secondi. Il tuo 15 55 24. Rotola a sinistra 55. GMTRB 16 05 28. Rotola a destra 65. GMT 400 K 15 58 23. Il tuo carico di manovra: 6344257, 0444775, 0533348, 664903,3, 676628,4, 082244,4, 09120,50, 10031,38, 11302,00.
+Roger. Ho copiato i tuoi parametri. Passo.
+, Carnarvon qui. Puoi disattivare il circuito del refrigerante secondario e impostare l'evaporatore su NORMALE.
+Ricevuto. Circuito del refrigerante secondario OFF ed evaporatore su NORMALE.
+, Carnarvon.
+Andare avanti.
+Ricevuto. La tua combustione in Texas sarà di 48 piedi/sec per 73 secondi.
+Ok, 48 piedi/sec per 73 secondi.
+Affermativo. Abbiamo caricato il tuo carico di TR e Gemini. I tuoi orologi a terra sembrano a posto e qui tutto è a posto. Ci vediamo al prossimo viaggio.
+Roger.
+Torniamo alla CLASSIFICA.
+Va bene.
+Al controllo dei propulsori, il fuoco è rosso a strisce. Quando i propulsori di imbardata si attivano, cancellano definitivamente l'orizzonte. Riesco a vedere l'orizzonte attraverso i propulsori di beccheggio.
+Oh, che bello.
+Eh?
+Non ci crederei se non fosse successo.
+Che cosa?
+La mia imbracatura sinistra è rimasta impigliata nella tavola spinale.
+Oh, Oh.
+Ho dovuto girarmi per tirarlo fuori.
+Ehi, credo che la deriva dell'imbardata si sia fermata.
+Siamo scesi a 2400. Non è male.
+Va bene?
+Sì, va bene. Significa che non abbiamo usato carburante.
+Il tempo trascorso è 1:05. Ora vado a controllare le batterie principali.
+—9½ e 24 su uno e 9½ e 24 su due, e 9½ e 24 su tre. 9½ e 24 su quattro. Questi piatti principali sono buoni!
+Che ore sono adesso, Gus?
+Sono 63 minuti.
+63. Va bene.
+Guarda quella cosa. Non so cosa possiamo fare con tutta questa roba che galleggia in giro. Tu sì?
+No, nemmeno io. Abbiamo bisogno di un posto speciale dove conservare quella roba.
+Lo metterò in tasca.
+Ok. Verificherò quel carico.
+L'interruttore automatico TR-5 è spento?
+SÌ.
+Va bene.
+Non vedi molte stelle. Lo sai?
+Abbiamo di nuovo uno scanner che ignora la luce. Non stiamo perdendo di nuovo quegli indicatori, vero?
+NO.
+Tutto il nostro potere è a posto?
+Sì.
+Immagino che siano stati i nostri scanner.
+204. È semplicemente meraviglioso, Gus! Corrisponde alla cifra!
+Ehi, dovremmo tenere le nostre mascherine chiuse.
+Va bene.
+Valvola di ricircolo dell'aria in cabina - SU. Ecco dov'è.
+Eh?
+C'è scritto "Valvola di ricircolo aria abitacolo SU". Ecco dove si trova.
+Sì. Mascherine chiuse o aperte?
+Chiuso.
+Va bene.
+Ora abbiamo un controllo della modalità di recupero.
+Va bene.
+Ora?
+Beh, sì. Adesso.
+Va bene.
+Ehi, c'era un fulmine laggiù.
+Vuoi andare a CATCH-UP?
+SÌ.
+In RECUPERO. Giusto?
+SÌ.
+Ciao. Non sono ancora in CATCH-UP. C'è CATCH-UP.
+Ok. Questo l'ho cancellato.
+Va bene.
+Vuoi farlo entrare?
+È perforato.
+Ok, accendo il computer.
+Che ne dici? Proprio come dovrebbe essere.
+Roger. Proprio come dovrebbe essere.
+Abbassare il tono.
+SÌ.
+Ok, 56 è 20094, 57 è 19280.
+La pressione della cabina segna 5,2, non è vero?
+Sì, regge.
+50 - 30 - 40. Queste letture sono corrette. Ottieni 56?
+Sì, i numeri 56 e 57 sono proprio quelli giusti. Li ho copiati.
+Ok, ecco qua: 10 - 20 - 30.
+Ok, che ore sono adesso?
+70 minuti.
+Eh?
+Tempo trascorso 70 minuti.
+Quanti?
+Proprio adesso?
+1:10. Sì.
+Ok, al minuto 70:18 dammelo.
+SEGNO!
+Ok, Esperimento del sangue disattivato.
+Bene, è esattamente così: 39° inclinati verso il basso.
+Bene, e all'1:15 ci saranno anche le uova di riccio di mare.
+Va bene.
+Il controllo degli impulsi è davvero buono.
+SÌ.
+Ma di sicuro si illumina tutto intorno, non è vero?
+Certo che sì.
+Bene, stiamo per riunire tutto in un'unica finestra.
+Va bene.
+, Capo.
+Bene, la lettura del controllo in modalità Catch-Up era 69 000 00.
+Capo, vai avanti.
+Roger, Capo. Ti faremo lasciare acceso l'interruttore del propellente e fare la combustione in Texas, e poi monitoreremo il consumo di carburante in tutti gli Stati Uniti. Se continua, ti faremo spegnere gli interruttori del propellente la prossima volta che sarai sopra Capo, tranne quando devi usare il carburante.
+Lasciare acceso l'interruttore del propellente per la combustione in Texas e poi controllare che non vi siano perdite?
+Ricevuto. Lascialo acceso fino a dopo la combustione del Texas, e poi controlleremo la perdita. Se continua a perdere, ti faremo chiudere l'impianto una volta superato il Capo.
+Roger. Non ci accorgiamo di usare carburante.
+Va bene, non siamo eccessivamente preoccupati. Vorremmo solo capire cosa sta causando questo problema.
+La tua pressione di O2 è fuori scala, sul lato alto, secondo la telemetria.
+Ripeti, Gordo.
+La tua pressione di ossigeno, la tua pressione di O₂, è fuori dal limite massimo della scala. Potresti aver avuto un guasto a quell'interruttore lì dentro. Potresti aver avuto un guasto alla telemetria lì dentro che ha raggiunto il limite massimo.
+Roger. Andiamo ad High Rate e vediamo se scende, Gordo.
+Roger e Gordo, abbiamo perso i nostri scanner principali.
+Roger. Hai detto scanner primari?
+Affermativa.
+Ok. Puoi darci la pressione della sorgente di elio?
+Ripeti.
+Qual è la pressione della sorgente di elio?
+Ricevuto. Sono le 23:50, Gordo.
+Guarda l'alba.
+SÌ.
+La nostra pressione sorgente è 2350, Gordo.
+Vediamo se riesco ad abbassare la pressione usando O2 High Rate, se per te va bene, Gus.
+Va bene.
+Possiamo provare ad attivare manualmente l'alta portata di O2. Non ho mai eseguito il controllo di integrità della tuta.
+Probabilmente abbiamo fatto cadere la macchina in acqua usando l'interruttore del riscaldamento quando pensavamo che la pressione fosse scesa.
+Sì. Esatto.
+Dobbiamo prepararci per questo incendio in Texas.
+SÌ.
+A che ora è quel Texas Burn?
+Ora guarda, sta scendendo.
+Va bene.
+Adesso, riarmo il fucile.
+L'O2 è rimasto alto per circa due minuti per far scendere la pressione. Ora segna 985 e la pressione in cabina si mantiene a 5,6.
+Ecco l'alba. È bellissima!
+Non è carino?
+Non hai intenzione di scattare foto?
+Non avevo previsto di farlo in questo passaggio. Tirerò fuori la macchina fotografica.
+Vediamo, voglio che gli interruttori 9 e 10 siano spenti, no?
+Sì. Quel sole è luminoso, vero?
+Guarda un po'! Da dove pensi che venga?
+Che cosa?
+So che non dovresti lasciare che queste cose vadano in giro, ma non so cosa farne.
+Cosa ha detto che la bruciatura era su quella... rete? È lunga 48 piedi...
+48 piedi e 73 secondi.
+Okay. L'hai messo tu, vero?
+SÌ.
+Devo essere in modalità CATCH-UP quando lo inserisci?
+Che cosa?
+Devo essere in modalità CATCH-UP quando lo inserisci?
+Per me sì. Lo inserirò solo negli indicatori qui.
+Sembra che la velocità sia pressoché perfetta. Si capisce davvero che stai andando avanti. Lo sai?
+Certo che puoi!
+Laggiù vedo delle interessanti formazioni nuvolose.
+Credo che la prossima tappa sarà Guaymas.
+Ok, Gus, quanto tempo manca al piano di volo?
+arriviamo a 1:24.
+Va bene.
+Direi che il mio allineamento è perfetto.
+Ok. Questo è quello che vogliamo masterizzare. Devo cambiare questa cartuccia. La telecamera è impostata su f/11 a 250.
+Il primo comando load è valido. Il comando at Carnarvon lo ha inserito correttamente.
+Va bene.
+Questo è bello!
+Scommetto che il filtro dei detriti si intasa davvero.
+Che cosa?
+La pressione dell'ossigeno è salita proprio lì dietro, fuori scala.
+Cosa è?
+La pressione dell'ossigeno.
+Devo cambiare questa cartuccia.
+Siamo all'1:21.
+Cambio nastro alle 15:46. La cartuccia nastro n. 2 è stata sostituita dalla cartuccia nastro n. 28.
+La luce rossa non si è accesa.
+, questo è.
+Ricevuto. Ti ho letto forte e chiaro. Aggiornerò il tuo TR e ti trasmetterò un carico di manovra.
+Roger.
+Ho ricevuto un rifiuto sul mio TR. Qual è il tuo stato, Molly Brown?
+Vuoi che gli dica che la pressione dell'ossigeno è fuori scala?
+Il nostro stato è GO. Abbiamo riportato l'ECS O2 nella scala con O2 High Rate, e da allora è tornato fuori scala.
+Roger, io e te abbiamo trasmesso un carico TR e Gemini per la tua manovra su Corpus. Confermiamo che eri in fase di RECUPERO. Passo.
+Negativo. Ora siamo in fase di RECUPERO.
+Ricevuto. Ritrasmetto il carico.
+Ricevuto. Hai un carico nel CATCH-UP per la tua manovra.
+Bisogna recuperare.
+Bene. Ecco fatto.
+Ricevuto. Vai.
+Sei pronto per la prossima orbita.
+Roger. Grazie.
+Siete pronti a copiare i tempi delle vostre manovre?
+Stand-by.
+Roger.
+Sei pronto?
+SÌ.
+Bene. Siamo pronti per copiare.
+Ricevuto. Il tuo GMTB...correzione, 15:57:00. Il tuo tempo di combustione a terra, 01:33:00. Il tuo ΔV della combustione, 048. La durata della combustione, 01:14.
+Ricevuto. Abbiamo copiato 15:57, 01:33, 48 piedi/sec, a un minuto e 14 secondi.
+74 secondi.
+Bene, 1 minuto e 14. Vuoi rileggerglielo?
+Gli hai preso anche l'altro?
+Neg. Aspetta che li riceva.
+Ricevuto. Preparatevi per un trucco GET time.
+Al mio segnale, saranno 85 minuti e 45 secondi. Pronti.
+MARK! Hai ricevuto?
+Ricevuto. Abbiamo ricevuto.
+Roger. I tuoi orologi erano perfetti a terra.
+Mi puoi dare una lettura dei nuclei 25, 26 e 27? Passo.
+26 e 27 sono tutti zeri.
+Chissà se l'ha capito?
+Non lo so.
+Avanti. Passo.
+Andare avanti.
+Potresti darmi una lettura del core del tuo computer: 25, 26 e 27, per favore?
+Ricevuto. Era: 25 era meno 0480. 26 e 27 erano tutti zeri. Finito.
+È affermativo. Sono d'accordo.
+Puoi fornirmi i dati relativi alla pressione della sorgente di elio, alla temperatura e al misuratore della quantità di propellente.
+L'indicatore della quantità di propellente è all'83%. Aspetta. John ti darà l'altro.
+Ricevuto. La pressione alla sorgente è 2450. La temperatura alla sorgente è 85°, e il combustibile e l'ossidante sono regolati a 295 con 68°.
+Ricevuto. 295 a 68. Ripeti la quantità di propellente, comandante pilota.
+La quantità di propellente è dell'84%.
+Ricevuto. Ricevuto.
+, in attesa. Hai altro?
+Roger. Siamo in buona forma.
+Roger.
+,. Ho un'indicazione di spinta in avanti. Ho un'imbardata negativa che si attiva a terra.
+Non stiamo sparando. Non siamo nemmeno in modalità MANOVRA e ATTEGGIAMENTO e non abbiamo toccato la maniglia.
+Roger.
+, preparatevi per Guaymas.
+Roger.
+Straordinario! Vedo tutto il Messico.
+Mi chiedo in quale zona del Messico ci troviamo?
+, Guaymas.
+Guaymas,.
+Guaymas in attesa.
+Roger.
+È piuttosto malconcio, non è vero?
+SÌ.
+Avremo difficoltà a portare a termine quel compito di tracciamento.
+Riesci a vedere qualcosa lassù a nord?
+Non ho mai avuto modo di cercare il Salton Sea, ma credo che da quella parte si possa vedere.
+Nient'altro che alti cirri.
+Oddio! Oddio, puoi vedere tutto il Messico!
+Laggiù devi avere tutto libero, eh?
+Sì, qui al sud è tutto chiaro.
+, Guaymas passa al Texas.
+Roger.
+È uscito a 15 metri dalle mie IVI. Ora mi farai un segno sulla mia ustione. Vero?
+Roger.
+Ok. Ci vorranno circa due minuti prima che iniziamo. Quindi spegni il cronometro e dimmi: dammi un segno per fermarlo, nel caso non arrivi a zero.
+Va bene.
+, Texas.
+Ti leggo forte e chiaro, Texas.
+Ricevuto. Il Texas è pronto ad accogliere la tua manovra.
+Roger.
+Capito? Le IVI sono uscite a 50 piedi/sec a poppa. Giusto?
+Sì, ma avrebbe dovuto essere 48. Non so perché sia ​​uscito 50. Dovremmo abbassarlo a 48?
+Bene, 25-48 è ciò che è nel carico. 48,3 è ciò che è nel carico.
+Come stiamo andando in tempo?
+Bene.
+Bene, bene. Immagino che forse abbiamo rallentato così tanto.
+Ora sono 51. Vedete?
+Inizialmente era 48. Siamo in un punto diverso dell'orbita. 30 secondi.
+Okay. Vuoi che dia un segno al Texas quando inizi a bruciare?
+Lo farò.
+Va bene.
+Hai venti secondi da bruciare. Hai capito, Texas?
+Roger.
+Ok. 3 secondi.
+SEGNO!
+Bene. Sembra che funzionino bene.
+Ricevuto. Il Texas conferma l'accensione dei propulsori.
+Un bullone è rimasto incastrato nel cruscotto.
+Quanto tempo manca?
+, come si mantengono i tuoi atteggiamenti?
+Perfetto.
+Mancano 44 secondi.
+Roger.
+MARK. Mancano 44 secondi.
+Penso che lo farei con le IVI.
+Certo che si confondono parecchio, vero? Ma potrebbero essere i propulsori di controllo dell'assetto. Probabilmente è quello che è.
+Va bene.
+Tra poco... tra poco.
+SEGNO.
+Mancano 7 piedi/sec.
+Un minuto, cinque.
+Cosa abbiamo fatto? Bruciare e... dammi un segno.
+Va bene. 4 - 3 - 2 - 1 -
+SEGNO!
+Spinta completata.
+Ricevuto. Manovra confermata completata.
+Secondo i nostri orologi, la combustione è durata 1 minuto e 14 secondi.
+Quando siamo partiti, gli IVI segnavano 51 piedi/sec, e li ho ridotti a 2 piedi/sec a poppa.
+Ripeti,.
+Quando abbiamo iniziato a bruciare, le mie IVI hanno letto 51 piedi/sec e le abbiamo bruciate fino al punto in cui hanno letto 2 piedi/sec.
+Ripeti l'ultimo numero.
+Due. Zero, zero, due.
+Roger.
+Che cosa hai sul propellente, Gus?
+La quantità di propellente è del 65%.
+Ehi, siamo in buona forma.
+SÌ.
+, Capo.
+Forza, Gordo.
+Ricevuto. Vuoi accendere il trasmettitore per iniziare il tape dump?
+Sì, è acceso. Il trasmettitore è ora in modalità RITARDATA.
+Pronti per il vostro tape dump?
+Capisco. La riproduzione del nastro è CONTINUA.
+La riproduzione del nastro è CONTINUA.
+Ok, sembra che la pressione si sia stabilizzata prima della combustione. Puoi darci di nuovo la pressione e la temperatura della sorgente?
+Ricevuto. La pressione alla sorgente è 2050, la temperatura è 56.
+, Capo.
+Oh, quell'interruttore di registrazione!
+La pressione della sorgente è 2050. La temperatura della sorgente è 56.
+Roger. Sembra che il pressostato dell'O2 sia guasto. Probabilmente dovresti portare il riscaldatore dell'O2 da AUTOMATICO a OFF, e poi controllare manualmente la temperatura e la pressione da quel momento in poi.
+Se entro in High Rate puoi staccarlo subito. Passo.
+Ok, puoi farlo subito passando ad High Rate. È una cosa positiva?
+Roger, ma...
+Ok. Ho un orario per te, in cui sarai il più vicino possibile al booster. Ti piacerebbe averlo, così puoi cercarlo?
+Roger.
+Ricevuto. 02 + 08 + 52. Saranno esattamente davanti a voi a un'altitudine di più 80° a 190 miglia. Questo avverrà poco prima del tramonto. Dovrebbe essere molto luminoso. Procedete per vedere se riuscite a raggiungere l'obiettivo.
+Roger.
+Ti stiamo inviando un carico adesso.
+Ricevuto, carico ricevuto.
+Roger. Ti abbiamo caricato.
+Ne abbiamo appena ricevuto un altro carico.
+Roger. Questi erano i valori effettivi. Il primo era il TR.
+Roger.
+, Cape. Hai ricevuto i tuoi esperimenti per la prima orbita?
+, Capo.
+Avanti, Capo.
+Roger. Volevamo solo avere conferma che i tuoi esperimenti siano arrivati ​​in tempo per la prima orbita.
+Ricevuto. Li abbiamo fatti arrivare in tempo per la prima orbita.
+Roger.
+Qui sotto tutto sembra a posto.
+Roger.
+, Capo. I nostri carichi di memoria a terra confermano che i tuoi carichi erano corretti, quindi potresti cancellare tutte le letture.
+Va bene.
+Ecco la pressione sanguigna che scende lì,.
+Va bene.
+Lo scarico del nastro è completo,.
+Rog.
+Hai ancora la pressione alta, John? Non l'abbiamo letta.
+L'ha mandato, ok. Te ne do un altro.
+Ok. Mi chiedevo solo se respirava.
+Gordo, mi puoi dare un orario per l'Horizon Scan Check?
+Capo, leggi,.
+Avanti, Capo.
+Mi puoi dare un orario per il controllo Horizon Scanner?
+Ok, l'ora del tramonto è 16 + 34. Aspetta, ti prendo lo scanner dell'orizzonte.
+Questo è il momento giusto, 16 + 34.
+Grazie.
+Davvero spettacolare lassù, eh?
+Ripeti.
+Davvero spettacolare lassù, eh?
+Sì, lo è davvero. Lo è davvero!
+Tuttavia non siamo riusciti a vedere molto degli Stati Uniti.
+Nuvoloso? Troppe nuvole, eh?
+Vediamo, vuoi mangiare?
+SÌ.
+Questo va bene?
+Sì, è proprio questo.
+Non riesci a far entrare la lampadina, eh? Che ne dici se la lascio lì e gli misuro la pressione.
+Sì, vai avanti.
+Non riesco a farlo entrare.
+Hot dog! Il buon vecchio cibo.
+Dovrò fare il controllo di allineamento.
+Vuoi solo dare uno schiaffo a quei bambini laggiù?
+Hanno detto di lasciare i brownies chiusi.
+Ok, inizio il controllo dell'allineamento in gabbia. Meno 10° di beccheggio, 10° di imbardata e 10° di rollio. Sto andando in GABBIA, estremità piccola in avanti, mantenendo l'assetto fuori dal finestrino. Ok, ho messo in gabbia. Andata, piattaforma e assetto. Allineamento preciso da 1:45 a 1:55.
+Quando hai finito, fammi bere un po' di quel succo.
+Hai dell'acqua?
+Bella roba!
+Vuoi che lo attacchi qui?
+Sì, possiamo attaccarlo lì.
+Vediamo se riesco a bloccarlo lì.
+Quell'ossigeno non è ancora uscito dal cilindro.
+Cosa non è successo?
+Te lo dico io, ragazzo. C'è un problema serio con quella parte dell'O2 High Rate.
+Il finestrino si sta appannando o è solo l'angolazione da cui sto guardando?
+, Canarino.
+Sembra qualcosa di laterale. Non so cosa sia.
+Canarini, Molly. Forza.
+Roger. Abbiamo i sistemi GO a terra.
+Roger. Siamo entrati. Stiamo terminando il nostro controllo di allineamento.
+Roger. Capito, e i canarini trasmettono un comando di calibrazione.
+Che cos 'era questo?
+Trasmetti la mia cal.
+Bene. Sta arrivando.
+A che ora abbiamo potuto vedere quel booster?
+Trascorso?
+SÌ.
+Okay. Dite loro che gli manderemo una calibro 2.
+Sta arrivando una calibro 2.
+Non vedo dove sia scritto di farlo, ma credo che vada bene. Credo che avremmo dovuto farlo al primo tentativo.
+Una di queste pillole si è staccata.
+, Canarino.
+Forza, Canarie.
+Ricevuto. Dopo la combustione la tua orbita è 85,6, 92,6.
+Roger. 85.6, 92.6.
+E ho un tempo da Due Bravo.
+Pensavo che non ci avrebbero concesso quei momenti.
+Stand-by.
+Se una di queste due cose dovesse trapelare, potremmo semplicemente chiudere bottega.
+Ok. Qual è l'ora del Due-Bravo?
+Roger. ΔV90. 16 52 25. 02 28 35. Rotola a sinistra 55.
+Roger. Due-Bravo: 90 ΔV. 16 52 25. Tempo trascorso 02 28 25. Rotola a sinistra 55.
+Questo è affermativo.
+Che cos'è?
+Panino con manzo in scatola.
+Da dove viene?
+L'ho portato con me. Vediamo che sapore ha. Che odore, vero?
+Sì, si sta rompendo. Me lo metto in tasca.
+Davvero?
+In ogni caso, era un pensiero.
+Sì.
+Non è una gran cosa.
+Comunque, sarebbe abbastanza buono se solo reggesse.
+Vuoi delle cosce di pollo?
+No, puoi gestirlo tu.
+A che ora è avvenuto quel booster? A che altitudine?
+02 08 52. 18° el.
+2 ore, 8 minuti, 52 secondi. 18° el.
+Sopra? Non ci hanno dato il chilometraggio, eh?
+19 miglia.
+Proprio avanti.
+Sì.
+Siamo allineati praticamente alla perfezione. Cosa ne pensi, guardando fuori dalla finestra?
+Sì, amico. È bellissimo!
+Cos'altro dobbiamo fare? Gli scanner dovrebbero essere sul secondario. Ora imbarderemo di 180° qui.
+Ehi, guarda là fuori. C'è un po' di terra.
+SÌ.
+Che ore sono?
+Deve essere ancora sopra le Canarie.
+Sei un mangiatore rumoroso.
+Oh no!
+Cosa? Cosa hai lasciato cadere?
+Guarda come saltano laggiù.
+Quanto tempo è trascorso, Gus?
+Che ne dici di questo ritorno all'indietro? Anche tu ti accorgi che stai tornando indietro, vero?
+Mai un dubbio.
+Non è male per la salsa di mele.
+Se non la mangi tutta, prendo un boccone di salsa di mele.
+Sta diventando dura uscirne.
+Se ci fossero anche delle costolette di maiale, saremmo a posto.
+SÌ.
+Eccolo di nuovo. Cosa ne farai adesso?
+Cosa, la salsa di mele?
+SÌ.
+Non lo so, la pastiglia è caduta. Non metterò la pastiglia germicida, perché non so dove si trova.
+Vediamo come si presenta il mio atteggiamento nei confronti del retrofire andando all'indietro.
+Va bene.
+16° di naso verso il basso, ecco cosa significa.
+Sì. Arrivo tra un minuto.
+Oddio!
+Ti dirò, amico, non hai bisogno di niente per sapere la tua imbardata, vero?
+No, ti dico, ho bisogno di alcune di queste missioni in cui posso guardare fuori dalla finestra. Non ho guardato fuori da questa finestra per un secondo e mezzo. È bellissimo!
+Sai, se allineassi l'imbardata, la allineerei proprio lì. Che effetto ti fa?
+Mi sembra che tu abbia capito, Gus.
+Non è questo che mostra la palla 8. È proprio lì, non c'è dubbio.
+Bene, mi sembra una buona idea.
+Proviamo a capovolgerlo una volta.
+Va bene.
+Guarda tutto fluttuare verso il soffitto.
+Ne restano 60, ok?
+Ne restano 60.
+No. Beh, sì, vediamo.
+Questo è invertito.
+Va bene.
+Ne sono rimasti 60.
+Questo è quello che ho immaginato.
+Ecco fatto.
+Non è bellissimo?
+Ne restano 60. È dura volare.
+Il sole è davvero splendente.
+Non riusciamo a vedere il booster. Dobbiamo girarci per questo controllo. Non riusciamo a vederlo. Siamo rivolti nella direzione sbagliata.
+Vediamo. Qual è la prossima stazione in cui arriveremo?
+Kano.
+Il sole è caldo.
+È.
+Tuttavia la temperatura di ingresso della tuta si mantiene ancora sui 58°.
+Ragazzi, questo è un test di destrezza manuale.
+SÌ.
+Quella roba sta davvero cercando di uscire da lì.
+John Yardley perde la scommessa. La temperatura in cabina raggiunge i 32°C.
+Oddio!
+È brutto, non è vero?
+Quel sole è qualcosa di diverso.
+SÌ.
+Puoi riporli lì, nel tuo fianco?
+SÌ.
+In qualche modo.
+Non hai bisogno di quell'asciugamano, vero?
+Sì, lo farò molto presto.
+Bene, allora è meglio che lo faccia uscire.
+Beh, non credo che ne avrò bisogno, ma potrebbe capitarmi.
+Bene, abbiamo una luce scanner sul secondario.
+Ecco, si è spento. Credo che lo stessi guardando al sole.
+SÌ.
+Spero che questo fermi tutto. Ora ci siamo di nuovo.
+Il sole è lì intorno. Quel sole lo sta respingendo.
+SÌ.
+Oppure la nostra palla è fuori allineamento.
+A che ora dovrebbe essere la prossima volta? Ti ricordi?
+NO.
+Non ti dispiace se apporto una modifica alla tuta pressurizzata durante il volo, vero?
+Che cosa hai intenzione di fare?
+Basta tagliare una cinghia.
+Spero che non ci faccia un buco.
+No, non preoccuparti.
+Abbiamo uno scanner che ignora la luce...
+Ok, cominciamo subito.
+Ok, sta leggermente salendo. Sale sopra lo zero. Non ho una luce di scansione. Cavolo, è buio!
+Non ho una luce di scansione, ma non credo che funzioni bene. Ora siamo a 20° sopra l'orizzonte e non abbiamo orizzonte. Mi sta riportando a 180°.
+È buio.
+SÌ.
+Ehi, guarda come brillano quei propulsori!
+Dove?
+Laggiù a destra. Credo che sia il sole che splende su di loro, o qualcosa del genere. Il sole è dalla mia parte? È il tramonto?
+È da qualche parte dietro di noi.
+Ti riferisci ai propulsori?
+SÌ.
+Non riesco a vederli.
+Riesci a vedere il tuo?
+NO.
+Bene, io vedo il mio brillare.
+Probabilmente ora riesco a vedere l'orizzonte.
+Vedo quei propulsori.
+È il sole che splende su di loro, perché non abbiamo ancora usato l'A-Ring.
+Deve essere proprio così.
+A-Ring non è caldo.
+Ok, valvola di scarico NORMALE.
+Che ora è prevista nel piano di volo?
+Sono 2 ore e 9 minuti.
+2 ore e 10 minuti.
+Dovresti misurare la temperatura orale.
+Ne darò loro uno.
+Bene. Controllo della traduzione alle 2:17, ovvero tra 7 minuti.
+Sai di che tipo di controllo della trasmissione si tratta?
+Controllo della traduzione...Non invieremo nulla.
+Dovremmo scattare delle foto, ma sarà buio.
+Foto di cosa?
+Quei propulsori.
+Propulsori di traduzione.
+C'è una luce a terra. Ci stiamo davvero muovendo. Cosa sarebbe?
+…incendi boschivi.
+No, è un puntino. Lo vedo molto al di sotto dell'orizzonte.
+Che ore sono?
+A cosa?
+Prima o poi dovrei cambiare questa cassetta qui.
+Controllo della traduzione.
+Durante il controllo?
+Credo che quella che ho visto fosse una stella che spuntava all'orizzonte. Ora riesco a vederla muoversi.
+Ecco che se ne va il tuo...
+Ok, la valvola di scarico torna alla NORMALITÀ.
+Devo effettuare una spinta traslazionale tra due minuti e mezzo.
+Okay. Bene, allora aspetterò che tu abbia finito, se per te va bene.
+SÌ.
+Vuoi scattare delle foto qui?
+Dovremmo farlo con 16 milioni.
+Ok. Cavolo, abbiamo usato pochissimo rullino. Certo che ci sono 40 metri lì dentro. Aspetta un attimo che chiudo la tuta.
+Va bene.
+Cavolo.
+Il tuo consiglio di coprire la biancheria intima è ben accetto.
+Cavolo! Non ci credo a questa palla 8. È completamente fuori strada. Guardala. È completamente fuori strada. Non c'è proprio niente lì. Giusto?
+SÌ.
+Sulla palla c'è scritto meno 10°. Immagino che sia per via della velocità orbitale, non è vero?
+Sì, probabilmente.
+Che ore sono?
+Suo -
+Con quelli che sparano in avanti la velocità è di 10 piedi/sec.
+,. Leggi?
+Roger ti ha letto, debole ma chiaro. Ti abbiamo preso da zero.
+Ricevuto. Mi preparo per una traduzione bruciante.
+Utilizzerai la combustione posteriore o quella anteriore?
+Li userò tutti.
+Va bene.
+,. Siamo pronti per le manovre.
+Ricevuto. 5 secondi...
+Usi quelli di poppa?
+No, quelli che sparano in avanti.
+9 piedi/sec-10. Bene, ora 1 secondo sugli altri.
+,. Potresti fornirci le tue letture prima e dopo la combustione?
+Roger, le letture prima dell'accensione erano tutte a zero. Dopo l'accensione la velocità era di 10 piedi/sec in avanti.
+Ricevuto. Capito. 10 piedi/sec in avanti.
+Ciò avvenne nell'assetto 009°. 10 piedi/sec in avanti.
+Roger.
+Questo con un'imbardata di 90°.
+,. Tieni presente che ho inviato TX due volte. La mia astronave è stata rifiutata. Ci riproverò.
+Andare.
+Non siamo ancora riusciti a ottenere una risposta dalla navicella spaziale in Texas.
+Roger, imposterò il TX per... Finito.
+Ripeti.
+,. Come si sono comportati i vostri atteggiamenti durante la manovra?
+Gli atteggiamenti sono stati mantenuti molto bene.
+Roger.
+Da qui, visto da terra, hai ancora un bell'aspetto.
+Roger.
+Bene. Ho sostituito la cartuccia del registratore.
+Andare avanti.
+Potresti fornirci una lettura della quantità di propellente prima e dopo la combustione?
+Prima della combustione era il 66 percento, ora segna il 61 percento.
+, ripeti.
+66 percento prima, 61 percento dopo.
+Roger.
+Non ne sono molto sicuro prima della combustione.
+Alle 16:45 GMT, ho cambiato il nastro dal n. 28 al n. 10. Bene.
+Sembra che ci siamo riusciti.
+Questa cosa non è allineata, vero?
+Penso che tu abbia ragione.
+Dagli un'altra possibilità.
+Vediamo, sono trascorsi 2:22. Carnarvon arriverà tra circa un minuto.
+,, Carnarvon. Come leggi?
+Sono Carnarvon. Ti ho sentito forte e chiaro.
+Molto bene, Gus; vorremmo misurare la pressione del copilota, per favore, e potresti darmi le tue notizie?
+Ok, la pressione sanguigna sta arrivando e il nostro stato è verde.
+Molto bene. Al momento non abbiamo comunicazioni con Cape Canaveral, ma mi hanno chiesto di analizzare un po' il problema con il controllo di volo. La prima cosa che vorrei sapere è che velocità si ottengono se si lascia semplicemente imbardare?
+Sono molto lenti, Pete. Probabilmente nell'ordine di un quarto di grado al secondo.
+Ok, sei in modalità scansione dell'orizzonte, è corretto?
+Al momento sono a Pulse e mi occupo della piattaforma.
+Ok. Sei in fase di allineamento della piattaforma. I tuoi parametri logici, come velocità di imbardata, assetto e tutto il resto, sono ancora primari?
+Affermativa.
+Ok, cancella tutto il resto. Mi sembra che tu abbia un problema meccanico alla valvola. È quello che pensavi?
+Roger, dev'essere molto, molto lieve. Non possiamo vedere la pressione scendere.
+Ok, hai spento e riacceso gli interruttori di imbardata 3, 4, 7 e 8, ma non hai ottenuto alcun risultato?
+Sì, abbiamo esaminato tutto, Pete.
+Va bene, niente accoppiamento incrociato.
+Negativo.
+Ok. Questo dovrebbe tenerli contenti laggiù. Non ti manderemo un carico. Il tuo TR è buono. Non ho il tuo orologio che conta alla rovescia con il mio. Immagino che tu ne abbia uno diverso. Abbiamo misurato la tua pressione sanguigna e i tuoi orologi sono a posto per quanto riguarda il SET.
+Quello è... Pete.
+Roger.
+E ho una domanda per John. Vorrei sapere come sta andando la sua valutazione dei rifiuti.
+In corso. Diglielo.
+In corso.
+In corso. Ricevuto. Ricevuto.
+Hai un "GO" da parte di tutti e potresti darmi le misure temporanee delle tute, per favore?
+Sì, la temperatura della tuta è di 15°C, Pete. Stiamo bene.
+Giusto.
+2:26. Regolare i giroscopi primari. I getti di rollio imbardano.
+, Carnarvon.
+Andare.
+Potresti disattivare la telemetria in tempo reale da Carnarvon, per favore?
+Roger, tempo libero dopo Carnarvon.
+Sì. Non ti abbiamo inviato una TX.
+Roger.
+Tra un po' farai questi controlli Horizon Scan?
+Sì. Fallo tu, perché qui sono impegnato.
+, qui è Carnarvon. Come leggi?
+Ti capisco ancora forte e chiaro.
+Ok, probabilmente andrai oltre la collina, Gus. Stai bene qui a terra. Ci vediamo al prossimo tentativo.
+Roger, grazie, Pete.
+Assicurati che non prema nessun interruttore mentre mi muovo.
+No, ti terrò d'occhio. Non credo affatto che lo scanner stia facendo la cosa giusta per noi. Se lo sta facendo, non lo sta facendo nemmeno la palla.
+Vuoi che questa borsa ti serva per qualsiasi cosa?
+Sì, ci ho rimesso dentro gli asciugamani di carta.
+Ok, ora posso spingere?
+Aspetta che mi chiuda la cerniera della tuta.
+Meglio che tu mi tiri fuori quel mirino.
+Eh?
+Anche quella vista dovrebbe uscire presto.
+Va bene.
+Non riesco a spegnere la luce ausiliaria lì.
+Là fuori è davvero buio.
+Sì.
+Ho uno scanner che ignora la luce. Accidenti, quella palla dev'essere molto lontana.
+Va bene.
+Oddio! Fa caldo.
+Che succede, Gus?
+Oh, eccolo. Stavo perdendo l'orizzonte. Non dirmi che i nostri scanner secondari sono fuori uso. Non è giusto. Vediamo cosa succede. Questa palla è molto lontana. Buonanotte! La nostra palla si è allontanata molto. Andiamo alla luce del giorno e allineiamola.
+Hai la risposta.
+Pulse. Userò quelle stelle. Non c'è alcun rollio, va bene.
+Bene, fantastico! Non riesco a rompere la borsa. Vorrei proprio togliere quell'odore da qui e l'unico modo per farlo è rompere quella borsa.
+Quale borsa?
+Non si romperà.
+Cosa intendi?
+Mi riferisco a questa busta battericida.
+Capito, un po'.
+Ecco fatto.
+Stiamo tornando alla luce del giorno.
+Ti sembra che tutto ciò sia a livello di rollio?
+Che aspetto ha?
+Per te è tutto a posto? Guardo fuori dalla finestra.
+SÌ.
+E l'imbardata? Non riesco a capirla bene, tu?
+NO.
+Hai capito?
+Che cosa?
+Vediamo. Non vedi la luna da nessuna parte, vero?
+NO.
+Tra poco arriverà sopra la mia... alla mia destra.
+Ragazzi, vi dico che mi piace davvero questa assenza di gravità. È il modo migliore di viaggiare che abbia mai visto.
+Sembra giusto come tono. Il rollio è sbagliato.
+Puoi metterlo dalla tua parte?
+Quel pasticcio? Non va messo nella scatola del cibo?
+Lo farei se ci fosse un po' di spazio.
+Non ho spazio.
+Nemmeno io.
+Immagino che dovrei rimetterlo dietro il sedile.
+Proverò a metterlo nella scatola del cibo.
+Ok, cosa dice il piano di volo a questo proposito, Gus?
+Dovrei fare il controllo Horizon Scanner, ma non ho tempo.
+Oh, ok. Bene, grazie, ho finito. Dovrei fare il controllo dell'O2 ad alta velocità. Sono le 2:40 del piano di volo?
+Sì, sono le 2:40 adesso.
+Ok, arriviamo a O2 High Rate. Io ho...
+Cavolo! Gli scanner principali funzionano! Che ne dici!
+Ho bisogno di un po' di luce per controllare gli indicatori dell'ossigeno. Va bene?
+Sì, non riesco proprio a capirlo...
+Ok, passerò all'O2 High Rate. L'O2 High Rate non è la soluzione giusta.
+Okay, MARK. Tasso di O2 alto.
+Sono sicuramente a disagio.
+Sì, è male.
+Lasciamo spento il riscaldamento e lasciamo che la pressione dell'ossigeno scenda un po'.
+Cadrà, e dico sul serio, cadrà!
+Hai le batterie accese?
+All'inizio del controllo dell'alta velocità di O2, la quantità di O2 era del 65%. La pressione in cabina era di 5,1. La pressione in cabina aumenta lentamente.
+Guarda come sale la temperatura di ingresso della tuta.
+La luna sorge nel punto giusto per te, ovvero quando non hai imbardata?
+Non lo vedo qui, Gus.
+Quasi dritto davanti a noi. Forse è giorno. Forse è l'alba.
+I suoni del propulsore sono simili a quelli del trainer, non è vero?
+Sì, niente male, vero? Vedi, la pressione dell'ossigeno sta scendendo. Ok, la linea elettrica sta arrivando, nel caso avessimo bisogno dei riscaldatori.
+Credo di aver ricevuto di nuovo gli scanner. È quello che ho ricevuto l'ultima volta.
+Sì. Okay, la pressione dell'O2 è scesa a 925 e siamo in modalità O2 High Rate da due minuti. Mancano due minuti.
+Che cos 'era questo?
+Valvola di sicurezza della cabina. La valvola di sicurezza della cabina rilascia la pressione con un forte shhh!
+Non ho ancora spento quella luce dello scanner. Eccola lì. È quello che ha causato lo spegnimento di quella cosa l'ultima volta: quando hai acceso la corrente.
+Lo scanner dell'orizzonte?
+Sì, ma poi si è ripresentato.
+Quel figlio di puttana è al 5.8, non è vero?
+Ok, 2 minuti e 30 secondi di alta frequenza di O2.
+E l'ora media di Greenwich è 1707.
+Ehi, dammi quella vista laggiù.
+Va bene.
+Mi mancherà il mio compito di tracciamento.
+Sapete cosa hanno fatto? Hanno capovolto la situazione.
+Veramente?
+SÌ.
+Ok, sono tre minuti e dieci secondi di O2 ad alta frequenza. Non voglio rimanere lì per cinque minuti. Credo che sia più di quanto uno possa sopportare. La temperatura di ingresso della tuta è salita a 64°C e la pressione è scesa a 825°C. Faremo un tentativo con i riscaldatori manuali quando arriverà a 800°C.
+Ok, MARK. Quattro minuti per il controllo dell'alta portata di O2. Ora passiamo alla prima fase dei riscaldatori manuali.
+Cavolo! È quasi impossibile vedere fuori con il mirino davanti.
+La pressione continua a scendere. Ora sta salendo. Okay.
+Quando vedi quella luce sullo scanner ti senti subito atterrato.
+Sì. È quello che avevano detto che avrebbe fatto, no? Ok, mancano 10 secondi, e ho tenuto premuto l'interruttore manuale del riscaldamento per l'ultimo minuto. Mantiene la pressione a 825.
+Oddio! Quella palla resta lontana...
+Okay, MARK. O2 High Rate riarmato.
+Dammi il segno quando pensi che non ho imbardata.
+Va bene.
+Oddio! Non ne so niente.
+Spegnimento del riscaldamento automatico.
+Non vedo niente, Gus. La quantità alla fine del controllo dell'alta pressione di O2 era scesa al 62%. Era partita a 66 e finita a 62. Non vedo niente fuori dal finestrino, Gus, a causa del sole.
+Si tratta di un'imbardata pari a zero.
+Svolta un po' a sinistra.
+Sembra piuttosto buono, anche se...
+Questo è più o meno quello che avevamo prima nell'atteggiamento di lancio per zero, non è vero?
+SÌ.
+Bene. Alle 2:40 del piano di volo —
+Ciò dimostra che la palla è spostata di 30°.
+Partenza a 66 e arrivo a 62, alle 2:40.
+Ehi, a che ora attraversiamo la costa?
+Arriviamo alla costa alle 3:04. Che ore sono?
+Troppa enfasi per un atteggiamento pari a zero, non credi?
+Eh?
+È troppo arrogante per un atteggiamento del genere?
+Sì.
+Ok, il propellente al minuto 2:50 è al 62 percento.
+Lascerai la corrente elettrica accesa?
+NO.
+Sta scendendo parecchio.
+No, non è vero, capisci?
+Prossimamente?
+Sì. Bene, ora li spengo e vedo cosa succede. Okay. La corrente elettrica è spenta. È accesa da sette minuti mentre eravamo in modalità O2 High Rate. Okay, siamo scesi al 62% dopo tre ore. Siamo al 2% sotto il livello previsto. Dovrebbe bastare per un paio di orbite.
+Non riesco proprio a capire se ho zero imbardata o meno. Cosa ne pensi?
+Scendi un po' e poi me ne accorgo.
+Toglierò questo mirino da qui un attimo.
+Devo mettere in gabbia la palla 8.
+Ora posso dirti che non l'hai fatto.
+Devo andare a destra?
+Devi tornare a destra. Stai andando nella direzione giusta.
+SÌ.
+Ora vediamo cos'è TR.
+Che ne pensi? È sufficiente?
+Mi sembra molto buono, Gus.
+Ciao, qui siamo alle Hawaii.
+Ciao, Hawaii. Sono.
+Conferma la tua telemetria in TEMPO REALE e ACQUISIZIONE.
+La telemetria è in TEMPO REALE e ACQ. Neil —
+Pensavo che ci avessero detto di metterlo in COMANDO su Carnarvon.
+Sì. Avanti,.
+Ho un problema con la palla 8, la tengo allineata oppure il controllo della velocità orbitale non è corretto.
+Ripeti. Non ho capito.
+L'atteggiamento nei confronti della palla 8 sta andando male. Sto cercando di rimetterlo in carreggiata in questo momento.
+Ok. Capisco che l'atteggiamento da 8 ball sta prendendo una brutta piega. Hai un GO da terra. Siamo pronti a farti un TR 4-1.
+Roger.
+John, pensi che io abbia troppa imbardata a destra?
+Pronti a copiarlo?
+Dite loro di inviarlo.
+Vai avanti e invialo.
+Ok, invio ora.
+Roger, 4-1 volta ricevuto e verificato.
+E vorremmo inviarti una TX non appena sarai pronto.
+Ricevuto. Invia messaggio.
+Bene, invio TX ora. E confermiamo il tuo TR, in sincronia.
+Raccontaci un trucco quando inizi il tuo Gage Correlation Check.
+Ok, Roger. Seleziona il controllo di correlazione di gauge.
+Ricevuto. Capito.
+Bene. Controllo della correlazione di Gage alle 18:16 e si parte.
+Cosa ne pensi, John? Pensi che sia tutto?
+SÌ.
+—e la quantità di propellente è del 60 percento.
+Dovrebbe essere circa zero, non è vero?
+SÌ.
+, Hawaii. Entrambi gli indicatori di assetto si muovono contemporaneamente?
+Affermativa.
+Va bene.
+Naturalmente. Temperatura della cabina: 92. Temperatura della tuta: 58. Pressione della cabina: 5,6. CO2 nella tuta: 3/4. Bombola sinistra: 5100. Bombola destra: 5050. Quantità di O2: 62. Pressione: 840. Temperatura della sorgente: 55. Pressione della sorgente: 2000. Carburante:
+, Hawaii. Tutto sembra andare bene a terra. Ci vediamo la prossima volta. Aloha.
+Roger.
+Roger. Siamo nel bel mezzo del Gage Correlation Report.
+temperatura del carburante — 68. Temperatura A — Accidenti! La temperatura A è 87.
+Guarda la palla. Esce subito rotolando.
+Certo che sì, Gus.
+Penso che il resto vada bene.
+Potrebbe essere lo scanner dell'orizzonte, eh?
+La pressione A è 2000 — B è 2650 — L'amperometro principale n. 1 è 19 — Il n. 2 è — 1A è —
+Ora sta arrivando. È in modalità.
+Sembra buono, Gus.
+Sì, quando passo a small-end-forward tutto si allinea bene.
+Forse dovremmo allinearlo in avanti, eh?
+Beh, cioè, se vai su ORBIT RATE, il sistema si spegne. Ecco cosa succede.
+Allora quel tasso di orbita non è buono.
+SÌ.
+,. Sopra.
+, questo è.
+Roger. Siamo pronti per la tua manovra respiratoria.
+Roger.
+La manovra respiratoria? Posso fargliela fare io.
+Eccolo che arriva.
+Ricevuto. Riceviamo. Siamo in attesa della temperatura orale e della pressione sanguigna del tuo pilota.
+La pressione sanguigna è in arrivo.
+Roger.
+Aspetta. Roger, stiamo ricevendo la pressione sanguigna,.
+,. Abbiamo ricevuto la tua pressione sanguigna e la tua temperatura.
+Roger, la piattaforma si allinea bene quando ci sono dentro e, evidentemente, quando vado su ORBIT RATE fa partire la palla in rollio.
+Ricevuto. Capito. Aspetta uno.
+Il rapporto sulla correlazione di Gage è completo.
+Il rapporto sulla correlazione di Gage è completo.
+È il 1821. Posso leggerli nel registratore, Gus, o arriveranno anche a te?
+Leggilo nel registratore.
+Va bene.
+Vediamo. Sta abbassando l'inclinazione in Orbit Rate. Scansione dell'orizzonte ora. Vediamo se si ferma. Abbassato di 10°.
+Andare avanti.
+Se stai andando alla deriva in Orbit Rate, ti suggeriamo di selezionare una modalità personalizzata per il tuo compito di tracciamento in avvicinamento alla costa.
+Roger.
+Grazie mille. Ok, leggo queste quantità. Il GMT era 17:16 quando siamo partiti. Quantità di propellente era 60. Temperatura della cabina - 92. Temperatura della tuta - 58. Pressione della cabina - 5,6. CO2 della tuta - 3/4 di millimetro. Bombola secondaria di O2 sinistra - 5100. Bombola secondaria di O2 destra - 5050. Quantità di O2 ECS - 62 percento. Pressione - 840. Temperatura della sorgente - 55. Pressione della sorgente - 2000. Temperatura del carburante - 68.
+Dovresti scattare delle foto di questo.
+Lo so, lo so: 295. Temperatura A: 87. Pressione A: 3000. Temperatura B: 82. Pressione B: 2650. Amperometro principale: 19. N. 2: 19,5. 1A: 4,5. 1B: 4,5. 1C: 4,2A: 5,2B: 4 3/4. 2C: 4 3/4. Volt CC: 23,5. S1: 29. S2: 29. C: 27. 1A: 24. 1B: 24. 1C: 24. Ora di Greenwich: 17:21. Completato.
+,. Stai facendo una bella figura qui a terra. Se hai altri commenti, siamo a tua disposizione.
+Negativo.
+Ricevuto. Guaymas sarà il prossimo.
+Non vedo un buon bersaglio da nessuna parte.
+Cavolo, vieni qui e ti faccio una foto.
+Puoi indirizzarlo verso gli Stati Uniti, Gus?
+, Guaymas.
+Guaymas,.
+I tempi Three-Alpha sono nominali.
+Roger... e nominale.
+Riesci a trovare un ground tracking che guarda in basso in quel modo, Gus?
+Di lato?
+Sì, di lato e con un'inclinazione di 90°. Questo comprometterà l'allineamento? Perché vedo alcuni bersagli a nord.
+Vuoi dire rotolare verso destra?
+Siamo a vostra disposizione per i controlli della pompa del liquido di raffreddamento.
+No. Gira a sinistra.
+Ruota a sinistra e inclinati verso il basso.
+Non vedo un buon bersaglio da nessuna parte.
+Cosa hai detto, Guaymas?
+Siamo a vostra disposizione per fornirvi il rapporto sui controlli della pompa del liquido di raffreddamento.
+Roger.
+Non vedo nulla che possa rappresentare un bersaglio decente.
+Beh, non posso... potresti abbassare l'inclinazione in modo che io possa vedere qualcosa?
+Oh, non vedi niente. Se mi fossi lanciato dritto oltre avresti potuto. Vedi?
+SÌ.
+Ecco, laggiù c'è un bersaglio.
+Dove?
+Bisogna abbassare il muso. Proprio vicino al muso.
+Quella macchia verde?
+No, giù, proprio giù.
+Non so cosa vedi.
+C'è di tutto. Vedi quella città laggiù?
+Dove?
+Proprio qui intorno, sulla destra.
+Non riesco a vedere laggiù, John. Torno a destra così possiamo vedere entrambi. Ah sì, ce n'è uno proprio qui sotto. Vediamo se riesco a prenderlo.
+Guaymas, vai avanti.
+Hai completato i controlli della pompa del liquido di raffreddamento?
+SÌ.
+Proprio lì?
+SÌ.
+Sì, vai avanti.
+Lo sto seguendo ovunque.
+Va bene.
+Non puoi vedere il pifferaio.
+Lo so.
+Dite loro che abbiamo eseguito il controllo della pompa del liquido di raffreddamento.
+Controlli della pompa del liquido di raffreddamento completati.
+Roger. A che punto sono gli assegni?
+Che differenza fa?
+Non siamo riusciti a far funzionare simultaneamente le pompe B.
+Non siamo riusciti ad accendere le pompe contemporaneamente.
+Ripetilo. Sei distrutto.
+Non siamo riusciti ad accendere le pompe contemporaneamente.
+Ho ricevuto che non è possibile accendere le pompe contemporaneamente.
+Roger.
+Hai le foto?
+SÌ.
+Siamo proprio all'estremità del Golfo della California, non è vero?
+SÌ.
+Non vedo il Salton Sea.
+Guaymas è pronto per il controllo della modulazione in tempo reale.
+Ora non ci vedo più. Sono cieco.
+Anch'io lo sono.
+La pompa secondaria è spenta e in modalità COMANDO.
+, Guaymas.
+Forza, Guaymas.
+Siamo a disposizione per il controllo in tempo reale del trasmettitore di telemetria di standby.
+Okay. Dite loro di restare in attesa. T/M in TEMPO REALE.
+Lo standby è in TEMPO REALE.
+Roger.
+Ciao Gus. Stiamo arrivando a El Paso.
+Davvero?
+, quel controllo è a posto a terra.
+SÌ.
+Lo vedi?
+Bisogna girarsi. È sotto di noi.
+Dove?
+Dove?
+Quella è la catena montuosa proprio lì. Vedi quella collina laggiù? Credo che El Paso sia sotto le nuvole.
+, Guaymas. Potresti ripetere il problema che stai riscontrando con il controllo della pompa?
+Non abbiamo avuto problemi con il controllo della pompa.
+Roger.
+Vuoi rimuovere la pompa A dalla pompa primaria?
+La pompa A è spenta?
+Abbiamo ottenuto A.
+La pompa A è spenta.
+Bene, audio n. 2 da REGISTRARE. Ventilatore in tuta n. 2 - - controllato.
+Alle 3:10. Okay.
+Cambiare di nuovo il nastro sopra il Capo.
+Questa è Guaymas che vi consegna al Texas.
+Roger.
+Non c'è niente da vedere laggiù. Lo sai?
+Quella vista blocca la finestra. Lo sai?
+Sì, lo so.
+Non sono riuscito a seguirlo in Pulse.
+Lo so.
+Di quanto carburante avremo bisogno per la prossima combustione?
+La velocità standard è di 93 piedi/sec. Ne avremo abbastanza.
+Ora siamo allineati, ok.
+, Capo.
+Forza, Capo.
+Hai il trasmettitore di telemetria di standby acceso e pronto per un dump del nastro?
+Bene. Il nostro standby è in TEMPO REALE.
+Ok. Lo stai comandando. Bene, allora ti daremo la parola. Qual è lo stato delle altre modalità di gioco, o di quelle gratuite?
+Ripeti.
+Qual è lo stato delle altre modalità della piattaforma, come Free e Free?
+Bene, va bene. È l'Orbit Rate a farmi andare in rollio. Non ho ancora controllato. Proverò a controllarlo ora.
+Va bene.
+Quanto tempo ci vuole per raggiungere questo quarto di grado di velocità di imbardata, partendo da una velocità di imbardata pari a zero?
+Gordo, la situazione sta gradualmente accelerando. È una perdita lenta, laggiù.
+Roger. Sei soddisfatto di come riesci a ottenere e mantenere visivamente i tuoi atteggiamenti?
+Roger, la piattaforma si sta allineando correttamente.
+Ok, va bene. Vuoi spegnere il trasmettitore in standby?
+Ricevuto, trasmettitore di standby spento.
+Trasmettitore di standby spento.
+Va bene.
+Hai provato uno scanner secondario?
+Roger. Siamo stati sullo scanner secondario per un bel po'. Ora siamo tornati allo scanner primario.
+Ok, se pensi che la piattaforma stia andando troppo alla deriva per quel Controllo Caratteristico della Modalità di Controllo, cancellalo semplicemente: quello a 3 + 30.
+Ricevuto. Ho eliminato anche quel Controllo modalità scanner Horizon.
+Okay. Quello di prima?
+Roger.
+Bene. Ho il meteo per te, per le 4-1.
+Roger.
+Condizioni di cielo coperto. Visibilità di 20 miglia. Vento a 20 nodi, con mare di 1,5 metri.
+Roger, 20 anni e 1,50.
+Roger. Hai avuto successo nel contatto con il booster?
+In quel momento eravamo rivolti nella direzione sbagliata, mentre effettuavamo un controllo Horizon Scanner.
+Sì, avevo paura che lo fossi. Era un po' stretto lì dentro.
+SÌ.
+Sei riuscito a vedere qualcosa sopra gli Stati Uniti grazie alle nuvole?
+Credo che riuscissimo a vedere la parte meridionale della California e dell'Arizona. Questo era tutto.
+Vuoi ottenere la telemetria in tempo reale e l'assistenza per l'acquisizione?
+Non riesco a vederlo, Gus. Sono cieco perché guardo fuori.
+È iniziato.
+Bene. Ci siamo.
+Com'è il meteo in generale nel mondo?
+Molto nuvoloso.
+Vedo.
+Abbiamo visto pochissima terra.
+Tutto nuvole e acqua, eh?
+Sì, nemmeno molta acqua.
+Roger. Abbiamo appena ricevuto un aggiornamento. Era il TX? Finito?
+Abbiamo appena ricevuto aggiornamenti, Gordo. Era il TX?
+Ricevuto. L'hanno caricato e verificato.
+TR sembra buono,.
+, Capo.
+Andare avanti.
+Ci risulta che questa funzionalità non sia disponibile in modalità gratuita. È una risposta affermativa?
+Non ne ho nessuna in modalità o, Gordo. Non ho ancora controllato se è gratis. Dammi ancora qualche minuto.
+Va bene, va bene.
+Ma la piattaforma si allinea correttamente in questa modalità. Lo posso già dire.
+Okay, davvero bene.
+Ora abbiamo una buona verifica del tuo carico. Sembra a posto.
+, Capo.
+Avanti, Capo.
+Hai già avuto modo di provare la modalità gratuita?
+Ora sono in modalità gratuita e sembra che funzioni tutto bene.
+Molto bene. Eravamo sicuramente interessati.
+, Capo.
+Andare avanti.
+Vorrei che accendessi il ventilatore della cabina per due minuti e poi lo spegnessi quando puoi, per vedere come funziona, come piccolo esperimento.
+Ok, si parte.
+Va bene.
+, Capo.
+Andare avanti.
+La successiva combustione normale avrà un ΔV di 96.
+Roger, la prossima combustione sarà 96.
+Il tempo è 1 + 49.
+Ricevuto. 96 piedi/sec e 1 + 49 secondi.
+1 + 49 e 96 piedi/sec.
+Va bene.
+La ventola della cabina è spenta.
+Va bene.
+, questo è. Vai avanti.
+Roger. A che punto siamo?
+Siamo VIA.
+Roger. Da terra hai una bella figura. Pronto a copiare i tempi di Three-Bravo.
+Roger.
+,. Fammi sapere quando sei pronto.
+Roger. Siamo pronti.
+18 37 58. Tempo trascorso a terra 04 13 58. Angolo di inclinazione - rollio a sinistra 55. ΔV 93,. Hai ricevuto?
+Roger ha 18 anni, 37 anni e 58 anni.
+Roger.
+Angolo di inclinazione - 55 a sinistra. ΔV 93.
+Roger.
+,. Cape consiglia di eseguire la retroburn dopo l'allineamento e di rimanere fino al momento della retrofire.
+Roger. Sono d'accordo.
+,. Hai completato la tua lista di controllo per il fuoco retroattivo?
+Roger.
+,. Preparatevi per un trucco sull'ora GMT.
+Roger.
+Al mio segnale, il GMT sarà 18:14:40.
+SEGNO!
+Dammene uno al minuto pari.
+Roger.
+SEGNO!
+Roger.
+Siamo pronti per il tuo esperimento con le uova di riccio di mare.
+Ricevuto. Si sta attivando.
+Roger. Potresti darmi un orario GMT quando giri la maniglia?
+Ricevuto. GMT 15:20.
+Roger.
+,, Carnarvon.. Finito.
+Carnarvon,.
+Ricevuto. Ti ho ricevuto forte e chiaro. Ti invieremo un nuovo carico di comando 4-1 e un nuovo TR. Hai impostato il timer a 34:00?
+Timer impostato su 34:00.
+Okay. Nel frattempo vorrei avere da te la temperatura, la pressione e la quantità della sorgente di elio.
+la quantità di propellente è del 55 percento.
+Ricevuto. 55%. Potrei avere la temperatura e la pressione? A questo punto ti invieremo un carico di comando.
+Ricevuto. La pressione alla sorgente è 1950. La temperatura alla sorgente è 81°.
+Ricevuto. Grazie. Arrivo del carico di comando.
+E la lista di controllo pre-retro è completa, Pete.
+Roger. Capito, la checklist pre-retro è completa. Hai un nuovo TR. Hai un carico di comando. I tuoi orologi sono sincronizzati qui a terra e ho circa 2 minuti e 15 secondi per arrivare al tuo time hack da 34 minuti.
+Se guardate verso il basso, Carnarvon ha un grande fuoco che vi attende quaggiù.
+Siamo tutti puntati in avanti. Non possiamo ancora vederli.
+Va bene.
+, Carnarvon. Abbiamo un VIA qui a terra e ho circa 1 minuto e 30 secondi prima che tu mi dia il tempo.
+Roger.
+, Carnarvon. Quando ne avrete la possibilità, i medici vorranno ottenere una lettura sulla valutazione del cibo.
+Non c'è tempo, li rivedremo al nostro ritorno.
+Va bene.
+Tutto è in ordine.
+Ricevuto, ricevuto.
+, Carnarvon. Attendere TR MARK di 34:00, tra circa 30 secondi.
+Roger.
+MARCO. TR 34:00.
+Roger. Il tempo sta per scadere.
+, Carnarvon. I medici vorrebbero sottoporsi alla manovra respiratoria quando possibile.
+Ricevuto. Sta arrivando.
+, Carnarvon lo dice forte e chiaro.
+Questo è Carnarvon. Ripeti.
+Cos'è questo nuovo GMT di retrofire che ci hai dato?
+Ripeti.
+Qual è il GMT del retrofire che ci hai appena fornito?
+Roger. Il numero è 18 57 23 per un numero di 04 33 23.
+, Carnarvon. Vuoi le altre quantità? Il Capo ha detto che non erano necessarie, a meno che tu non le desiderassi.
+Va bene, Pete.
+, questa è Carnarvon.
+Andare avanti.
+Cape mi consiglia di fornirti le quantità di riserva per le 18:57:23. Sarà un tiro a sinistra 55. GMTRB delle 19:08:23. Tiro a destra 65 alle 400K del 19:01:29.
+Ce l'abbiamo fatta, Pete.
+Ok, Gus. Ho solo una domanda per te prima che tu vada fuori portata. Come va il volo lassù?
+Grande!
+Ottima GT-3. Ci vediamo al prossimo viaggio, l'anno prossimo.
+Va bene.
+Bene. Questo è stato l'ultimo cambio di nastro.
+Andare agli scanner primari a 25 minuti per retroattivare.
+Va bene.
+Oppure GMT del 1832.
+Va bene.
+Non riesci a riporre la macchina fotografica?
+Ecco fatto.
+Sembra che uno di quegli scanner abbia bisogno di una pausa ogni tanto. Lo sai?
+SÌ.
+Lo scanner si è spento alle 18:33.
+Ecco di nuovo quella luce dello scanner.
+È fuori.
+È di nuovo in onda.
+È di nuovo fuori.
+La luce dello scanner è di nuovo spenta.
+È di nuovo in onda.
+La spia dello scanner è accesa.
+Andrò alle scuole secondarie alle 18:35.
+La luce di ignoranza dello scanner secondario è buona a 18 35 10.
+Ora capisco cosa intendi quando dici che quei propulsori brillano quando il sole splende sul muso.
+Hai allacciato la cintura di sicurezza?
+Puoi provarlo ancora un paio di volte?
+Non lo so. Hai la tua imbracatura per le spalle?
+Sì, finalmente.
+Ora, lasciatemi esaminare questa lista di controllo in modo ordinato.
+Va bene.
+L'interruttore TR-5 è chiuso.
+SÌ.
+Bene. Tutta l'attrezzatura è stivata. La pompa secondaria B è accesa.
+Arriva il sole.
+E quella vecchia tuta laggiù ha una temperatura di 55°, banda S-CONTINUA, banda C-CONTINUA, in TEMPO REALE e ACQ.
+Batterie principali: le abbiamo testate. Erano buone. C è molto in alto, a 29, S2 —
+Cavolo! Con quel sole che mi illumina il naso, ora non vedo più niente.
+Ogni volta che si attivano i propulsori, S1 e S2 perdono tensione. Beh, non è insolito.
+Ehi, ora vedo l'ombra dello scanner in funzione.
+23,5 sull'autobus principale.
+Ok, giusto, tutti gli interruttori sono chiusi.
+Cavolo! Spero proprio che la palla 8 abbia ragione, perché non c'è orizzonte.
+Bene. Ora 4:06 dopo il retrofire sono 400K, e 11 minuti dopo il retrofire è inversione.
+E adesso, John, che cosa dici?
+4:06 dopo il retrofire è -
+Lasciami scriverlo.
+Te lo dirò. Non lo dimenticherò.
+E cos'è il contrario?
+Undici minuti netti. Sembra giusto, perché secondo i nostri dati nominali erano 10 minuti e 51 secondi.
+Non c'è ancora orizzonte.
+Okay. Dammi un segno e lasciami controllare TR ancora una volta.
+Ok, te lo darò alle 19:08.
+Va bene.
+Ho circa 10 secondi. Potrei darteli quando voglio, no?
+Sì.
+Te lo darò alle 05.
+Va bene.
+Uno, MARK.
+Arriverai un po' in ritardo. Credo che tu abbia timbrato il cartellino un po' in ritardo.
+19:04. Questo è un buon controllo TR.
+Spero che il sole non colpisca proprio quello scanner.
+L'ultima bruciatura che abbiamo ricevuto è stata di 96 piedi al secondo e un minuto e 49 secondi di bruciatura. Giusto?
+Sì, ci metteremo in fila.
+Bene. Pronti per questa bruciatura.
+Ok. Sei minuti.
+Devo avviare quel computer.
+Cavolo! Ecco l'orizzonte, ed è bellissimo.
+Ok. Meglio inclinarsi e controllare l'imbardata.
+Eh?
+Meglio controllare l'imbardata, di sicuro.
+Bene. Ce l'abbiamo. Ora è tutto a posto e lo scanner...
+Sembra proprio di sì. Sembra proprio di sì.
+Ho capito tutto tranne avviare il computer.
+Okay, bene —
+Non inizierò prima.
+Aspetta un attimo.
+È dentro?
+NO.
+Bene, buttatelo dentro!
+Sono in modalità Recupero.
+Va bene.
+Dice di inserire 2590960.
+Va bene.
+Hai circa 2 minuti.
+Hawaii,.
+Va bene, ma è proprio questo che vogliamo ottenere.
+Bene. All'inizio saremo circa al 52 percento.
+Hawaii,.
+Cavolo! Voglio dire, iniziamo a bruciare non appena arriviamo lì.
+Andiamo avanti e andiamo su Catch-Up e vediamo cosa dice.
+Niente.
+Bene, facciamolo: rimettiamolo dentro. Okay. Ora provaci.
+Bene. Adesso.
+Ecco qua. 6 - 5 - 4 - come ci è finito dentro? I miei atteggiamenti non sono 0, 0, 180.
+Ecco come.
+Va bene.
+Sì, signore!
+Tuttavia, gli IVI continuano a contare.
+SÌ.
+Continua a cambiare, non è vero?
+Ciao, Hawaii.
+Le Hawaii sono pronte per essere bruciate.
+Roger. Dacci un trucco per il timer del tuo evento.
+Ok, per me saranno le 12:55.
+SEGNO.
+Giusto, abbiamo ragione.
+Ok. Sulle mie IVI ho 97 piedi/sec in avanti e le altre sono cerniere.
+Roger, e dacci un segno per l'inizio della combustione.
+Ricevuto. Mancano circa 25 secondi.
+Roger.
+Questo è un perfetto allineamento fuori dalla finestra.
+SÌ.
+10 secondi.
+Abbiamo indicato il 50% di quantità di propellente. Ci prepariamo a sparare...
+SEGNO!
+Abbiamo capito come iniziare a bruciare.
+Sì, sta bruciando.
+Ci sono 90 —
+Ci sono 80 —
+Sai, non puoi sentire quei grandi propulsori.
+NO.
+C'è un minuto di bruciatura.
+Ci sono 28 —
+MARK! Fine della combustione.
+Giusto. Segna la fine della combustione. Bello spettacolo.
+Abbiamo cronometrato il tempo in un minuto e 48 secondi.
+Dateci le vostre letture.
+IVI: Avanti-indietro 0, Sinistra era 1, Su era 2.
+Quella fu la fine della bruciatura.
+SÌ.
+Ok, e come sono stati i vostri atteggiamenti?
+Gli atteggiamenti erano corretti, più o meno 2 o 3°.
+Ok, stanno bene a terra.
+Roger.
+Ora possiamo passare al RIENTRO. Giusto?
+SÌ.
+Ok, ho le 9:29 sul TR.
+Ok, MARK!
+Oh! Dammene un altro.
+Te ne do uno a 19. Okay?
+Va bene.
+SEGNO!
+Bene, la pressione della sorgente del propellente è 1500.
+Avevamo indicato il 22 percento quando abbiamo finito, Neil.
+20 percento. Rog?
+Circa 22.
+Va bene.
+La pressione alla sorgente è 1500, la temperatura alla sorgente 60-50, intendo. E l'RCS è acceso. L'antenna è a posto. In RIENTRO. Riscaldatori spenti. Interruttore di lettura della quantità spento.
+Vediamo, abbiamo capito tutto?
+potenza su ATTEGGIAMENTO, controllore di stivaggio, IMPULSO di assetto, computer su RIENTRO.
+Va bene.
+Ora siamo ben allineati.
+Bene, ora il caricamento retroattivo è inizializzato, perché ho chiamato gli indirizzi 10 e 11 dal computer.
+Ora, non uscire dalla modalità Rientro.
+Okay, ma non credo che farebbe alcuna differenza, finché torniamo indietro. Okay, piattaforma, velocità, computer su RIENTRO, COMANDO VELOCITÀ, giroscopio spento.
+SÌ.
+La piattaforma è ORBITAL RATE — No.
+NO.
+Potenza retrò - ARM.
+Non ora. Al TR-5, intendi?
+Bene, questa è la checklist da 5 minuti.
+Ok, bene, ora... 7:20.
+Non ho ancora sentito nessuno di quei pirotecnici isolanti. Tu sì?
+Sì, ho sentito quelli sul pad sparare.
+Davvero? Non ricordo, credo.
+Stavo ascoltando tutto quel jazz.
+Oh, davvero?
+O si!
+Bisogna ascoltarlo per sentirlo.
+Non riesco a vedere dentro.
+È luminoso, non è vero?
+Beh, il naso sembra molto in basso, ma è più o meno così.
+Un minuto.
+Quei temporali renderebbero l'arrivo davvero difficile. Sai?
+Non sembra che siamo così in alto.
+Batterie accese. Rete elettrica accesa —
+Abbiamo tutto ciò di cui abbiamo bisogno. Vero?
+Sì signore.
+La potenza retrò arriverà qui alle 5:15.
+Spegnilo subito.
+Ok. Sono 5 minuti.
+SEGNO.
+Va bene.
+Questo è tutto tranne l'alto tasso di O2.
+Va bene.
+,,. Sopra.
+Ripeti.
+,. Come leggi?
+Ti ho letto forte e chiaro,.
+Roger. Hai completato la checklist TR-5?
+Roger.
+Roger. Ti do un voto TR-4.
+Hai impostato l'orologio lì?
+Sì, voglio iniziare con Retrofire.
+Ok, entrambi gli anelli funzionano.
+Stand-by.
+SEGNO!
+Roger.
+Sembra che il tuo orologio stia contando bene.
+Siamo tutti pronti per TR-1?
+Sì, più o meno. Ce la faremo.
+Hai completato tutto?
+Sì. Le batterie dell'adattatore sono scariche. Abbiamo completato.
+TR-5 è completo.
+Roger.
+Andare avanti.
+Vuoi segnare su TR-1?
+Non necessario.
+Roger.
+Due minuti.
+,. Da terra hai un bell'aspetto.
+Roger. Grazie.
+Roger.
+Mi manca davvero quel giroscopio con velocità di rollio.
+SÌ.
+Quel vecchio ticchettio sta davvero andando a gonfie vele, te lo dico io.
+Sì. Spero di sì.
+Okay. Dammi un voto all'uno, eh?
+Va bene.
+Li hai tolti? Sì.
+Da cinque secondi a un minuto.
+Va bene.
+SEGNO!
+OAMS separati?
+Sì, vai avanti.
+Elettronica separata, adattatore separato.
+Ehi, l'adattatore si è staccato.
+Roger, confermiamo a terra. Adattatore sep.
+Sì, lo senti davvero.
+Ripeti.
+Ho detto che puoi davvero sentire l'inizio.
+TR-30.
+Roger.
+Braccio auto-retro.
+Auto-retro armate. Squibs armati.
+Roger,.
+16 secondi, 15 secondi.
+Va bene.
+10 - 9 - 8 - 7 - 6 - 5 - 4 - 3 - 2 - 1 - Retrofire.
+Auto-retrò.
+Manuale retrò.
+Razzo 3.
+Razzo 2.
+Tre di loro.
+Razzo 4.
+, confermi che tutti i razzi sparano normalmente?
+Tutti i razzi sono stati lanciati normalmente e gli atteggiamenti erano esattamente al centro.
+Ricevuto. Passa le tue letture a Guaymas. Fuori.
+Roger.
+, Guaymas. Mi ricevi?
+Roger, Guaymas. Le letture dell'IVI erano 331 a poppa, 105 a destra e 4 in alto. Proprio al centro. Un fuoco automatico superfine retroilluminato lungo la linea.
+Ricevuto. Ricevuto. 331 A poppa, a destra 105, in basso 04.
+Roger, e retropack è stato abbandonato.
+Roger.
+, Guaymas.
+Andare.
+Sono pronto a darti un trucco TR + 3 minuti se ne hai bisogno?
+Sarebbe una buona cosa.
+Ok, ecco alcuni orari per il rientro: 400K piedi 19 10 29 — stand by,.
+Molly? Brown, correggi 400.000 piedi. Sono le 19:01:29.
+Roger.
+, ti darò un trucco temporale in circa 30 secondi.
+, Guaymas. Preparatevi per un TR + 3 minuti di hack temporale.
+SEGNO!
+Mi copi?
+Ricevuto. Ce l'abbiamo fatta.
+, pronti per il Texas.
+Roger.
+, Capo.
+ecco, vai avanti.
+Roger. Sto ricevendo i tempi di inclinazione laterale a momenti. L'inizio dell'esperimento di comunicazione è il 19/05/14.
+Ricevuto. Ho lo sterzo sul computer.
+Non ti avevo letto su questo.
+Ricevo i comandi iniziali per l'angolo di inclinazione dal computer.
+Va bene.
+, Ho i tuoi tempi di backup sugli angoli di inclinazione e sul tempo per invertire l'angolo di inclinazione.
+Andare avanti.
+Inclinazione a sinistra di 45°. Inclinazione a destra di 55°. È il momento di invertire l'angolo di inclinazione 19 08 17.
+Dammi il tempo trascorso dopo la retroilluminazione.
+Aspetta uno.
+Ora sto virando a 60° a sinistra.
+Roger, sponda sinistra 45.
+Voglio dire 45.
+10 + 54 dopo retro è l'angolo di inclinazione inverso.
+Ripeti, Gordo.
+Cosa hai detto, Gordo?
+Il tempo impiegato dal fuoco di retromarcia all'inversione dell'angolo di inclinazione è di 10:54. Dieci minuti e 54 secondi.
+, Capo. Trasmetto in blackout per un esperimento di comunicazione. Fine.
+, Capo. Trasmetto per un test di comunicazione. Passo.
+, Capo. Trasmissione su esperimento di comunicazione. Finito.
+, Mantello con 1 - 2 - 3 - 4 - 5 - 4 - 3 - 2 - 1. Sopra.
+, Mantello con 1 - 2 - 3 - 4 - 5 - 4 - 3 - 2 - 1.
+, Mantello con 1 - 2 - 3 - 4 - 5 - 4 - 3 - 2 - 1.
+, Mantello con 1 - 2 - 3 - 4 - 5 - 4 - 3 - 2 - 1.
+Questa è la trasmissione di Cape per l'esperimento di comunicazione 1 - 2 - 3 - 4 - 5 - 4 - 3 - 2 - 1. Fine.
+, Mantello con 1 - 2 - 3 - 4 - 5 - 4 - 3 - 2 - 1.
+, Capo. Oltre.
+, Cap.
+…fine di tutto.
+, Capo. Oltre.
+Andare avanti,.
+, stai leggendo Cape adesso? Passo.
+Cane Nero…
+Ciao!
+, Capo.
+Roger. Siamo scesi a 80.000 piedi. I miei indicatori indicano che siamo a circa 25 miglia di distanza.
+Roger, sul tuo computer mancano circa 40 chilometri. Ottimo.
+Ho un orario di sospensione 19 10 42. Qual è la lettura del tuo altimetro?
+Lettura 60.000.
+Dici 70.000?
+Ecco che se ne va la droga.
+Roger.
+Ok, abbiamo una droga.
+Ricevuto, drogato.
+Sembra davvero buono, non è vero?
+Le nostre valvole di propellente sono chiuse. Abbiamo una luce da 40K. Davvero oscillante.
+Roger.
+Passando per 30.000 piedi.
+Roger.
+Circa un minuto fino alla fermata principale.
+Questo sì che è intrepido.
+Ricevuto. Vai avanti.
+, Capo. Come sta il tuo principale?
+Non abbiamo ancora una rete principale. Stiamo attraversando 13.000.
+Roger.
+, come sta andando la tua festa principale?
+Bene. Abbiamo un paracadute stabile. Stiamo per atterrare.
+Oddio! Quella è stata la più dura di tutte, vero!?
+Oddio!
+Bene. Siamo tutti pronti?
+Sì. Ora esaminiamo la checklist post-main.
+Vediamo, ora riescono a leggerci?
+SÌ.
+Questo è il Capo.
+, Capo.
+Questo sì che è intrepido.
+Roger. Ti leggiamo ogni tanto. Come?
+Forte e chiaro. Ho una velocità di discesa di 30 piedi/sec. Sto attraversando i 5500.
+Non hai mai tolto l'anello a D, eh?
+Roger, 5500.
+Sì, l'ho fatto anch'io!
+Ah, davvero?
+Meglio crederci!
+La mascherina è aperta?
+Aprire?
+Questo è ciò che dice la checklist. Indicare che l'interruttore del controllo di atterraggio è aperto.
+Che cosa?
+Indica che l'interruttore del controllo dell'assetto di atterraggio è aperto. È il secondo interruttore sul pannello. Ecco fatto.
+spegnimento della polarizzazione.
+, qui è Intrepid. Sembra che atterrerete 8 chilometri prima di me. Passo.
+Roger. Grazie.
+Sarà fantastico. Il faro di soccorso è acceso.
+Ci hai visti, Intrepid?
+Non ancora. È finita.
+Roger.
+Allora accenderò il faro di soccorso.
+Segnale di soccorso in arrivo.
+Passando attraverso 4000.
+Tifoso in tuta al n. 2.
+Quel paracadute frenante è proprio sopra di noi, o paracadute pilota.
+Ho capito che il paracadute di emergenza è appena sopra di te, oppure il paracadute pilota.
+Ripeti.
+Il riscaldamento è spento. Non abbiamo fatto quel controllo del riscaldamento. Oh, beh. Non ne avevamo bisogno comunque. La temperatura era molto alta. L'interruttore del riscaldamento dello scanner è aperto.
+Senti l'odore di quel carburante? I fumi di quella roba?
+Sì. Chiudiamo.
+Sì. Li vedo fumare là fuori.
+Aumento del flusso di vestiti.
+Saranno spenti in un minuto.
+Disattivato l'esperimento dell'antenna di rientro.
+Ok. Alta frequenza di O2 manuale - PULL. Non credo che vogliamo farlo ancora, vero?
+NO.
+Immagino che qui la situazione sia parecchio brutta.
+Il sigillo dell'acqua è chiuso. Alimentazione CA spenta.
+Va bene.
+Stiamo attraversando lo strato inferiore, John. Preparati a colpire. Siamo a 2000. Non si sa quanto sia lontano l'altimetro.
+Va bene.
+Sono pronto come non mai.
+Puoi rimettere la testa a posto.
+L'assetto di atterraggio è stato un problema, non è vero?
+SÌ.
+Siamo a 1500 piedi.
+Siamo in buona forma.
+Con quell'odore qui dentro potremmo dover ricorrere all'ossigeno ad alta velocità.
+Lo so.
+Probabilmente è dovuto solo a quel metallo caldo.
+Penso che sia proprio questo.
+Ne sono sicuro. Non esce nulla dai propulsori.
+NO.
+600 piedi.
+Coperchio di atterraggio aperto. Pensavo fosse parajet.
+Oh no!!
+300 piedi. Dovrebbe essere abbastanza presto.
+Mi sono rotto la visiera quando siamo passati alla posizione di atterraggio.
+Davvero?
+Ecco qual era il problema, proprio lì.
+Guarda il fumo che esce dai propulsori.
+Sono partiti.
+Non lo capisco.
+Meglio andare all'O2 High Rate e chiudere lo snorkel.
+Va bene.
+Lista di controllo post-atterraggio. Paracadute spinto a getto. Atterraggio sicuro. Salvataggio del bus di atterraggio. Casco tolto e riposto. Io lo lascerei. Braccioli di sicurezza -
+Questo è nell'acqua. Qualcuno ha letto?
+, qui è Big Box 15. Siete forti e chiari. Contattate Big Box 14.
+Roger. Stiamo galleggiando bene nell'acqua.
+Ok. Attacco per le spalle sistemato. Luce della cabina spenta. Casco tolto e riposto. Braccioli riposti.
+Ehi, ricomincia da capo.
+Lista di controllo post-atterraggio. Casco: toglilo e riponilo. Non credo che dovremmo farlo.
+No, non ancora.
+Riporre il bracciolo. Ok, riporre il poggiagomiti, sganciare la cintura addominale e riporre.
+Ti dico, non aprirei mai quella mascherina con quei propulsori che soffiano in quel modo.
+Ti ho sentito. Chi sta chiamando Molly Brown?
+Questo è, chiama di nuovo.
+, Big Box 14. Vai avanti.
+Qui è Big Box. Avanti.
+Roger, signore, se potesse tenermi premuto per 15 secondi.
+Ok, lo terrò premuto.
+Grande scatola,.
+, Big Box 14. Ti abbiamo su...
+, Big Box 14. Potresti darmi un altro sostegno?
+, Grande Scatola 14.
+, Big Box 14. Un altro fermo, per favore.
+Ok, ti ​​ho trovato. Big Box 14.

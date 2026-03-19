@@ -1,0 +1,281 @@
+Mi senti?
+Ti sento bene.
+Mi senti?
+Ti sento bene.
+Inizia la procedura di controllo della tuta spaziale. Leggi ancora?
+Roger: inizio controllo tuta spaziale. Tra 3 minuti. Al momento siamo occupati.
+Ricevuto.
+Controllo della tuta spaziale completato.
+Ricevuto. Controlla la connessione UCB.
+Mi senti?
+Mi senti?
+Ti sento bene, mi capisci?
+Ti sento molto piano, c'è un'indicazione di trasmissione di luce e suono sul pannello. Ovviamente sta registrando su nastro. Hai capito?
+Ti ho capito, ti sento bene.
+Non ti ho letto. Per favore, spegni la musica, se possibile.
+Roger, un attimo. Ti sento bene.
+Mi senti? La trasmissione della musica avviene tramite il canale 2nd KB.
+Fatto. Ti sento bene.
+Ricevuto. Buon segnale tramite KB-2, ti sento bene.
+Passaggio a. Inizia a contare: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+Ricevuto, continua a lavorare.
+Roger.
+Controllo della comunicazione. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Mi senti?
+Ti ho capito. Ti sento bene. Mi senti?
+Lavorando sul nastro. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+Ti sento bene. Passo a 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Mi senti?
+Bene, ti capisco benissimo. Roger. Continua a controllare.
+Sto lavorando al microfono. 1, 2, 3, 4, 5. Mi senti?
+Ti sento bene. Roger.
+Ricevi sul telefono.
+Come ti senti, Yuri Alekseyevich?
+Mi sento benissimo. Il controllo di telefoni e altoparlanti funziona correttamente, ora passo al telefono.
+Roger. Tutto procede alla grande, la preparazione della macchina procede in modo stabile, tutto bene.
+Roger. Lo sapevo.
+Roger. Ottimo, tutto bene.
+Controllo della connessione completato. Mi senti? La posizione degli interruttori sul pannello è impostata sui valori predefiniti. Globo in posizione, latitudine nord 63°, longitudine est 97°, numero di correzione 710, tempo di divisione 9 ore 18 min. 07 sec.; indice mobile impostato sulla posizione predefinita — primo giorno 7. Pressione in cabina 1, umidità 65%, temperatura 19 °C, pressione nel compartimento 1,2, pressione nel sistema di orientamento manuale 175, primo orientamento automatico 155, secondo orientamento automatico 157, pressione nel cilindro 320 atmosfere. Mi sento benissimo, pronto al lancio. Come mi senti?
+Ricevuto. Ho ricevuto i tuoi dati, li sto convalidando. Ho ricevuto la tua autorizzazione al lancio. Tutto procede bene per noi.
+Mi senti? Devo trasmettere qualcosa.
+Ti sento bene.
+Yuri Alekseyevich, vorrei ricordarti che, dopo l'ultimo minuto di preparazione, ci saranno 6 minuti di ritardo prima del volo effettivo. Non preoccuparti, per favore.
+Roger. Sono assolutamente calmo.
+Fantastico, meraviglioso. Dopo un minuto di preparazione, ci saranno alcune cose da fare. Passo il telefono al Presidente.
+Rudnev qui al telefono. Yuri Alekseyevich, come ti senti? Ci sono novità? Cosa vedi attraverso le finestre?
+...tutto bene. Mi senti?
+Roger. Il Presidente ti ha sentito. Qui va tutto bene.
+Yuri, come va?
+Come ci hanno insegnato.
+Ok, allora, bene, abbi cura di te. Sai chi ti sta parlando?
+Lo so, è così.
+Ora ti parleranno.
+Se hai tempo, per favore, collega il trasmettitore KB e parla, conta fino a 20. Se hai tempo e non sei impegnato al momento, fammelo sapere. Mi ricevi? Yuri, ma inizia tra un minuto, per favore. Mi ricevi?
+Roger. Inizierò subito il tuo compito.
+Durante la separazione, avvicina l'interruttore a te.
+Ricevuto. La posizione predefinita durante il lavoro e in orbita è quella dell'interruttore su "telegrafo". Durante la separazione, impostare l'interruttore su "segnale".
+Roger. Esatto, Yuri.
+Mi senti?
+Ti sento bene. E io?
+Ti sento bene. Yuri, cosa stai facendo adesso?
+Ok, al momento non sono molto impegnato.
+Ho trovato la continuazione di "". Capito?
+Capito, capito, continua.
+La canteremo stasera.
+Tutto bene. Come stai?
+Roger. Anche qui tutto bene. Mi sento benissimo, ho intenzione di chiudere il portello n. 1.
+Mi senti? Controllo le comunicazioni nel bunker.
+Ti sento bene. Per favore, parla un po' più piano. Mi senti?
+Roger.
+Per favore, dimmi, hai usato HF con uno o entrambi i pulsanti?
+Sto lavorando con il pulsante sul pannello, adesso. Ora con il pulsante sulla manopola di controllo. Ora con entrambi i pulsanti. Mi senti?
+Ti sento bene. Buon suono con entrambi i pulsanti.
+Controlla se è comodo usare la memoryboard e se la tabella dei codici è visibile su "deli". Mi hai ricevuto?
+Ricevuto. Controllo.
+Verificata l'usabilità della scheda di memoria e dei segnali di lettura. Tutto a posto.
+Roger. Fantastico, amico.
+Yuri, tutti qui ti salutano con un grande "Ciao". Sono appena tornato da casa loro. Mi senti?
+Roger. Grazie mille. Salutali calorosamente da parte mia.
+OK.
+Mi senti?
+Ti sento bene. E io?
+Ti sento bene. I preparativi stanno procedendo bene. Va tutto bene, Yuri.
+Roger. I preparativi stanno procedendo bene da parte mia. Mi sento bene, pronto per il lancio.
+Roger.
+Yuri Alekseyevich, mi leggi?
+Ti sento bene, so con chi sto parlando.
+Yuri Alekseyevich, vorrei ricordarti che non userò la parola "secondi", ma solo il numero approssimativo ogni cinquanta secondi, ad esempio: 50, 100, 150 e così via. È chiaro?
+Roger. Me l'aspettavo.
+Grande.
+Richiedi il 20 al telefono.
+20° di turno.
+La mia richiesta è di sapere a che ora ogni secondo prima o dopo l'avvio, se la connessione sarà stabile e se sarà possibile.
+Roger. La tua richiesta sarà soddisfatta, Yuri Alekseyevich.
+Yuri Alekseyevich, abbiamo un problema: dopo aver chiuso il portello, uno dei contatti non si è collegato bene. Per questo motivo, smonteremo il portello e lo riinstalleremo. Mi senti?
+Ricevuto. Il portello è aperto, controllo dei rilevatori.
+Ok, ottimo.
+Pronti per il lancio entro un'ora. Continua il controllo dei dispositivi. Mi sentite?
+Ricevuto. Un'ora di preparazione al lancio. Tutto procede bene, mi sento benissimo, sono di buon umore, pronto per il lancio.
+Roger, Yuri.
+Stai lavorando ora sul microfono laringeo o?
+Ci sto lavorando adesso.
+Roger.
+Controllo della connessione. Mi ricevi?
+Ti sento bene. E io?
+Anche io ti sento bene.
+Hai controllato il pacco? Riesci a raggiungerlo? Controlla il pacco e segnalalo.
+Ho controllato il pacco. Posso raggiungerlo. Mi senti?
+Roger. Ottimo.
+I vagoni del treno stanno partendo proprio ora. Li senti?
+Non sento il treno. È molto rumoroso qui, sento solo le comunicazioni.
+Ok, ho capito.
+Questa è la preparazione di 50 minuti.
+Roger: Prontezza di 50 minuti.
+Mi sentite? Hanno iniziato a chiudere il portello?
+Ti capisco bene. Sembra che stiano finendo di montare la copertina.
+Roger, qui tutto bene.
+Anche qui tutto bene. Mi sento bene, sono di buon umore.
+Meraviglioso. Mosca ci ha appena chiesto come stavamo e come stavamo lì. Abbiamo risposto che andava tutto bene.
+Roger.
+Yuri, ti annoi lì?
+Sarebbe bello suonare musica, se possibile
+Un minuto.
+Probabilmente dovresti sentire rumore in questo momento. Questo perché stanno abbassando le passerelle. Tutti i lavori migliori sono terminati. Mi senti?
+Roger: abbassano le passerelle, ma non sento rumore. Sento delle vibrazioni.
+Roger. Va bene.
+Questa stazione è Zaria-1. Per favore, completa la richiesta di, suona un po' di musica per lui.
+Hai sentito? Ripeto Zaria: sto cercando di soddisfare la tua richiesta. Metti un po' di musica perché mi sto annoiando.
+Come va? Senti la musica?
+Al momento niente musica, ma spero che lo sarà presto.
+Ma non hai sentito che era stato promesso?
+E allora? La musica ha iniziato a suonare, no?
+No, niente musica.
+Va bene, sai, i musicisti; ora sono qui, ora sono lì, ma non fanno niente molto velocemente, come dice il proverbio, Yuri Alekseyevich.
+Stanno giocando sull'amore.
+Giocare sull'amore? È saggio, Yuri Alekseyevich, credo proprio di sì.
+Yuri, stanno suonando, giusto?
+La musica suona, tutto bene.
+Fantastico, significa che non sarà più noioso.
+Yuri, i ragazzi sono felici che tu stia bene e che ti senta bene. Mi senti?
+Roger. Un caro saluto a loro. Sto ascoltando Utesov. Per l'anima -.
+Ok, allora ascoltate.
+Impermeabilità verificata: tutto normale. Mi senti?
+Roger: impermeabilità controllata. Sento e controllo: impermeabilità controllata. Stanno bussando un po' lì.
+Va bene, non preoccuparti.
+Ti abbiamo appena visto in televisione, il tuo sguardo allegro ci ha reso felici. Mi senti?
+Roger. Mi sento bene, sono di buon umore, pronto per il lancio.
+Ottimo. Qui va tutto bene.
+Yuri, ti annoi lì?
+Sto bene, stanno cantando d'amore.
+Come va? Qui va tutto bene, ci stiamo preparando. Non ci sono ritardi nella preparazione, niente di sbagliato. Ragazzi, ora andiamo.
+Roger. Tutto bene qui: calmo e mi sento benissimo. Saluti ai ragazzi. Sento il loro sostegno in ogni momento. Sono con me.
+Ottimo, ottimo, Yuri.
+Yuri, tutti quanti vi mandano i miei migliori auguri, vi chiedono di dirvi "buona fortuna" e tutti i vostri migliori saluti, e tutto quello che potete immaginare. Mi sentite? Vi auguro tutti buona fortuna e bene.
+Roger. Grazie mille.
+Rudnev parla. I compagni di Mosca ci chiedono notizie della vostra salute e del vostro benessere. Abbiamo detto loro che tutto va bene, che vi sentite bene e che siamo pronti per le prossime azioni.
+Hai detto loro la verità. Ti senti bene, sei di buon umore, pronto per ulteriori azioni.
+Roger.
+Mettetevi nella posizione di partenza per iniziare il test delle funzioni fisiologiche.
+Posizione di partenza per il test delle funzioni fisiologiche.
+Roger.
+Stanno per smontare l'installer. Mi sentite?
+Roger: smonteranno l'installatore.
+Il braccio dell'installatore è stato smontato con successo. Mi senti?
+Roger: il braccio dell'installatore è stato smontato con successo.
+Yuri Alekseyevich, sposteremo subito questa stazione radio nel bunker. Quindi avremo 5 minuti di silenzio sul canale. Nikolay Petrovich e Pavel Romanovich andranno nel bunker. Io resterò qui fino al momento in cui saremo pronti, ma loro trasmetteranno quello che dirò loro. Mi sentite?
+Roger: adesso tutti si stanno dirigendo verso il bunker, ci sarà silenzio per un minuto, poi trasmetterete attraverso di loro.
+Sì, è corretto: stiamo ritirando i bracci, tutto procede secondo i tempi previsti, la macchina funziona bene.
+Anche qui tutto bene.
+Come sono i controlli medici? Battito cardiaco?
+Mi senti?
+Roger. E io?
+Ti sento bene. Polso 64, respirazione 24. Tutto bene.
+Roger. Questo significa che il mio cuore batte ancora.
+Qual è lo stato?
+Prontezza di 15 minuti. Ricordati: indossa i guanti. Mi ricevi?
+Roger: Pronti per 15 minuti, indosso i guanti. Procedo.
+Ho indossato i guanti, tutto bene.
+Roger.
+Il registratore non funziona né per la registrazione automatica né per quella manuale, sembra che abbia finito il nastro. Per favore, riavvolgilo.
+Roger: Inoltrerò la tua richiesta. Riavvolgimento in corso. La luce è accesa?
+Roger: riavvolgimento in corso. Lasciate che riavvolgano tutto il nastro.
+Roger, va tutto bene.
+Prontezza di 10 minuti. Il casco è chiuso? Chiudi il casco e segnala.
+Roger: Pronti per 10 minuti annunciati. Il casco è chiuso. Tutto bene, mi sento benissimo, pronto per il lancio.
+Roger.
+Pronto in 5 minuti. Impostare il volume al massimo.
+Roger: Pronti per 5 minuti annunciati, imposta il volume al massimo. Volume massimo impostato.
+Tutto va bene. Mettiti nella posizione di partenza per iniziare il test delle funzioni fisiologiche.
+Roger. Tutto bene, mi sono messo in posizione di partenza e mi sono preparato per il test delle funzioni fisiologiche.
+Roger.
+Tutto bene qui. Prima dell'inizio delle nostre operazioni, un minuto prima, mancano pochi minuti. Mi sentite?
+Ti sento bene. Roger: pochi minuti prima dell'inizio delle operazioni. Mi sento benissimo, di buon umore, tutto bene.
+Roger, esatto.
+Pronti per un minuto. Mi sentite?
+Roger: pronto in un minuto. Ho preso la posizione di lancio, ecco perché ho avuto un ritardo nella risposta.
+Roger.
+Puoi mantenere il silenzio durante il lancio. Rispondi quando puoi, ti trasmetterò i dettagli.
+Roger.
+Tasto per iniziare! Spurgo in corso.
+Roger.
+Chiave impostata su drenaggio.
+Roger.
+Tutto bene: le valvole di scarico sono chiuse.
+Roger. Sono di buon umore, mi sento bene, pronto per il lancio.
+Grande.
+Pressurizzazione in corso, albero portacavi spostato, tutto bene.
+Roger, lo sento. Sento le valvole che funzionano.
+Roger. Ottimo.
+# le due righe successive sono state spostate indietro per motivi editoriali; nella trascrizione sono nello stesso minuto UTC
+# tuttavia vengono chiaramente prima del lancio
+Accensione avviata.
+Roger: accensione avviata.
+Fase preliminare. Intermedia. Principale... SU!
+Eccoci qui! Il rumore è molto buono. Tutto procede bene, l'umore è alto, mi sento benissimo, tutto bene.
+Vi auguriamo un buon volo, tutto bene.
+A presto, miei cari amici!
+Ciao, a presto!
+Le vibrazioni aumentano, il rumore aumenta lentamente.
+Ora 70.
+Roger, 70. Mi sento benissimo, continuo a volare, la forza g aumenta, tutto bene.
+100. Come ti senti?
+Mi sento benissimo. E tu?
+Velocità e tempismo vanno bene. Come ti senti?
+Mi sento bene.
+Tutto bene, la macchina funziona benissimo.
+La carenatura è stata consegnata, tutto bene. Come stai?
+Scende la carenatura principale... Vedo la Terra... la forza g sta aumentando, tutto bene, umore ottimista.
+Ben fatto, fantastico! Tutto va bene.
+Sto guardando le nuvole. Il luogo dell'atterraggio. Bellissimo, è così bello. Mi senti?
+Ricevuto. Continua il volo.
+Il volo continua, la congestione aumenta, le rotazioni sono lente, tutto sembra a posto. Attraverso il periscopio vedo la Terra: è quasi coperta di nuvole.
+Tutto bene. Roger, ti sentiamo bene.
+Separazione di seconda fase.
+Funziona come dovrebbe. Ultima fase. Tutto bene.
+Roger: Ho sentito parlare di inclusione. Mi sento bene. Vedo la Terra: la visibilità è buona, l'umore è positivo, la forza g sta aumentando, mi sento bene.
+Roger.
+Tutto bene. Mi senti? Come ti senti?
+Ti sento bene. Mi sento bene, il volo procede bene. Vedo la Terra, il volo continua, la visibilità è buona, riesco a vedere tutto chiaramente, parte è coperta dalle nuvole, il volo continua, tutto bene.
+Ti ho capito, complimenti! La tua comunicazione è buona, continua così.
+Tutto funziona bene, procediamo.
+Come ti senti?
+Ti sento basso, umore allegro, ti senti bene, continua il volo, tutto va bene, la macchina funziona in modo stabile.
+Ci penso io, questo è Kolpashevo.
+Come stai?
+Ti sento bene, mi sento bene, la macchina funziona bene. Vedo la Terra attraverso il periscopio. Tutto bene. Ciao. Mi senti?
+Roger.
+Roger. So con chi sto parlando. Ciao.
+Come ti senti? Questa è Kolpashevo.
+Mi sento bene, continuo a volare. La macchina funziona in modo stabile. Vedo la Terra nel finestrino, il cielo, l'orizzonte. Il volo procede bene. Mi senti?
+Roger.
+Accaduto - -
+Luci accese, sensazione di benessere, umore positivo. Parametri della cabina: pressione 1, umidità 65, temperatura 20, pressione nel compartimento 1, primo automatico 155, secondo automatico 155, pressione nella bombola 320 atmosfere - -
+Avanti. Mi senti?
+Zaria-3, dp mi senti? Non sento, non sento Vesna.
+Roger, la connessione è normale.
+Il volo procede bene, tutto bene. Cosa puoi dirmi?
+Il volo procede bene. La sensazione di assenza di peso è buona. Tutti i dispositivi, l'intero sistema funzionano bene. Cosa puoi dirmi?
+Ti capisco bene, i dispositivi funzionano bene, mi sento bene.
+Ti capisco bene. Cosa puoi dirmi del volo? Cosa puoi dirmi del volo?
+Nessuna istruzione da Korolyov, il volo procede bene.
+Roger. Nessuna istruzione da Korolyov. Per favore, dimmi lo stato del volo. Ciao al ragazzo biondo!
+Mi senti?
+Ti sento bene. Come mi senti?
+Come ti senti?
+Mi sento benissimo, benissimo, benissimo, benissimo. Dimmi i risultati del volo!
+Ripeti per favore, non ti sento bene.
+Mi sento bene, molto bene, benissimo!
+Dammi qualche dato sul volo!
+Mi senti?
+Mi senti? - -
+Mi senti? Trasmetto il prossimo messaggio di rapporto: 9:48, volo regolare. "Shutter-1" funziona bene. L'indice si muove. Pressione nell'unità di cabina 1, umidità 65, temperatura 20 °C, pressione nel compartimento 1.2, manuale 150, prima automatica 155, seconda automatica 155, bombole 320 atmosfere. Mi sento bene, umore ottimista.
+Non sento la stazione di terra. Sono in ombra.
+Roger.
+Orientamento solare attivato.
+Roger.
+Il volo procede bene, l'orbita è calcolata.
+Roger: il volo va bene.
+Umore positivo, continuo il volo, ora sono sopra gli Stati Uniti.
+Roger.
+Mi senti?
+Ti sento bene. Il volo va - bene - -
+Il volo va bene.
+Maggiore Gagarin, il suo volo procede bene.
