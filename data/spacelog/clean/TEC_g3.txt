@@ -1,0 +1,1902 @@
+Bolts and lift-off.
+Roger. Clock is started.
+There's the roll program.
+Roger. Roll.
+Okay. Roll is completed.
+Roger. Roll Complete.
+There goes the pitch.
+Roger. Pitch. you're on your way,.
+Yeah man!
+Plus 50 seconds.
+Roger. Mode II delay.
+Roger.
+Cabin pressure is holding at 6.0, climbing just a little.
+Roger.
+It just got quiet.
+Roger.
+Cabin pressure relieving at 6.5.
+Roger. Mode II.
+Roger.
+First update received.
+Roger. Update.
+You're a little bit high on the flight path, but no problem,.
+Okay, Molly Brown's GO for staging.
+Roger. Looks good from here.
+Roger.
+Second update received.
+Roger. Update.
+Okay, there was staging.
+Roger. Stage.
+And, we're thrusting.
+Okay. Thrust looks good from here.
+shows full scale pitch attitude error.
+Okay. We're starting to steer.
+Horizon comes right into view.
+Roger.
+is GO!
+Looks good from here.
+Oh, man! Look at that horizon.
+Steering is good from here.
+Hey, we're moving right along that horizon.
+Roger.
+What did you say, Gordo?
+Pretty big throttle you got there, huh?
+Yes.
+Roger. you're GO from here.
+Roger. is GO.
+Roger.
+Steering right down the old line.
+Okay.
+Yeah, you can see the view real well. The nose dropped below the horizon a little bit. now it's back up above.
+Roger. Stand by for my mark on 0.8.
+Roger.
+MARK 0.8.
+Good show.
+Roger.
+Looks good.
+Roger. You are GO,.
+One seven.
+Roger.
+Okay. We are separated.
+Roger. Fairings.
+There went all fairings.
+Okay, fine.
+You have the IVI's?
+Okay. 17 ft/sec at, and I have 29 ft/sec now.
+Roger. 23 down?
+That's 3 down, 7 right.
+Roger. 3 down, 7 right.
+And 29 aft. Right.
+And 23 aft. Okay.
+And the attitude on the ball is 18° nose down.
+Roger. We have an 87 by 125 orbit,.
+, Cape.
+Roger. You have an 87 by 125 orbit. I'll get you One-Alpha shortly.
+Roger.
+Roger. new One-Alpha time is elapsed time of 18:12. 18 minutes, 12 seconds.
+Roger. 18:12.
+Roger. Write fast, John.
+That horizon is right where they said it would be.
+Yes.
+Let's see, have we got everything on this checklist, John? Let's see—retrorockets safe. Yes.
+Yes.
+power— ATTITUDE.
+Maneuver controller—stowed. Sequence lights—test.
+Arm restraints, face plates—open.
+Secondary O2 bottle is closed. I've got mine. Waste valve to NORMAL.
+, Cape.
+GO, Cape.
+Look better there than on a ballistic flight?
+Say again.
+Does it look better from there than on a ballistic flight?
+I can't read you, Gordo.
+Roger. How-do-it-look?
+It look great!
+Rog.
+Computer—PRELAUNCH. High frequency is off. Antenna selector to ADAPTER.
+Cape, how do you read on adapter antenna? Over.
+Cape,. Over.
+Maybe we lost 'em.
+Yes.
+Man, it's hard to watch that gyro.
+Yes.
+Guess you've got to stow the drogue pins, huh?
+Yes. Stow those drogue pins.
+, Cape.
+Cape,. How do you read?
+Cape,. How do you read?
+Better go to reentry antenna.
+Okay.
+Cape, how do you read Molly Brown?
+I think we've lost them now. let's leave it on adapter antenna and we'll try at Canaries.
+Okay.
+Let's get lined up here.
+I'll put the mains to OFF and see what we've got. Look here, we've still got a … I want to put these off. I'll put them off one at a time, or we may drop voltage.
+What's our time coming in to the Canaries?
+Time is 14 something. Just a second. Okay, Canary is 14:50 acquisition. 21:42.
+Okay.
+I'd say I was alined pretty good, wouldn't you?
+Yes.
+Great!
+Shoot, Gus, I can't get my blood pressure bulb in. I really can't.
+It wants to keep yawing us all the time.
+Huh?
+It wants to keep yawing us all the time.
+Yes.
+We must have a leak.
+What kind of leak?
+Okay.
+You want the plotboard?
+Yes.
+If I can get it out.
+The intercom is noisy, isn't it?
+I can't get the plotboard out of there.
+I can't get it out, John.
+Can't get the plotboard out?
+I'll darn sure never get it in. Oh yes, there it comes.
+, Canary. How do you read?
+Canary, this is. how do you read?
+Roger. Read you loud and clear,.
+I read you the same.
+We have your solid and all systems look good on the ground.
+Okay, we look pretty good up here.
+I have your 2-1 time if you are ready to copy. Do you copy, Molly Brown?
+Okay.
+Okay. Ready with 2-1.
+Roger. ΔV139. 15 55 47. 01 31 47. Roll left 55°. GMTRB 16 05 31. Roll right 65. Did you copy?
+Did you get 'em?
+Yes.
+There goes a planet up there.
+Did you get 'em?
+Roger.
+, Canary.
+We're getting ready to read them back to you.
+Roger.
+Roger. ΔV of 139. GMT of 16-belay that—15 55 47.
+, Canary. Request you place your radiator switch to the FLOW position.
+Roger. Radiator is in FLOW position. Has been the whole pass.
+It's cooling us right down too. It's working.
+Reading back a GMT of 2-1—15 55 47. GMTRB is 16 05 31. Bank angle 55° left and right 65°.
+, Canary. We are standing by for your UHF Com Check. Do you copy?
+Roger. We are on UHF #2. Have been the whole pass. Over.
+, Canary.
+Go ahead.
+I don't think they read me.
+Roger. We are standing by for your UHF Com Check, and would you place your radiator switch to your FLOW position?
+Roger. John has been answering all of those. He's just in RECORD.
+Roger. The radiator has been in FLOW the whole pass. The UHF has been on No. 2 the whole pass. over.
+Roger. Copy you loud and clear,. We are standing by for your blood pressure.
+Roger. Blood pressure is coming down.
+, Canary. Be advised, on your 15 second burn you achieved a 12.6 ft/sec. Did you copy?
+Roger. Understand. I seem to have a leak. There must be a leak in one of the thrusters, because I get a continuous yaw left.
+Roger. Understand that you get a continuous yaw left.
+Very slight. Very slow drift.
+Roger.
+, Canary. I have your radiator temperatures, if you are ready to copy.
+Roger.
+Roger. your radiator outlet temperature if off-scale high. Your radiator inlet is 74.
+Roger. Off-scale high. Going back to BY-PASS on radiator.
+Roger. Understand.
+, Canary. Stand by to start your clock at 20 minutes ground elapsed time. On my mark.
+MARK! Did you copy, Molly Brown?
+Roger. I copied, and sea urchin eggs activated.
+Roger.
+Be advised we have received your blood pressure,.
+Roger.
+Radiator outlet temperature is off-scale high and Greenwich Mean Time is 1445.
+Rate Command looks good.
+Okay. The control checks are completed.
+Do you still read, Canaries?
+, Canary.
+Roger. Control checks are completed and insertion checklist is completed too.
+Roger. Understand.
+I've been advised from the Cape you might put your prop switch off and recycle a couple of times, and it might stop your leak.
+It's not leaking.
+Did you copy Molly Brown?
+I copied.
+Here, Gus, let me get your drogue pin in.
+, Canary. Do you copy?
+Say again.
+Roger. Can we have your sea urchin egg time again, please?
+Roger. 20 minutes elapsed.
+Roger. Understand.
+We are over Africa, John.
+Yes.
+I knew I wouldn't get these pins stowed until we were over Kano.
+There's all kinds of junk floating around in here.
+Man, I agree!
+If you'll give me the camera, I'll take a couple of pictures.
+Okay. The waste valve is in NORMAL.
+We've got a scanner ignore. Wonder what caused that. Hey, we're pitching over and there's nothing I can do about it.
+Scanner ignore is driving you?
+Yes.
+Oh, I know what it was. My knee was hitting the control stick, wasn't it?
+No, I don't think so. That would only be in Pulse anyway.
+We've got to get this pressure back up.
+Do we have a leak?
+It's this event they were talking about.
+Let's see.
+Look at the cabin pressure!
+What?
+We've lost the —.
+Lost what? What have we lost?
+Lost a primary converter.
+Really?
+Yes.
+I'll get that heater off.
+Okay, I'll get the mains back off.
+Are you sure you didn't bump the converter to the OFF position?
+That switch way up there?
+No, you couldn't, could you?
+No.
+Want to try it back on the primary and see what happens?
+That's how we lost it. Yes.
+See?
+Yes.
+Okay.
+Okay. That did it.
+, Cape.
+How's that circuit breaker set-up up there?
+, Cape.
+Yep.
+, Cape.
+Cape, here.
+Roger. How's your status on that thruster?
+It's still GO. We're still drifting a little bit, Gordo. It's not bad. I can hold it with Pulse with no problem. But we did lose our primary dc-dc converter.
+Roger. Lost your primary dc-dc.
+Roger.
+Roger.
+That must not have been the scanner problem though.
+Have you tried your circuit breaker, Gus, on that?
+Yes, we have.
+, have you tried your circuit breaker to cut off that one erratic thruster.
+Negative.
+I don't know which one it is. Let's see—yaw left—
+Yaw left. It would be either No. 7 or 8.
+We're not getting any roll with it.
+It really is pitching up, isn't it?
+Yes, but it's stopping.
+That stopped it, all right.
+Yes.
+I turned the auto heater back on.
+I should turn that off till the cryo pressure comes down.
+Flight control loss.
+Now it's drifting us the other way.
+It's hard to see in here, isn't it?
+Can't pull it off? Can't you get it off?
+What time is it now?
+32 elapsed.
+We're just about over … Africa.
+Over where?
+We'll cross the east coast of Africa here before long.
+Hand me one of those towels over there in your box, will you?
+Okay. Are they on top?
+No, they're back in the back.
+Hey! We're coming in on the night side.
+, Cape.
+Look at that night come up.
+, Cap.
+I ready you okay, Gordo. How do you read Molly Brown?
+Roger. How's your control system?
+Cape. How do you read Molly Brown?
+I'm reading you weak but readable.
+Yes, you are almost unreadable.
+Say again,.
+I said I can read you, Gordo.
+Roger, I'm barely reading you also.
+How - is - your - control - system? Over.
+That stuff goes right on by us.
+Yes.
+Okay. That's right. Now I've got the suit closed.
+There is lightning out there.
+Yep.
+Look at that stuff going by. Oh boy! Really does sparkle doesn't it?
+Yes.
+Now you can see those thrusters firing back there.
+Now you give this blood pressure, don't you?
+I'll give it. You want me to give it?
+It says you do.
+It says Command—Oh! Oral temperature.
+Oh, I mean oral temp, John. Can you get the thermometer out?
+Yes.
+I can't get the blood pressure bulb in.
+Maybe you are pushing it in the wrong end.
+Oh.
+Okay. We're back to NORMAL on the waste valve.
+How can you tell the difference between the ends?
+All I know is it won't insert in one end, and it does insert with the other. I never saw a blood pressure bulb like that before this flight.
+Look at that! It's beautiful!
+There's the Southern Cross and Alpha and Beta Centuri.
+Are those thrusters firing?
+Yes.
+I'm doing it.
+Oh, you doing it?
+Yes, we are yawing. I've got to keep it from yawing so far around.
+Going to do this O2 —
+Want me to put it back in and give them a blood pressure?
+If you can get it in. I can't.
+What time is it?
+41 elapsed. I get at 42:19.
+Okay.
+About another minute.
+Going back to No. 1 on the UHF.
+Going back to No. 1 on the UHF at elapsed time of 42.
+There's no horizon out there at all.
+, this is.
+Roger. how is your control system working?
+Well, the control system is working fine. It's just that I have a very slight yaw to the left.
+, I copy you very weak. Would you say again?
+All the control system is working fine. We just have a very slight drift to the left.
+Roger. Understand. Would you confirm that you are on secondary dc-to-dc converter?
+Affirmative.
+Are you on secondary yaw logic?
+Should we try that?
+Yes.
+,. Are you in the FLOW position on the radiator?
+Radiator is in FLOW position. We're trying secondary yaw logic now.
+Roger.
+I don't know where I'm going to put this.
+Does it have urine in it?
+No, there isn't anything in it. it's air in it. I'm supposed to fit it into the aft food box.
+Puncture it if it's just air.
+Well, that's a thought.
+Roger. Unable to send a blood pressure. The bulb won't fit in the suit hole anymore.
+Roger. Cape recommends that you place the driver switch to SECONDARY.
+Roger.
+Go ahead.
+Your inlet temp: 76°. Your outlet temp: 42°.
+Roger.
+We'll stay in FLOW.
+That secondary driver may have stopped the drift.
+Go ahead.
+We have not received a blood pressure or an oral temp.
+Roger. I told you the blood pressure bulb won't fit in the hole anymore. I think the "O" Ring is jammed, or something.
+Roger. We're standing by for respirator maneuver.
+Okay. Here it comes.
+Okay. How about this? No. 2 audio in UHF and CALIBRATE —
+,. Stand by for a GMT time hack.
+Roger.
+On my mark GMT will be 15 11 10.
+MARK!
+Roger your mark. My watch is 10 seconds fast.
+Roger.
+Have you received oral temp yet?
+Go ahead.
+We copied your respiratory maneuver, and we have your oral temp. All systems appear GO from the ground.
+,, Carnarvon. How do you read?
+Loud and clear. How me?
+Roger. Read you the same. Could you give us your status please? And the cape would like to know if any of the remedies helped your yaw problem.
+No. None of the remedies helped and we are GO.
+Okay. You have a GO from down here for the second orbit, and, if you'll stand by, I'll send you a 2-1 TR and a Gemini load.
+Roger.
+Stand by for TR.
+You ready?
+Yes.
+Okay,. We got your Gemini load. We could not get TR in. We got a spacecraft reject on TR, and it did go in at this time. I'd like to give you a hack on TR at 39:30, in about 10 seconds.
+You're going to punch it, aren't you?
+Yes.
+, stand by on my mark.
+MARK! 39:30 is your TR. Your TR clock is synched with all on the ground, and your spacecraft elapsed time is synched.
+Okay. We have computer time of 39:28. That's close enough.
+Roger, and I believe I see a light from Perth.
+Roger. I understand you see light from Perth. We'll have a radiator status for you in a minute, and anytime you can give your GMT for your experiment, I'd appreciate it.
+Roger. The GMT of that Blood Experiment —
+The elapsed time of the Blood Experiment was 50 minutes and 18 seconds. That was elapsed time.
+Roger. 50 minutes and 18 seconds. Your radiator - in is 73, your rad-out is 38. You're looking pretty good.
+Roger.
+And if John is ready to copy any of this maneuver load, I have it for you.
+All set.
+He's ready to copy.
+Okay. GMTB 15 43 23. ΔV of 139. Duration of burn - 2 minutes 39 seconds. Your 15 55 24. Roll left 55. GMTRB 16 05 28. Roll right 65. GMT 400 K 15 58 23. Your maneuver load: 6344257, 0444775, 0533348, 664903.3, 676628.4, 082244.4, 09120.50, 10031.38, 11302.00.
+Roger. Copied your parameters. Over.
+, Carnarvon here. You can go secondary coolant loop OFF, and you can go evaporator to NORMAL.
+Roger. Secondary coolant loop OFF and evaporator to NORMAL.
+, Carnarvon.
+Go ahead.
+Roger. Your Texas burn will be 48 ft/sec for 73 seconds.
+Okay, 48 ft/sec for 73 seconds.
+That's affirmative. We got your TR and Gemini load in. Your clocks look good on the ground, and everything is GO here. See you next trip.
+Roger.
+Let's get back on RECORD.
+Okay.
+On the thruster check, the fire is red in streaks. When the yaw thrusters fire it definitely wipes out the horizon. Can see the horizon all right through the pitch thrusters.
+Oh, that's lovely.
+Huh?
+I wouldn't believe it if it hadn't happened.
+What?
+I got my left shoulder harness tangled up in the backboard.
+Oh, Oh.
+Had to turn around to get it out.
+Hey, I think our yaw drift has stopped.
+We're down to 2400. That's pretty good.
+Is that okay?
+Yes, that's fine. It means we haven't used any fuel.
+Elapsed time is 1:05. Now, I'm going to get a main batteries check.
+—9½ and 24 on one and 9½ and 24 on two, and 9½ and 24 on three. 9½ and 24 on four. Those mains are good!
+What time is it now, Gus?
+It's 63 minutes.
+63. Okay.
+Look at that thing. I don't know what we can do with any of this stuff floating around. Do you?
+No, I don't either. We need a special place to keep that stuff.
+I'll put it in my pocket.
+Okay. I'll verify that load.
+Is the TR-5 circuit breaker off?
+Yes.
+Okay.
+You don't see many stars. You know that?
+We have a scanner ignore light again. Aren't losing those gages again, are we?
+No.
+All of our power is okay?
+Yep.
+Must have been our scanners, I guess.
+204. This is just beautiful, Gus! It checks to the digit!
+Hey, we ought to have our face plates closed.
+Okay.
+Cabin Air Recirculation Valve-UP. That's where it is.
+Huh?
+It says Cabin Air Recirc Valve UP. That's where it is.
+Yes. Faceplates closed or open?
+Closed.
+Okay.
+Now we have a Catch-Up Mode Check.
+Okay.
+Now?
+Well, yes. Now.
+Okay.
+Hey, there was lightning down below.
+You want to go to CATCH-UP?
+Yes.
+In CATCH-UP. That right?
+Yes.
+Hey. I'm not in CATCH-UP yet. There's CATCH-UP.
+Okay. I scratched this one out.
+Okay.
+You want to punch it in?
+It's punched.
+Okay, I'll start the computer.
+How about that? Just what it's supposed to be.
+Roger. Just what it's supposed to be.
+Pitch down.
+Yes.
+Okay, 56 is 20094, 57 is 19280.
+Cabin pressure is reading 5.2, isn't it?
+Yes, it's holding.
+50 - 30 - 40. Those readings are right. You get 56?
+Yes, 56 and 57 are right on the money. I copied them.
+Okay, there it is — 10 - 20 - 30.
+Okay, what time is it now?
+70 minutes.
+Huh?
+Elapsed time of 70 minutes.
+How many?
+Right now?
+1:10. Yes.
+Okay, at 70:18 give it to me.
+MARK!
+Okay, Blood Experiment deactivated.
+Okay, that's exactly — that's 39° pitched down.
+Okay, and you've got the sea urchin eggs coming up at 1:15, too.
+Okay.
+Pulse control is real good.
+Yes.
+It sure lights up all around though, doesn't it?
+Sure does.
+Okay, we're just about to get it all in one window.
+Okay.
+, Cape.
+Okay, reading on the Catch-Up mode Check was 69 000 00.
+Cape,. Go ahead.
+Roger,, Cape. We're going to have you leave your propellant switch on and do the Texas burn, and we will watch your fuel usage then across the States. If it continues, we'll have you turn your propellant switches off, then, when you're over the Cape next time, except when you need to use the fuel.
+Leave the propellant switch on for the Texas burn, and then watch for leakage?
+Roger. Leave it on till after the Texas burn, and then we will watch your leakage. If it continues to leak, we will have you turn them off over the Cape.
+Roger. We can't tell that we're using any fuel.
+Okay, fine. We are not overly concerned. It's just that we'd like to get a handle on what is causing it here.
+Your O2 pressure is off the scale on the high side by telemetry.
+Say again, Gordo.
+Your oxygen pressure, your O2 pressure, is off the high side of the scale. You may have had that switch failure in there. you may have had a telemetry failure in there that failed to the high side.
+Roger. We'll go to High Rate and see if it comes down, Gordo.
+Roger, and Gordo we have lost our primary scanners.
+Roger. Did you say primary scanners?
+Affirmative.
+Okay. Can you give us a helium source pressure?
+Say again.
+What is your helium source pressure?
+Roger. It's 2350, Gordo.
+Look at the sunrise.
+Yes.
+Our source pressure is 2350, Gordo.
+Let's see if I can bring that pressure down, using O2 High Rate, if it is all right with you, Gus.
+Okay.
+We can try manual actuation of O2 High Rate. I never did the Suit Integrity Check.
+We probably drove it overboard using that heater switch when we thought the pressure was down.
+Yes. That's right.
+We have got to get ready for this Texas burn.
+Yes.
+What time is that Texas burn?
+Now see, it is coming down.
+Okay.
+Now, we'll just recock it.
+That was O2 High Rate for about two minutes to bring the pressure off the peg. it's now reading 985, and cabin pressure is holding at 5.6.
+Here comes the sunrise. Is that beautiful!
+Isn't that pretty?
+Aren't you going to take any pictures?
+I hadn't planned to on this pass. I'll get the camera out.
+Let's see, I want circuit breakers 9 and 10 off, don't I?
+Yes. That sun's bright, isn't it?
+Look at that! Where do you suppose that came from?
+What?
+I know you shouldn't let those things float around, but I don't know what to do with them.
+What did he say that burn was on that … net? It's 48 ft —
+48 feet and 73 seconds.
+Okay. you put that in, don't you?
+Yes.
+Do I have to be in CATCH-UP when you put it in?
+What?
+Do I have to be in CATCH-UP when you put it in?
+For me to enter it, yes. I'll just put in on the indicators here.
+Looks like the velocity is about perfect. You can really tell you're moving on. You know that?
+You sure can!
+I can see some interesting cloud formations down there.
+We'll be coming up for Guaymas, I guess, next.
+Okay, what elapsed time are we in the flight plan, Gus?
+we get at 1:24.
+Okay.
+I'd say my alinement is perfect.
+Okay. That's what we want to burn. I've got to change this tape cartridge. The camera is set for f11 at 250.
+The first command load is valid. The at Carnarvon inserted it properly.
+Okay.
+That's beautiful!
+I'll bet the debris filter really clogs up.
+What?
+The oxygen pressure has climbed right up back there off-scale.
+What is?
+The oxygen pressure.
+I've got to change this cartridge.
+We're at 1:21.
+Tape change at 1546. Tape cartridge No. 2 was replaced by tape cartridge No. 28.
+The red light did not come on.
+, this is.
+Roger. Read you loud and clear. I'm going to update your TR and transmit a maneuver load to you.
+Roger.
+I've got a reject on my TR. What is your status, Molly Brown?
+Do you want me to tell them about the oxygen pressure being off-scale?
+Our status is GO. We did bring the ECS O2 back down on the scale with O2 High Rate, and since that time it has returned to off-scale.
+Roger, and I have transmitted a TR and Gemini load for your maneuver over Corpus. Confirm you were in CATCH-UP. Over.
+Negative. We're in CATCH-UP, now.
+Roger. I'll retransmit the load.
+Roger. You have a load in the CATCH-UP for your maneuver.
+Got to be in CATCH-UP.
+Okay. There you go.
+Roger. Go.
+You are GO for the next orbit.
+Roger. Thank you.
+Are you ready to copy your maneuver times?
+Stand by.
+Roger.
+You ready?
+Yes.
+Okay. We're ready to copy.
+Roger. Your GMTB…correction, 15 57 00. Your ground elapsed time to burn, 01 33 00. Your ΔV of the burn, 048. Your length of burn, 01:14.
+Roger. We copied 15:57, 01:33, 48ft/sec, at a minute and 14 seconds.
+74 seconds.
+Well, 1 minute 14. You want to read it back to them?
+Did you get him the other one?
+Neg. Wait until I'll get them.
+Roger. Stand by for a GET time hack.
+On my mark, it'll be 85 minutes and 45 seconds. Stand by.
+MARK! You copied?
+Roger. We copied.
+Roger. Your clocks looked good on the ground.
+Will you give me a readout of core 25, 26, and 27? Over.
+26 and 27 are all zeros.
+I wonder if he got it?
+I don't know.
+Go ahead. Over.
+Go ahead.
+Will you give me a readout of your computer core — 25, 26, and 27, please?
+Roger. It was: 25 was minus 0480. 26 and 27 were all zeros. Over.
+That is affirmative. I concur.
+, can you give me a readout of your helium source pressure, temperature, and your propellant quantity gage.
+The propellant quantity gage is 83 percent. Stand by. John will give you the other.
+Roger. Source pressure is 2450. Source temperature is 85°, and fuel and oxidizer regulated at 295 with 68°.
+Roger. 295 at 68. Say again your propellant quantity, Command Pilot.
+Propellant quantity is 84 percent.
+Roger. I copy.
+, standing by. Do you have anything else?
+Roger. We're in good shape.
+Roger.
+,. I'm getting an indication of thrust forward-firing. I have negative yaw firing on the ground.
+We're not doing any firing. We're not even in MANEUVER and ATTITUDE and we haven't touched the handle.
+Roger.
+, stand by for Guaymas.
+Roger.
+Outstanding! I see the whole of Mexico.
+I wonder what area of Mexico it is?
+, Guaymas.
+Guaymas,.
+Guaymas standing by.
+Roger.
+It's pretty well clobbered, isn't it?
+Yes.
+We're going to have a hard time with that tracking task.
+Can you see anything up north there?
+I never got a chance to look for the Salton Sea, but I think we can see up that way.
+Nothing but high cirrus.
+Oh, man! Oh, man, you can see all the way across Mexico!
+You must have it clear down there, huh?
+Yes, it's clear down south, here.
+, Guaymas handing over to Texas.
+Roger.
+It came out 50 feet on my IVI's. You'll give me a mark now on my burn. Right?
+Roger.
+Okay. It will be about two minutes before we start it. So you punch off your stopwatch and tell me — give me a mark to stop it—just in case it doesn't go to zero.
+Okay.
+, Texas.
+Read you loud and clear, Texas.
+Roger. Texas standing by for your maneuver.
+Roger.
+You got that? The IVI's came out 50 ft/sec aft. Right?
+Yes, but it should have been 48. I don't know why it came out to 50. Should we bring it down to 48?
+Well 25—48 is what is in the—48.3 is what's in the load.
+How we doing on time?
+Fine.
+Well, good. I guess maybe we probably slowed down that much.
+Now, it's 51. See?
+It came up 48 initially. We're at a different place in the orbit. 30 seconds.
+Okay. Are you going to give—you want me to give Texas a mark when you start burning?
+I will.
+Okay.
+Twenty seconds to burn. You got that, Texas?
+Roger.
+Okay. 3 seconds.
+MARK!
+Okay. They appear to be firing good.
+Roger. Texas confirms thruster firing.
+A bolt just stuck up against the instrument panel.
+How much time to go?
+, how are your attitudes holding?
+Perfect.
+44 seconds to go.
+Roger.
+MARK. 44 seconds to go.
+I think I'd do it on the IVI's.
+They sure blurp a lot, don't they? That may be attitude control thrusters though. Probably what it is.
+Okay.
+Coming up on - coming up on a minute.
+MARK.
+7 ft/sec to go.
+A minute, five.
+What did we do? Burn down an—give me a mark.
+Okay. 4 - 3 - 2 - 1 -
+MARK!
+Thrusting complete.
+Roger. Confirmed maneuver complete.
+That burn was 1 minute and 14 seconds by our watches.
+And when we started out, the IVI's were reading 51 ft/sec, and I burned them down to 2 ft/sec aft.
+Say again,.
+As we started to burn my IVI's read 51 ft/sec, and we burned them down to the place where they read 2 ft/sec.
+Say again that last number.
+Two. Zero, zero, two.
+Roger.
+What have you got on your propellant, Gus?
+Propellant quantity is 65 percent.
+Hey, we're in good shape.
+Yes.
+, Cape.
+Go ahead, Gordo.
+Roger. Do you want to get your transmitter up to start your tape dump?
+Yes, it's on. The transmitter is now DELAYED-TIME.
+Ready for your tape dump?
+Understand. Going tape playback CONTINUOUS.
+Tape playback is on CONTINUOUS.
+Okay,. Looks like your has leveled out before your burn. Can you give us an source pressure and temp again now?
+Roger. Source pressure is 2050, temperature is 56.
+, Cape.
+Oh, that record switch!
+This source pressure is 2050. Source temperature is 56.
+Roger. it looks like that pressure switch on that O2 is failed. You probably better bring that O2 heater from AUTOMATIC to OFF, and then manually control the temp from then on—the pressure from then on.
+If I go into High Rate you can break it off the peg. Over.
+Okay, you can bring it off the peg by going to High Rate. Is that affirm?
+Roger, but—
+Okay. I have a time for you, where you will be nearest to the booster. Would you like to have that so you can look for it?
+Roger.
+Roger. 02 + 08 + 52. Will be dead ahead at an elevation of plus 80° at 190 miles. This will be just prior to darkness. It should be very bright. Proceed to see if you can rendezvous.
+Roger.
+We are sending you a load now.
+Roger, load received.
+Roger. We got you loaded.
+We had another load just in, too.
+Roger. That was the actual values. The first one was the TR.
+Roger.
+, Cape. Did you get your experiments for the first orbit?
+, Cape.
+Go ahead Cape.
+Roger. We just wanted to get a confirmation that you got your experiments on time for the first orbit.
+Roger. We got them on time for the first orbit.
+Roger.
+Everything looks good down here.
+Roger.
+, Cape. Our memory loads on the ground confirm your loads were correct in there, so you might delete all the readouts.
+Okay.
+Here is the blood pressure coming down there,.
+Okay.
+Tape dump is complete,.
+Rog.
+You still got a blood pressure, John? We didn't read it.
+He sent it, okay. I'll give you another one.
+Okay. Just wondered if he was breathing.
+Gordo, do you have me a time for the Horizon Scan Check?
+Cape, do you read,.
+Go ahead. Cape.
+Do you have me a time for the Horizon Scanner Check?
+Okay, sunset time is 16 + 34. Stand by, and I will get you the horizon scanner.
+That is the time for it,. 16 + 34.
+Thanks.
+Pretty spectacular up there, huh?
+Say again.
+Pretty spectacular up there, huh?
+Yeah, it really is. It really is!
+We didn't get to see much of the States though.
+Clouded over? Too many clouds, huh?
+Let's see, do you want your meal?
+Yes.
+Is this one all right?
+Yes, this is the one here.
+You can't get the bulb in, huh? How about if I just leave it in and give them blood pressures.
+Yes, go ahead.
+I can't get it in.
+Hot dog! Good old food.
+Going to have to make Alinement Check.
+Want to just slap those babies over there?
+They said to leave the brownies closed.
+Okay, starting Alinement Caging Check. Minus 10° in pitch, 10° in yaw, and 10° in roll. Going to CAGE, small-end-forward, holding attitudes out the window. Okay, I've caged. Going, platform and attitude. Fine aline from 1:45 to 1:55.
+Let me have some of that juice when you get done.
+Get any water?
+Good stuff!
+You want me to stick this up here?
+Yes, we can attach it up there.
+Let me see if I can lock it in there.
+That oxygen still hasn't come off the peg.
+The what hasn't?
+I'll tell you, boy. It poses a serious problem with that O2 High Rate bit.
+Is your window getting foggy, or is it just the angle I'm looking at?
+, Canary.
+It looks like it's something on the side. I don't know what it is.
+Canaries, Molly. Go ahead.
+Roger. We have systems GO on the ground.
+Roger. We are GO in here. We are finishing our Alinement Check.
+Roger. Understand, and Canaries transmitting a calibrate command.
+What was that?
+Transmit my cal.
+Okay. It's coming.
+What was the time we could see that booster?
+Elapsed?
+Yes.
+Okay. Tell them we're sending them a 2 cal.
+A 2 cal is coming.
+I don't see where it says for us to do that, but I guess that's all right. I think we should have done it on the first pass.
+One of these pills came off.
+, Canary.
+Go, Canaries.
+Roger. After your burn your orbit is 85.6, 92.6.
+Roger. 85.6, 92.6.
+And I have a Two-Bravo time.
+I thought they weren't going to give those times to us.
+Stand by.
+If either one of these things leaks, we can just close up shop.
+Okay. What's the Two-Bravo time?
+Roger. ΔV90. 16 52 25. 02 28 35. Roll left 55.
+Roger. Two-Bravo: 90 ΔV. 16 52 25. Elapsed time of 02 28 25. Roll left 55.
+That's affirm.
+What is it?
+Corn beef sandwich.
+Where did that come from?
+I brought it with me. Let's see how it tastes. Smells, doesn't it?
+Yes, it's breaking up. I'm going to stick it in my pocket.
+Is it?
+It was a thought, anyways.
+Yep.
+Not a very good one.
+Pretty good, though, if it would just hold together.
+Want some chicken leg?
+No, you can handle that.
+What was the time of that booster again? What elevation?
+02 08 52. 18° el.
+2 hours, 8 minutes, 52 seconds. 18° el.
+Above? They didn't give us the mileage, huh?
+19 miles.
+Dead ahead.
+Yeah.
+We're alined just about perfect. What do you think, looking out your window?
+Yeah, man. That's beautiful!
+What else have we got to do? Scanners should be on secondary. Now we're going to yaw 180° here.
+Hey, look out there. There's some land.
+Yes.
+What time is it?
+Must still be over Canaries.
+You're a noisy eater.
+Oh, no!
+What? What did you drop?
+Look at 'em jumping around down there.
+What elapsed is it now, Gus?
+How do you like this going backwards? You can tell you're going backwards too, can't you?
+Never a doubt.
+That's not bad for applesauce.
+I'll take a bite of applesauce, if you don't eat it all.
+It's getting tough to squeeze out of there.
+If we had some pork chops to go with it, we'd be all right.
+Yes.
+Here it is back. What are you going to do with it now?
+What, the applesauce?
+Yes.
+I don't know, the tablet fell off. I'm not going to put the germicide tablet in, because I don't know where it is.
+Let's see what my retrofire attitude looks like going backwards.
+Okay.
+16° nose down is what it is.
+Yep. I'll be there in a minute.
+Oh, man!
+I'll tell you, man, you don't need anything to tell your yaw, do you?
+No, I'll tell you, I need some of these missions where I can look out of the window. I haven't looked out of this window a second and a half. It's beautiful!
+You know, if I lined up the yaw, I'd line it up right there. What does it look like to you?
+Look's to me like you got it, Gus.
+That's not what the 8-ball shows. It's right there, no doubt about it.
+Well, that looks good to me.
+Let's try it upside down once.
+Okay.
+Watch everything float to the ceiling.
+There's 60 left, okay?
+That's 60 left.
+No. Well, yes, let's see.
+That's inverted.
+Okay.
+There's 60 left.
+That's what I figured.
+There you go.
+Isn't that beautiful?
+That's 60 left right there. That's hard to fly.
+The sun is sure bright.
+We can't see the booster. Have to be turned around for this check. We can't see it. We're facing the wrong way.
+Let's see. Where's the next station we're coming to?
+Kano.
+The sun's hot.
+It is.
+Suit inlet temperature is still holding at 58, though.
+Boy, this is a manual dexterity test.
+Yes.
+That stuff is really trying to crawl out of there.
+John Yardley loses his bet. Cabin temperature is up to 92°.
+Oh, man!
+It's bad, isn't it?
+That sun is something else.
+Yes.
+Can you stow these back over there in your side?
+Yes.
+Somehow.
+You don't need that towel, do you?
+Yes, I'm going to, very shortly.
+Well, I'd better get it out then.
+Well, I don't think I'll need it, but I might.
+Well, we've got a scanner light on secondary.
+There, it went out. I guess I was looking at it in the sun.
+Yes.
+Hope that stops it. now we've got it again.
+The sun's around there. That sun's pushing it off.
+Yes.
+Either that or our ball is out of alinement.
+What time's it supposed to be next time. Do you remember?
+No.
+You don't mind if I make an inflight modification to the pressure suit, do you?
+What are you going to do?
+Just cut a strap.
+I hope you don't cut a hole in it.
+No, don't worry.
+We've got a scanner ignore light …
+Okay, let's start this thing right now.
+Okay, it's pitching up slightly. Going up above zero. I don't have a scanner light. man, is it dark!
+I don't have a scanner light, but I don't think it's doing right. We're now 20° above the horizon and have no horizon. It's bringing me back down to 180.
+It's dark.
+Yes.
+Hey, look at those thrusters glowing!
+Where?
+Over on the right side. I think it's the sun shining on them, or something. Is the sun on my side? Sunset?
+It's back behind us some place.
+You mean the thrusters?
+Yes.
+I can't see them.
+Can you see yours?
+No.
+Well, I see mine shining.
+I can probably see the horizon now, though.
+I see those thrusters.
+It's the sun shining off of them, because we haven't used the A-Ring yet.
+That must be what it is.
+A-Ring isn't hot.
+Okay, waste valve NORMAL.
+What time is it in the flight plan?
+It's 2 hours and 9 minutes.
+2 hours and 10 minutes.
+You're supposed to give an oral temperature.
+I'll give them one.
+Okay. Translation Check at 2:17, which is 7 minutes away.
+Know what kind of transmission check it is?
+Translation Check…We're not going to send anything.
+We're supposed to get photos, but it's going to be dark.
+Photos of what?
+Those thrusters.
+Translation thrusters.
+There is a ground light. We're really moving. What would that be?
+…forest fires.
+No, it's a pin point. I see it way below the horizon.
+What time is it?
+To what?
+I'm supposed to change this tape around here sometime.
+Translation Check.
+During the check?
+I think that was a star coming over the horizon I saw. I can see it move now.
+There goes your …
+Okay, waste valve back to NORMAL.
+I've got to make a translational thrust in two and a half minutes.
+Okay. Well, I'll wait till you finish that then, if that's okay with you.
+Yes.
+You want to take pictures on this?
+We're supposed to with a 16 mil.
+Okay. Shoot, we've hardly used any film. Of course there's 130 feet in there. Wait a second till I get the suit closed.
+Okay.
+Gee.
+Your recommendation on that covering underwear is well taken.
+Man! I don't believe this 8-ball. It is way off. Look at it. It's way off. There's zero right there. Right?
+Yes.
+It says minus 10° down on the ball. I guess it's that Orbit Rate, isn't it?
+Yes, probably.
+What time is it?
+It's —
+It's 10 ft/sec with the forward firing ones.
+,. Do you read?
+Roger read you weak but clear. We have you green from the ground.
+Roger. Getting ready for a translation burn.
+You going to use the aft burn or the forward burn?
+I'm going to use them all.
+Okay.
+,. We're standing by for the maneuvers.
+Roger. 5 seconds...
+Using the aft ones?
+No, forward-firing ones.
+9 ft/sec-10. Okay, now 1 second on the others.
+,. Would you give us your readouts before and after the burn?
+Roger, readouts before the burn were all zeros. After the burn was 10 ft/sec forward.
+Roger. Understand. 10 ft/sec forward.
+That was in the 009° attitude. 10 ft/sec forward.
+Roger.
+That was with a 90° yaw.
+,. Be advised I sent TX twice. I've had spacecraft reject. I'll try again.
+Go.
+We still cannot get an … back from spacecraft on TX.
+Roger, I'll set the TX for the … Over.
+Say again.
+,. How did your attitudes hold during the maneuver?
+Attitudes held very well.
+Roger.
+You still look real good from the ground here.
+Roger.
+Okay. Replaced the tape recorder cartridge.
+Go ahead.
+Would you give us a propellant quantity readout before and after the burn?
+Before the burn it was 66 percent, and now it reads 61 percent.
+, say again.
+66 percent before, 61 percent after.
+Roger.
+I'm not real sure of that before burn.
+At 1645 GMT, changed the tape from No. 28 to No. 10. Okay.
+That looks like it's in the ball park.
+This thing isn't alined, is it?
+I think you're right.
+Give it one more chance.
+Let's see — 2:22 elapsed. Carnarvon comes up in about a minute.
+,, Carnarvon. How do you read?
+Carnarvon, this is. Read you loud and clear.
+Very good, Gus; we'd like to get a blood pressure on the co-pilot, please, and could I have your status?
+Okay — blood pressure's coming and our status is green.
+Very good. We don't have any communications with the Cape at this time, but they have requested for me to run down your flight control problem a little bit. The first thing I'd like to know is what kind of rates are you getting if you just let it yaw?
+They are very slow, Pete. Probably on the order of a quarter of a degree per second.
+Okay and you are in a horizon scan mode, is that correct?
+At the present time I'm in Pulse and alining the platform.
+Okay. You're in pulse alining the platform. Are your logic yaw rate gryos and attitude drivers and all that stuff still primary?
+Affirmative.
+Okay, strike all that other stuff. It sounds to me like you've got a mechanical problem in the valve. Is that what you figured?
+Roger, it must be very, very slight. We can't see the pressure go down.
+Okay, and you have turned off 3, 4, 7 and 8 yaw circuit breakers and put them on again, and that didn't have any effect?
+Yes, we've gone through everything, Pete.
+Okay, and no cross-coupling.
+Negative.
+Okay. That should keep them happy back there. We are not going to send you a load. Your TR is good. I don't have your clock counting down with mine. I guess you have a different one in. We got your blood pressure and your clocks are on as far as SET goes.
+That's — Pete.
+Roger.
+And I have a question for John. I would like to know how his waste evaluation is doing.
+In process. Tell him.
+In process.
+In process. Roger. Roger.
+You have a GO down here from everybody, and do you have suit temps for me, please?
+Yes, suit temp is running 58°, Pete. We are okay.
+Righto.
+2:26. Rate gyros primary. Roll jets yaw.
+, Carnarvon.
+Go.
+Would you turn your real-time telemetry off after from Carnarvon, please?
+Roger, real-time off after Carnarvon.
+Yes. We didn't get a TX up to you.
+Roger.
+You're going to make these Horizon Scan Checks after a little bit?
+Yes. You do it, because I'm busy here.
+, this is Carnarvon. How do you read?
+Still read you loud and clear.
+Okay, you'll probably go over the hill, Gus. You look good here on the ground. We'll see you on your next go.
+Roger, thank you, Pete.
+Be sure I don't throw any switches over there while I'm moving around.
+No, I'll keep a check on you. I don't believe that scanner's doing the right thing by us at all. If it is, the ball isn't.
+Want this bag for anything?
+Yes, I put the paper towels back in it.
+Okay, I can thrust now?
+Wait till I get my suit zipped up.
+Better get that sight out for me.
+Huh?
+Should get that sight out before long, too.
+Okay.
+I can't get the auxiliary light off there.
+It's really black out there.
+Yep.
+I've got a scanner ignore light. Shoot, that ball must be way off.
+Okay.
+Oh, man! It's hot.
+What's the matter, Gus?
+Oh, there it is. I was losing the horizon. Don't tell me our secondary scanners are out now. That isn't right. Let's see what happens. This ball is way off. Good night! Our ball has drifted way off. Let's just go into daylight and aline the thing.
+You've got the answer.
+Pulse. Going to use those stars. There's zero roll all right.
+Well, that's great! I can't bust up the bag. Sure like to get that smell out of here and the only way I can do it is to bust that bag.
+What bag?
+It won't break.
+What do you mean?
+I mean this bacteriacide bag.
+Got it — a little.
+There we go.
+We're coming into daylight again.
+Does that look roll-level to you?
+Looks what?
+Is that level to you? Looking out the window.
+Yes.
+What about yaw? I can't really tell yaw, can you?
+No.
+Have you got that —
+What?
+Let's see. You don't see the moon any place, do you?
+No.
+It'll be coming up over my — on my right here pretty soon.
+Boy, I tell you I really dig this zero g. This is the finest way to go I ever saw.
+That looks about right in pitch. Roll is off.
+Can you stick this on your side?
+That mess? Doesn't that go in your food box?
+Would if there was any room in it.
+I don't have any room.
+I don't either.
+Drop it back behind the seat, I guess.
+I'll try to stick it in the food box.
+Okay, what does the flight plan say about here, Gus?
+I'm supposed to be doing the Horizon Scanner Check, but I don't have time to do it.
+Oh, okay. Well thanks, I'm done. I'm supposed to be doing that O2 High Rate Check. Is it at 2:40 in the flight plan?
+Yes. 2:40 right now.
+Okay, we'll got to O2 High Rate. I've —
+Man! The primary scanners are working! How about that!
+I got to have some light here to look at the oxygen gages. Is that all right?
+Yeah, I just can't figure out —
+Okay, I'll go to O2 High Rate. O2 High Rate isn't the way to go.
+Okay, MARK. O2 High Rate.
+I'm sure uncomfortable.
+Yes, it's bad.
+Let's leave the heater switch off and let the oxygen pressure come down a bit.
+It will come down, and I mean it will come down!
+You got the batteries on?
+And at the start of the O2 High Rate Check, O2 quantity was reading 65 percent. Cabin pressure was 5.1. Cabin pressure is building slowly.
+Look at that suit inlet temperature go up.
+Is that moon coming up at about the right spot for you for zero yaw?
+I don't see it over here, Gus.
+Almost dead ahead. Maybe it's daylight. Maybe it's the sunrise.
+Thruster sounds are about like the trainer, aren't they?
+Yeah, not bad, is it? See, the O2 pressure is coming down now. Okay, the mains coming on the line, in case we need the heaters.
+Got the scanners again, I guess. That's what I got the last time.
+Yeah. Okay, the O2 pressure is now down to 925 and we have been on O2 High Rate two minutes. Coming up on two minutes.
+What was that?
+Cabin pressure relief valve. Cabin pressure relief valve relieves with a loud shhh!
+Still don't have that scanner light out. There it goes. That's what caused that thing to go out the last time—when you turned those mains on.
+The horizon scanner?
+Yes, but it came back on again, though.
+That son-of-a-gun is relieving at 5.8, isn't it?
+Okay, 2 minutes and 30 seconds O2 High Rate.
+And the Greenwich mean time is 1707.
+Hey, give me that sight down there.
+Okay.
+I'll miss my tracking task.
+You know what they did, they turned the sight around.
+Really?
+Yes.
+Okay, that's three minutes and ten seconds of O2 High Rate. Don't want to stay on it five minutes. I think that is more than a guy can stand. The suit inlet temperature is up to 64 and pressure is down to 825. We will shoot it a shot of manual heaters here when it gets to 800.
+Okay, MARK. Four minutes on the O2 High Rate Check. Now we will go to the first shot of manual heaters.
+Man! It's almost impossible to see out with the sight in front of you.
+Pressure is still dropping. Now it's coming up. Okay.
+When you get that scanner light it pitches you right down.
+Yeah. That's what they said it'd do, didn't they? Okay, 10 seconds to go, and been holding the manual heater switch in for the last minute. It's keeping the pressure up to 825.
+Oh, man! That ball is staying way off —
+Okay, MARK. O2 High Rate recocked.
+Give me the mark when you think I've got zero yaw.
+Okay.
+Oh, man! I don't know about this.
+Turning the auto heater off.
+Can't see a thing, Gus. The quantity at the end of the O2 High Rate Check was down to 62 percent. Started at 66 and ended 62. I can't see a thing out the window, Gus, because of the sun.
+This is about zero yaw.
+Go a little bit left.
+That looks pretty good, although —
+That's about what we had in pitch attitude for zero before, wasn't it?
+Yes.
+Okay. At 2:40 in the flight plan —
+That shows 30° off on the ball.
+Started out at 66 and ended at 62, at 2:40.
+Hey, what time do we come across the coast here?
+We come across the coast at 3:04. What time is it?
+That's too much pitch-up for zero attitude, don't you think?
+Huh?
+Is this too much pitch-up for zero attitude?
+Yep.
+Okay, the propellant at 2:50 is 62 percent.
+You going to leave those mains on?
+No.
+It's dropping down pretty good.
+No, no it didn't, see?
+Coming up?
+Yes. Well, I'm going to turn them off now and see what happens. Okay. The mains are off. Been on seven minutes while we were on O2 High Rate. Okay, we are down to 62 percent at three hours. We are two percent under what we should be. That ought to be good enough for a couple of orbits.
+I really can't tell whether I have zero yaw or not. What do you think?
+Get off some and then I can tell.
+I'll take this sight down out of here a second.
+I have to get the 8-ball caged.
+Now I can tell you have — haven't.
+Do I have to go to the right?
+You have to go back to the right. You are going the right way.
+Yes.
+Now, let's see what TR is.
+How does that look to you? Is that enough?
+It looks pretty good to me, Gus.
+Hello,. This is Hawaii.
+Hello, Hawaii. This is.
+Confirm your telemetry in REAL-TIME and ACQUISITION.
+Telemetry is in REAL-TIME and ACQ. Neil —
+I thought they told us to put it in COMMAND over Carnarvon.
+Yeah. Go ahead,.
+I have a problem with the 8-ball here, keeping it alined, or Orbit Rate control is not right.
+Say again,. I didn't understand.
+The attitude on the 8-ball is drifting badly. I'm trying to get it alined right now.
+Okay. Understand the 8-ball attitude is drifting badly. You have a GO from the ground. We are ready to up-line a 4-1 TR to you.
+Roger.
+John, do you think I've got too much right yaw?
+Ready to copy it?
+Tell them to send it.
+Go ahead and send it.
+Okay, sending now.
+Roger, 4-1 time received and verified.
+And we would like to send you a TX as soon as you are ready.
+Roger. Send TX.
+Right, sending TX now. And we confirm your TR — in synch.
+Give us a hack when you start your Gage Correlation Check.
+Okay, Roger. Mark the Gage Correlation Check.
+Roger. Got it.
+Okay. Gage Correlation Check at 1816, and away we go.
+What do you thin, John? Do you think that's about it?
+Yes.
+—and the propellant quantity is 60 percent.
+That should be about zero, shouldn't it?
+Yes.
+, Hawaii. Are both your attitude indicators drifting together?
+Affirmative.
+Okay.
+Natch. Cabin temperature — 92. Suit temperature — 58. Cabin pressure is 5.6. Suit CO2 is 3/4. Left bottle is 5100. Right bottle is 5050. O2 quantity 62. Pressure is 840. Source temperature is 55. Source pressure is 2000. fuel —
+, Hawaii. Everything looks good on the ground. We will see you on the next time around. Aloha.
+Roger.
+Roger. We are in the middle of the Gage Correlation Report.
+fuel temperature — 68. A temperature — Gee! A temperature is 87.
+Look at the ball. It immediately goes out in roll.
+It sure does, Gus.
+I think the rest of it is all right.
+It could be the horizon scanner, huh?
+A pressure is 2000 — B is 2650 — Main ammeter No. 1 is 19 — No. 2 is — 1A is —
+Now there it is coming in. It is in mode.
+Looks good, Gus.
+Yes, when I go to small-end-forward it alines it all right.
+Maybe we ought to aline it small-end-forward, huh?
+Well, that is, if you go to ORBIT RATE it goes off. That's what happens.
+That Orbit Rate isn't any good, then.
+Yes.
+,. Over.
+, this is.
+Roger. We are standing by for your respiratory maneuver.
+Roger.
+The respiratory maneuver? I can give it to them.
+Here it comes.
+Roger. We copy,. We are standing by for your pilot's oral temp and blood pressure.
+Blood pressure is on the way.
+Roger.
+Stand by. Roger, we are receiving the blood pressure,.
+,. We have received your blood pressure and temperature.
+Roger,. The platform alines all right when I'm in and, evidently, when I go to ORBIT RATE it drive the ball off in roll.
+Roger. Understand. Stand by one.
+The Gage Correlation Report is complete.
+The Gage Correlation Report is complete.
+Time is 1821. Can I read these into the recorder, Gus, or will it get to you?
+Read it into the recorder.
+Okay.
+Let's see. It's pitching down on Orbit Rate. Horizon Scan now. Let's see if it stops it. Pitched down to 10°.
+Go ahead.
+If you are drifting in Orbit Rate, suggest you select a mode of your own for your tracking task coming up on the coast.
+Roger.
+Thanks a bunch. Okay, I'll read these quantities off. The GMT was 1716 when we started. Propellant quantity was 60. Cabin temperature — 92. Suit temperature — 58. Cabin pressure — 5.6. Suit CO2 — 3/4 millimeter. Secondary left O2 bottle — 5100. Secondary O2 bottle right was 5050. ECS O2 quantity — 62 percent. Pressure — 840. Source temperature — 55. Source pressure — 2000. Fuel temp — 68.
+You are supposed to take pictures of this.
+I know it, I know it — 295. A temperature — 87. A pressure — 3000. B temperature — 82. B pressure — 2650. Main ammeter — 19. No. 2 — 19.5. 1A —4.5. 1B — 4.5. 1C — 4. 2A — 5. 2B — 4 3/4. 2C — 4 3/4. DC volts 23.5. S1 — 29. S2 — 29. C — 27. 1A — 24. 1B — 24. 1C — 24. Greenwich Mean Time is 1721. Completed.
+,. You are looking good here on the ground. If you have any further comments we are standing by.
+Negative.
+Roger. Guaymas will be next.
+I don't see a good target anyplace.
+Man, just pitch over and I'll take a picture.
+Can you pitch it down and toward the States, Gus?
+, Guaymas.
+Guaymas,.
+Your Three-Alpha times are nominal.
+Roger … and nominal.
+Can you come across a ground tracking looking down like that, Gus?
+Sideways?
+Yes, sideways, and pitch down 90. Will this hurt alinement? — because I can see some targets up north.
+You mean roll to the right?
+We are standing by for your coolant pump checks.
+No. Roll left.
+Roll left, and pitch down.
+I don't see a good target anyplace.
+What did you say, Guaymas?
+We are standing by for your report on your Coolant Pump Checks.
+Roger.
+I don't see anything that makes a decent target at all.
+Well, I can't — can you pitch down so I can see something?
+Oh, you can't see anything. If I pitched straight over you could have. See?
+Yes.
+Here, there is a target down there.
+Where?
+You've got to pitch the nose down. Right by the nose.
+That green spot?
+No, down — like straight down.
+I don't know what you see.
+There's all kinds of stuff. See that town down there?
+Where?
+Right around here on the right.
+I can't see over there, John. I'll roll back to the right so we can both see. Ah yeah, there is one right down below here. Let's see if I can get it.
+Guaymas, go ahead.
+Have you completed your Coolant Pump Checks?
+Yes.
+Right there?
+Yes.
+Yes, go ahead.
+I'm tracking him right on around.
+Okay.
+You can't see the pipper.
+I know.
+Tell them we have done our Coolant Pump Check.
+Coolant Pump Checks complete.
+Roger. What is the status on the checks?
+What difference does it make?
+We couldn't get the B pumps to come on simultaneously.
+We couldn't get the pumps on simultaneously.
+Say again,. You're broken.
+We couldn't get the pumps on simultaneously.
+I copied you cannot get the pumps on simultaneously.
+Roger.
+Got the pictures?
+Yes.
+That is right up from the tip of the Gulf of California, isn't it?
+Yes.
+I don't see the Salton Sea.
+Guaymas standing by for your standby real-time modulation check.
+I can't see in here now. I'm blind.
+I am too.
+Secondary pump is off and to COMMAND.
+, Guaymas.
+Go ahead, Guaymas.
+We are standing by for your standby telemetry transmitter check with real-time.
+Okay. Tell them to stand by. T/M's in REAL-TIME.
+Standby is in REAL-TIME.
+Roger.
+Hey, Gus. We are coming up on El Paso.
+Are we?
+, that check is okay on the ground.
+Yes.
+You see it?
+You've got to pitch over. It's beneath us.
+Where?
+Where?
+That's the mountain range right there. See that hill right over there? I think El Paso is under the clouds.
+, Guaymas. Would you say again the trouble you are having with your pump check?
+We had no trouble with the pump check.
+Roger.
+Would you remove pump A off of primary?
+Is pump A off primary?
+We got A off.
+Pump A is off primary.
+Well, No. 2 audio to RECORD. Suit Fan No. 2 - - check.
+At 3:10. Okay.
+Change the tape again over the Cape.
+. This is Guaymas handing you over to Texas.
+Roger.
+There is nothing down there to see. You know it?
+That sight blocks the window. Know it?
+Yeah, I know it.
+I couldn't track it in Pulse.
+I know.
+How much fuel will we need for the next burn?
+The standard burn is 93 ft/sec. We will have enough.
+We're alined okay, now.
+, Cape.
+Go ahead, Cape.
+Do you have your standby telemetry transmitter on and ready for a tape dump?
+Okay. Our standby is in REAL-TIME.
+Okay. You are commanding it on. All righty, we'll give you the word on it then. What is the status of your other platform modes, — or Free?
+Say again.
+What is the status of your other platform modes, such as and Free?
+Well is fine. Orbit Rate is the one that drives me off in roll. I haven't checked yet. I'll go ahead and give it a check now.
+Okay.
+How long does it take you to build up this quarter degree rate in that yaw rate, starting from zero yaw rate?
+Gordo, it just gradually accelerates. It's some slow leak out there.
+Roger. Are you satisfied with obtaining and holding your attitudes visually?
+Roger, and the platform is alining properly in.
+Okay, fine. You want to turn your standby transmitter off?
+Roger, standby transmitter off.
+Standby transmitter off.
+Okay.
+Have you tried secondary scanner?
+Roger. We were on secondary scanner for quite awhile. We are back on primary now.
+Okay, if you think the platform is drifting too much there for that Control Mode Characteristic Check, just delete that — that at 3 + 30.
+Roger. I deleted that one Horizon Scanner Mode Check, too.
+Okay. The one earlier?
+Roger.
+Okay. I have your 4-1 weather for you.
+Roger.
+It is broken cloud conditions. 20 miles visibility. Wind is 20 knots, at 5 foot seas.
+Roger, 20 and 5 foot.
+Roger. Did you have any success on contact with the booster?
+We were facing the wrong way at that time, making a Horizon Scanner Check.
+Yeah, I was afraid you would be. That was a little bit tight in there.
+Yes.
+Did you manage to see anything over the U.S. because of the clouds?
+We could see the southern part of California and Arizona, I guess. That was about it.
+You want to get your real-time telemetry and acq aid on?
+I can't see it, Gus. I'm blind from looking outside.
+It's on.
+Okay. We've got it.
+How's the weather, in general, around the world?
+Very cloudy.
+I see.
+We've seen very little land.
+All clouds and water, huh?
+Yep, not even much water.
+Roger. We got a update just then. Was that the TX. Over?
+We just got update, Gordo. Was that the TX?
+Roger. They got it up and verified.
+TR looks good,.
+, Cape.
+Go ahead.
+We understand you don't have this rolling off in Free mode. Is that affirmative?
+I don't have any in or mode, Gordo. I haven't checked Free yet. Give me another few minutes.
+Okay, fine.
+But the platform does aline properly in the mode. I can tell that already.
+Okay, real good.
+We have good verification on your load now,. It looks good.
+, Cape.
+Go ahead Cape.
+Have you had a chance to check that Free mode yet?
+I'm in Free mode now, and it looks like it is working all right.
+Very good. We were sure interested in that.
+, Cape.
+Go ahead.
+I would like for you to turn that cabin fan on for two minutes and then back off when you can to see as a little experiment.
+Okay, it's on.
+Okay.
+, Cape.
+Go ahead.
+That next normal burn will be a ΔV of 96.
+Roger, the next burn will be 96.
+The time on that is 1 + 49.
+Roger. 96 ft/sec and 1 + 49 seconds.
+1 + 49 and 96 ft/sec.
+Okay.
+Cabin fan is off.
+Okay.
+, this is. Go ahead.
+Roger. What's the status?
+We are GO.
+Roger. You look good from the ground. Stand by to copy Three-Bravo times.
+Roger.
+,. Let me know when you are ready.
+Roger. We are ready.
+18 37 58. Ground elapsed time 04 13 58. Bank angle - roll left 55. ΔV 93,. Did you copy?
+Roger. is 18 37 58.
+Roger.
+Bank angle - 55 left. ΔV 93.
+Roger.
+,. Cape recommends you perform your retroburn in after alinement, and stay in up to retrofire.
+Roger. Agree with that.
+,. Did you finish your retrofire checklist?
+Roger.
+,. Stand by for a GMT time hack.
+Roger.
+On my mark, GMT will be 18 14 40.
+MARK!
+Give me one on the even minute.
+Roger.
+MARK!
+Roger.
+We are standing by for your Sea Urchin Egg Experiment.
+Roger. It's being activated.
+Roger. Would you give me a GMT when you turn the handle?
+Roger. GMT 15:20.
+Roger.
+,, Carnarvon.. Over.
+Carnarvon,.
+Roger. Read you loud and clear. We are going to send you a new 4-1 command load and TR. Do you have your timer set at 34:00?
+Timer set at 34:00.
+Okay. In the meantime I'd like to get helium source temperature, pressure, and quantity reading from you.
+propellant quantity is 55 percent.
+Roger. 55 percent. Could I have the temperature and pressure? We are going to send you a command load at this time.
+Roger. Source pressure is 1950. Source temperature is 81°.
+Roger. Thank you. Command load coming.
+And the pre-retro checklist is complete, Pete.
+Roger. Understand, pre-retro checklist is complete. You've got a new TR. You've got a command load. Your clocks are synched down here on the ground and I have about 2 minutes and 15 seconds to go to your 34-minute time hack.
+If you are looking at the ground,, Carnarvon has a big fire going for you down here.
+We are blunt-end-forward. We can't see them yet.
+Okay.
+, Carnarvon. We have a GO here on the ground, and I have about 1 minute, 30 seconds till your time hack.
+Roger.
+, Carnarvon. When you have a chance from the pilot, the medics would like to get a reading on the food evaluation.
+No time, we'll see them when we get back.
+Okay.
+Everything is in order.
+Roger, roger.
+, Carnarvon. Stand by for TR MARK of 34:00, in approximately 30 seconds.
+Roger.
+MARK. TR 34:00.
+Roger. The clock is counting down.
+, Carnarvon. The medics would like to get the respiratory maneuver when you have a chance.
+Roger. It's coming.
+, Carnarvon has it loud and clear.
+This is Carnarvon,. Say again.
+What's this new GMT of retrofire you gave us?
+Say again.
+What is the GMT of retrofire you just gave us?
+Roger. The is 18 57 23 for a of 04 33 23.
+, Carnarvon. Do you want the rest of the quantities? The Cape said it wasn't necessary unless you want them.
+That's okay, Pete.
+, this is Carnarvon.
+Go ahead.
+Cape recommends that I give you your backup quantities there for of 18 57 23. It'll be a roll left 55. GMTRB of 19 08 23. Roll right 65 at GMT 400K 19 01 29.
+We got it, Pete.
+Okay, Gus. I only have one question for you before you go out of range. How's the flying up there?
+Great!
+Fine GT-3. See you next trip - next year.
+Okay.
+Okay. That was the last tape change.
+Going to primary scanners at 25 minutes to retrofire.
+Okay.
+Or GMT of 1832.
+Okay.
+Can't you get the camera stowed?
+There it goes.
+Seems like one of those scanners just needs a rest every now and then. You know?
+Yes.
+Scanner went out at 1833.
+There's that scanner light again.
+It's out.
+It's on again.
+It's out again.
+Scanner light's out again.
+It's on again.
+Scanner light is on.
+Going to secondary at 1835.
+Secondary scanner ignore light is good at 18 35 10.
+Now I see what you mean about those thrusters shining when the sun is shining on the nose.
+Got your seat belt hooked?
+Can you take it around a couple more times?
+I don't know. Got your shoulder harness?
+Yes, finally.
+Now, let me go through this checklist in an orderly manner.
+Okay.
+TR-5 circuit breaker is closed.
+Yes.
+Okay. All equipment is stowed. Secondary B pump is on.
+There comes the sun.
+And that old suit temp down there at 55°, S-band-CONTINUOUS, C-band-CONTINUOUS, in REAL-TIME and ACQ.
+Main batteries - we tested them. They checked good. C is way up there at 29, S2 —
+Man! With that sun shining on the nose, I can't see anything now.
+Every time you fire those thrusters S1 and S2 drop voltage. Well, that's not unusual.
+Hey, I can see the shadow of the scanner working now.
+23.5 on the main bus.
+Okay, right circuit breakers all closed.
+Man! I hope the 8-ball is right, because there's no horizon.
+Okay. Now 4:06 after retrofire is 400K, and 11 minutes after retrofire is reverse.
+What's that again, now, John?
+4:06 after retrofire is -
+Let me write that down.
+I'll tell you. I won't forget it.
+And what is reverse?
+Eleven minutes flat. That sounds about right, because it was 10 minutes and 51 seconds from our nominal data.
+There is still no horizon.
+Okay. Give me a mark, and let me check TR one more time.
+Okay, I'll give it to you at 19:08.
+Okay.
+Got about 10 seconds. Could give it to you anytime, couldn't I?
+Yep.
+I'll give it to you at 05.
+Okay.
+One, MARK.
+You're going to be a little late. I think you punched a little late.
+19:04. That's a good TR check.
+Hope the sun doesn't get that scanner right here.
+The last burn we received was 96 feet a second and a minute and 49 seconds of burn. Right?
+Yeah, we're going to aline.
+Okay. Ready for this burn.
+Okay. Six minutes.
+I've got to start that computer.
+Man! There's the horizon and it is beautiful.
+Okay. Better pitch over and check yaw.
+Huh?
+Better check yaw, for sure.
+Okay. We have it. It's lying good now and the scanner —
+Feels like it. Looks like it.
+Got everything but start computer.
+Okay, well —
+I'm not going to start until later.
+Wait a second.
+Is it in?
+No.
+Well, get it in!
+I'm in Catch-Up mode.
+Okay.
+Says to put in 2590960.
+Okay.
+You have about 2 minutes.
+Hawaii,.
+Okay, but — that's what we're going to shoot for.
+Okay. At the start of this we'll be about 52 percent.
+Hawaii,.
+Man! I mean we start to burn just as we come over there.
+Let's go ahead and hit the Catch-Up thing and see what it says.
+Nothing.
+Well, let's do it — put it back in. Okay. Now try it.
+Okay. Now.
+There she goes. 6 - 5 - 4 — how did it get in there? My attitudes are not 0, 0, 180.
+That's how.
+Okay.
+Yes, sir!
+The IVI's keep counting up, though.
+Yes.
+It does keep changing, doesn't it?
+Hello,. Hawaii.
+Hawaii, is all ready for burn.
+Roger. Give us a hack on your event timer.
+Okay, it'll be 12:55 on my mark.
+MARK.
+Right, we are right on.
+Okay. On my IVI's, I have 97 ft/sec forward and the others are zips.
+Roger, and give us a mark for the start of burn.
+Roger. We've got about 25 seconds to go.
+Roger.
+That's perfect out-the-window alinement.
+Yes.
+10 seconds.
+We have 50 percent propellant quantity indicated. Getting ready to fire —
+MARK!
+We got your start of burn.
+Yes, it's burning.
+There's 90 —
+There's 80 —
+You know, you can't hear those big thrusters.
+No.
+There's a minute of burn.
+There's 28 —
+MARK! End of burn.
+Right. Mark end of burn. Good show.
+We timed that a minute and 48 seconds.
+Give us your readings.
+IVI's: Fore-Aft 0, Left was 1, Up was 2.
+That was the end of burn.
+Yes.
+Okay, and how did your attitudes look?
+Attitudes were right on, plus or minus 2 or 3°.
+Okay, they look good on the ground.
+Roger.
+Now we can go to REENTRY. Right?
+Yes.
+Okay, I've got 9:29 on the TR.
+Okay, MARK!
+Oh! Give me another.
+I'll give you one at 19. Okay?
+Okay.
+MARK!
+Okay, and the propellant source pressure is 1500.
+We had indicated 22 percent when we got done, Neil.
+20 percent. Rog?
+About 22.
+Okay.
+Source pressure is 1500, source temperature 60-50, I mean. And the RCS-both rings on. Antenna okay. On REENTRY. Heaters off. Quantity Read Switch off.
+Let's see, did we get all of this?
+power to ATTITUDE, controller stow, attitude PULSE, computer to REENTRY.
+Okay.
+Now we're lined up good.
+Okay, and the retro load is initialized now, because I called addresses 10 and 11 out of the computer.
+Now, don't go out of Reentry mode.
+Okay, but I don't think it would make any difference, as long as we go back. Okay — platform — rate — computer to REENTRY — RATE COMMAND — roll gyro off.
+Yes.
+Platform is ORBITAL RATE — No.
+No.
+Retro power - ARM.
+Not now. At TR-5, you mean?
+Well, this is the 5-minute checklist.
+Okay, well, we'll just — 7:20 now.
+I haven't heard any of those squib isolation pyros fire yet. Have you?
+Yes, I heard the ones on the pad fire.
+Did you? I don't remember, I guess.
+I was listening for all that jazz.
+Oh, were you?
+Oh, yeah!
+You have to listen for it to hear it.
+Can't see inside.
+It's bright, isn't it?
+Well, the nose looks way down there, but that's about right.
+One minute.
+Those thunderstorms would make it really tough coming in. You know?
+It doesn't look like we're so high.
+Batteries on. Mains on —
+Got everything on we need. Right?
+Yes sir.
+Retro power is coming on here at 5:15.
+Turn it off now.
+Okay. It's 5 minutes.
+MARK.
+Okay.
+That's everything but O2 High Rate.
+Okay.
+,,. Over.
+Say again.
+,. How do you read?
+Read you loud and clear,.
+Roger. Have you completed TR-5 checklist?
+Roger.
+Roger. I'll give you a mark at TR-4.
+Did you set your clock over there?
+Yes, I want to start it at retrofire.
+Okay, both rings working.
+Stand by.
+MARK!
+Roger.
+Your clock looks like it's counting good.
+Are we all set for TR-1?
+Yes, just about. We'll make it.
+Got it complete?
+Yep. The adapter batteries are off. We're complete.
+TR-5 is complete.
+Roger.
+Go ahead.
+You want to mark at TR-1?
+Not necessary.
+Roger.
+Two minutes.
+,. You look good from the ground.
+Roger. Thank you.
+Roger.
+Sure miss that roll rate gyro.
+Yes.
+That old ticker is really ticking away now, I'll tell you.
+Yes. Hope so.
+Okay. Give me a mark at one, huh?
+Okay.
+Got those off? Yes.
+Five seconds to one minute.
+Okay.
+MARK!
+Separate OAMS?
+Yes, go ahead.
+Separate electronics, separate adapter.
+Hey, the adapter has separated.
+Roger, we confirm on the ground. Adapter sep.
+Yes, you can really feel it.
+Say again.
+I said you can really feel it kick off.
+TR-30.
+Roger.
+Arm auto-retro.
+Auto-retro armed. Squibs armed.
+Roger,.
+16 seconds, 15 seconds.
+Okay.
+10 - 9 - 8 - 7 - 6 - 5 - 4 - 3 - 2 - 1 - Retrofire.
+Auto-retro.
+Manual retro.
+Rocket 3.
+Rocket 2.
+Three of them.
+Rocket 4.
+, do you confirm all rockets firing normally?
+All rockets fired normally and attitudes were right in the center.
+Roger. Pass your readouts on to Guaymas. out.
+Roger.
+, Guaymas. Do you copy?
+Roger, Guaymas. The IVI's readings were 331 Aft, 105 Right, and 4 Up. Right in the center. An automatic superfine retrofire down the line.
+Roger. I copy. 331 Aft, Right 105, Down 04.
+Roger, and retropack has jettisoned.
+Roger.
+, Guaymas.
+Go.
+I'm prepared to give you a TR + 3 minute time hack if you need it?
+That would be good.
+Okay, and I have some event times for reentry: 400K feet 19 10 29 — stand by,.
+Molly?Brown, correct that 400K feet. That's 19 01 29.
+Roger.
+, I'll give you a time hack in approximately 30 seconds.
+, Guaymas. Stand by for a TR + 3 minute time hack.
+MARK!
+Do you copy?
+Roger. We got it.
+, stand by for Texas.
+Roger.
+, Cape.
+here, go ahead.
+Roger. I'm getting your bank angle times momentarily. Your start of Communications Experiment is 19 05 14.
+Roger. I have steering on the computer.
+I didn't read you on that.
+I'm getting initial bank angle commands from the computer.
+Okay.
+, I have your backup times on the bank angles and time to reverse bank angle.
+Go ahead.
+Bank left 45°. Bank right 55°. Time to reverse bank angle 19 08 17.
+Give me an elapsed time after retro.
+Stand by one.
+I'm rolling to 60° left now.
+Roger, bank left 45.
+I mean 45.
+10 + 54 after retro is reverse bank angle.
+Say again, Gordo.
+What did you say, Gordo?
+Time from retro fire to reverse bank angle is 10:54. Ten minutes, 54 seconds.
+, Cape. Transmitting to you in blackout for Communications Experiment. Over.
+, Cape. Transmitting to you for communications test. Over.
+, Cape. Transmitting on Communications Experiment. Over.
+, Cape with a 1 - 2 - 3 - 4 - 5 - 4 - 3 - 2 - 1. Over.
+, Cape with a 1 - 2 - 3 - 4 - 5 - 4 - 3 - 2 - 1.
+, Cape with a 1 - 2 - 3 - 4 - 5 - 4 - 3 - 2 - 1.
+, Cape with a 1 - 2 - 3 - 4 - 5 - 4 - 3 - 2 - 1.
+This is Cape transmitting for Communications Experiment 1 - 2 - 3 - 4 - 5 - 4 - 3 - 2 - 1. Over.
+, Cape with a 1 - 2 - 3 - 4 - 5 - 4 - 3 - 2 - 1.
+, Cape. Over.
+, Cap.
+…end of that.
+, Cape. Over.
+Go ahead,.
+, are you reading Cape now? Over.
+Black Dog …
+Hello there!
+, Cape.
+Roger. We're down to 80 000 feet. My needles show us about 25 miles short.
+Roger, indicating about 25 miles short on your computer. Very good.
+I have a drogue time 19 10 42. What is your altimeter reading?
+Reading 60 000.
+You say 70 000?
+There goes the drogue.
+Roger.
+Okay, we have a drogue.
+Roger, drogue.
+Looks pretty good, doesn't it?
+Our propellant valves are shut off. We've got a 40K light. Really oscillating.
+Roger.
+Passing through 30 000 feet.
+Roger.
+Approximately one minute to the main.
+Intrepid, this is.
+Roger. Go ahead.
+, Cape. How is your main?
+We don't have a main yet. Passing through 13 000.
+Roger.
+, how is your main. Over?
+Okay. We have a good stable chute. Going to landing attitude.
+Oh, man! That was the roughest one of the whole bunch, wasn't it!?
+Oh man!
+Okay. We all set?
+Yes. Now we go through the post-main checklist.
+Let's see, can they read us now?
+Yes.
+Cape, this is.
+, Cape.
+Intrepid, this is.
+Roger. We are reading you now and then. How us?
+Loud and clear. I have 30 ft/sec rate of descent. Passing through 5500.
+You never took your D-Ring out, huh?
+Roger, 5500.
+Yes I did, too!
+Oh, did you?
+You better believe it!
+Face plate open?
+Open?
+That's what the checklist says. Indicate Landing Control circuit breaker open.
+What?
+Indicate Landing Attitude Control circuit breaker open. That's that second one over on your panel. There you go.
+bias power off.
+, this is Intrepid. It appears you will land 5 miles ahead of me. Over.
+Roger. Thank you.
+That'll be nice. Rescue beacon is on.
+Do you have us in sight, Intrepid?
+Not yet. Over.
+Roger.
+I'll turn the rescue beacon on, then.
+Rescue beacon coming on.
+Passing through 4000.
+Suit fan to No. 2.
+That drogue chute is right above us, or the pilot chute.
+I understand the drogue is just above you, or the pilot chute.
+Say again.
+heater's off. We did not do that heater check. Oh, well. We didn't need it anyways. temperature was way up. Scanner Heater circuit breaker open.
+Do you smell that fuel? Fumes from that stuff?
+Yes. Let's close up.
+Yes. I can see 'em smoking out there.
+Suit flow increase.
+They'll get quenched in a minute.
+Reentry Antenna Experiment off.
+Okay. Manual O2 High Rate - PULL. I don't think we want to do that yet, do you?
+No.
+I imagine it is pretty bad in here.
+The water seal is closed. AC power off.
+Okay.
+We're coming through the lower layer, John. You better get ready to hit. We're at 2000. No telling how far the altimeter is off.
+Okay.
+I'm as ready as I'll ever be.
+You can put your head back.
+Landing attitude was a bump, wasn't it?
+Yes.
+We're at 1500 feet.
+We're in good shape.
+We may have to go on O2 High Rate with that smell in here.
+I know it.
+It's probably just from that hot metal.
+I think that's what it is.
+I'm sure it is. There's nothing coming out of the thrusters.
+No.
+600 feet.
+Landing attitude cover open. I thought it was parajett.
+Oh, No!!
+300 feet. It ought to be pretty soon now.
+Broken my face plate when we went to landing attitude.
+Did it?
+That's what the problem was, right there.
+Look at the smoke coming out the thrusters.
+They're off.
+I don't understand that.
+We better go to O2 High Rate and close the snorkle.
+Okay.
+Post-landing checklist. Parachute jett-pushed. Landing safe. Safe the landing bus. Helmet off and stowed. I'd leave it on. Arm restraints -
+This is in the water. Anybody read?
+, this is Big Box 15. You are loud and clear. Check with Big Box 14.
+Roger. We're floating well in the water.
+Okay. Shoulder fitting stowed. Got the cabin light off. Helmet - off and stow. Arm restraints stow.
+Hey, start over again.
+Post-landing checklist. Helmet - off and stow. I don't think we ought to do that.
+No, not yet.
+Arm restrain stow. Okay, elbow rest - stow, lap belt - release and stow.
+I tell you, I wouldn't open that face plate with those thrusters blowing like that.
+I read you. Who is this calling Molly Brown?
+This is, call again.
+, Big Box 14. Go ahead.
+This is, Big Box. Go ahead.
+Roger, sir, if you will give me a 15 second hold-down.
+Okay, I'll hold it down.
+Big Box,.
+, Big Box 14. We have you on …
+, Big Box 14. Would you give me another hold-down?
+, Big Box 14.
+, Big Box 14. Another hold-down, please.
+Okay,, I've got a fix on you. Big Box 14.

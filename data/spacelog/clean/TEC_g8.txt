@@ -1,0 +1,2169 @@
+Ignition!
+Lift-off!
+Lift-off 16:41:00! Lift-off 16:41:00!
+Watch your clock, Gemini.
+Got a Roll Program in.
+Roger. Roll.
+Good lift-off, VIII.
+It's looking good.
+The Roll is on. We have a Pitch Program.
+Roger. Pitch Program.
+Cabin pressure coming up good.
+I... checking on the nose here.
+MARK. 50 seconds. You're looking good, VIII.
+Cabin pressure is 5.74.
+Have the cabin.
+MARK. 1 40.
+MARK. 1 plus 40. You're looking good, VIII.
+Okay. Mode 2.
+Cabin's 5.5 psid looks good. Fuel cells are good.
+Okay.
+DCS update received.
+Roger. DCS.
+Secondary O2 is good.
+Okay.
+DCS looks good.
+Pulse is good.
+Stage 2 tanks look good.
+Okay. That's about 3 1/2 g's.
+Gemini VIII. You're GO from the ground for Staging.
+Roger.
+Fuel cells look good.
+Roger.
+DCS update received.
+Roger. DCS.
+Roger. We have Staging Ignition.
+Roger. Staging.
+We have Staging.
+Staging looks good.
+We're having Wally's fireball here.
+Yes.
+Did you see it?
+Yes, I did.
+Understand you have Guidance Initiate.
+Roger. We have Guidance Initiate.
+Zero pitch and 1 degree yaw right coming up.
+Roger. Guidance looks good on the ground.
+Roger.
+Coming right up.
+All systems looking good.
+Oh, there's the horizon!
+We finally get to see it.
+Okay. You're looking good, Coach.
+Okay. The fuel cells are all solid as a rock.
+Okay. Everything looks good on the right.
+Fine. And needles are... pitch is zero, yaw is about a quarter of a degree and steady.
+Roger. Your plots are looking very nominal here on the ground, VIII.
+Roger. The second stage is a real good machine.
+I was going to say a Cadillac, but I guess I better not say that.
+Coming up on 4 minutes.
+Cabin pressure is 5.5 psid and holding.
+Roger. Accelerometers at 4 minutes.
+Hey, how about that view!
+That's fantastic!
+They were right, weren't they?
+Boy! Here we go!
+Gemini VIII, you're GO from the ground.
+Roger. Looks good up here.
+There we are. Right on the money.
+Rates are very stable.
+Little bit of yaw oscillation.
+Coming up on 5 minutes.
+Yes. Coming up on 5 minutes right now.
+MARK. V/VR =.08, Gemini VIII.
+Okay. Mode 3.
+Zero pitch and yaw a quarter of a degree and steady.
+You're looking very good here on the ground.
+Looking good here.
+We've had SECO.
+Roger. SECO.
+Okay.
+Take your time, Buddy.
+Okay.
+Gemini VIII, you're GO, and give me IVI's when you have time.
+Thank you. We're thrusting forward.
+Look at the stuff out front.
+Burn stop.
+Roger. Stop burn.
+Oops!
+Gemini VIII, your 1-Alpha time is 15 06.
+Okay. We got that.
+Look at that stuff floating out there.
+Yes. Some pressure.
+Okay, Dave.
+Okay, Neil. Check bearings.
+Okay. Looks good.
+Rates look good.
+Yes.
+All the way.
+Fairings are jettisoned.
+We had a pitch-up at fairing jettison.
+Gemini VIII, this is Houston. We understand fairings have been jettisoned.
+That's affirm.
+Okay. Ready for the first Check List.
+Stand by one.
+Okay.
+Okay. I'm ready to read.
+Okay.
+Gemini VIII's Aline of the Platform. We apparently have a good Primary Scanner.
+Okay.... status.
+Say again.
+Gemini VIII, Houston CAP COM.
+Go ahead, Houston. This is VIII.
+Your orbit is 85 by 155. Your GMT lift-off was 16 41 02.
+Roger.
+Okay. Retro squibs (4), SAFE.
+Okay. Maneuver controller, off and stowed.
+Off and stowed.
+D-Ring safety pin, install.
+Sequence Light Test.
+Okay. Here we go!
+AMBER.
+Okay.
+Roger.
+And RED and GREEN.
+Good. Darn good.
+Computer PRELAUNCH.
+... just from the IVI's... after the burn at 18 with a plane indicating right. Now, heads up.
+Okay. Retro... squibs to CLOSE.
+Secondary O2 to CLOSE.
+OAMS Heaters's circuit breaker coming closed.
+And it stays closed.
+Roger.
+OAMS Heaters's circuit breaker closed.
+Cryo Quantity to OFF.
+Check.
+We look good all the way.
+Recorder is coming off.
+Gemini VIII, Houston CAP COM. I have your 1-4 time, if you're ready to copy.
+Go ahead.
+Roger. GET RC 01 00 16; RET 400K, 15 plus 21; RET RB, 20 plus 08; roll left 85.
+Roger. 1-4 01 00 16; RET RB, 20 plus 08; roll left 85. And Insertion Check List is complete.
+You were cut off there at the end, VIII.
+Right. I've got the Insertion Check List complete.
+Roger. Insertion Check List complete. Thank you.
+Still look good.
+If you did not copy, the RET of 400K was 15 plus 21.
+Good old Jim! Thank you.
+Gemini VIII, Gemini VIII, Houston CAP COM. Over.
+Roger. Go ahead.
+Roger. Your orbit is changed to 87, 147. You're GO for a nominal M equals 4. There will be a slight Plane Change. We'll give you that information later and we understand that the... temperatures were hotter than normal and we're reminding you to activate the right unit Number 1 handle at Time 40.
+Also all systems look okay...
+Roger. All systems are okay and standing by for a UHF Number 2 check.
+Okay.
+Houston, this is Gemini VIII on your UHF Number 2. How do you read?
+Roger. Gemini VIII, this is Houston. Reading you slightly garbled but loud. How me?
+This is Houston. Roger.
+Going back to Number 1.
+You're going to Number 1.
+Dave advises that Nuclear Emulsion came on at 23 minutes.
+Roger. Gemini VIII. Nuclear Emulsion on at 23 minutes.
+... we are seeing stars at 30 minutes elapsed time, and the Spacecraft is... sunlight.
+31 minutes. Now we are seeing a lot of stars.
+That could be a light.
+... I see a light on the ground.
+... on the horizon. That's where the light would be, I think.
+You do?
+I do see thruster flashings now. Platform Alining on the Secondary Scanner.
+Tananarive, you're unreadable. We...
+Gemini VIII, Gemini VIII, Houston CAP COM.
+Hello, Houston CAP COM. Now we're reading you all okay. Gemini VIII.
+Roger. This is my first call. Don't forget your Radiator to FLOW at 035.
+Okay. Radiator going to FLOW.
+Roger. And around 00 40, the C-Reentry to COMMAND, the C-Adapter to CONTINUOUS and the S-3 Experiment.
+I didn't quite get that. Would you say again, please?
+Roger. At 40, the C-Reentry to COMMAND, the C-Adapter to CONTINUOUS and the Frog Egg Experiment.
+Roger. We have that.
+Roger. We're just standing by.
+It reminds me of an oil flame that you see over Texas.
+... here... We're at 38 minutes and I noticed the thrusters are firing out the right side only. Now this may be a Platform Mode, or it could be due to the fact that it's taking care of the water boiler exhaust.
+38 minutes elapsed time. The night side - we have a well-definable horizon, but we have stars visible below the horizon, and that one property in comparing the horizon is probably the best one to make a mark on.
+Okay. At 40 minutes and about 10 seconds, the S-3 Unit Number 1 is activated.
+Okay.
+41 minutes. We're going to Primary Scanner on the Horizon Scan and no appreciable difference in Primary or Secondary Scanner operation; going to Primary CATCH-UP in 50 minutes and --
+IVI's are zero.
+Well, that's about it.
+1A, 9.5; 1B, 10.0; 1-Main, 14.5; 2-Main, 8.0; 2A, 4.8; 2B, 5.2; Main bus is 24.5.
+Gemini VIII, Carnarvon CAP COM.
+Hi there, Carnarvon! Go ahead.
+How you all doing?
+Just fine!
+Okay. We're showing you real good here on the ground. We're giving you a GO on your radiator. Put your Evaporator to NORMAL.
+Evaporator is NORMAL.
+Okay.
+How about your Quantity Read switch to ECS O2 position and leave it there until I tell you to move it.
+Roger. ECS O2.
+Okay. I'm showing you in PRELAUNCH. Are you doing some computations or can you go into CATCH-UP?
+Ready for Accelerometer Bias Check any time you are.
+Okay. Let's go to CATCH-UP.
+Okay. Got you in CATCH-UP.
+We need a battery in your fuel cell.
+Roger. The batteries are GO, and - ready to copy the fuel cell?
+Went to CATCH-UP at 50 minutes. IVI's are zero.
+Go ahead.
+1A, 9.5; 1B, 10.0; 1-Main, 14.5; 2-Main, 8.0; 2A, 4.8, 2B, 5.2. Main bus is 24.5.
+Okay. I copy that.
+Okay. I'll copy that.
+... get the sheet.
+Get a light in here.
+Okay. You're GO for 16-1.
+Go ahead. All yours.
+Thank you very much.
+How about that?
+You can leave your computer running, you know.
+Stand by.
+How about setting up 52 minutes and counting up? I'll give you a time hack at that point.
+Okay.
+You like it up there, right?
+You bet!
+It's all right!
+Very nice!
+Okay. The computers are running pretty good. Hope they keep up like they should.
+I'm up to GET Clock Check.
+On your Mark. Stand by.
+MARK. 52.
+Right on it.
+Okay. We're right with you.
+And we're ready for the START COMP any time you are.
+Okay. Quantity Read to OFF.
+Coming OFF.
+Carnarvon. Gemini VIII, if you're ready for the Accelerometer Bias Check, we'll start counting.
+We're ready for your check, sir.
+Okay. On my Mark,...
+Do you want to give the start count so I can start my watch?
+MARK.
+Got it.
+Roger.
+Here. You got the time?
+Vibrator is normal and we went to START COMP at 53 minutes.
+Did you start S-3 at 40 minutes?
+That's affirm.
+Okay.
+That was 40 minutes, 10 seconds.
+40 what?
+40 minutes, 10 seconds.
+Okay.
+Okay. We've cut our computer summaries. You can go on to PRELAUNCH any time you want.
+We did put in a couple of pulses in yaw.
+Oh, okay.
+Any more for us?
+Say again.
+Couldn't do any more for us than you have. We've got everything going for us now.
+That's what we're here for, isn't it?
+Now what did you say about the storms?
+I say, we have quite a bit of storms just ahead of us here. We can see the lightning.
+Yes, we could use some rain.
+Not like the last time you were here.
+Let me know when you're going over to PRELAUNCH.
+Roger. Accelerometer bias count.
+Okay. We have the addresses if you're ready to copy, Carnarvon.
+Go ahead.
+80, minus 0004; 81 was 00001; 82 was minus 0004.
+Okay. I copied all that. Have you in PRELAUNCH now.
+Okay. I have a little over a minute to LOS. I don't have anything for you. We'll stand by and let you count.
+Let me have your Core 81 again.
+Roger. Core 81 was 00001.
+Okay. I was right. Thank you.
+Ejection seat safety to... - Carnarvon GO - and shoulder harness was released.
+Hello, Gemini VIII, Gemini 7/6. Over.
+Gemini VIII, Hawaii CAP COM.
+This is Gemini 7/6 enroute Honolulu. Do you read?
+Gemini, this is Hawaii. We have a computer load for you. Are you ready? Over.
+We're all set.
+Roger. Transmitting computer load.
+Roger. Got DCS, Height-Adjust.
+Roger. And are you ready to copy the update? Over.
+Stand by, Hawaii.
+Roger.
+Go.
+We have you down there. Looks like a nice day.
+Beautiful weather here.
+Okay. Go with the update, Hawaii.
+Roger. GET B 1 34 37; Delta-V, 2.9; burn time, 0 plus 05; yaw 0, pitch 0; Address 25, 90029; Address 26, all zeros; Address 27, all zeros; thrusters forward; Maneuver Retrograde. Did you copy?
+That is 26, all zeros. Roger. 27, all zeros. Thrusters forward and Maneuver's Retrograde. Did you copy?
+Roger, Hawaii. Got it. GET B burn, 01 34 37; Delta-V, 2.9; duration, 0 plus 05; yaw 0, pitch 0; Address 25, 90029; 26 all zeros; 27 all zeros; both confirmed; thrusters forward; Maneuver's Retro.
+That's correct. Also be advised that Wally Schirra has been trying to contact you. His call sign is Gemini 7/6. He's inbound to Honolulu.
+Oh, very well. We're standing by.
+Has he got HF?
+Is he trying to contact us by UHF or HF?
+He was on UHF. We haven't heard him for a couple of minutes.
+Okay.
+Okay. Let's see how we get the IVI's. What do you say?
+Okay. Catch-up and we'll see what happens.
+You will?
+... PRELAUNCH...
+... this... Forward firing thrusters, Retrograde burn at 1 34 37.
+... that's 14 minutes from now.
+Okay. Now we want to do a Platform Aline before that.
+It's really not required - for 3 feet per second, I don't think.
+Does that concur with...?
+What does it say in the Flight Manual?
+Gemini, this is Hawaii. We have nothing further for you. Standing by.
+Okay. All good and well up here.
+Yes. You want to aline it as good as you can. It says 15 minutes prior... allow Platform Mode to aline platform.
+1 34 37 is start time....
+You understand... Platform. You can see out the window that it's - no, that it's 90 degrees, anyway.
+If you aline it, it takes the...
+I agree.
+If you aline it in a 3-feet-per-second burn, if you are 10 degrees off on the Platform, it'd be hard for us to see it, as far as the Delta-V operation is. So why don't we - as we come upon the stage we'll put it in SEF for a little while. Well, 5 minutes before you're supposed to go to ORBIT RATE. Okay. I'll just put it in SEF COMP right now. Kind of fun.
+It really kicks it around there, doesn't it?
+Yes. It's winding right up.
+Wonder where we'll be at 1 34. Oh, I know! It's on the - on the - we'll be right over Houston on this pass.
+... Try and get that camera.
+Okay.
+... Hang on.
+No, I'm sorry - Yes. 1 34.
+Okay. All right. All right. Just a minute.
+Okay.
+We'll have to ask Houston, won't we?
+Think we're going to have to.
+Think we ought to.
+Think we ought to...
+Oh. Look at that one!
+What was that time? 1 34 what?
+You got your - -
+What's the matter?
+The thermometer is...
+Yes. The thermometer's always a nuisance.
+I'm not sick. Tell them I'm not sick!
+1 27 33. Right?
+Well, I would say maybe we'd better do...
+Gemini VIII, Guaymas CAP COM.
+Roger.
+Station calling Gemini VIII, say again.
+Station calling Gemini VIII, say again.
+Gemini VIII, this is Guaymas. I have a load update - -
+Stand by. He has an update. What kind of update do you have, Guaymas?
+It's a MAP update.
+Okay. Stand by.
+Roger.
+Okay?
+Okay. Go ahead.
+Time on load - -
+Beautiful!
+Time 01 07 13; Rev 1, 159.1 degrees east; 16 plus 00, right ascension.
+Right. Got you. Node 01 07 13; Rev 1, 159.1; 16 plus 00, right ascension.
+That's affirmative. We have you GO on the ground.
+We're going over Baja California now. Can you see it?
+Oh! Look at all those ships!
+Good.
+Okay. I've got to go into a - ORB RATE here.
+Also Attitude Control, RATE COMMAND.
+Platform, ORB RATE.
+Okay.
+Computer, CATCH-UP.
+Computer looks good.
+Okay.
+FDR, COMP.
+FDR, COMP.
+Maneuver Controller, unstow.
+That's good.
+Maneuver Controller, ON.
+Okay. ON.
+Okay.
+1 34 37. How's that?
+Right.
+1 34 37. We want to have a 5-second burn and forward firing thrusters will give us a Retrograde Maneuver.
+Okay. I think I'll burn it back.
+Okay.
+All right.
+Sort of like to know how it works.
+Yes, I think we ought to take a picture.
+Yes.
+Would be nice, but I - nice...
+Nice cloud formations!
+Beautiful! Just spectacular!
+Hope you remember to look up when we start going after the Agena.
+Gemini VIII, this is Houston CAP COM. We're standing by for your burn.
+Roger. Got 3 minutes to go.
+Pressure coming up... approach.
+We cross Houston at the burn; it's between Houston and - the Cape.
+Okay. 0°, 0°, 0°, Platform.
+Okay. ORB RATE and we're CATCH-UP.
+Standing by to hear...
+... the Controller is off and on. START COMP...
+I have a shoreline in sight here. I really don't have Houston picked out though.
+We are coming up on 32.42... Houston...
+I've got it.
+I'm going to push your START COMP 1 33. Right?
+1 33 START COMP.
+Now you're going to go back. Right?
+Aft. I'm going to pull aft.
+Save that gas.
+Coming up on 1 33 37.
+Okay. We're 1 minute to burn, going right over the coastline now...
+Roger, VIII. Stand by for a 30-second Mark to your burn.
+Okay.
+MARK. 30 seconds to burn.
+Okay.
+Keep an eye out the window and see what it looks like with this forward firing.
+MARK.
+Burn.
+Roger.
+Purging.
+MARK.
+2, 1, burn.
+Roger.
+Fine. Burn end.
+MARK.
+What number?
+Minus 0001.
+I got that.
+2. Okay. 82. That's - -
+Gemini VIII, this is Houston. We're placing your T/M switch to REAL TIME/DELAY TIME.
+Okay.
+Yes. A real good idea.
+Okay. Let's try it.
+Wrong way.
+Address 82 is not the...
+Address 82 is minus, so we want to go - -
+Let's try it again.
+Okay.
+Gemini VIII, this is Houston requesting your Tape Playback switch to CONTINUOUS.
+Oh, shoot! Stand by.
+Stand by, Houston.
+Roger. Will do.
+Let's try Address 81 again and see what it is.
+See it?
+It's building up now.
+Fine. Okay. Now to put - now you're 82... 80, 81, 82 is down. You should go. Yes. I guess you're right. It should go.
+I think I was.
+Okay. I understand.
+Gemini VIII. This is Houston. You don't have to answer. We'd like to have your computer in PRELAUNCH when you can.
+Okay.
+That's almost a foot per second.
+Computer's in PRELAUNCH. We're putting Tape Playback to CONTINUOUS.
+Roger. Thank you. Understand you were to take out residuals. How did it go?
+Yes, we took out the residuals, but they seem to be building up on us with time.
+Roger. That is part of your accelerometer bias.
+Yes, I think that's right. Are you going to update that bias?
+Whenever you're ready, we're going to send you an accelerometer update.
+Okay. I think we're probably - stand by a minute.
+Roger. We're standing by.
+What was the last number?
+81 was a 3.
+80 was a zero.
+Okay. Tell them to go ahead.
+Okay. Go ahead and send the new bias for us.
+Roger. Coming up.
+We have not gotten a light yet.
+Stand by. It's coming, VIII.
+Now my impression, Partner, is that 82 hit the button.
+So you're right.
+Roger.
+Got a light. Reset.
+Roger. Understand you have the light.
+Okay. You have the Tape Playback in CONTINUOUS.
+Hey, we still - they got the Tape Playback in CONTINUOUS now. You know that?
+Gemini VIII, this is Houston. The accelerometer bias update was good.
+Roger. Thank you.
+Say again, Dave.
+They have the Tape Playback in CONTINUOUS. We're not going to...
+We're really... update...
+Gemini VIII, Houston CAP COM here.
+Go ahead.
+Roger. Would you please verify that your Antenna Select switch is in ADAPTER? Over.
+Roger.
+Thank you.
+Gemini VIII, Houston CAP COM. I have your Phase Adjustment Maneuver update if you're ready to copy.
+Roger. Go ahead.
+Roger. GET B 2 18 26; Delta-V, 49.3; Delta-T, 1 plus 07; yaw 0, pitch 0; Core 25, 00493; Cores 26 and 27, all zeros; thrusters aft; Maneuver Posigrade. Did you copy?
+Roger. Understand. Phase-Adjust at 02 18 26 49.3; 1 plus 07; yaw 0, pitch 0; 25, 00493; 26 and 27, all zeros; aft thrusters; Posigrade.
+Roger, Dave. Okay.
+Roger.
+What was that time, Dave?
+The time? 02 18 26.
+And Gemini VIII, would you put your Tape Playback switch to COMMAND?
+Tape Playback in COMMAND.
+Roger. And T/M switch to REAL-TIME and ACQ.
+REAL-TIME and ACQ.
+Say, you sort of lose a little bit of voice up here, you know.
+I noticed it on everybody that has flown.
+Let's see now. Is this - this is just a one-man package?
+We have some food in here, if you want some food.
+Well, this is Day 1 Meal B for me, and I think yours is in there. I think we ought to go ahead and have one because - -
+Yes. You're right.
+- - because we're not going to get much of a chance after - we've got the best part of an hour here.
+Gemini VIII, this is Houston. You'll probably expect an update on that Phase-Adjust Maneuver over Ascension. Over.
+Okay. Understand.
+Let's see. Have we got everything stowed that we want to stow?
+No, not really. I've got to work on the TV monitor a little bit. My helmet - it's really not - doesn't really have a place to rest on that.
+There isn't any. I thought there was supposed to be - -
+Yes, I did too.
+We'll write it up.
+Stow in here someday.
+Day 2, Meal A.
+See it?
+There.
+That doesn't sound right, does it?
+That's for tomorrow morning, I guess. There must be another package over there someplace. Let me look in the Flight Plan to make sure.
+Okay, it's in your right-hand food box.
+I sort of wanted to get this darn thing cleaned out.
+Yes.
+Day 1, Meal B. I'll buy that.
+Man, that's peculiar!
+What did you say?
+The water is kind of peculiar.
+Oh, great!
+I think there's some air bubbles in it (water).
+Is that right?
+Yes.
+They got some LOX in the water again.
+Have they had the problem before?
+Yes, they sure have.
+Ready.
+LOX.
+What?
+Do you want it?
+Okay.
+Sure does.
+I find that there is a lot less room in this cockpit than I thought there was.
+You hoped there was. Right?
+There's a heck of a lot less room!
+Gemini VIII, Gemini VIII, Houston CAP COM. Over.
+Go ahead, Houston.
+Roger. I have an update to your Phase-Adjust Maneuver if you're ready to copy.
+Stand by.
+Just stick it on with Velcro. We'll get it later.
+Are you ready, VIII?
+Stand by. We'll be ready in a second.
+Roger. We're standing by.
+Where the heck did the Flight Plan Book go?
+Do you have that?
+Yes.
+Okay. Let's take a look at it. I got this one.
+Okay. Go ahead.
+Houston, Gemini VIII. Go ahead.
+Roger. Your GET burn 02 18 25; Delta-V, 50.6; Delta-T, 1 plus 08; yaw 0, pitch 0; Core 25, 00506; Cores 26 and 27, all zeros; thrusters aft, Maneuver Posigrade.
+Roger. Understand. Phase-Adjust 02 18 25; Delta-V, 50.6; 1 plus 08; 0 yaw, 0 pitch; 25, 00506; 26 and 27 all zeros; aft thrusters, Posigrade.
+Roger. That is correct. I hope you're enjoying your eating.
+Oh, it's not bad at all.
+They knew!
+First meal at 1 plus 56. Saw a lot of air bubbles in the water.
+I saw the first star at 1 58 - correction 2 58 30, on the second revolution. The ground well lighted...
+Coming over a bright light on the ground at 2 08 28. Start... light.
+... seconds.
+Okay. We're burning.
+20 seconds.
+30 seconds.
+1 minute.
+... stop...
+... Stage 1 and zero.
+Okay.
+Want to burn right.
+Okay... and let's check it.
+Okay.
+Don't press.
+... you had a pretty long burn.
+Want to check it?
+Yes.
+We're going to back off and...
+Okay.
+Zero, zero; you better check...
+I can't figure that 82 out.
+I can't either.
+Positive one.
+... this way?
+No, its not.
+Now look at it.
+Okay. You're right.
+We were putting in 81. That's what's happened.
+Gemini VIII, Carnarvon CAP COM.
+Hello, Carnarvon. Gemini VIII.
+How you all doing?
+Okay. We completed our burn on time, and residuals were removed. The OAMS is 88 percent.
+Okay. Your OAMS Prop is 80 percent?
+88 percent.
+88. Okay. I copy that. You activated S-3 at 2 plus 10?
+Stand by.
+No. We missed it.
+Say again.
+No. We missed it.
+Hang on there.
+Okay. I have a Plane-Adjust update. Let me know when you're ready to copy.
+Stand by.
+Okay. Go ahead.
+Okay GET B 02 45 50; Delta-V, 26.2; burn time, 0 plus 35; yaw 90 right, pitch 0; Cores 25 and 26 are zeros; Core 27, 90262; thrusters aft; Maneuver South. Over.
+Roger. Understand. GET burn 02 45 50; Delta-V, 26.2; 0 plus 35; yaw 90 right, pitch 0; 25 and 26 are all zeros; 27, 90262; aft thrusters; Maneuver South.
+Very good. You're looking real fine. Your Agena is looking real good, too.
+Thank you.
+All right.
+Okay. You're looking real good. We will hang loose here and keep quiet.
+Roger. Understand.
+We'll see you tomorrow.
+Oh, very well.
+That's 2 minutes to go.
+Okay.
+20 seconds until...
+Okay.
+I think we overdid it a little. We should have stopped a little bit early.
+31 is minus 0004.
+Now according to my - turn a little left.
+Okay.
+Okay now...
+Plus, over, now a little down.
+It's in.
+Okay.
+Push in the little...
+See, I think it takes us a little while for it to work on it. To process it. That accelerometer...
+Gemini VIII, Hawaii.
+Go ahead, Hawaii.
+Roger. We have you GO and I have an Agena acquisition update when you're ready to copy.
+Roger. Go ahead. I have - I'd like to have you take a look at our cabin pressure. We're presently reading 5.1.
+Stand by.
+Roger. We have a ground readout of 5.25.
+Okay. We'll keep an eye on it.
+Roger.
+Go ahead with the acquisition.
+Roger. GET of acquisition 3 plus 07; GET of R = 248 nm; GET rendezvous, 3 plus 15; azimuth, 0 degrees; elevation, 7 degrees; GET sunrise at TPI 05 37 00, plus or minus 1 minute. Do you copy?
+Roger. Understand GET of acquisition is 03 07; GET of R = 248 nm; GET of rendezvous 03 15; azimuth, 0 degrees; elevation, 7 degrees; GET of sunrise, 05 37 00 plus or minus one for TPI. And do you have the update for Addressees 24, 53 and 54?
+Negative. Stand by.
+Okay.
+Gemini VIII, Hawaii.
+Go ahead.
+Roger. Addresses 24, 53 and 54 all nominal and we'd like to know how your burn went.
+Okay. Understand. All nominal on the addresses and the burn was on time and the residuals null.
+Roger. Copy.
+Gemini VIII, Hawaii.
+Go ahead.
+Could we get a reading on your OAMS Propellant remaining, please?
+85 percent.
+Copy 85. Thank you.
+Roger on that.
+Gemini VIII, Guaymas CAP COM.
+Gemini.
+Everything looks pretty good up here.
+Say again, Gemini VIII.
+Everything looks okay up here.
+Okay. We'd like for you to send your ACQ lights OFF, Spacecraft Command 251.
+Gemini VIII, Houston CAP COM.
+Go ahead.
+Roger. We want to give you another burn here very shortly. Stand by to copy. GET B 03 03 41; Delta-V, 2 feet; Posigrade. That'll be 0°, 0°, 0° and I'm reading you 02:54.
+Okay, Houston. We didn't get that. All we got was the GET burn. Say again, please.
+Roger. The Delta-V is 2 feet per second, 2 plus zero.
+Two feet per second.
+Roger. And it's Posigrade.
+Two feet, Posigrade. Is that correct?
+That is correct. 0°, 0°, 0°.
+Okay.
+Counting 25 seconds to burn. I'll count you down.
+9, 8, 7, 6, 5, 4, 3, 2, 1. Burn it.
+We got it.
+Off, burn.
+Gemini VIII, this is Houston. Let me know what the results are, will you please?
+Stand by.
+Okay. I think we got it in and have residuals.
+This is Houston. Say again, VIII.
+Roger. The burn was on time and we have the residuals.
+Roger. Sorry for that hurried up thing but we had some malfunction here; so we had to get you a burn in a hurry, and I just thought I'd count it down for you.
+Okay. Thank you.
+Gemini VIII, this is Houston. How is your Platform Alinement coming along?
+Stand by.
+Houston, we're not in Alinment right now. Did you want us, for some reason, to aline?
+Negative. We'd - Roger. We are curious how your flight - your Alinement was going since we got an extra 2 feet per second, which our tracking had indicated had to be put in, and it came at a late time, that's all.
+Okay. We had not alined prior to the burn because we didn't have - we didn't think we'd have to have the burn. And we believe we still have some bias errors in the accelerometers.
+Roger. Understand. And also be informed that the Agena is now configured TDA north and we were just curious how your Alinement has been going. Does it look like you've been getting good alinement?
+That's correct. We have been getting good alinements.
+Roger, VIII. And if you'll switch your T/M switch to REAL-TIME and DELAY-TIME for us.
+REAL-TIME/DELAY-TIME.
+Houston, this is VIII. Besides, we don't have a lock-on yet. So I guess we'll have to wait until we get a lock before we send you 270.
+Roger. Understand you don't have a lock-on yet and you're going to wait before you send 270. Understand.
+Negative. It's 251 we're going to send.
+Houston, Gemini VIII.
+Go ahead, VIII. This is Houston.
+Roger. Would you confirm a - a fuel cell purge at this time?
+Roger. Will do.
+We're standing by.
+Gemini VIII, this is Houston. If you go to PRELAUNCH, we'll check your accelerometer bias.
+Okay. Going to PRELAUNCH and you did say you wanted the fuel cell purge at this time. Is that correct?
+That's right. And we're going to watch it.
+Okay. We're getting intermittent lock-ons on the radar.
+VIII, this is Houston. Put your Tape Playback switch to CONTINUOUS.
+Roger. To CONTINUOUS.
+Gemini VIII, this is Houston. We're having Delta-P lights which was not unusual on GT-7 but you should not have them on GT-8. Do you have your Crossover on?
+Roger. That's affirm and we have no Delta-P.
+Okay. I'm kind of disappointed.
+We've got a winner up here.
+Gemini VIII, this is Houston. Your accelerometer bias is right on and looks very good.
+Okay. Thank you.
+Gemini VIII, Houston.
+Go ahead.
+Roger. Would you place your T/M switch to REAL-TIME and ACQ and your Tape Playback switch to COMMAND?
+Roger. REAL-TIME and ACQ, and Tape Playback to COMMAND.
+And would you place your Cryogenic Quantity switch to ECS O2?
+Roger. ECS O2.
+Be advised we did get a Delta-P on the H2 purge on Section 2.
+Roger. The Delta-P.
+And now will you place your Cryogenic switch to FUEL CELL O2?
+Gemini VIII, this is Houston. Put your Cryogenic Quantity switch to FUEL CELL H2.
+Roger.
+Houston, Gemini VIII. Fuel cell purge complete. The Crossover is on.
+Roger. Understand the fuel cell purge is complete and Cryogenic Quantity switch then to OFF, please.
+Roger.
+Gemini VIII, Houston CAP COM. Over.
+Go ahead.
+I have your Coelliptic Maneuver update if you're ready to copy.
+Okay. Go ahead.
+GET AB 03 47 34; Delta-V, 61.6; Delta-T, 01 plus 22; yaw zero, pitch 23 degrees down; Core 25, 00567; Core 26, 00240; Core 27, all zeros; thrusters aft; Posigrade Down. Did you read?
+Understand. GET... plus 22, yaw zero, pitch 23 degrees down...
+Gemini VIII, RKV CAP COM.
+Roger. We did not get the confirmation on that maneuver update - -
+Okay NSR 03 47 34; 61.6; 01 plus 22; yaw zero, pitch 23 degrees down; 25, 00567; 26, 00240; 27, 0000; thruster aft; Posigrade Down.
+Gemini VIII, RKV CAP COM. We have an update - -
+Stand by one, please.
+Roger, Gemini VIII. Time on that is 03 47 35 Delta-V, 61.2; Delta-T, 1 plus 22; yaw, zero degrees; pitch, 21 degrees down; Core 25, 00570; Core 26, 00224; Core 27, all zeros; thrusters aft; Maneuver Posigrade Down. Do you copy?
+Roger. Understand 03 47 35; 61.2; 01 plus 22; yaw zero, pitch 21 degrees down; 25, 00570; 26, 00224; 27 all zeros; aft thrusters; Posigrade Down.
+Roger. That is affirmative.
+Gemini VIII, RKV CAP COM. Will you turn your Encoder off. We would like to update the Agena with a fresh load.
+Coder's off, and we are making...
+Roger. Understand.
+Gemini VIII, RKV CAP COM. We're going to send the ACQ lights ON to the Agena from the ground here.
+Go ahead.
+Roger. We have it verified by MAP.
+Roger. We're getting intermittent lock-on at this time.
+You may turn your Encoder back on.
+Coder on.
+Roger.
+Gemini VIII, Houston CAP COM.
+This is Gemini VIII. Go ahead.
+Roger. Do you have solid radar lock-on with the Agena? Over.
+Houston, Gemini VIII reads you loud and clear.
+Roger. Do you have solid radar lock-on with the Agena? Over.
+That's affirmative. We have solid radar lock. Just a minute and I'll give you our current range.
+Roger. Thank you. Sounds good.
+We're indicating a 158-mile range and elevation of about 4 degrees.
+Roger. Sounds good and I'm seeing about 3 minutes and 9 seconds to your burn.
+Roger.
+Gemini VIII, Houston CAP COM. If you have time, let us know about your burn.
+Okay. We're just...
+Roger.
+Okay. Our burn is complete and the residuals are null.
+Roger. Left-hand burn complete; residuals are null. Did not get the rest.
+We had lock-on at about 179 miles, and we got radar boresighted at something like 156; and the needles are relatively steady; they look pretty good. The yaw needle is wavering back and forth, perhaps plus or minus 1 degree. And a note here that the trouble we've had is getting rid of the residuals. We bring the residuals down to a small number, and then the next reading they would increase, and the next reading they would decrease. It would be difficult to tell when we got to actual zero residual. The Ground said we didn't have any. The accelerometer bias had looked good, but it looks like something is getting to us here.
+... Losing all star reference here at about 19 minutes. The stars are disappearing and I have... underneath.
+Gemini VIII, CSQ. Com check. How do you read? Over.
+Gemini VIII, CSQ. We read you loud and clear.
+Roger. We have you GO on the ground. All systems are GO.
+Okay. Everything looks all right here.
+Okay. What we'd like you to do is turn your Encoder off. We'd like to send the Agena load to clear out all the Agena memory.
+Okay. Stand by.
+Okay. The Encoder is off.
+Roger. Thank you.
+CSQ, Gemini VIII.
+Go ahead.
+Got a data point. Ready to copy?
+Go ahead.
+Data Point 10 4.8, 126.65, 156, 290.8, 604. Looks like we're about 5 minutes late.
+Roger. Copy.
+Gemini VIII, CSQ. You can turn your Encoder back on at this time.
+Okay. Got it back on.
+CSQ, Gemini VIII with a data point. Ready?
+Roger.
+Go ahead.
+Number 12 6.2, 121.59, 151, 273.4, 570.
+Okay. I copy.
+Roger.
+CSQ, Gemini VIII with another point. Ready?
+Go ahead.
+Roger. That's the Data Point 13. Affirmative?
+That's correct.
+Gemini VIII, Hawaii CAP COM.
+Go ahead, Hawaii.
+Roger. We'd like you to turn the Recorder off. We're going to reconfigure the beacons and get a tape dump.
+Okay. Recorder coming off.
+And will you place your T/M switch to REAL-TIME/DELAY-TIME position, please?
+Roger. Go ahead. Ready to copy.
+Point Number 20 7.4, 101.07, 155, 216.9, 452.
+Roger. Copy.
+Gemini VIII, Hawaii. We'd like to get an OAMS Propellant readout when you have a minute.
+75 percent.
+Copy. 75.
+Roger. Ready to copy.
+Number 21 7.0, 98.50, 154, 207.4, 434.
+Flight copies.
+Hawaii, Gemini VIII with another point.
+Ready to copy.
+Number 22 7.4, 95.93, 159, 201.9, 421.
+Roger. Copy. And you can place your T/M switch back to REAL-TIME/ACQ-AID position.
+REAL-TIME/ACQ-AID.
+Gemini VIII, Guaymas CAP COM. We have you GO on the ground. We are standing by.
+Guaymas, Gemini VIII with a data point.
+Go ahead.
+Number 27 8.4, 83.26, 149, 166.9, 349.
+Guaymas copy.
+Gemini VIII with a point. Ready to copy?
+Copy.
+Number 28 9.1, 80.75, 151, 157.8, 332.
+Guaymas copy.
+Guaymas, Gemini VIII with a point.
+Go ahead.
+Number 29 8.9, 78.27, 152, 150.5, 318.
+Guaymas copy.
+This is Houston...
+Say again.
+This is Houston. We have it and we also have your ground TPI backup when you're ready to copy.
+Stand by.
+Okay. We've got a visual on the Agena at 76 miles.
+Roger. Understand visual on Agena, 76 miles.
+At least we have some object in sight, something that looks like it could be the Agena.
+Understand a visual Agena or Sirius, 76 miles.
+Yes, it could be a planet.
+Guaymas, Gemini VIII. Go ahead with the TPI.
+Roger. GET B 05 13 13; GTNSR, 012538; Delta-V, 32.6; forward, 32.0; up, 1.7; left, 5.7; RB, 32.5; Delta RB, 131; azimuth 27.4; elevation 0.
+Roger, Guaymas. Real smooth. Stand by. I'll get it back to you.
+Guaymas, Gemini VIII.
+This is Houston CAP COM. Go ahead, VIII.
+Okay. TPI coming back at you. You ready?
+All set to go.
+05 13 13; 012538, 32.6, 32.0 forward, 1.7 up, 5.7 left, 32.5, 131, 27.4 on the elevation, and 0 on the azimuth. How's that?
+The other way around, VIII. The azimuth is 27.4 and 0 on the elevation.
+That's what I thought you said. Okay.
+Otherwise, sounds good.
+We'll check that, VIII. That doesn't sound right.
+Roger. 27.4 on the elevation.
+... Advise at 76 miles we've got what appears to be the Agena, and also we have a visual on another object which, this time, 56 minutes, is approximately 12 degrees above the Agena and appears to be in plane with it. It's possible it could be a planet.
+Got a scanner?
+Oh, listen, Dave, I've got to aline.
+Yes. You're 10 degrees right now.
+Yes. I've got to aline right now. Better quit - -
+Houston. Gemini VIII with a point.
+Houston, Gemini VIII.
+Boy, we didn't stay with them very long, did we?
+TPI is at 13 13. Right?
+Does that mean that it's only 16 minutes from now?
+No, no! That's - 05 13 13; 5 hours, 13 minutes and 13 seconds.
+Yes. Okay. That's on this watch, which is about a half an hour from now.
+That's better.
+I want to read 84 now. Stay awake, Kid.
+289 degrees. That doesn't look very good. Went back up. Okay. Attitude Control, PLAT; pitch down to 0°, 0°, 0°; aline for 10 minutes.
+Okay. I went to PULSE because I want to get a little better alinement on the Platform. I'm going to hold it right on.
+They gave us 32 feet per second - we've got an Out-Of-Plane that's pretty healthy.
+5.7 degrees left.
+32-feet-per-second forward; 1.7 up. So that doesn't look too bad.
+Okay. We have a good solid visual on the Agena at 56 miles. I'm taking a second look at it with the sextant.
+Loud and clear.
+I can get an angle of this for you.
+You have a terrible horizon. Better look at it and see.
+That-a-boy!
+The only way to fly.
+... there's nothing there to look at. Doesn't hurt to try. Unable to get a horizon there.
+Okay.
+Gemini VIII, RKV CAP COM.
+Go.
+Roger. We'd like to confirm on this TPI that you did copy correctly with the elevation at 27.4 up and azimuth as 0 degrees.
+Roger. We understand that. Thank you.
+Roger.
+We also show on the ground that the L-Band Coder is not locked.
+Understand that it's not locked. Is that correct?
+Roger. That's what we're showing on the ground. How are your readings going?
+We have... it's on.
+Roger. Understand.
+RKV, got a data point. You ready?
+Roger.
+Number 41 14.9, 49.78, 138, 58.7, 142.
+Roger.
+Also be advised that your TPI and TPF may be approximately 9 minutes late.
+RKV, RKV. Gemini VIII with a data point.
+Roger. Go ahead.
+Roger. And would you confirm that your Encoder is on?
+It's on now.
+Roger. Thank you.
+Going into darkness at - let's see - 05 02. We lost a visual on the Agena and I had the ACQ light right away. Range was 45 miles. It's very hard to see, but it looks like a sixth-magnitude star, I'd say.
+23-30 seconds to a readout.
+Gemini VIII with another point.
+Roger. Go ahead.
+Number 43 17.2, 45.5, 138, 34.3, 102.
+Roger.
+Close Loop. Giving us 26 forward.
+Okay.
+7 left, 6 up.
+Okay. Attitude Control, RATE COMMAND. Maneuver Controller, ON.
+Okay. Did you get - -
+15 seconds till we read out.
+MARK.
+Oh boy!
+Are you sure you had the right angles?
+Well, the radar needles were wandering around some, Dave. I can't really be sure. I was - as best I could - in the middle of the oscillation.
+I get an horrendous 20 - 25-feet-per-second down, Neil.
+I just can't see any possible reason for that.
+What does the chart look like?
+A plot. We're up above it.
+Yes, but I mean does it look like - -
+I can't talk to you. I've got to figure this. I'm sorry, old Buddy. I really have to look at this.
+25-feet-per-second forward. Boy, oh boy! Look at it!
+Look at the plot. To have 25 down we've got to have a tremendous ellipticity.
+I have to start counting.
+We're steady right above the line all the way.
+Okay. We're going to go with the Closed Loop.
+What've you got?
+25 forward, 8 left, 3 up, and I'm going to RATE COMMAND.
+Ready to back me on the clock?
+Yes. Any time.
+3, 2, 1, burn.
+Good!
+Did you burn at 26 10?
+No. That - that's right. I got it. It was about 30 - 34 - 36, as a matter of fact.
+Okay. There's 30 seconds.
+Okay. Agena is in center of reticle. Attitude Control, PULSE. Set your ET to 3 minutes and stand by.
+Okay. I've got it circled.
+Okay. Get the Controller OFF. Okay. Now again.
+Okay. I need a readout at 1 minute, which is in 20 seconds from now.
+Okay.
+Don't hit the Computer switch.
+Right.
+10 seconds. 5, 4, 3, 2, 1,
+MARK.
+Start - set your clock for 3 minutes. Can't you do that?
+It gets - it's running 2 - 3 minutes now.
+Set it at 3 minutes. I'll start you out.
+Okay....
+10 seconds going up to 2 minutes.
+Is it 2 minutes?
+Yes.
+Okay. Now we're going to want to send SPIRAL ANTENNAS to the Agena.
+At 5.
+About 3 minutes.
+No, I'm sorry. I've just got too much to do over here to catch up with you.
+Gemini VIII, this is Houston. You need not answer. We're standing by for information.
+Gemini VIII has burned TPI on Closed Loop.
+15 seconds to a readout and then 4 minutes.
+Okay.
+MARK.
+Okay. We need a readout at 7 minutes, which is a minute from now. Is that correct?
+That's correct. A minute from now.
+Okay. Here goes on the antenna.
+270 coming out.
+Right.
+270. I have a MAP.
+Okay.
+Yes. That gave us a little radar glitch when you did that.
+That's interesting.
+Yes.
+Okay. I have a solution here. At 4.5, 10-feet-per-second down.
+Okay.
+I need a readout in 20 seconds.
+MARK.
+Sorry. Turn it off.
+Don't have a good visual.
+We're still inside the curve.
+How much?
+See, right there.
+Hey, now it's getting our boresights up.
+Think those zeros might be lagging a little bit.
+Okay. 30 seconds to go.
+Okay.
+MARK.
+Might have been a tenth lower than one you read.
+Okay.
+This gives me up just a little - not much.
+Oh boy! This is bad!
+4 forward.
+And 2-1/2 up.
+That sounds more like it.
+Now we're getting 12 forward. 1 right, 6 up.
+12 forward. 1 right.
+Yes.
+And 6 up?
+Yes.
+Your choice.
+Okay. We'll burn the Closed Loop.
+Okay.
+Ready?
+Any time.
+3, 2, 1, burning.
+Okay.
+There's 10 seconds.
+Okay.
+Okay. At 13 minutes we'll need a readout, which is coming up in 15 seconds.
+Okay. I'll be on.
+MARK.
+It's on.
+12 miles out.
+Oh, that looks good!
+Elliptic - we must have had an ellipticity because we're - swinging into it.
+We're swinging into it?
+Yes.
+Okay. We're getting a little Out-Of-Plane now.
+Boresight's holding pretty well.
+Half-way point now.
+Wasn't on very good. I was about a degree off.
+Okay. I'll get it later.
+You on now?
+Any time you say.
+Okay.
+I'm about two-tenths high, I think.
+Now we're getting some error...
+An error, I'm afraid.
+Got a Mark in 10 seconds - about 10 seconds.
+Okay.
+MARK.
+Range-Rate is pretty erratic, I'm afraid.
+We've got to get 3 aft and 2-1/2 up.
+Okay. I like that.
+Still sliding out in front of me, but getting into the old slot.
+Okay. I just don't like the Out-Of-Plane, but - -
+Gemini VIII, CSQ. We have nothing for you. We'll be standing by.
+We're on the way.
+Roger.
+2 1/2 miles out in Closed Loop.
+Roger.
+Is there any...?
+Okay. I'm losing my star background.
+Okay. 2.1 miles, 45 feet per second - 49 feet per second.
+You're - okay.
+For this range you're in pretty good shape. You're almost nominal for this range.
+Okay. I'm going to start braking down a little bit very shortly here because we're at 15K. We're inside 15K and I'd like to - -
+Yes, we're inside 15K.
+How about if I brake off?
+Yes, I agree.
+Okay. Now give me a digital range for the remainder of 20 seconds.
+Okay. You're 10,000 feet.
+Okay. And Range Rate?
+44 feet per second, but let me get another readout on that.
+Okay. I'm reading.
+Ready.
+36 feet per second.
+We'll have the horizon coming into view pretty soon and probably the sun in our eyes. In case that happens, I'll have to go to FULL-BRIGHT on the instruments.
+That's okay. Go ahead.
+Okay.
+It looks pretty reasonable to me.
+Anything you can tell now - -
+You're looking good. 8100 feet, 39 feet per second, I get.
+I'd better back off a bit.
+Back off...
+Yes.
+Okay. 30 now.
+Okay. Let me read out here.
+6,000 feet.
+Okay.
+31 feet per second. A little high.
+Okay. Let's back off a little more.
+Okay.
+5,500 feet.
+24 feet per second.
+Seems the minimum. Pretty good now.
+Where did you get the Range Rate?
+24 feet per second.
+Pretty good.
+I'll be backing down a little more now.
+Okay. 22 feet per second.
+I can't.
+Can't you?
+No. I'm busy.
+Okay. 4,500 feet.
+Okay.
+17 feet per second.
+3,700 feet.
+What was the Range Rate?
+Coming up.
+19 feet per second.
+Okay. I'm going to back off a little more.
+Okay.
+Out-Of-Plane seems to be drifting back a little bit.
+Okay. You're 3,400 feet.
+17 feet per second.
+I'm losing my Range Rate. It's...
+You're 2,880 feet.
+You did lose your Range Rate a bit, there.
+I can see the back lights, now.
+2,500 feet.
+Yes. So can I.
+Range Rate?
+2,400 feet.
+Range Rate's 10 feet per second.
+You're now at 2,200 feet.
+Range Rate?
+Range Rate?
+1,900 feet.
+10 feet per second.
+Put in a little... to the left.
+Back off now.
+1,680 feet.
+7 feet per second.
+Okay.
+Chase it down a little bit.
+Gad! That's just amazing!... camera is running.
+Back to work.
+You're about 1,100 feet.
+5 feet per second.
+You're 900 feet.
+5 feet per second.
+That's just unbelievable! unbelievable!
+I can't believe it!
+Yes, I can't either. Outstanding job, Coach!
+Way to go, Partner!
+You did it, boy! You did a good job!
+It takes two to tango.
+Say again?
+It takes two of us.
+Okay. We're at...
+Back off.
+Okay. We're 700 feet.
+11 feet per second. Let me re-do that one.
+I like 7. You buy 7 feet per second?
+Yes.
+Boy! Look at that sucker!
+That's beautiful!
+See the dipole?
+Do I ever! I'll say I see everything on that fellow!
+I've got 18 pictures.
+I don't have the range sight on. Hope I'm hitting them.
+250 and 11.
+Got yours set?
+Yes.
+I'm in 25....
+No! Heck no!
+Dang target. You should be at infinity, 1/200 and f 16.
+No, we don't have a spot in here. I guess we'll have plenty of time to do that.
+Okay. Now I'll get back to work.
+240 feet...
+5 feet per second we're still getting.
+Okay....
+I guess we could turn the ACQ lights off.
+Yes. I'll go back to the Check List.
+Okay. 250 coming up.
+Got a MAP?
+Okay. Now 230.
+Okay.
+UHF DISABLED. You agree?
+Yes.
+Got a MAP?
+Gemini VIII, Gemini VIII, this is Houston CAP COM. Standing by for any Rendezvous remarks. Over.
+You tell them.
+Flight Houston, this is Gemini VIII. We're Stationkeeping on the Agena at about 150 feet.
+Yaw left...
+That's good.
+Right. Now I'll get a better picture.
+Got the SPOT Meter over there anywhere handy?
+... It's supposed to be at the back of the box here.
+Okay. Stay on the Agena. Don't sweat this one. We'll be around for a long time yet.
+Okay. What does your Propellant Quantity read now?
+55 percent.
+That's nice.
+Gemini VIII is Stationkeeping on the Agena.
+Back to the Flight Plan. We just started today.
+That's right.
+Gemini VIII, this is Houston. You are unreadable. We will stand by for Hawaii acquisition.
+Okay. We have here - I guess I can turn the radar to STANDBY.
+Yes, radar STANDBY.
+1/200 and f 16, it says in here.
+We should have been there at 5 42. We were there by 5 58, so we're late - by gosh! 16 minutes.
+Gemini VIII, Hawaii.
+Go ahead.
+Roger. How are you doing?
+Stationkeeping at about 150 feet.
+Roger. Have you transmitted UHF DISABLE?
+That is correct.
+Roger. We have an SPC load to transmit. Would you ENABLE it, please?
+Sure will.
+231, coming up.
+I didn't get it. We'll have to pitch down a little bit here.
+We're on a radar STANDBY. No wonder.
+Radar ON.
+Was it STANDBY?
+It was STANDBY...
+Okay.
+Okay. 231.
+Got a MAP?
+I can't find it.
+Gemini VIII, Hawaii.
+Go ahead.
+Roger. Would you turn off your Encoder, please?
+Okay.
+Doing a little POA work up here.
+Our Agena looks in fine shape. The TDA is out. It's Rigidized. The whiskers are sticking out as expected on the TDA. The dipole is up. The engine looks good. And we've turned the ACQ lights off.
+Roger. Copy.
+I don't believe it!
+Gemini VIII. We'd also like an OAMS propellant reading.
+We're at 55 percent.
+Say 59?
+That's 55 percent.
+55. Roger.
+We're standing by to copy the Agena-Status Display Panel readings.
+Yes, you better get it - -
+Okay. We'll have to get over on that side of it.
+Better get busy - -
+Gemini VIII, Hawaii.
+Stationkeeping here.
+Go ahead.
+We have a Yaw Maneuver time for you, if you're ready to copy.
+Okay. Go ahead.
+Roger. Yaw Maneuver at 07 10 00. That's GET.
+Roger. Understand. Yaw Maneuver 07 10 00.
+Also, when you are at plus 96 degree heading, the Agena will go to Flight Control Mode 7 for 30 seconds.
+Understand. 96 degree FC-7 for 30.
+And the SPC load we're transmitting contains the Agena clock reset. We're very anxious for it to be executed even if it cuts short the Platform Parallelism.
+What was that? Did you catch it?
+No I didn't.
+Say that last one again, please.
+Roger. The SPC load we're transmitting contains a clock reset for the Agena.
+Roger.
+We're anxious for it to be executed - even if it means cutting the Platform Parallelism test short.
+Roger. Understand. The SPC has priority over the Platform Parallelism.
+In essence. Is that right?
+That's affirmative.
+Okay.
+Man! That's great!
+Man, that's really slick!
+A bit of all right!
+Okay. The first thing we really have to do - Platform Parallelism 06 50 to 07 10. They're giving us the SPC loaded Yaw Maneuver. It looks like at nominal time. So they're going to give you that time.
+Now I'll check your little Status Display for you.
+I bet those Lockheed guys are just jumping up and down.
+The S-10 is on.
+Yes.
+Okay.
+Man, it flies easy! I'd love to let you do it, but - -
+Oh no!
+I think I better get my practice while I can.
+Man, I'll have my chance!
+Get yours later. Okay?
+Yes. I wouldn't even take it if you gave it to me.
+It's up to you; stick with it.
+More you get now, the better off you're going to be when - -
+Do we have STB bright?
+Should have.
+I think I'll get the section here in a minute and we'll be able to see something. Let me check the systems. Cabin pressure, that's good.
+Your OAMS source pressure is 190.
+You always get me on those.
+ECS O2 is rather high. 810.
+When that sun comes in, boy it is warm!
+Man, this is easy!
+Is it really?
+This Stationkeeping, there's nothing to it.
+I can't understand why our recorder isn't working.
+I don't either, except maybe it's not running.
+Want me to turn to OFF now?
+Tape recorder is on but just doesn't budge now.
+Sure does.
+Oh, oh! Fuel Cell H2 Heater circuit breaker popped.
+I'm trying to reset it. It's reset.
+Okay. Now a - this is - this is getting into Stationkeeping attitude for EDA. Boy...
+Okay. I can see the Status Display. - Main Green, Secondary HI, ON; Secondary LO, ON; Power and Attitude, ON.
+Okay.
+That means everything should be - -
+I can't see any dark line on those - just too far away now.
+Okay.
+I'll give this sextant a 1/10 - a little...
+We're still - -
+Gemini VIII, Hawaii.
+Go ahead.
+We'd like to know when you first saw the acquisition lights as you approached.
+We'll have to go back on the data and dig that out.
+Roger.
+About 45...
+No. No it's about 56 miles. Right?
+No, not 56. I think it was 45 miles.
+We think it was 45 miles, but we'll have to check on the tape.
+Roger. Copy. And we're ready to copy the readouts if you have them now.
+The readings from the Status Display Panel.
+Roger. It looks like we're about a - 80 feet out still. And we have a Main Red, OFF; Main Green, ON; Armed, OFF Secondary HI, ON; Secondary LO, ON; Attitude, ON; Rigid, OFF; Power, ON; and can't quite see the dock yet.
+Roger. Copy.
+We're using a sextant to get those.
+Understand.
+Pretty bright up here.
+Roger. Copy.
+Okay. Now work it in - I guess the thing to do here is to Aline the Platform.
+Right?
+Let's see, how much time do we have?
+We have an hour.
+How much before RKV? How much before the SPC Yaw?
+That's an hour.
+An hour from now?
+Yes.
+But we ought to do the Platform Parallelism before then.
+Pitch down so I can get the moon in that dock.
+Turn around so you can be looking. (whispering) I wonder where the heck it is?
+... okay....
+Where the heck is that?
+SPOT meter is in the left-hand little food box. Can you get it out?
+Okay. If you could be quiet for a minute.
+Let's make sure we don't drift into it.
+See a scanner and everything.
+Okay. She's all yours.
+Now you have to keep looking, for me, for a second.
+Okay.
+Okay.
+Okay. I'd like to get some pictures if I can - and I'd like to get some good ones.
+I tried it... Darkside is...
+It's as stable as a rock. Isn't it?
+It sure - -
+Can you go around and check the dock light?
+What am I going to pick to Aline the Platform?
+Where you going to do it?
+We want to try to do the Platform Parallelism... back off and aline it here.
+Yes. You're right.
+You're at 6 frames per second.
+Yes.
+While I'm here I'd like to Aline the Platform. I'm in a good position.
+Okay. Just yaw left to 10 before we - -
+Okay.
+I can't see it now so - -
+You're okay. I'll call you.
+Okay. Now yaw right and you'll be okay.
+You're on the wrong...
+Sorry about that.
+See him?
+You're okay.
+Keep translating.
+Why don't you go down where you can see?
+Okay. Aline... Platform.
+Let's see. They didn't ever tell us to turn it back on, did they?
+Hawaii, Gemini VIII.
+Coder's coming on. Radar's in STANDBY anyway.
+Okay now...
+We might do that now.
+- - do the what?
+- - take a picture of it.
+Did the Index Bar extend?
+Index Bar.
+Oh yes, why don't you get - no, you want to stay here.
+- - let's take a picture of it.
+I might do that.
+We're supposed to set up the Agena in Flight Control Mode 6, at 06 15 to 06 25.
+Right.
+Okay.
+Yes.
+So you want to do that?
+Yes. I'll probably have to back off a little bit.
+You're supposed to be alining here anyway.
+I am.
+Okay. It gives you an idea of what Platform-Mode Stationkeeping is like.
+Yes.
+It's a sort of a way - -
+I'd visualized it, except a little farther back.
+I can tell. I can usually see that - -
+Firing thrusters?
+Wait a little bit. Okay. Now drifting in a little close. Let's say I wanted to fire a little forward thruster and wanted to tell you I'm going to fire a little forward thruster and then I wait a little bit and you say okay, and then I'll say okay, now.
+Like that.
+Okay. Put the Bus Arm to DOCK.
+For your Index Extend?
+Oh. I am out of film.
+... give it to me and I'll change it.
+I'll get it.
+I don't mind. I'll write on the one we did.
+Okay.
+What would you recommend for an exposure?
+I'll tell you in just a minute.
+A target - what lens? 18mm lens?
+Yes.
+1/200 and an f 16.
+1/200 and an f 16. Okay.
+Let's Aline the Platform.
+RKV, Gemini...
+Gemini VIII, RKV.
+Okay. We're sitting about 2 feet out - -
+Go ahead.
+- -... We'll go ahead and dock.
+Roger. Stand by for a couple of minutes here.
+Okay, Gemini VIII. We have T/M solid. You're looking good on the ground. Go ahead and dock.
+Okay. We're going to go ahead and dock.
+Okay, Gemini VIII. It looks good here from the ground. We're showing CONE RIGID. Everything looks good for the docking.
+Okay. We're going to cycle our RIGID/STOP switch now.
+Roger.
+Flight, we are docked!
+Yes. It's a - really a smoothie.
+Roger. Hey, congratulations! This is real good.
+You couldn't have the thrill down there that we have up here.
+Ha! Ha! Ha!
+Okay. Just for your information, the Agena was very stable and at the present time we are having no noticeable oscillations at all.
+Roger. Copy. Agena very stable and no noticeable oscillations. Very good!
+Roger.
+Gemini VIII - -
+- - RKV. We'd like to update that SPC load that did not get in correctly. Could you give us UHF Enable and the Encoder OFF, please?
+I think we'd rather - can we send it in on the Encoder ourselves?
+You just want to load an SPC again. Correct?
+Roger. We did not get all the SPC load in correctly over Hawaii, and we want to finish the SPC load from here.
+And you can not do that from where you are.
+Do you copy, Gemini VIII?
+Yes. We copy. We're just discussing it a little bit.
+Okay. We're going to go along with you on that, and want you to make double sure that you get the right load.
+Roger. Wilco. We sure will.
+And be advised, Gemini VIII, the SPC at the present time is Disabled, so regardless of what your load does, we'll still be okay.
+We'd like you to make double sure.
+Roger.
+Okay. Can you give us the Encoder OFF, please?
+It's off.
+Roger. Thank you. We are sending the SPC loads.
+Okay, Gemini VIII. The SPC's are in. We have reset the Reset Timer, and you may have control back again.
+Thank you very much.
+Roger.
+Gemini VIII, we would also like to send the V/M word. Would you turn the Encoder off, please?
+Okay. Encoder off.
+Roger. We're transmitting the V/M now.
+Okay. Turn the Encoder back on.
+Gemini VIII, RKV. We're about to have LOS. You're looking real good from the ground. Congratulations on Rendezvous and Docking.
+Okay.
+Thank you, Scotty.
+Gemini, Scotty confirmed DCC Flight Test CONTINUOUS?
+Affirmative. Flight Test to CONTINUOUS.
+Minus 3 minutes and counting. CM1.
+We just completed yawing the Agena to 090 and yaw was at precisely at 1 1/2 degrees per second on the Yaw Maneuver, and it took... seconds to go 90 degrees. The Gemini Platform has - may have drifted excessively since the last time we alined it; see, it was almost an hour ago.
+Yes, that's right.
+The alinements are from 06 13 to 06 23 - let's see - we contend that it was the Agena and control systems.
+Gemini VIII, Gemini VIII, Houston CAP COM. Over.
+This is Gemini VIII. A - -
+Roger, VIII. Reading you loud and clear. I have some information for you. Ready to copy?
+Stand by.
+What kind of information is it?
+Well, first of all, it's about the SPC Yaw Maneuver. I have some dope for you to follow.
+Do you mean the SPC Yaw Maneuver?
+Roger. We believe we have the load in and we would like to have you ENABLE the SPC's and let the Agena start coming through. If you run into trouble and the Attitude Control System in the Agena goes wild, just send in Command 400 to turn it off and take control with the Spacecraft. Did you copy that?
+Roger. We understand.
+Roger. Okay. Stand by.
+I have a nodal update for you.
+Stand by.
+Got to get the right book.
+Go ahead.
+Roger. Node 07 04 46; Rev 5; 67.5 east; 15 plus 52, right ascension.
+Roger. Understand. Node 07 04 46; Rev 5; 67.5 east; 15 plus 52, right ascension.
+Roger. That's correct. And would you verify that the L-Band radar is off, please?
+Roger. We should have OFF command. Do you want us to do it again?
+No. This is the Spacecraft L-Band radar.
+Roger. The L-Band in the transponder is off.
+Roger. Thank you. And would you put the ECS O2 heater off?
+Okay. Going off.
+Roger. And T/M down here is saying that the Fuel Cell O2 and H2 Heater circuit breaker had opened up during the Pacific pass and we would like to know if Dave found that circuit breaker open, and did he reset it after Hawaii?
+That's affirmative. He did find it open and he did reset it after Hawaii.
+Roger. Big Brother is watching.
+Say again.
+And could you give us an OAMS Propellant Quantity readout, please?
+Okay. 51 percent right now.
+Roger. 51 percent. Thank you.
+Now we yawed around to 180 now for the Parallelism Check. It's gone real well.
+Understand. You've yawed to 180 for the Parallelism Check.
+Right.
+Tananarive has LOS.
+Gemini VIII, CSQ CAP COM. Com Check. How do you read?
+We have serious problems here. We're - we're tumbling end over end up here. We're disengaged from the Agena.
+Okay. We got your SPACECRAFT FREE indication here.
+Say again.
+We're showing your SPACECRAFT FREE.
+What seems to be the problem?
+We're rolling up and we can't turn anything off.
+Continuously increasing in a left roll.
+Roger.
+Gemini VIII, CSQ.
+Stand by.
+We have a violent left roll here at the present time and we can't turn the RCS's off, and we can't fire it, and we certainly have a roll.... stuck hand control.
+Roger.
+Okay. We're regaining control of the Spacecraft slowly, in RCS DIRECT.
+Roger. Copy.
+We're pulsing the RCS pretty slowly here so we don't control roll right. We're trying to kill our roll rate.
+Okay. Fine. Keep at it.
+VIII, CSQ. How much RCS have you used and are you just on one ring?
+That's right. We are on one ring, trying to save the other ring. We started with two rings, but now we are on one ring.
+Roger. What about RCS usage?
+Now okay. We're down to 1700 pounds right now on RCS B.
+Roger.
+We now have about - have about 2350 on A.
+Okay. Copy.
+VIII, CSQ. How are you doing?
+We're working on it.
+Okay. Relax. Everything's okay.
+The Spacecraft-Agena combination took off. Yaw and roll, and we had ACS OFF and affirmative 7 hours.
+Roger. Understand. Can you see the Agena now?
+... up. We turned the Spacecraft system on, tried to stabilize, and in so doing we may have burned out our lower left thrusters.
+Okay. I copy. Can you - do you have visual sighting of the Agena right now?
+No. We haven't seen the Agena since we undocked a little while ago.
+Okay.
+The... - -
+- -... ACS was shut off and a MAP was achieved.
+Roger.
+Gemini VIII, Hawaii.
+Hello Hawaii, Gemini VIII.
+Roger. We'd like a readout on your switch positions and OAMS, and on-board reading of your OAMS remaining. Over.
+Okay. We have 22 percent showing on the gage. We don't have any yaw or roll control, and cannot regain control of the yaw thrusters, apparently none of them. We do have - apparently the pitch thrusters are operative. And also, we're slowly getting back to the proper attitude here.
+Roger. Copy, Gemini, and be advised they're planning to come into a -3 area. They're looking into 6 or 7-3 at this time. They would like you to enter Module 4 and the ATM computer. Over.
+Okay. We'll go ahead and do that.
+And also get into Retro Attitude as soon as possible. Over.
+Gemini VIII, Hawaii.
+Go ahead.
+Roger. Which systems are you using now? OAMS or RCS?
+We're on OAMS right now.
+Roger. And do you have any problem at all with the RCS control?
+In DIRECT we're okay. We haven't really thoroughly checked out the RCS. That's the only way we got it to fire a while ago.
+Roger. Copy.
+Gemini VIII, Hawaii.
+Go ahead.
+Roger. We'd like you to place your Entry C-Band beacon to CONTINUOUS and Flight advises they personally prefer 7-3. That will give you approximately 1 1/2 more hours.
+Okay. We do have the Spacecraft under control at the present time. We're in slowly drifting flight - do have a slight amount of control. We have - 1550 pounds showing on RCS B and 2400 on A.
+Say again on B, please.
+Copy.
+Gemini VIII, Hawaii.
+Go ahead.
+Do you have any idea of the Agena position at present? Over.
+We saw it about 10 minutes ago. It looked to be a mile or so underneath us.
+Roger. Copy. Would you place your T/M switch to REAL-TIME/ACQ-AID, please?
+REAL-TIME/ACQ-AID.
+Could you give us a sequence of events on just what happened? Over.
+It happened when we were in Agena-Spacecraft combination of 0°, 180°, 0° and we were stabilized there. We had the Attitude Control Power off in the Spacecraft, OAMS Attitude Control Power off and we sent 041 Command to Agena to turn the recorder on. The Spacecraft-Agena combination started a violent roll.
+Gemini VIII, RKV CAP COM.
+Go ahead RKV, Gemini VIII.
+Roger. Do you have any idea where the Agena is?
+No, we haven't seen it.
+Okay.
+Over Hawaii, we were having LOS at the time that you were giving us your switch positions. We copied as far as you had sent Commmnd 041 RECORDER ON, and at that time the Spacecraft started to roll. Would you continue from there, specifically what your on-board switch positions were and what you did with it?
+We had Attitude Control POWER on and went to RATE COMMAND.
+Roger.
+And when we started to yaw - it seems that it was the Agena control system.
+Roger.
+Since we did not hear any of our thrusters fire.
+Roger.
+Stand by...
+And we sent ACS OFF and turned the Spacecraft power on, OAMS power on, and tried to regain control of the combination.
+Roger.
+And we were just barely able to hold our own, but the rates were too excessive for an undocking, so we continued to attempt to send an ACS OFF-cycle... and at the same time we checked our OAMS switch position.
+Roger.
+We switched it - we tried to turn our own Spacecraft Control System off and the combination continued to wind up, so we had to go back on before the rates became intolerable.
+Roger.
+After we got the rates down to a point where we felt we could safely undock, we did so, and maneuvered away from the Agena at several feet per second as quickly as possible. We had been watching our propellant quantity go down from 50 to below 30 percent. After turning the OAMS off and still in bias power and everything - motor valves off, we were still rolling; we activated the RCS. Did not have any ACME, and we regained control of the Spacecraft in DIRECT, slowly.
+Roger.
+Then after getting stabilized, we checked out our whole Thrust Control System and found that we had no yaw or roll control - or we had no yaw control of the yaw thrusters since our roll was in the yaw jets, and after that - -
+ACS was really going.
+- - we had - vision; we could see the ACS thrusters firing on the Agena when we had ACS off, so we felt that something was definitely wrong.
+Roger.
+After checking the Spacecraft systems we found Thruster Number 8 apparently failed OPEN at the present time and this could have been true at the time of the incident, although we can't - cannot verify that at this time.
+Roger. Stand by. We'll update that new TR time.
+Got it.
+Okay. And I'd also like to send your Load.
+Reentry Load.
+DCS light on.
+The ATM okay?
+ATM has loaded Module 4A and verified 4A.
+Roger...
+Roger. We're having LOS. We haven't updated your Load and TR.
+Okay.
+Okay. Did he have that - -
+What's the TR?
+TR time is for Area 7-3, which is approximately an hour and 15 minutes from now.
+What's our next AOS?
+Next AOS should be CSQ.
+Give us a time for that, please.
+8 52, TR is at 9 - -
+Roger. Should be 8 hours, 52 minutes - 8 hours, 52 minutes.
+Okay. Thank you.
+We're in the process of restowing for Reentry.
+Gemini VIII, RKV. Did you blow the OAMS REG switch?
+No, we have not yet. We thought about it but we don't need to yet, I guess.
+Roger.
+Oh shoot! How am I ever going to stow that visor? I've got to put the TV monitor in, too.
+Yes, I know you do.
+Do you want to do that before you get too tied up?
+We should have asked them about purging the fuel cells.
+Yes. Well, let's go ahead and do it.
+Purging fuel cells at 8 minutes and 8 seconds - correction, that's 8 hours, 18 minutes.
+Gemini VIII, CSQ. Com check. How do you read?
+Read you loud and clear. How us?
+We read you loud and clear. We have a new TR and Load for you.
+Okay. The TR we have is counting up.
+Say again.
+The TR we have is counting up.
+The TR you've got is counting up. The one we've got is counting down, so don't sweat it. Verify that Module 4A is loaded.
+We loaded it and verified it....
+Okay. Is your Preretro Check List complete?
+We just finished it up; continuing stowage procedure.
+Okay. What about your left Secondary O2? Verify that it is open.
+Okay. I'm about to transmit a TR to you.
+Okay. Go ahead. Got it.
+Roger. Verified on the ground. Transmitting a Load.
+Okay. I have some MDIU quantities for you. First of all let's see the... message.
+Stand by a second.
+Okay.
+The TR is...
+Roger.
+Okay. Area 7-3 GET RC, 10 04 47; RET, 400K, 22 plus 02; RET RB, 28 plus 15; bank left 50, bank right 60. Did you copy?
+Roger. Understand. Area 7-3 GET RC, 10 04 47; RET 400K, 22 plus 02; RET RB, 28 plus 15; bank left 50, right 60.
+Roger. I have some MDIU cores for you.
+Go ahead.
+Core 03,33649; Core 04,64690; Core 65,01059; Core 66,65460; Core 07,34726; Core 08,40866; Core 09,31745; Core 10,02510; Core 11,13600. Do you copy?
+Roger. Was that third one 654 or 054?
+Okay. Coming back at you 03,33649; 04,64690; 65,01059;.., 07,34726; 08,40866; 09,31745; 10,02510; 11,13600.
+Okay. One correction there. That Core 66,65460.
+Roger. 65460.
+That's affirmative.
+How about 669?
+Will you verify that your TR-256 circuit breaker is closed?
+It's open at the present time.
+Okay. Would you close it?
+Okay. Coming closed.
+Okay. We'd like to know what you'd prefer - what Attitude Control Mode you'd prefer at Retrofire.
+I guess we don't have any choice. Okay. We'll try the ACME and if that works we'll go to RATE COMMAND on the RCS. Okay. We'll Aline the Platform.
+Okay. Have you performed the evaluation on the RCS in the ACME position?
+We're completing our re-storage. The re-storage is essentially completed at this time. It will be, for all practical purposes, the same as the launch configuration, or at least...
+Okay. We want you to set your Event Timer to 15 minutes and RKV will get a counting for you.
+Okay. Now what was that Retrofire time again?
+Okay. GET RC, 10 04 47.
+Okay. About an hour from now....
+Roger.
+I can give you RKV acquisition time, if you'd like.
+Yes. Go ahead, please.
+Okay.
+Okay. 09 44 37.
+Roger. How about a GET time hack?
+Okay. We'll give you the GET time hack at 09 01 00.
+Let me give you a Mark at 45. We're about to have LOS.
+MARK.
+We're with you.
+Okay.
+We'll pass up the IVI's, MI's and update the channel and all that jazz from RKV.
+Gemini VIII, Hawaii CAP COM.
+Go ahead, Hawaii. Gemini VIII.
+Roger. The Agena Acquisition lights have been turned on and if you happen to see it we'd like an estimate on its position.
+Roger. Understand.
+And also we would like to know if you have verified the Rate Command Mode. Over.
+Affirmative. We have verified the Rate Command Mode.
+Roger. And I have some Reentry data when you are ready to copy.
+Go ahead.
+Roger. The IVI aft, 292; left-right, 0; up - down, 100.
+Is that up or down?
+That should be down.
+That's 110... up.
+Aft 292, down 100.
+Correction. That's 110 up.
+No! Down!
+That is probably 110 down.
+Okay. That's correct, Gemini. It was corrected by Flight, that it is down.
+Okay. RN, RP, plus 77, pitch angle at 400 foot nominal; correction, 400K foot nominal; RET 400K feet, 22 plus 02; beginning of blackout, 24 plus 43; end of blackout, 30 plus 01; Drogue Chute, 31 plus 37; Main Chute, 32 plus 58. And I have your recovery area weather and so forth for you, if you're ready to copy.
+Let me read these back to you. RN minus RP, plus 77; pitch for 400K, nominal; RET 400K, 22 plus 02; ETO, 24 plus 43; end blackout, 30 plus 01; Drogue, 31 plus 37; Main, 32 plus 58.
+That's correct.
+Okay. I'm ready for the rest of it.
+Stand by one.
+Gemini VIII. RN minus RP plus 77 is at a bank angle of 50.
+Roger. Read you. Bank angle is 50.
+I understand you're ready to copy your landing.
+Go ahead.
+Roger. 5,000 scattered; winds northwest 10; wave height 3 feet; altimeter 2986; recovery forces call sign Naha RESCUE 1, GMT 02 58; Nahe SEARCH 1, GMT 03 44; USS Mason destroyer, no ETA; Spacecraft sunrise at elapsed time of 10 08 40; dark horizon at Retrofire. A light horizon at 400K. And your on-board - correction - your on-board curve for computing backup bank angles and your initial downrange deflection are valid. Do you copy?
+Okay. Understand. Start Retrofire,... sunrise 10 08 40. And understand copy the weather, the altimeter 2986, Recovery Naha RESCUE 1 at a GMT of 02 58; Naha SEARCH 1 at a GMT of 03 44; Destroyer Mason, no ETA.
+That is all correct. That's Naha SEARCH 1.
+Okay. Understand.
+Gemini VIII, Hawaii. I have an ETA on the USS Mason.
+Go ahead.
+That's GMT 06 54.
+Be advised that the MDI readouts confirm your OAMS good.
+Gemini VIII, Hawaii.
+Go ahead.
+Roger. Have you checked Reentry Rate Command Mode? Over.
+No, not yet, but we will.
+Roger. Copy.
+VIII -
+Gemini VIII, we have nothing further. We are standing by.
+Roger. We have our yaw control back now. We just regained Yaw Mode Rate Command and Reentry Rate Command.
+Wonderful!
+You understand we do have OAMS now to Aline the Platform with?
+Copy. You have OAMS to Aline Platform. Is that affirm?
+That's right. We have - we do have OAMS.
+Very good. Thank you.
+Give me SCANNER-PRIMARY.
+The OAMS ATTITUDE CONTROL POWER-ON.
+Okay. You want to go to BEF now or stick with this?
+It's off.
+Say, we're in pretty good shape here...
+We're about ready to start alinement.
+What does the Check List say?
+Skip that - let's get on down the line.
+FDM - RATE
+ATTITUDE CONTROL-DIRECT
+... Control...
+Control Spacecraft ATTITUDE to 0°, 180°, 0°.
+We don't want to hit the adapter.
+That's dangerous, isn't it?
+Yes....
+I'd leave it alone.
+Okay. Control Spacecraft ATTITUDE to 0°, 180°, 0°. ATTITUDE CONTROL, HORIZON-SCAN.
+When platform has caged, then go to BEF...
+What?
+Has caged.
+FDR-PLAT; FDM-ATT
+... ATTITUDE CONTROL-PLAT and then Aline Platform.
+Okay. Store equipment according to Reentry Stowage Chart.
+Stowed.
+Stowed.
+We aren't going to put it in.
+Survival lanyard - Install.
+Go ahead, Flight.
+Connect shoulder harness and lap belt.
+Okay. Stick in a new voice tape, it says here.
+Do you have one?
+I'll get you one.
+Left Secondary O2 Bottle - OPEN.
+Okay. It's open.
+That goes over here.
+Yes.
+... to OPEN.
+It's open.
+Okay. Left circuit breaker's - closed.
+Yes, it's closed.
+TR-256 Circuit Breaker - closed.
+It's closed.
+ATT IND - with FDI's.
+Roger.
+Okay. Now the RCS Check, and I guess you've done that already?
+I haven't done the A-Ring. I will.
+I'll wait to aline for a while.
+... Control Power, Platform ORBIT RATE and stable; RCS Pressure, Attitude Control back on, Platform BEF. The BIT time is 15 minutes - the BIT time on the steam valve. Got that?
+Got that.
+Faceplate - closed.
+We'll remember to do that a little later.
+Yes. Okay. All the Overhead circuit breakers - closed?
+Roger.
+Both COOLANT LOOPS - ON.
+Roger.
+Do you want to go to PRIMARY ACME logic and PRIMARY BIAS power and all that jazz?
+We're going to leave it alone.
+I think we'll leave it where it is.
+That's not been working.
+Yes. Fans 1 and 2.
+We'd better do that.
+Yes.
+Oh, oh! Sequence System circuit breaker popped!
+There they go.
+I'll reset.
+Boy! Lately we're having a lot of circuit breakers pop!
+C - REENTRY, CONTINUOUS.
+T/M, REAL-TIME; ACQ-AID and ANTENNA-SELECT, REENTRY.
+To what?
+REENTRY.
+Check my batteries.
+Might as well pull the HF antenna in, Gemini.
+Exterior lights, OFF.
+Okay. We're ready for TR minus 15.
+Okay. I'd like to have some of those numbers.
+Yes. The GET RC is 10 04 47.
+Okay.
+400K is 22 plus 02.
+All right.
+Bank left 50; bank right 60.
+Okay.
+RET RB, 28 plus 15.
+Okay.
+Begin blackout 24 plus 43.
+End blackout, 30 plus 01; Drogue, 31 plus 37; Main, 32 plus 58; and sunrise 1 minute after Retrofire.
+Okay. Wonder where the Agena is?
+Let's see - turn radar on; we might get a range.
+We couldn't.
+Oh, let's see - one other thing. Do you have those coordinates for the landing point?
+136° east, I think.
+All we have is 45-1, 16-1.
+No, it's not that. The ones they gave you.
+... Stand by.
+That core.
+Yes, that 's right.
+50, 10, and 11. Right?
+Yes, Yes! 25 10, 25.
+Yes.
+And 13600.
+1 - it's what? 36?
+Yes.
+Sure enough.
+It's right where they said it would be.
+7-3 comes right in there in the middle.
+That was -3. That was the third choice, remote areas.
+Roger.
+See if you can get...
+I'll have to search awhile.
+What?
+I'll have to search awhile.
+Did you get the call signs and all that jazz?
+Yes. Naha RESCUE 1 and Naha SEARCH 1.
+They should be there about the time we're there - scheduled.
+Sounds like them now.
+Okinawa.
+Pardon?
+Okinawa.
+Well, I'd like to argue with them, about the going home, but I don't know how we can.
+Yes.
+I'd hate to land way out in the wilderness.
+Oh, shoot!
+Shoulder harness?
+I've got a cramp in my shoulder.
+Do you want any more water before we go down?
+Yes. Say, we'd better stow that thing!
+Got yours hooked up?
+Yes.
+Install voice tape?
+Yes.
+Then down to TR-1.
+Gemini VIII, RKV CAP COM.
+Go ahead.
+Roger. Gemini VIII, we have a medical update for you. Number 1 is drink water before and after Retrofire. Item 2, take one tablet Merazine. Code Alpha prior to Retrofire. If you leave Spacecraft, leave the medical kit alone. Do you copy?
+Okay...
+Negative.
+Roger.
+... RET 400K for you.
+Okay.
+RET of 100K - RET of 100K is 30 plus 38.
+Understand. Thank you....
+Roger. Have you completed your Preretro Check List?
+Roger. We have.
+Roger. What is your evaluation of the REENTRY RATE COMMAND?
+It looks good.
+Roger. Understand.
+Roger, Gemini VIII. And on this medical update, if you do leave the Spacecraft, you should take the medical kit along with you.
+Affirmative.
+That's affirmative. Roger.
+Gemini VIII, they'll be talking to you over Ascension. Ascension acquisition time is 09 52 10.
+That should be in a couple of minutes.
+Roger. That's affirmative. 2 minutes.
+Okay. The Agena looks real stable. ACS gas pressure remains approximately 200 pounds.
+Gemini VIII, RKV. Have you seen anything of the Agena as yet?
+Negative, and we have our radar on and it hasn't picked up a lock-on. We haven't seen anything, Flight.
+Roger.
+You have about one minute to go.
+10 seconds, 3, 2, 1,
+MARK.
+Got it.
+Roger. And be advised that your TR on the Spacecraft is in sync.
+Understand.
+Roger. Will you give me another hack at 14 minutes?
+Roger. We're getting close to LOS. We'll give it a try.
+Go ahead.
+MARK. 14 minutes.
+Got it.
+Thank you, Flight.
+Roger.
+Roger. Go.
+Roger. We understand.
+Gemini VIII, I have some new rescue data for you. You ready to copy?
+Go ahead.
+Roger. Naha RESCUE 1 will be on station at splashdown with parajumpers and a flotation collar. The USS Mason will be on site about 3 hours after splash. And a reminder that Core 86 is for latitude and 87 is for longitude for your check between 80 and 50K.
+Okay....
+And I have a backup yaw star for you for Retrofire minus 4 minutes. Sirius will be 4 degrees right of track.
+Roger.
+And we'll be counting in the blind through Kano for your Retrofire.
+Gemini VIII, Houston. Do you copy?
+Roger.
+Houston standing by.
+Gemini VIII, Houston. There will be no contact with us after Retrofire. We might pick you up through the CSQ after blackout. We'll be standing by for HF after splash.
+Roger. Understand.
+Gemini VIII, Houston CAP COM. We've got one more minute to LOS. We'll be standing by to hear your TR minus 1 check.
+Ascension LOS.
+Okay. We've not had this yet.
+We don't. Just let it stay there.
+Okay. I'm going to go RCS now and OAMS OFF.
+Okay....
+I'm in RATE COMMAND ACME.
+Okay.
+Let's have a time hack here.
+Okay.
+Okay. Now.
+Good.
+Gemini VIII, Houston CAP COM. Verify your TR minus 4 16 complete and we are standing by for your SEP ADAPT.
+Roger. It's complete.
+Roger.
+We didn't get a TR minus 2 56 signal, but our TR is in sync.
+Roger.
+Okay. Coming around to 1 minute.
+Okay.
+Okay.
+Stand by for a Mark at 1 minute. Stand by 60 seconds - 60 seconds.
+Roger. We have SEP OAMS, SEP ELECT and SEP ADAPT.
+Okay. 41 seconds.
+Okay.
+30 seconds.
+I'm on AUTO RETRO.
+Okay. Don't do that yet.
+Retro Rocket Squibs (4) - ARM.
+1, 2, 3, 4, LIGHT.
+Okay.
+RETROFIRE.
+Props OFF.
+Hang in there.
+Okay. Four retros fired in AUTO RETROFIRE and 292, aft 000 and 114 down.
+Roger. AUTO RETROS. Four retros.
+... aft 000 and 114 down.
+Say again the IVI's.
+That's great.
+Okay. Will you -
+Up 1.3.
+Gemini VIII, Houston. Say again your IVI's.
+Okay. Check Retro.
+Okay. Check Retro.
+Go ahead. Start.
+Retro, check.
+No change in it.
+No changes on the IVI's.
+Got one ACME OFF on the Pulse.
+Okay. Now I want to set up my clock.
+Okay.
+Did the GET clock start?
+Yes.
+Okay.
+You ready for the Post-Retro Check List?
+Yes.
+Okay. RETRO-POWER, SAFE.
+RETRO-POWER, SAFE.
+RETRO-JETT, SAFE.
+SAFE.
+RETRO-ROCKET Squibs, SAFE.
+OFF 2, 3, 4, SAFE.
+FDR, COMP.
+Roger. FDR, COMP.
+FDM, RATE.
+RATE.
+FDI SCALE RANGE, LO.
+LO.
+ATTITUDE CONTROL, PULSE.
+We are in PULSE, 1 ring.
+BOOST INSERT CONTROL 1 and 2 circuit breaker, OPEN.
+BOOST INSERT 1 and 2 are open.
+Retro Sequence Control 1 and 2 circuit breakers, OPEN.
+Retro Sequence 1 and 2 are open.
+RCS B Attitude Control Power, OFF. Got it ON to System A.
+Scanner, off.
+Roger. Scanner off.
+Tighten and lock restraint harness.
+Restraint harness did not lock.
+Okay. It is, but I'm going to have to loosen it to pull the pins.
+Roger.
+Let's go.
+Okay.
+... Ring...
+Okay. You get yours first. Let's get this one at a time.
+Okay.
+I'll get mine.
+Got yours on?
+Yes. One more minute.
+Okay. I'm going to get mine on now.
+Okay. I'll just tighten along my side...
+You got them stowed?
+No, I haven't got this one little... stowed.
+I guess I ought to go ahead.
+It's hard to see.
+PRI O2 Heater circuit breaker, OPEN.
+There's sunlight.
+Look at the stuff out the right window!
+Pretty! Whoa, boy! OAMS CONTROL PROP circuit breaker, OPEN.
+CALIB circuit breaker, OPEN. TAPE RECORDER CONTROL, OPEN.
+ECS O2 HEATER, OFF.
+Fuel Cell O2 and H2 Heater is off.
+Section 1 and 2 Power is off.
+1A, 1B, 1C, 2A, 2B, 2C - OFF.
+FDM, RATE.
+SPF - OFF.
+... Harness... valves...
+Control Spacecraft attitude to 180° yaw, 170° roll.
+Horizon at the top of the window.
+That's right. Try it again.
+... Next step is 400K.
+And it's a long time yet.
+Yes.
+Give me a time if you can.
+Okay. I might be a couple of seconds off, but it will be close.
+That's all right.
+I'll give you - can you check 630?
+Check.
+Okay. It checks.
+MARK.
+Fantastic! Almost perfect!
+Correct.
+Right.
+All this stuff floating.
+Yes.
+Okay. 400K is TR plus 22.
+B-Ring ran out about 1300 pounds.
+Say again?
+B-Ring ran out about 1300 pounds.
+Think so.
+... still rising.
+I keep thinking there's something we've forgotten about, but I don't know what it is.
+We've done everything, as far as I know.
+Roger.
+Say again.
+We're having quite a bit of glare around here.
+Say, I must do a good job at this so that we land close to where the Rescue... how about that?
+I'm with you.
+Nominal pitch angle here.
+Yes.
+What is it?
+I said it was nominal.
+400K.
+I got the needle right at 45....
+Say, are you in ATTITUDE?
+Yes. I'll stay on RATE for a little while and count...
+Okay.
+Don't yaw too much now.
+52 left.
+Yaw keep right.
+That's 52. 52 should be... right. 52 should be be...
+See it?
+That must be... light. It's 55 plus or minus 3.
+Let's hope.
+Pardon.
+Got 1 minute to Guidance.
+How's it look to you?
+The Adapter's burning off to the left. I can watch it.
+Can you, really?
+Yes. Got... See it? It's turning green.
+Yes.
+Okay. Should be... very shortly. There it goes! Got it?
+Pretty reasonable already for a starter.
+Supposed to be 77 plus or minus 50.
+Yes.
+Let it ride for about 30 seconds here.
+Now we're getting a little light out the window.
+I'm going to Reentry RATE COMMAND.
+Okay.
+Keep an eye on that pressure.
+Roger.
+You figure it will die out at what?
+Yes.
+There's 30 seconds of Guidance.
+Looks to be nice and steady, doesn't it?
+Yes, it does.
+Would you buy that?
+Yes, I'll buy that coming in.
+We've got almost a minute of Guidance.
+Okay. I'm going over and picking up the...
+Got... Darn the seat...
+Foot in stirrups.
+Way to go!
+Gemini VIII, CAP COM on UHF. Over.
+Something out the window, isn't it?
+Yes....
+Gemini VIII, CSQ CAP COM. Do you read? Over.
+End of blackout is 30 minutes.
+... your turn.
+Yes. It's probably...
+Say again.
+You'll have to tell me the altitudes because I can't see.
+Gemini VIII, CSQ CAP COM on HF. Do you read? Over.
+Pitch look good?
+Your limits?
+Gemini VIII, CSQ CAP COM on UHF. Do you read? Over.
+Gemini VIII, Gemini VIII, CSQ CAP COM on UHF. Do you read? Over.
+I can't get a Reentry Rate...
+Okay.... Looks pretty good here...
+Keep an eye on that pressure system. We've got a certain amount of fuel.
+Okay. Tell me when you want me to call him.
+Gemini VIII, Gemini VIII, CSQ CAP COM on UHF. Do you read? Over.
+Okay. Let's put the B-Ring on now...
+You did get it.
+... is off.
+About...
+About 5g.
+Okay. About 30 seconds to 100K.
+5g.
+It's coming down now.
+It should be behind me.
+Is the altimeter working?
+Coming down in Pitch.
+Pardon me.
+Don't forget...
+Right. LANDING - ARM, 70K feet.
+Okay.
+Okay. 50K. Ready for the Drogue.
+Right.
+Yes.
+We have a good Drogue.
+Yes. Okay. Let's go to RATE COMMAND.
+Okay. 30K.
+Okay. You can turn to O2 HI RATE.
+Roger.
+You can... down any time now.
+... reads.
+Okay. Hand releases...
+Got a 40K light.
+Okay.
+Okay. What's that? About 20K?
+Houston, Gemini reads 86, 02505; 87, 13609; good Drogue.
+They all look real good.
+10K.
+Parachute ready?
+Yes.
+Here we go!
+We're off! We're off!
+Oh, heck!
+They got her!
+Good show!
+Popped my nose.
+Should I open my helmet?
+Can you see?
+Can I open my helmet, Coach?
+Okay - -
+Chief, I've got to open my helmet.
+Okay. Let's get ready for Landing Attitude.
+Get your thrusters first.
+RCS A and B PROP MOTOR VALVES - CLOSED.
+Yes.
+With thrusters.
+They're all out.
+Go ahead.
+Okay. Ready?
+Yes.
+Very good.
+Not too bad.
+Okay. We're at 5K.
+Okay. You want to check the water?
+Boy! It stinks!
+What?
+Inside the cockpit.
+It's what?
+A lot of fumes in the cockpit.
+Yes. Okay.
+Okay. We've got the Main Chute out. It's dereefed; we have the single-point release. Attitude Indicator Landing circuit breaker - OPEN.
+... Okay. It's OPEN.
+Go ahead.
+Okay. Call Recovery Forces.
+Okay. You give them a call; you know their call sign.
+Yes. Okay.
+Hello, Naha RESCUE 1, Naha SEARCH 1, Gemini VIII.
+Do you have water out there?
+All I see is haze. Oh yes, there's water! It's water!
+Okay. Set your altimeter 2986.
+2986. Okay. We're ready to go. REPRESS - OPEN.
+Are we down here already?
+Yes.
+Let's finish. Water Seal - DOWN (closed).
+Yes. Yaw left.
+So we'll have a little turn when we hit.
+Okay. What is your altitude?
+1500 feet.
+... is on.
+RCS Heater coming off. Scan Heater circuit breaker is open. Computer's off. Platform - -
+Rate Gyros are off.
+Hello, Naha, RESCUE Naha, this is Gemini VIII. In good shape, coming down very fast, 1,000 feet.
+Okay. I guess we better get ready. Right?
+Okay. Snorkel is up and CLOSED.
+Water seal.
+Water Seal is coming down - CLOSED.
+100 feet.
+Cabin REPRESS - OPEN.
+Want to jettison Chute?
+Yes.
+Okay.
+Okay.
+Okay.
+Everything is okay.
+So far so good.
+LANDING - SAFE.
+SAFE.
+Okay.
+CABIN VENT - DOWN (OPEN). SNORKEL - OPEN.
+Got it open. The snorkel. It's open?
+Yes.
+HF whip circuit breaker - CLOSED.
+Power is off.
+Yes.
+That Main Chute was sort of - make you think again, wouldn't it?
+Yes.
+You've done a good job, Boy!
+Where is it? In the water somewhere?
+Yes.
+I was never particularly excited about the Navy, but press on!
+LANDING - SAFE.
+Roger. LANDING - SAFE.
+... 16 seconds.
+We update the Landing Bus - ARM?
+Oh, yes.
+Okay?
+Yes.
+You want to get it out? Okay. You want to turn HF on?...
+We're off.
+Did you give them a call? Helmet off and stowed.... arm restraints stowed, Lap Belt - Release and Stow. Shoulder fittings stowed.
+I can't hear you.
+Try it again.
+Helmet off and is stowed.
+Want to do that, or you want to wait until this thing clears out a little bit?
+Yes, I guess so.
+We're pretty darn close...
+We're 5 minutes north - yes, 9 minutes north, 9 miles....
