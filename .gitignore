@@ -1,3 +1,7 @@
-output
 work
-*.py[cod]
+.venv
+__pycache__
+.env
+submit
+submit.zip
+u-waterloo-cs-498-intro-to-nlp-project/
