@@ -1,0 +1,9 @@
+# torch
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch==2.7.0+cu128
+transformers
+peft
+safetensors
+python-dotenv
+google-cloud-translate
+tqdm
