@@ -4,8 +4,8 @@
   "work_dir": "work/quick",
   "vocab_size": 8000,
   "min_freq": 1,
-  "max_seq_len": 256,
-  "batch_size": 8,
+  "max_seq_len": 128,
+  "batch_size": 2,
   "num_epochs": 1,
   "val_split": 0.1,
   "lr_encoder_lora": 1e-4,
@@ -14,5 +14,5 @@
   "max_grad_norm": 1.0,
   "seed": 0,
   "device": "cuda",
-  "log_every": 25
+  "log_every": 10
 }
