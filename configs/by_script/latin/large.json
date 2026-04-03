@@ -6,7 +6,7 @@
   "min_freq": 1,
   "max_seq_len": 256,
   "batch_size": 64,
-  "num_epochs": 8,
+  "num_epochs": 10,
   "val_split": 0.1,
   "lr_encoder_lora": 1e-4,
   "lr_head": 1e-3,
