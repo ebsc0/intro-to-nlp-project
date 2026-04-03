@@ -7,3 +7,4 @@ safetensors
 python-dotenv
 google-cloud-translate
 tqdm
+wandb
