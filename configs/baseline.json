@@ -12,7 +12,7 @@
   "lr_head": 1e-3,
   "weight_decay": 0.01,
   "max_grad_norm": 1.0,
-  "seed": 0,
+  "seed": 42,
   "device": "cuda",
   "log_every": 100
 }
