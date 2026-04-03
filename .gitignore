@@ -5,3 +5,8 @@ __pycache__
 submit
 submit.zip
 u-waterloo-cs-498-intro-to-nlp-project/
+data/*
+!data/open-dev/
+!data/open-dev/**
+!data/spacelog/
+!data/spacelog/**
