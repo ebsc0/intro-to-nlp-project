@@ -3,8 +3,9 @@ import os
 import random
 import time
 from argparse import ArgumentDefaultsHelpFormatter, ArgumentParser
+from collections import defaultdict
 from dataclasses import asdict, dataclass, fields
-from typing import Any, Dict, List, Sequence, Tuple
+from typing import Any, Dict, List, Optional, Sequence, Tuple
 
 import torch
 import torch.nn as nn
@@ -43,41 +44,47 @@ class PairedCharacterDataset(Dataset):
         contexts: Sequence[str],
         targets: Sequence[str],
         vocab: CharacterVocab,
+        langs: Optional[Sequence[str]] = None,
         max_seq_len: int = 512,
     ) -> None:
         self.contexts = list(contexts)
         self.target_ids = [vocab.get_id(t) for t in targets]
+        self.langs = list(langs) if langs is not None else None
         self.max_seq_len = max_seq_len
 
     def __len__(self) -> int:
         return len(self.contexts)
 
-    def __getitem__(self, idx: int) -> Tuple[List[int], int]:
+    def __getitem__(self, idx: int) -> Tuple[List[int], int, str]:
         ids = text_to_codepoints(self.contexts[idx], max_len=self.max_seq_len)
         if not ids:
             ids = [INPUT_PAD_CODEPOINT]
-        return ids, self.target_ids[idx]
+        lang = self.langs[idx] if self.langs is not None else ""
+        return ids, self.target_ids[idx], lang
 
 
-def collate_batch(batch: Sequence[Tuple[List[int], int]]) -> Dict[str, torch.Tensor]:
-    max_len = max(max(len(context_ids) for context_ids, _ in batch), MIN_CANINE_INPUT_LEN)
+def collate_batch(batch: Sequence[Tuple[List[int], int, str]]) -> Dict[str, Any]:
+    max_len = max(max(len(context_ids) for context_ids, _, _ in batch), MIN_CANINE_INPUT_LEN)
     input_ids = []
     attention_masks = []
     labels = []
-    for context_ids, label in batch:
+    langs: List[str] = []
+    for context_ids, label, lang in batch:
         pad_count = max_len - len(context_ids)
         input_ids.append(context_ids + [INPUT_PAD_CODEPOINT] * pad_count)
         attention_masks.append([1] * len(context_ids) + [0] * pad_count)
         labels.append(label)
+        langs.append(lang)
 
     return {
         "input_ids": torch.tensor(input_ids, dtype=torch.long),
         "attention_mask": torch.tensor(attention_masks, dtype=torch.long),
         "labels": torch.tensor(labels, dtype=torch.long),
+        "langs": langs,
     }
 
 
-def read_paired_data(input_path: str, answer_path: str) -> Tuple[List[str], List[str]]:
+def read_paired_data(input_path: str, answer_path: str) -> Tuple[List[str], List[str], Optional[List[str]]]:
     if not os.path.isfile(input_path):
         raise FileNotFoundError(f"Input file not found: {input_path}")
     if not os.path.isfile(answer_path):
@@ -102,18 +109,35 @@ def read_paired_data(input_path: str, answer_path: str) -> Tuple[List[str], List
                 f"{answer_path}:{line_num} has {target!r} (length={len(target)})."
             )
 
-    return contexts, targets
+    lang_path = os.path.join(os.path.dirname(input_path), "lang.txt")
+    langs: Optional[List[str]] = None
+    if os.path.isfile(lang_path):
+        with open(lang_path, "r", encoding="utf-8") as f:
+            langs = [line.rstrip("\n") for line in f]
+        if len(langs) != len(contexts):
+            raise ValueError(
+                "Input/lang line count mismatch: "
+                f"{input_path} has {len(contexts)} lines, "
+                f"{lang_path} has {len(langs)} lines."
+            )
+
+    return contexts, targets, langs
 
 
 def split_train_val(
     contexts: Sequence[str],
     targets: Sequence[str],
+    langs: Optional[Sequence[str]],
     val_split: float,
     seed: int,
-) -> Tuple[List[str], List[str], List[str], List[str]]:
+) -> Tuple[List[str], List[str], Optional[List[str]], List[str], List[str], Optional[List[str]]]:
     if len(contexts) != len(targets):
         raise ValueError(
             f"Contexts and targets must have the same length, got {len(contexts)} and {len(targets)}."
+        )
+    if langs is not None and len(contexts) != len(langs):
+        raise ValueError(
+            f"Contexts and langs must have the same length, got {len(contexts)} and {len(langs)}."
         )
 
     idxs = list(range(len(contexts)))
@@ -124,20 +148,27 @@ def split_train_val(
     val_idxs = set(idxs[:val_size])
     train_contexts: List[str] = []
     train_targets: List[str] = []
+    train_langs: Optional[List[str]] = [] if langs is not None else None
     val_contexts: List[str] = []
     val_targets: List[str] = []
+    val_langs: Optional[List[str]] = [] if langs is not None else None
 
     for i in range(len(contexts)):
         context = contexts[i]
         target = targets[i]
+        lang = langs[i] if langs is not None else ""
         if i in val_idxs:
             val_contexts.append(context)
             val_targets.append(target)
+            if val_langs is not None:
+                val_langs.append(lang)
         else:
             train_contexts.append(context)
             train_targets.append(target)
+            if train_langs is not None:
+                train_langs.append(lang)
 
-    return train_contexts, train_targets, val_contexts, val_targets
+    return train_contexts, train_targets, train_langs, val_contexts, val_targets, val_langs
 
 
 @torch.no_grad()
@@ -145,24 +176,65 @@ def evaluate_top3_accuracy(
     model: CanineLoRACharPredictor,
     dataloader: DataLoader,
     device: torch.device,
-) -> float:
+) -> Tuple[float, Dict[str, float], Dict[str, int]]:
     model.eval()
     correct = 0
     total = 0
+    correct_by_lang: Dict[str, int] = defaultdict(int)
+    total_by_lang: Dict[str, int] = defaultdict(int)
 
     for batch in dataloader:
         input_ids = batch["input_ids"].to(device)
         attention_mask = batch["attention_mask"].to(device)
         labels = batch["labels"].to(device)
+        langs = batch["langs"]
 
         top3 = model.predict_topk(input_ids=input_ids, attention_mask=attention_mask, k=3)
         matches = (top3 == labels.unsqueeze(-1)).any(dim=-1)
         correct += int(matches.sum().item())
         total += int(labels.size(0))
+        for lang, matched in zip(langs, matches.tolist()):
+            if not lang:
+                continue
+            total_by_lang[lang] += 1
+            if matched:
+                correct_by_lang[lang] += 1
 
     if total == 0:
-        return 0.0
-    return correct / total
+        return 0.0, {}, {}
+
+    per_lang_acc = {
+        lang: correct_by_lang[lang] / total_by_lang[lang]
+        for lang in sorted(total_by_lang.keys())
+        if total_by_lang[lang] > 0
+    }
+    per_lang_counts = {lang: total_by_lang[lang] for lang in sorted(total_by_lang.keys())}
+    return correct / total, per_lang_acc, per_lang_counts
+
+
+def maybe_init_wandb(enabled: bool, train_config: TrainConfig, model_config: ModelConfig):
+    if not enabled:
+        return None
+
+    try:
+        import wandb  # type: ignore
+    except ImportError as exc:
+        raise ImportError("`--wandb` was set but `wandb` is not installed.") from exc
+
+    tags_env = os.getenv("WANDB_TAGS", "")
+    tags = [tag.strip() for tag in tags_env.split(",") if tag.strip()]
+    return wandb.init(
+        project=os.getenv("WANDB_PROJECT"),
+        entity=os.getenv("WANDB_ENTITY"),
+        name=os.getenv("WANDB_NAME"),
+        mode=os.getenv("WANDB_MODE"),
+        group=os.getenv("WANDB_GROUP"),
+        tags=tags or None,
+        config={
+            "train": asdict(train_config),
+            "model": asdict(model_config),
+        },
+    )
 
 
 def build_optimizer(
@@ -218,7 +290,7 @@ def load_train_config(config_path: str, overrides: Dict[str, Any]) -> TrainConfi
     return TrainConfig(**resolved)
 
 
-def train(config: TrainConfig) -> None:
+def train(config: TrainConfig, use_wandb: bool = False) -> None:
     os.makedirs(config.work_dir, exist_ok=True)
 
     random.seed(config.seed)
@@ -240,10 +312,18 @@ def train(config: TrainConfig) -> None:
     else:
         runtime_device = torch.device("cpu")
 
-    contexts, targets = read_paired_data(config.input_path, config.answer_path)
-    train_contexts, train_targets, val_contexts, val_targets = split_train_val(
+    contexts, targets, langs = read_paired_data(config.input_path, config.answer_path)
+    (
+        train_contexts,
+        train_targets,
+        train_langs,
+        val_contexts,
+        val_targets,
+        val_langs,
+    ) = split_train_val(
         contexts=contexts,
         targets=targets,
+        langs=langs,
         val_split=config.val_split,
         seed=config.seed,
     )
@@ -259,6 +339,7 @@ def train(config: TrainConfig) -> None:
         contexts=train_contexts,
         targets=train_targets,
         vocab=vocab,
+        langs=train_langs,
         max_seq_len=config.max_seq_len,
     )
     if len(train_dataset) == 0:
@@ -277,6 +358,7 @@ def train(config: TrainConfig) -> None:
             contexts=val_contexts,
             targets=val_targets,
             vocab=vocab,
+            langs=val_langs,
             max_seq_len=config.max_seq_len,
         )
         if len(val_dataset) > 0:
@@ -291,6 +373,7 @@ def train(config: TrainConfig) -> None:
         vocab_size=len(vocab),
     )
     model = CanineLoRACharPredictor(config=model_cfg).to(runtime_device)
+    wandb_run = maybe_init_wandb(use_wandb, config, model_cfg)
 
     optimizer = build_optimizer(
         model=model,
@@ -302,6 +385,7 @@ def train(config: TrainConfig) -> None:
 
     metrics: List[Dict[str, float]] = []
     total_batches = len(train_loader)
+    global_step = 0
     for epoch in range(config.num_epochs):
         model.train()
         total_loss = 0.0
@@ -324,6 +408,7 @@ def train(config: TrainConfig) -> None:
 
             total_loss += float(loss.item())
             n_batches += 1
+            global_step += 1
             if step % max(1, config.log_every) == 0 or step == total_batches:
                 avg_so_far = total_loss / n_batches
                 print(
@@ -331,6 +416,15 @@ def train(config: TrainConfig) -> None:
                     f"batch {step}/{total_batches} "
                     f"loss={loss.item():.4f} avg_loss={avg_so_far:.4f}"
                 )
+                if wandb_run is not None:
+                    wandb_run.log(
+                        {
+                            "train/batch_loss": float(loss.item()),
+                            "train/avg_loss": float(avg_so_far),
+                            "epoch": float(epoch + 1),
+                            "step": int(global_step),
+                        }
+                    )
 
         epoch_result = {
             "epoch": float(epoch + 1),
@@ -338,10 +432,31 @@ def train(config: TrainConfig) -> None:
             "epoch_seconds": float(time.time() - epoch_start),
         }
         if val_loader is not None:
-            epoch_result["val_top3_acc"] = evaluate_top3_accuracy(model, val_loader, runtime_device)
+            val_acc, val_by_lang, val_counts = evaluate_top3_accuracy(model, val_loader, runtime_device)
+            epoch_result["val_top3_acc"] = val_acc
+            if val_by_lang:
+                epoch_result["val_top3_acc_by_lang"] = val_by_lang
+                epoch_result["val_count_by_lang"] = val_counts
+                for lang in sorted(val_by_lang.keys()):
+                    print(
+                        f"Validation {lang}: "
+                        f"count={val_counts[lang]} "
+                        f"top3_acc={val_by_lang[lang]:.5f}"
+                    )
 
         metrics.append(epoch_result)
         print(json.dumps(epoch_result, ensure_ascii=False))
+        if wandb_run is not None:
+            log_payload: Dict[str, Any] = {
+                "train/epoch_loss": float(epoch_result["train_loss"]),
+                "train/epoch_seconds": float(epoch_result["epoch_seconds"]),
+                "epoch": float(epoch + 1),
+            }
+            if "val_top3_acc" in epoch_result:
+                log_payload["val/top3_acc"] = float(epoch_result["val_top3_acc"])
+            for lang, acc in epoch_result.get("val_top3_acc_by_lang", {}).items():
+                log_payload[f"val/by_lang/{lang}"] = float(acc)
+            wandb_run.log(log_payload)
 
     model.save(config.work_dir)
     with open(os.path.join(config.work_dir, "train_config.json"), "w", encoding="utf-8") as f:
@@ -354,27 +469,33 @@ def train(config: TrainConfig) -> None:
         f"Saved checkpoint to {config.work_dir} "
         f"(trainable={counts['trainable']}, total={counts['total']})"
     )
+    if wandb_run is not None:
+        wandb_run.finish()
 
 
-def parse_args() -> TrainConfig:
+def parse_args() -> Tuple[TrainConfig, bool]:
     parser = ArgumentParser(formatter_class=ArgumentDefaultsHelpFormatter)
     parser.add_argument("--config", required=True)
     parser.add_argument("--work_dir")
     parser.add_argument("--batch_size", type=int)
     parser.add_argument("--num_epochs", type=int)
     parser.add_argument("--device", choices=("cpu", "mps", "cuda"))
+    parser.add_argument("--wandb", action="store_true")
     args = parser.parse_args()
 
-    return load_train_config(
-        config_path=args.config,
-        overrides={
-            "work_dir": args.work_dir,
-            "batch_size": args.batch_size,
-            "num_epochs": args.num_epochs,
-            "device": args.device,
-        },
+    return (
+        load_train_config(
+            config_path=args.config,
+            overrides={
+                "work_dir": args.work_dir,
+                "batch_size": args.batch_size,
+                "num_epochs": args.num_epochs,
+                "device": args.device,
+            },
+        ),
+        args.wandb,
     )
 
 
 if __name__ == "__main__":
-    train(parse_args())
+    train(*parse_args())

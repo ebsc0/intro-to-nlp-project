@@ -5,6 +5,18 @@ import random
 from typing import Dict, Iterator, List, Sequence, Tuple
 
 Example = Tuple[str, str, str]
+LANGUAGE_TO_SCRIPT = {
+    "en": "latin",
+    "de": "latin",
+    "fr": "latin",
+    "it": "latin",
+    "ru": "cyrillic",
+    "ar": "arabic",
+    "hi": "devanagari",
+    "ko": "hangul",
+    "zh": "zh",
+    "ja": "ja",
+}
 
 
 def save_lines(path: str, lines: Sequence[str]) -> None:
@@ -82,6 +94,15 @@ def validate_translations_dir(translations_dir: str) -> Tuple[List[str], List[st
     return languages, reference_files
 
 
+def validate_script_mapping(languages: Sequence[str]) -> None:
+    unknown = sorted(lang for lang in languages if lang not in LANGUAGE_TO_SCRIPT)
+    if unknown:
+        raise ValueError(
+            "Unmapped language directories for --split_script: "
+            f"{', '.join(unknown)}"
+        )
+
+
 def iter_prefix_examples(
     translations_dir: str,
     lang: str,
@@ -118,20 +139,33 @@ def reservoir_sample(examples: Iterator[Example], k: int, rng: random.Random) ->
     return sample
 
 
+def write_examples(out_dir: str, examples: Sequence[Example]) -> None:
+    inputs = [context for context, _, _ in examples]
+    answers = [target for _, target, _ in examples]
+    langs = [lang for _, _, lang in examples]
+
+    os.makedirs(out_dir, exist_ok=True)
+    save_lines(os.path.join(out_dir, "input.txt"), inputs)
+    save_lines(os.path.join(out_dir, "answer.txt"), answers)
+    save_lines(os.path.join(out_dir, "lang.txt"), langs)
+
+
 def create_dataset(
     translations_dir: str,
     out_dir: str,
     per_lang: int,
     seed: int,
+    split_script: bool = False,
 ) -> Tuple[int, Dict[str, int]]:
     if per_lang < 0:
         raise ValueError("--per_lang must be non-negative")
 
     languages, filenames = validate_translations_dir(translations_dir)
+    if split_script:
+        validate_script_mapping(languages)
 
     rng = random.Random(seed)
     selected: List[Example] = []
-    counts: Dict[str, int] = {}
     for lang in languages:
         sample = reservoir_sample(
             iter_prefix_examples(translations_dir=translations_dir, lang=lang, filenames=filenames),
@@ -139,18 +173,26 @@ def create_dataset(
             rng,
         )
         selected.extend(sample)
-        counts[lang] = len(sample)
 
     rng.shuffle(selected)
 
-    inputs = [context for context, _, _ in selected]
-    answers = [target for _, target, _ in selected]
-    langs = [lang for _, _, lang in selected]
+    if split_script:
+        by_script: Dict[str, List[Example]] = {}
+        for example in selected:
+            script = LANGUAGE_TO_SCRIPT[example[2]]
+            by_script.setdefault(script, []).append(example)
 
-    os.makedirs(out_dir, exist_ok=True)
-    save_lines(os.path.join(out_dir, "input.txt"), inputs)
-    save_lines(os.path.join(out_dir, "answer.txt"), answers)
-    save_lines(os.path.join(out_dir, "lang.txt"), langs)
+        counts = {}
+        for script, examples in sorted(by_script.items()):
+            write_examples(os.path.join(out_dir, script), examples)
+            counts[script] = len(examples)
+        return len(selected), counts
+
+    counts: Dict[str, int] = {}
+    for lang in languages:
+        counts[lang] = sum(1 for _, _, example_lang in selected if example_lang == lang)
+
+    write_examples(out_dir, selected)
 
     return len(selected), counts
 
@@ -163,6 +205,7 @@ def main() -> None:
     parser.add_argument("--out_dir", default="data/training")
     parser.add_argument("--per_lang", type=int, default=500)
     parser.add_argument("--seed", type=int, default=42)
+    parser.add_argument("--split_script", action="store_true")
     args = parser.parse_args()
 
     total, counts = create_dataset(
@@ -170,6 +213,7 @@ def main() -> None:
         out_dir=args.out_dir,
         per_lang=args.per_lang,
         seed=args.seed,
+        split_script=args.split_script,
     )
     print(f"Wrote {total} examples to {args.out_dir}")
     for lang in sorted(counts.keys()):
