@@ -1,6 +1,7 @@
 import json
 import os
 import random
+import shutil
 import time
 from argparse import ArgumentDefaultsHelpFormatter, ArgumentParser
 from collections import defaultdict
@@ -16,6 +17,9 @@ from model import CharacterVocab, CanineLoRACharPredictor, ModelConfig, text_to_
 
 INPUT_PAD_CODEPOINT = 0
 MIN_CANINE_INPUT_LEN = 4
+CHECKPOINT_BEST = "best"
+CHECKPOINT_LAST = "last"
+EARLY_STOPPING_PATIENCE = 2
 
 
 @dataclass
@@ -290,8 +294,43 @@ def load_train_config(config_path: str, overrides: Dict[str, Any]) -> TrainConfi
     return TrainConfig(**resolved)
 
 
+def checkpoint_dir(work_dir: str, checkpoint_name: str) -> str:
+    return os.path.join(work_dir, checkpoint_name)
+
+
+def remove_path(path: str) -> None:
+    if os.path.isdir(path):
+        shutil.rmtree(path)
+    elif os.path.exists(path):
+        os.remove(path)
+
+
+def save_checkpoint(
+    model: CanineLoRACharPredictor,
+    vocab: CharacterVocab,
+    config: TrainConfig,
+    checkpoint_path: str,
+) -> None:
+    remove_path(checkpoint_path)
+    model.save(checkpoint_path)
+    vocab.save(os.path.join(checkpoint_path, "vocab.json"))
+    with open(os.path.join(checkpoint_path, "train_config.json"), "w", encoding="utf-8") as f:
+        json.dump(asdict(config), f, indent=2)
+
+
+def copy_checkpoint(src: str, dst: str) -> None:
+    if not os.path.isdir(src):
+        raise FileNotFoundError(f"Cannot copy missing checkpoint directory: {src}")
+    remove_path(dst)
+    shutil.copytree(src, dst)
+
+
 def train(config: TrainConfig, use_wandb: bool = False) -> None:
     os.makedirs(config.work_dir, exist_ok=True)
+    best_dir = checkpoint_dir(config.work_dir, CHECKPOINT_BEST)
+    last_dir = checkpoint_dir(config.work_dir, CHECKPOINT_LAST)
+    remove_path(best_dir)
+    remove_path(last_dir)
 
     random.seed(config.seed)
     torch.manual_seed(config.seed)
@@ -333,7 +372,6 @@ def train(config: TrainConfig, use_wandb: bool = False) -> None:
         min_freq=config.min_freq,
         max_size=config.vocab_size,
     )
-    vocab.save(os.path.join(config.work_dir, "vocab.json"))
 
     train_dataset = PairedCharacterDataset(
         contexts=train_contexts,
@@ -383,10 +421,20 @@ def train(config: TrainConfig, use_wandb: bool = False) -> None:
     )
     criterion = nn.CrossEntropyLoss()
 
-    metrics: List[Dict[str, float]] = []
+    metrics: List[Dict[str, Any]] = []
     total_batches = len(train_loader)
     global_step = 0
+    best_val: Optional[float] = None
+    best_epoch: Optional[int] = None
+    best_is_last_only = False
+    epochs_without_improvement = 0
+    stopped_early = False
+    last_epoch = 0
     for epoch in range(config.num_epochs):
+        if val_loader is not None and best_is_last_only and epoch > 0:
+            copy_checkpoint(last_dir, best_dir)
+            best_is_last_only = False
+
         model.train()
         total_loss = 0.0
         n_batches = 0
@@ -426,11 +474,13 @@ def train(config: TrainConfig, use_wandb: bool = False) -> None:
                         }
                     )
 
+        save_checkpoint(model, vocab, config, last_dir)
         epoch_result = {
             "epoch": float(epoch + 1),
             "train_loss": total_loss / max(1, n_batches),
             "epoch_seconds": float(time.time() - epoch_start),
         }
+        improved = False
         if val_loader is not None:
             val_acc, val_by_lang, val_counts = evaluate_top3_accuracy(model, val_loader, runtime_device)
             epoch_result["val_top3_acc"] = val_acc
@@ -443,6 +493,20 @@ def train(config: TrainConfig, use_wandb: bool = False) -> None:
                         f"count={val_counts[lang]} "
                         f"top3_acc={val_by_lang[lang]:.5f}"
                     )
+            improved = best_val is None or val_acc > best_val
+            if improved:
+                best_val = val_acc
+                best_epoch = epoch + 1
+                epochs_without_improvement = 0
+                best_is_last_only = True
+                remove_path(best_dir)
+            else:
+                epochs_without_improvement += 1
+        else:
+            epochs_without_improvement = 0
+
+        epoch_result["is_best"] = improved
+        epoch_result["epochs_without_improvement"] = epochs_without_improvement
 
         metrics.append(epoch_result)
         print(json.dumps(epoch_result, ensure_ascii=False))
@@ -451,6 +515,8 @@ def train(config: TrainConfig, use_wandb: bool = False) -> None:
                 "train/epoch_loss": float(epoch_result["train_loss"]),
                 "train/epoch_seconds": float(epoch_result["epoch_seconds"]),
                 "epoch": float(epoch + 1),
+                "checkpoint/is_best": bool(improved),
+                "checkpoint/epochs_without_improvement": int(epochs_without_improvement),
             }
             if "val_top3_acc" in epoch_result:
                 log_payload["val/top3_acc"] = float(epoch_result["val_top3_acc"])
@@ -458,16 +524,38 @@ def train(config: TrainConfig, use_wandb: bool = False) -> None:
                 log_payload[f"val/by_lang/{lang}"] = float(acc)
             wandb_run.log(log_payload)
 
-    model.save(config.work_dir)
-    with open(os.path.join(config.work_dir, "train_config.json"), "w", encoding="utf-8") as f:
-        json.dump(asdict(config), f, indent=2)
+        last_epoch = epoch + 1
+        if val_loader is not None and epochs_without_improvement >= EARLY_STOPPING_PATIENCE:
+            stopped_early = True
+            print(
+                f"Early stopping triggered at epoch {last_epoch} "
+                f"after {epochs_without_improvement} non-improving epochs."
+            )
+            break
+
     with open(os.path.join(config.work_dir, "train_metrics.json"), "w", encoding="utf-8") as f:
         json.dump(metrics, f, indent=2)
+    summary_best_epoch = best_epoch if best_epoch is not None else (last_epoch if last_epoch > 0 else None)
+    default_checkpoint = CHECKPOINT_LAST if best_is_last_only or val_loader is None else CHECKPOINT_BEST
+    with open(os.path.join(config.work_dir, "checkpoint_summary.json"), "w", encoding="utf-8") as f:
+        json.dump(
+            {
+                "best_checkpoint": default_checkpoint,
+                "best_epoch": summary_best_epoch,
+                "best_val_top3_acc": best_val,
+                "last_epoch": last_epoch,
+                "stopped_early": stopped_early,
+                "early_stopping_patience": EARLY_STOPPING_PATIENCE,
+            },
+            f,
+            indent=2,
+        )
 
     counts = model.count_parameters()
     print(
-        f"Saved checkpoint to {config.work_dir} "
-        f"(trainable={counts['trainable']}, total={counts['total']})"
+        f"Saved checkpoints under {config.work_dir} "
+        f"(default_checkpoint={default_checkpoint}, "
+        f"trainable={counts['trainable']}, total={counts['total']})"
     )
     if wandb_run is not None:
         wandb_run.finish()

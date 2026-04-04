@@ -14,6 +14,8 @@ from router import ALL_BUCKETS, route_text
 INPUT_PAD_CODEPOINT = 0
 MIN_CANINE_INPUT_LEN = 4
 DEFAULT_MAX_SEQ_LEN = 512
+CHECKPOINT_BEST = "best"
+CHECKPOINT_LAST = "last"
 
 
 def build_batch(
@@ -42,8 +44,8 @@ def build_batch(
     )
 
 
-def load_saved_max_seq_len(work_dir: str) -> int:
-    config_path = os.path.join(work_dir, "train_config.json")
+def load_saved_max_seq_len(checkpoint_dir: str) -> int:
+    config_path = os.path.join(checkpoint_dir, "train_config.json")
     if not os.path.isfile(config_path):
         return DEFAULT_MAX_SEQ_LEN
 
@@ -54,6 +56,28 @@ def load_saved_max_seq_len(work_dir: str) -> int:
     if isinstance(value, int) and value > 0:
         return value
     return DEFAULT_MAX_SEQ_LEN
+
+
+def resolve_checkpoint_dir(work_dir: str, checkpoint: Optional[str] = None) -> str:
+    if checkpoint is not None:
+        checkpoint_dir = os.path.join(work_dir, checkpoint)
+        if os.path.isdir(checkpoint_dir):
+            return checkpoint_dir
+        raise FileNotFoundError(
+            f"Missing requested checkpoint directory: {checkpoint_dir}. "
+            "Convert the run to the new layout with best/ and last/ directories."
+        )
+
+    for name in (CHECKPOINT_BEST, CHECKPOINT_LAST):
+        checkpoint_dir = os.path.join(work_dir, name)
+        if os.path.isdir(checkpoint_dir):
+            return checkpoint_dir
+
+    raise FileNotFoundError(
+        f"No checkpoint directory found under run root: {work_dir}. "
+        f"Expected {CHECKPOINT_BEST}/ or {CHECKPOINT_LAST}/. "
+        "Convert the run to the new layout before inference."
+    )
 
 
 def write_pred_txt(preds: Sequence[str], fname: str) -> None:
@@ -146,6 +170,7 @@ class MyModel:
         batch_size: int = 32,
         max_seq_len: Optional[int] = None,
         device: str = "cuda",
+        checkpoint: Optional[str] = None,
     ) -> "MyModel":
         if device == "cuda":
             if torch.cuda.is_available():
@@ -158,17 +183,18 @@ class MyModel:
             runtime_device = torch.device("mps")
         else:
             runtime_device = torch.device("cpu")
-        predictor = CanineLoRACharPredictor.load(work_dir, map_location="cpu")
+        checkpoint_dir = resolve_checkpoint_dir(work_dir, checkpoint=checkpoint)
+        predictor = CanineLoRACharPredictor.load(checkpoint_dir, map_location="cpu")
         predictor = predictor.to(runtime_device)
         predictor.eval()
 
-        vocab_path = os.path.join(work_dir, "vocab.json")
+        vocab_path = os.path.join(checkpoint_dir, "vocab.json")
         if not os.path.isfile(vocab_path):
             raise FileNotFoundError(f"Missing vocab file: {vocab_path}")
         vocab = CharacterVocab.load(vocab_path)
 
         resolved_max_seq_len = (
-            max_seq_len if max_seq_len is not None else load_saved_max_seq_len(work_dir)
+            max_seq_len if max_seq_len is not None else load_saved_max_seq_len(checkpoint_dir)
         )
 
         return cls(
@@ -224,6 +250,7 @@ def predict_with_split_script(
     batch_size: int,
     max_seq_len: Optional[int],
     device: str,
+    checkpoint: Optional[str],
     progress_every: int,
 ) -> List[str]:
     routed_indices: Dict[str, List[int]] = {bucket: [] for bucket in ALL_BUCKETS}
@@ -243,6 +270,7 @@ def predict_with_split_script(
             batch_size=batch_size,
             max_seq_len=max_seq_len,
             device=device,
+            checkpoint=checkpoint,
         )
         subset = [texts[idx] for idx in indices]
         offset = 0
@@ -287,6 +315,7 @@ def main() -> None:
     parser.add_argument("--batch_size", type=int, default=32)
     parser.add_argument("--max_seq_len", type=int, default=None)
     parser.add_argument("--device", choices=("cpu", "mps", "cuda"), default="cuda")
+    parser.add_argument("--checkpoint", choices=(CHECKPOINT_BEST, CHECKPOINT_LAST), default=None)
     parser.add_argument("--progress_every", type=int, default=1000)
     args = parser.parse_args()
 
@@ -312,6 +341,7 @@ def main() -> None:
                 batch_size=args.batch_size,
                 max_seq_len=args.max_seq_len,
                 device=args.device,
+                checkpoint=args.checkpoint,
                 progress_every=args.progress_every,
             )
         else:
@@ -320,6 +350,7 @@ def main() -> None:
                 batch_size=args.batch_size,
                 max_seq_len=args.max_seq_len,
                 device=args.device,
+                checkpoint=args.checkpoint,
             )
             preds: List[str] = []
             for batch_preds, done, total in model.predict_batches(test_data, k=3):
@@ -342,6 +373,7 @@ def main() -> None:
             batch_size=args.batch_size,
             max_seq_len=args.max_seq_len,
             device=args.device,
+            checkpoint=args.checkpoint,
             progress_every=args.progress_every,
         )
         write_pred_txt(preds, args.test_output)
@@ -351,6 +383,7 @@ def main() -> None:
             batch_size=args.batch_size,
             max_seq_len=args.max_seq_len,
             device=args.device,
+            checkpoint=args.checkpoint,
         )
         model.run_pred_to_file(test_data, args.test_output, progress_every=args.progress_every)
 
