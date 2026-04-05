@@ -2,7 +2,7 @@
 import argparse
 import os
 import random
-from typing import Dict, Iterator, List, Sequence, Tuple
+from typing import Dict, Iterator, List, Optional, Sequence, Tuple
 
 Example = Tuple[str, str, str]
 LANGUAGE_TO_SCRIPT = {
@@ -17,6 +17,7 @@ LANGUAGE_TO_SCRIPT = {
     "zh": "zh",
     "ja": "ja",
 }
+SCRIPT_NAMES = tuple(sorted(set(LANGUAGE_TO_SCRIPT.values())))
 
 
 def save_lines(path: str, lines: Sequence[str]) -> None:
@@ -103,6 +104,16 @@ def validate_script_mapping(languages: Sequence[str]) -> None:
         )
 
 
+def validate_only_scripts(only_scripts: Sequence[str]) -> List[str]:
+    unknown = sorted(script for script in only_scripts if script not in SCRIPT_NAMES)
+    if unknown:
+        raise ValueError(
+            "Unknown script names for --only_script: "
+            f"{', '.join(unknown)}"
+        )
+    return list(dict.fromkeys(only_scripts))
+
+
 def iter_prefix_examples(
     translations_dir: str,
     lang: str,
@@ -156,13 +167,27 @@ def create_dataset(
     per_lang: int,
     seed: int,
     split_script: bool = False,
+    only_scripts: Optional[Sequence[str]] = None,
 ) -> Tuple[int, Dict[str, int]]:
     if per_lang < 0:
         raise ValueError("--per_lang must be non-negative")
+    if only_scripts and not split_script:
+        raise ValueError("--only_script requires --split_script")
 
     languages, filenames = validate_translations_dir(translations_dir)
+    requested_scripts: List[str] = []
     if split_script:
         validate_script_mapping(languages)
+        requested_scripts = validate_only_scripts(only_scripts or [])
+        if requested_scripts:
+            languages = [
+                lang for lang in languages if LANGUAGE_TO_SCRIPT[lang] in requested_scripts
+            ]
+            if not languages:
+                raise ValueError(
+                    "No languages matched --only_script selection: "
+                    f"{', '.join(requested_scripts)}"
+                )
 
     rng = random.Random(seed)
     selected: List[Example] = []
@@ -183,7 +208,9 @@ def create_dataset(
             by_script.setdefault(script, []).append(example)
 
         counts = {}
-        for script, examples in sorted(by_script.items()):
+        script_names = requested_scripts if requested_scripts else sorted(by_script.keys())
+        for script in script_names:
+            examples = by_script.get(script, [])
             write_examples(os.path.join(out_dir, script), examples)
             counts[script] = len(examples)
         return len(selected), counts
@@ -206,7 +233,11 @@ def main() -> None:
     parser.add_argument("--per_lang", type=int, default=500)
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--split_script", action="store_true")
+    parser.add_argument("--only_script", nargs="+", choices=SCRIPT_NAMES)
     args = parser.parse_args()
+
+    if args.only_script and not args.split_script:
+        parser.error("--only_script requires --split_script")
 
     total, counts = create_dataset(
         translations_dir=args.translations_dir,
@@ -214,6 +245,7 @@ def main() -> None:
         per_lang=args.per_lang,
         seed=args.seed,
         split_script=args.split_script,
+        only_scripts=args.only_script,
     )
     print(f"Wrote {total} examples to {args.out_dir}")
     for lang in sorted(counts.keys()):
