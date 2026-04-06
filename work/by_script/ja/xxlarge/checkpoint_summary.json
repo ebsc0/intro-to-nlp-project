@@ -1,0 +1,8 @@
+{
+  "best_checkpoint": "last",
+  "best_epoch": 12,
+  "best_val_top3_acc": 0.6929666666666666,
+  "last_epoch": 12,
+  "stopped_early": false,
+  "early_stopping_patience": 2
+}

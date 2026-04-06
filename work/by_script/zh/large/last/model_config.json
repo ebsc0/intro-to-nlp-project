@@ -1,0 +1,15 @@
+{
+  "base_model": "google/canine-c",
+  "vocab_size": 1607,
+  "head_hidden_size": 512,
+  "dropout": 0.1,
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "lora_dropout": 0.1,
+  "lora_target_modules": [
+    "query",
+    "key",
+    "value",
+    "attention.output.dense"
+  ]
+}

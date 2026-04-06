@@ -1,0 +1,122 @@
+[
+  {
+    "epoch": 1.0,
+    "train_loss": 2.572041218084368,
+    "epoch_seconds": 246.69300436973572,
+    "val_top3_acc": 0.5842,
+    "val_top3_acc_by_lang": {
+      "hi": 0.5842
+    },
+    "val_count_by_lang": {
+      "hi": 5000
+    }
+  },
+  {
+    "epoch": 2.0,
+    "train_loss": 2.1771048102527857,
+    "epoch_seconds": 246.3030047416687,
+    "val_top3_acc": 0.6406,
+    "val_top3_acc_by_lang": {
+      "hi": 0.6406
+    },
+    "val_count_by_lang": {
+      "hi": 5000
+    }
+  },
+  {
+    "epoch": 3.0,
+    "train_loss": 1.9777003284543753,
+    "epoch_seconds": 246.36089825630188,
+    "val_top3_acc": 0.6718,
+    "val_top3_acc_by_lang": {
+      "hi": 0.6718
+    },
+    "val_count_by_lang": {
+      "hi": 5000
+    }
+  },
+  {
+    "epoch": 4.0,
+    "train_loss": 1.8410289008170366,
+    "epoch_seconds": 246.16234278678894,
+    "val_top3_acc": 0.6984,
+    "val_top3_acc_by_lang": {
+      "hi": 0.6984
+    },
+    "val_count_by_lang": {
+      "hi": 5000
+    }
+  },
+  {
+    "epoch": 5.0,
+    "train_loss": 1.7461193297058344,
+    "epoch_seconds": 246.363915681839,
+    "val_top3_acc": 0.7086,
+    "val_top3_acc_by_lang": {
+      "hi": 0.7086
+    },
+    "val_count_by_lang": {
+      "hi": 5000
+    }
+  },
+  {
+    "epoch": 6.0,
+    "train_loss": 1.661383960734714,
+    "epoch_seconds": 246.21015810966492,
+    "val_top3_acc": 0.7196,
+    "val_top3_acc_by_lang": {
+      "hi": 0.7196
+    },
+    "val_count_by_lang": {
+      "hi": 5000
+    }
+  },
+  {
+    "epoch": 7.0,
+    "train_loss": 1.6037100787189873,
+    "epoch_seconds": 246.46141409873962,
+    "val_top3_acc": 0.721,
+    "val_top3_acc_by_lang": {
+      "hi": 0.721
+    },
+    "val_count_by_lang": {
+      "hi": 5000
+    }
+  },
+  {
+    "epoch": 8.0,
+    "train_loss": 1.5473909512670203,
+    "epoch_seconds": 246.40191292762756,
+    "val_top3_acc": 0.7256,
+    "val_top3_acc_by_lang": {
+      "hi": 0.7256
+    },
+    "val_count_by_lang": {
+      "hi": 5000
+    }
+  },
+  {
+    "epoch": 9.0,
+    "train_loss": 1.4893905861641874,
+    "epoch_seconds": 246.12649083137512,
+    "val_top3_acc": 0.7262,
+    "val_top3_acc_by_lang": {
+      "hi": 0.7262
+    },
+    "val_count_by_lang": {
+      "hi": 5000
+    }
+  },
+  {
+    "epoch": 10.0,
+    "train_loss": 1.4387077332728289,
+    "epoch_seconds": 246.3221414089203,
+    "val_top3_acc": 0.7372,
+    "val_top3_acc_by_lang": {
+      "hi": 0.7372
+    },
+    "val_count_by_lang": {
+      "hi": 5000
+    }
+  }
+]

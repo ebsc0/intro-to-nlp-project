@@ -1,0 +1,18 @@
+{
+  "input_path": "data/medium/input.txt",
+  "answer_path": "data/medium/answer.txt",
+  "work_dir": "work/medium",
+  "vocab_size": 8000,
+  "min_freq": 1,
+  "max_seq_len": 128,
+  "batch_size": 64,
+  "num_epochs": 8,
+  "val_split": 0.1,
+  "lr_encoder_lora": 0.0001,
+  "lr_head": 0.001,
+  "weight_decay": 0.01,
+  "max_grad_norm": 1.0,
+  "seed": 0,
+  "device": "cuda",
+  "log_every": 100
+}
