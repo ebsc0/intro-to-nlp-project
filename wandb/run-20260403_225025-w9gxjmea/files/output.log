@@ -1,0 +1,111 @@
+Epoch 1/10 started (batches=704)
+Epoch 1/10 batch 100/704 loss=2.6249 avg_loss=3.1593
+Epoch 1/10 batch 200/704 loss=2.6896 avg_loss=2.9044
+Epoch 1/10 batch 300/704 loss=2.4369 avg_loss=2.7907
+Epoch 1/10 batch 400/704 loss=2.3480 avg_loss=2.7174
+Epoch 1/10 batch 500/704 loss=2.0105 avg_loss=2.6641
+Epoch 1/10 batch 600/704 loss=2.3675 avg_loss=2.6100
+Epoch 1/10 batch 700/704 loss=1.9893 avg_loss=2.5734
+Epoch 1/10 batch 704/704 loss=2.6878 avg_loss=2.5720
+Validation hi: count=5000 top3_acc=0.58420
+{"epoch": 1.0, "train_loss": 2.572041218084368, "epoch_seconds": 246.69300436973572, "val_top3_acc": 0.5842, "val_top3_acc_by_lang": {"hi": 0.5842}, "val_count_by_lang": {"hi": 5000}}
+Epoch 2/10 started (batches=704)
+Epoch 2/10 batch 100/704 loss=2.6092 avg_loss=2.2828
+Epoch 2/10 batch 200/704 loss=2.1714 avg_loss=2.2492
+Epoch 2/10 batch 300/704 loss=2.0163 avg_loss=2.2409
+Epoch 2/10 batch 400/704 loss=2.0321 avg_loss=2.2216
+Epoch 2/10 batch 500/704 loss=1.9570 avg_loss=2.2039
+Epoch 2/10 batch 600/704 loss=2.2611 avg_loss=2.1888
+Epoch 2/10 batch 700/704 loss=2.1234 avg_loss=2.1773
+Epoch 2/10 batch 704/704 loss=2.0479 avg_loss=2.1771
+Validation hi: count=5000 top3_acc=0.64060
+{"epoch": 2.0, "train_loss": 2.1771048102527857, "epoch_seconds": 246.3030047416687, "val_top3_acc": 0.6406, "val_top3_acc_by_lang": {"hi": 0.6406}, "val_count_by_lang": {"hi": 5000}}
+Epoch 3/10 started (batches=704)
+Epoch 3/10 batch 100/704 loss=1.9439 avg_loss=2.0049
+Epoch 3/10 batch 200/704 loss=1.7470 avg_loss=1.9845
+Epoch 3/10 batch 300/704 loss=1.9277 avg_loss=1.9874
+Epoch 3/10 batch 400/704 loss=1.8529 avg_loss=1.9946
+Epoch 3/10 batch 500/704 loss=1.5848 avg_loss=1.9938
+Epoch 3/10 batch 600/704 loss=1.9053 avg_loss=1.9870
+Epoch 3/10 batch 700/704 loss=1.9465 avg_loss=1.9770
+Epoch 3/10 batch 704/704 loss=2.5554 avg_loss=1.9777
+Validation hi: count=5000 top3_acc=0.67180
+{"epoch": 3.0, "train_loss": 1.9777003284543753, "epoch_seconds": 246.36089825630188, "val_top3_acc": 0.6718, "val_top3_acc_by_lang": {"hi": 0.6718}, "val_count_by_lang": {"hi": 5000}}
+Epoch 4/10 started (batches=704)
+Epoch 4/10 batch 100/704 loss=1.7488 avg_loss=1.8593
+Epoch 4/10 batch 200/704 loss=1.8594 avg_loss=1.8434
+Epoch 4/10 batch 300/704 loss=2.2123 avg_loss=1.8452
+Epoch 4/10 batch 400/704 loss=2.1509 avg_loss=1.8462
+Epoch 4/10 batch 500/704 loss=1.5843 avg_loss=1.8505
+Epoch 4/10 batch 600/704 loss=2.0128 avg_loss=1.8414
+Epoch 4/10 batch 700/704 loss=1.8493 avg_loss=1.8399
+Epoch 4/10 batch 704/704 loss=2.1116 avg_loss=1.8410
+Validation hi: count=5000 top3_acc=0.69840
+{"epoch": 4.0, "train_loss": 1.8410289008170366, "epoch_seconds": 246.16234278678894, "val_top3_acc": 0.6984, "val_top3_acc_by_lang": {"hi": 0.6984}, "val_count_by_lang": {"hi": 5000}}
+Epoch 5/10 started (batches=704)
+Epoch 5/10 batch 100/704 loss=1.2781 avg_loss=1.7361
+Epoch 5/10 batch 200/704 loss=1.9184 avg_loss=1.7573
+Epoch 5/10 batch 300/704 loss=1.6797 avg_loss=1.7525
+Epoch 5/10 batch 400/704 loss=1.5716 avg_loss=1.7516
+Epoch 5/10 batch 500/704 loss=1.8603 avg_loss=1.7516
+Epoch 5/10 batch 600/704 loss=1.7628 avg_loss=1.7480
+Epoch 5/10 batch 700/704 loss=1.5633 avg_loss=1.7463
+Epoch 5/10 batch 704/704 loss=2.3147 avg_loss=1.7461
+Validation hi: count=5000 top3_acc=0.70860
+{"epoch": 5.0, "train_loss": 1.7461193297058344, "epoch_seconds": 246.363915681839, "val_top3_acc": 0.7086, "val_top3_acc_by_lang": {"hi": 0.7086}, "val_count_by_lang": {"hi": 5000}}
+Epoch 6/10 started (batches=704)
+Epoch 6/10 batch 100/704 loss=1.6655 avg_loss=1.6684
+Epoch 6/10 batch 200/704 loss=1.8700 avg_loss=1.6439
+Epoch 6/10 batch 300/704 loss=1.4051 avg_loss=1.6383
+Epoch 6/10 batch 400/704 loss=1.3682 avg_loss=1.6426
+Epoch 6/10 batch 500/704 loss=1.6617 avg_loss=1.6468
+Epoch 6/10 batch 600/704 loss=1.6107 avg_loss=1.6531
+Epoch 6/10 batch 700/704 loss=1.5564 avg_loss=1.6618
+Epoch 6/10 batch 704/704 loss=1.3582 avg_loss=1.6614
+Validation hi: count=5000 top3_acc=0.71960
+{"epoch": 6.0, "train_loss": 1.661383960734714, "epoch_seconds": 246.21015810966492, "val_top3_acc": 0.7196, "val_top3_acc_by_lang": {"hi": 0.7196}, "val_count_by_lang": {"hi": 5000}}
+Epoch 7/10 started (batches=704)
+Epoch 7/10 batch 100/704 loss=1.5025 avg_loss=1.5639
+Epoch 7/10 batch 200/704 loss=1.7395 avg_loss=1.5665
+Epoch 7/10 batch 300/704 loss=1.6876 avg_loss=1.5871
+Epoch 7/10 batch 400/704 loss=1.4906 avg_loss=1.5976
+Epoch 7/10 batch 500/704 loss=1.7753 avg_loss=1.5972
+Epoch 7/10 batch 600/704 loss=1.8912 avg_loss=1.6002
+Epoch 7/10 batch 700/704 loss=1.4510 avg_loss=1.6020
+Epoch 7/10 batch 704/704 loss=2.1317 avg_loss=1.6037
+Validation hi: count=5000 top3_acc=0.72100
+{"epoch": 7.0, "train_loss": 1.6037100787189873, "epoch_seconds": 246.46141409873962, "val_top3_acc": 0.721, "val_top3_acc_by_lang": {"hi": 0.721}, "val_count_by_lang": {"hi": 5000}}
+Epoch 8/10 started (batches=704)
+Epoch 8/10 batch 100/704 loss=1.8738 avg_loss=1.5177
+Epoch 8/10 batch 200/704 loss=1.6794 avg_loss=1.5250
+Epoch 8/10 batch 300/704 loss=1.5928 avg_loss=1.5338
+Epoch 8/10 batch 400/704 loss=1.4334 avg_loss=1.5410
+Epoch 8/10 batch 500/704 loss=1.5914 avg_loss=1.5454
+Epoch 8/10 batch 600/704 loss=1.4687 avg_loss=1.5458
+Epoch 8/10 batch 700/704 loss=1.6656 avg_loss=1.5478
+Epoch 8/10 batch 704/704 loss=1.1264 avg_loss=1.5474
+Validation hi: count=5000 top3_acc=0.72560
+{"epoch": 8.0, "train_loss": 1.5473909512670203, "epoch_seconds": 246.40191292762756, "val_top3_acc": 0.7256, "val_top3_acc_by_lang": {"hi": 0.7256}, "val_count_by_lang": {"hi": 5000}}
+Epoch 9/10 started (batches=704)
+Epoch 9/10 batch 100/704 loss=1.5316 avg_loss=1.4710
+Epoch 9/10 batch 200/704 loss=1.4735 avg_loss=1.4742
+Epoch 9/10 batch 300/704 loss=1.6056 avg_loss=1.4817
+Epoch 9/10 batch 400/704 loss=1.4191 avg_loss=1.4795
+Epoch 9/10 batch 500/704 loss=1.3325 avg_loss=1.4812
+Epoch 9/10 batch 600/704 loss=1.1921 avg_loss=1.4834
+Epoch 9/10 batch 700/704 loss=1.5052 avg_loss=1.4903
+Epoch 9/10 batch 704/704 loss=0.7571 avg_loss=1.4894
+Validation hi: count=5000 top3_acc=0.72620
+{"epoch": 9.0, "train_loss": 1.4893905861641874, "epoch_seconds": 246.12649083137512, "val_top3_acc": 0.7262, "val_top3_acc_by_lang": {"hi": 0.7262}, "val_count_by_lang": {"hi": 5000}}
+Epoch 10/10 started (batches=704)
+Epoch 10/10 batch 100/704 loss=1.3682 avg_loss=1.3753
+Epoch 10/10 batch 200/704 loss=1.5904 avg_loss=1.3942
+Epoch 10/10 batch 300/704 loss=1.4472 avg_loss=1.4185
+Epoch 10/10 batch 400/704 loss=1.4633 avg_loss=1.4104
+Epoch 10/10 batch 500/704 loss=2.1055 avg_loss=1.4191
+Epoch 10/10 batch 600/704 loss=1.6256 avg_loss=1.4300
+Epoch 10/10 batch 700/704 loss=1.5987 avg_loss=1.4396
+Epoch 10/10 batch 704/704 loss=0.6668 avg_loss=1.4387
+Validation hi: count=5000 top3_acc=0.73720
+{"epoch": 10.0, "train_loss": 1.4387077332728289, "epoch_seconds": 246.3221414089203, "val_top3_acc": 0.7372, "val_top3_acc_by_lang": {"hi": 0.7372}, "val_count_by_lang": {"hi": 5000}}
+Saved checkpoint to work/by_script/devanagari/large (trainable=1833596, total=133916540)

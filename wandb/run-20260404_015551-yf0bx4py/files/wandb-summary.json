@@ -1,0 +1,1 @@
+{"_timestamp":1.7752876331807761e+09,"_runtime":5481,"val/top3_acc":0.5291,"checkpoint/epochs_without_improvement":1,"step":16884,"train/batch_loss":2.7392373085021973,"val/by_lang/zh":0.5291,"train/epoch_loss":2.28376829378471,"_step":191,"train/avg_loss":2.28376829378471,"epoch":12,"train/epoch_seconds":434.67139434814453,"checkpoint/is_best":false,"_wandb":{"runtime":5481}}

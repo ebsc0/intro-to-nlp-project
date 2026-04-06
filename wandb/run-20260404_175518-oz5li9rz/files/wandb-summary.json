@@ -1,0 +1,1 @@
+{"train/avg_loss":1.419722348260981,"_timestamp":1.7753459522317886e+09,"checkpoint/is_best":true,"train/epoch_seconds":493.72316908836365,"_wandb":{"runtime":6233},"train/batch_loss":1.3676316738128662,"epoch":12,"train/epoch_loss":1.419722348260981,"val/by_lang/ru":0.759,"_runtime":6233,"_step":191,"step":16884,"val/top3_acc":0.759,"checkpoint/epochs_without_improvement":0}

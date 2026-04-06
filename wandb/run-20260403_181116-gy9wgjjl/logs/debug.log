@@ -1,0 +1,13 @@
+2026-04-03 18:11:16,051 INFO    MainThread:625879 [wandb_setup.py:_flush():81] Current SDK version is 0.25.1
+2026-04-03 18:11:16,052 INFO    MainThread:625879 [wandb_setup.py:_flush():81] Configure stats pid to 625879
+2026-04-03 18:11:16,052 INFO    MainThread:625879 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2026-04-03 18:11:16,052 INFO    MainThread:625879 [wandb_init.py:setup_run_log_directory():717] Logging user logs to /home/e2baek/cs489/intro-to-nlp-project/wandb/run-20260403_181116-gy9wgjjl/logs/debug.log
+2026-04-03 18:11:16,052 INFO    MainThread:625879 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to /home/e2baek/cs489/intro-to-nlp-project/wandb/run-20260403_181116-gy9wgjjl/logs/debug-internal.log
+2026-04-03 18:11:16,052 INFO    MainThread:625879 [wandb_init.py:init():844] calling init triggers
+2026-04-03 18:11:16,052 INFO    MainThread:625879 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'train': {'input_path': 'data/by_script/large/latin/input.txt', 'answer_path': 'data/by_script/large/latin/answer.txt', 'work_dir': 'work/by_script/latin/large', 'vocab_size': 8000, 'min_freq': 1, 'max_seq_len': 256, 'batch_size': 64, 'num_epochs': 8, 'val_split': 0.1, 'lr_encoder_lora': 0.0001, 'lr_head': 0.001, 'weight_decay': 0.01, 'max_grad_norm': 1.0, 'seed': 42, 'device': 'cuda', 'log_every': 100}, 'model': {'base_model': 'google/canine-c', 'vocab_size': 126, 'head_hidden_size': 512, 'dropout': 0.1, 'lora_r': 16, 'lora_alpha': 32, 'lora_dropout': 0.1, 'lora_target_modules': ('query', 'key', 'value', 'attention.output.dense')}, '_wandb': {}}
+2026-04-03 18:11:16,052 INFO    MainThread:625879 [wandb_init.py:init():892] starting backend
+2026-04-03 18:11:16,877 INFO    MainThread:625879 [wandb_init.py:init():895] sending inform_init request
+2026-04-03 18:11:16,896 INFO    MainThread:625879 [wandb_init.py:init():903] backend started and connected
+2026-04-03 18:11:16,897 INFO    MainThread:625879 [wandb_init.py:init():973] updated telemetry
+2026-04-03 18:11:16,906 INFO    MainThread:625879 [wandb_init.py:init():997] communicating run to backend with 90.0 second timeout

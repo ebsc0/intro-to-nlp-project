@@ -1,0 +1,28 @@
+Epoch 1/8 started (batches=2813)
+Epoch 1/8 batch 100/2813 loss=3.1370 avg_loss=3.1651
+Epoch 1/8 batch 200/2813 loss=2.8085 avg_loss=2.9673
+Epoch 1/8 batch 300/2813 loss=2.8033 avg_loss=2.8748
+Epoch 1/8 batch 400/2813 loss=2.9367 avg_loss=2.8181
+Epoch 1/8 batch 500/2813 loss=2.5127 avg_loss=2.7800
+Epoch 1/8 batch 600/2813 loss=2.5310 avg_loss=2.7420
+Epoch 1/8 batch 700/2813 loss=2.2993 avg_loss=2.7148
+Epoch 1/8 batch 800/2813 loss=2.9587 avg_loss=2.6914
+Epoch 1/8 batch 900/2813 loss=2.1420 avg_loss=2.6694
+Epoch 1/8 batch 1000/2813 loss=2.4521 avg_loss=2.6476
+Epoch 1/8 batch 1100/2813 loss=2.2350 avg_loss=2.6267
+Epoch 1/8 batch 1200/2813 loss=2.2754 avg_loss=2.6065
+Epoch 1/8 batch 1300/2813 loss=2.2067 avg_loss=2.5893
+Epoch 1/8 batch 1400/2813 loss=2.5430 avg_loss=2.5733
+Traceback (most recent call last):
+  File "/home/e2baek/cs489/intro-to-nlp-project/src/train.py", line 501, in <module>
+    train(*parse_args())
+  File "/home/e2baek/cs489/intro-to-nlp-project/src/train.py", line 405, in train
+    loss.backward()
+  File "/home/e2baek/cs489/intro-to-nlp-project/.venv/lib/python3.12/site-packages/torch/_tensor.py", line 648, in backward
+    torch.autograd.backward(
+  File "/home/e2baek/cs489/intro-to-nlp-project/.venv/lib/python3.12/site-packages/torch/autograd/__init__.py", line 353, in backward
+    _engine_run_backward(
+  File "/home/e2baek/cs489/intro-to-nlp-project/.venv/lib/python3.12/site-packages/torch/autograd/graph.py", line 824, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

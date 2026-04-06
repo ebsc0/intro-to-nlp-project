@@ -1,0 +1,99 @@
+_wandb:
+    value:
+        cli_version: 0.25.1
+        e:
+            tlpc256o49z5bbmv9e0u9ca0asobcabe:
+                args:
+                    - --config
+                    - configs/by_script/cyrillic/xlarge.json
+                    - --device
+                    - cuda
+                    - --wandb
+                codePath: src/train.py
+                codePathLocal: src/train.py
+                cpu_count: 12
+                cpu_count_logical: 24
+                cudaVersion: "13.0"
+                disk:
+                    /:
+                        total: "982240026624"
+                        used: "292055035904"
+                email: eugene.baek@uwaterloo.ca
+                executable: /home/e2baek/cs489/intro-to-nlp-project/.venv/bin/python
+                git:
+                    commit: 4687f9ad499639f59a0c66221a17fe375a65f08c
+                    remote: git@github.com:ebsc0/intro-to-nlp-project.git
+                gpu: NVIDIA GeForce RTX 3070
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      cudaCores: 5888
+                      memoryTotal: "8589934592"
+                      name: NVIDIA GeForce RTX 3070
+                      uuid: GPU-01fc3472-4856-01fb-0d1d-dd85396dfb17
+                host: ecetesla4
+                memory:
+                    total: "134970224640"
+                os: Linux-6.17.0-14-generic-x86_64-with-glibc2.39
+                program: /home/e2baek/cs489/intro-to-nlp-project/src/train.py
+                python: CPython 3.12.3
+                root: /home/e2baek/cs489/intro-to-nlp-project
+                startedAt: "2026-04-04T21:55:18.011953Z"
+                writerId: tlpc256o49z5bbmv9e0u9ca0asobcabe
+        m: []
+        python_version: 3.12.3
+        t:
+            "1":
+                - 1
+                - 11
+                - 49
+                - 71
+                - 98
+            "2":
+                - 1
+                - 11
+                - 49
+                - 71
+                - 98
+            "3":
+                - 2
+                - 13
+                - 15
+                - 16
+            "4": 3.12.3
+            "5": 0.25.1
+            "6": 5.5.0
+            "12": 0.25.1
+            "13": linux-x86_64
+model:
+    value:
+        base_model: google/canine-c
+        dropout: 0.1
+        head_hidden_size: 512
+        lora_alpha: 32
+        lora_dropout: 0.1
+        lora_r: 16
+        lora_target_modules:
+            - query
+            - key
+            - value
+            - attention.output.dense
+        vocab_size: 153
+train:
+    value:
+        answer_path: data/by_script/xlarge/cyrillic/answer.txt
+        batch_size: 64
+        device: cuda
+        input_path: data/by_script/xlarge/cyrillic/input.txt
+        log_every: 100
+        lr_encoder_lora: 0.0001
+        lr_head: 0.001
+        max_grad_norm: 1
+        max_seq_len: 256
+        min_freq: 1
+        num_epochs: 12
+        seed: 42
+        val_split: 0.1
+        vocab_size: 8000
+        weight_decay: 0.01
+        work_dir: work/by_script/cyrillic/xlarge

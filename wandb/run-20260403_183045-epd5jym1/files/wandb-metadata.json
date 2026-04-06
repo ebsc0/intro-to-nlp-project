@@ -1,0 +1,47 @@
+{
+  "os": "Linux-6.17.0-14-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.12.3",
+  "startedAt": "2026-04-03T22:30:45.294244Z",
+  "args": [
+    "--config",
+    "configs/by_script/latin/large.json",
+    "--device",
+    "cuda",
+    "--wandb"
+  ],
+  "program": "/home/e2baek/cs489/intro-to-nlp-project/src/train.py",
+  "codePath": "src/train.py",
+  "codePathLocal": "src/train.py",
+  "git": {
+    "remote": "git@github.com:ebsc0/intro-to-nlp-project.git",
+    "commit": "f8a1c284d421b2acfb550e84775a24b3de095d27"
+  },
+  "email": "eugene.baek@uwaterloo.ca",
+  "root": "/home/e2baek/cs489/intro-to-nlp-project",
+  "host": "ecetesla4",
+  "executable": "/home/e2baek/cs489/intro-to-nlp-project/.venv/bin/python",
+  "cpu_count": 12,
+  "cpu_count_logical": 24,
+  "gpu": "NVIDIA GeForce RTX 3070",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "982240026624",
+      "used": "291666120704"
+    }
+  },
+  "memory": {
+    "total": "134970224640"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3070",
+      "memoryTotal": "8589934592",
+      "cudaCores": 5888,
+      "architecture": "Ampere",
+      "uuid": "GPU-01fc3472-4856-01fb-0d1d-dd85396dfb17"
+    }
+  ],
+  "cudaVersion": "13.0",
+  "writerId": "ydl6u3ot60z38axoh5o89b810trnodf5"
+}

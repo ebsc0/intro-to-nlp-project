@@ -1,0 +1,217 @@
+Epoch 1/12 started (batches=1407)
+Epoch 1/12 batch 100/1407 loss=2.9330 avg_loss=3.1988
+Epoch 1/12 batch 200/1407 loss=2.7135 avg_loss=2.9806
+Epoch 1/12 batch 300/1407 loss=2.6728 avg_loss=2.8726
+Epoch 1/12 batch 400/1407 loss=2.5311 avg_loss=2.8052
+Epoch 1/12 batch 500/1407 loss=2.6920 avg_loss=2.7579
+Epoch 1/12 batch 600/1407 loss=2.1911 avg_loss=2.7198
+Epoch 1/12 batch 700/1407 loss=2.2642 avg_loss=2.6784
+Epoch 1/12 batch 800/1407 loss=2.6757 avg_loss=2.6468
+Epoch 1/12 batch 900/1407 loss=2.3970 avg_loss=2.6140
+Epoch 1/12 batch 1000/1407 loss=2.2865 avg_loss=2.5851
+Epoch 1/12 batch 1100/1407 loss=2.5199 avg_loss=2.5601
+Epoch 1/12 batch 1200/1407 loss=2.1334 avg_loss=2.5349
+Epoch 1/12 batch 1300/1407 loss=2.4680 avg_loss=2.5147
+Epoch 1/12 batch 1400/1407 loss=2.5029 avg_loss=2.4943
+Epoch 1/12 batch 1407/1407 loss=2.0102 avg_loss=2.4931
+Validation ru: count=10000 top3_acc=0.62130
+{"epoch": 1.0, "train_loss": 2.493065972318019, "epoch_seconds": 494.04027915000916, "val_top3_acc": 0.6213, "val_top3_acc_by_lang": {"ru": 0.6213}, "val_count_by_lang": {"ru": 10000}, "is_best": true, "epochs_without_improvement": 0}
+Epoch 2/12 started (batches=1407)
+Epoch 2/12 batch 100/1407 loss=2.1905 avg_loss=2.1494
+Epoch 2/12 batch 200/1407 loss=2.0860 avg_loss=2.1503
+Epoch 2/12 batch 300/1407 loss=2.0414 avg_loss=2.1373
+Epoch 2/12 batch 400/1407 loss=2.1124 avg_loss=2.1219
+Epoch 2/12 batch 500/1407 loss=2.2395 avg_loss=2.1115
+Epoch 2/12 batch 600/1407 loss=2.1872 avg_loss=2.1033
+Epoch 2/12 batch 700/1407 loss=2.1222 avg_loss=2.0945
+Epoch 2/12 batch 800/1407 loss=1.8215 avg_loss=2.0920
+Epoch 2/12 batch 900/1407 loss=2.2203 avg_loss=2.0838
+Epoch 2/12 batch 1000/1407 loss=2.0614 avg_loss=2.0776
+Epoch 2/12 batch 1100/1407 loss=1.8154 avg_loss=2.0728
+Epoch 2/12 batch 1200/1407 loss=1.8801 avg_loss=2.0683
+Epoch 2/12 batch 1300/1407 loss=2.0422 avg_loss=2.0617
+Epoch 2/12 batch 1400/1407 loss=2.2526 avg_loss=2.0536
+Epoch 2/12 batch 1407/1407 loss=2.5535 avg_loss=2.0533
+Validation ru: count=10000 top3_acc=0.68340
+{"epoch": 2.0, "train_loss": 2.0533466260316273, "epoch_seconds": 493.7572011947632, "val_top3_acc": 0.6834, "val_top3_acc_by_lang": {"ru": 0.6834}, "val_count_by_lang": {"ru": 10000}, "is_best": true, "epochs_without_improvement": 0}
+Epoch 3/12 started (batches=1407)
+Epoch 3/12 batch 100/1407 loss=1.8148 avg_loss=1.8824
+Epoch 3/12 batch 200/1407 loss=2.0433 avg_loss=1.8790
+Epoch 3/12 batch 300/1407 loss=1.4334 avg_loss=1.8864
+Epoch 3/12 batch 400/1407 loss=2.0396 avg_loss=1.8904
+Epoch 3/12 batch 500/1407 loss=1.8235 avg_loss=1.8892
+Epoch 3/12 batch 600/1407 loss=2.1474 avg_loss=1.8890
+Epoch 3/12 batch 700/1407 loss=1.9139 avg_loss=1.8911
+Epoch 3/12 batch 800/1407 loss=1.8599 avg_loss=1.8895
+Epoch 3/12 batch 900/1407 loss=1.8199 avg_loss=1.8888
+Epoch 3/12 batch 1000/1407 loss=1.8938 avg_loss=1.8852
+Epoch 3/12 batch 1100/1407 loss=2.0112 avg_loss=1.8821
+Epoch 3/12 batch 1200/1407 loss=1.6982 avg_loss=1.8787
+Epoch 3/12 batch 1300/1407 loss=1.9080 avg_loss=1.8778
+Epoch 3/12 batch 1400/1407 loss=1.9804 avg_loss=1.8774
+Epoch 3/12 batch 1407/1407 loss=1.4374 avg_loss=1.8770
+Validation ru: count=10000 top3_acc=0.70760
+{"epoch": 3.0, "train_loss": 1.877044533361504, "epoch_seconds": 493.69282150268555, "val_top3_acc": 0.7076, "val_top3_acc_by_lang": {"ru": 0.7076}, "val_count_by_lang": {"ru": 10000}, "is_best": true, "epochs_without_improvement": 0}
+Epoch 4/12 started (batches=1407)
+Epoch 4/12 batch 100/1407 loss=1.8647 avg_loss=1.7556
+Epoch 4/12 batch 200/1407 loss=1.8712 avg_loss=1.7574
+Epoch 4/12 batch 300/1407 loss=1.6447 avg_loss=1.7620
+Epoch 4/12 batch 400/1407 loss=1.5618 avg_loss=1.7623
+Epoch 4/12 batch 500/1407 loss=1.8905 avg_loss=1.7662
+Epoch 4/12 batch 600/1407 loss=1.6439 avg_loss=1.7752
+Epoch 4/12 batch 700/1407 loss=1.8307 avg_loss=1.7714
+Epoch 4/12 batch 800/1407 loss=1.9712 avg_loss=1.7710
+Epoch 4/12 batch 900/1407 loss=1.8662 avg_loss=1.7680
+Epoch 4/12 batch 1000/1407 loss=1.9684 avg_loss=1.7681
+Epoch 4/12 batch 1100/1407 loss=1.5886 avg_loss=1.7663
+Epoch 4/12 batch 1200/1407 loss=1.6630 avg_loss=1.7669
+Epoch 4/12 batch 1300/1407 loss=1.9915 avg_loss=1.7695
+Epoch 4/12 batch 1400/1407 loss=1.8195 avg_loss=1.7703
+Epoch 4/12 batch 1407/1407 loss=1.7860 avg_loss=1.7709
+Validation ru: count=10000 top3_acc=0.72410
+{"epoch": 4.0, "train_loss": 1.7708905297301725, "epoch_seconds": 493.6262273788452, "val_top3_acc": 0.7241, "val_top3_acc_by_lang": {"ru": 0.7241}, "val_count_by_lang": {"ru": 10000}, "is_best": true, "epochs_without_improvement": 0}
+Epoch 5/12 started (batches=1407)
+Epoch 5/12 batch 100/1407 loss=1.8280 avg_loss=1.7069
+Epoch 5/12 batch 200/1407 loss=1.8942 avg_loss=1.6896
+Epoch 5/12 batch 300/1407 loss=1.6014 avg_loss=1.6899
+Epoch 5/12 batch 400/1407 loss=1.6510 avg_loss=1.6911
+Epoch 5/12 batch 500/1407 loss=1.5552 avg_loss=1.6967
+Epoch 5/12 batch 600/1407 loss=1.7925 avg_loss=1.6999
+Epoch 5/12 batch 700/1407 loss=1.9575 avg_loss=1.7017
+Epoch 5/12 batch 800/1407 loss=1.7314 avg_loss=1.6975
+Epoch 5/12 batch 900/1407 loss=1.6843 avg_loss=1.6955
+Epoch 5/12 batch 1000/1407 loss=1.9010 avg_loss=1.6949
+Epoch 5/12 batch 1100/1407 loss=1.4760 avg_loss=1.6997
+Epoch 5/12 batch 1200/1407 loss=1.6670 avg_loss=1.6981
+Epoch 5/12 batch 1300/1407 loss=1.3403 avg_loss=1.6968
+Epoch 5/12 batch 1400/1407 loss=1.5623 avg_loss=1.6999
+Epoch 5/12 batch 1407/1407 loss=1.5985 avg_loss=1.6996
+Validation ru: count=10000 top3_acc=0.73060
+{"epoch": 5.0, "train_loss": 1.699596233374698, "epoch_seconds": 493.5328538417816, "val_top3_acc": 0.7306, "val_top3_acc_by_lang": {"ru": 0.7306}, "val_count_by_lang": {"ru": 10000}, "is_best": true, "epochs_without_improvement": 0}
+Epoch 6/12 started (batches=1407)
+Epoch 6/12 batch 100/1407 loss=1.6074 avg_loss=1.5999
+Epoch 6/12 batch 200/1407 loss=1.6509 avg_loss=1.6134
+Epoch 6/12 batch 300/1407 loss=1.4565 avg_loss=1.6162
+Epoch 6/12 batch 400/1407 loss=1.5189 avg_loss=1.6196
+Epoch 6/12 batch 500/1407 loss=1.5169 avg_loss=1.6255
+Epoch 6/12 batch 600/1407 loss=1.7350 avg_loss=1.6307
+Epoch 6/12 batch 700/1407 loss=1.3823 avg_loss=1.6309
+Epoch 6/12 batch 800/1407 loss=1.5425 avg_loss=1.6327
+Epoch 6/12 batch 900/1407 loss=1.7514 avg_loss=1.6299
+Epoch 6/12 batch 1000/1407 loss=1.6968 avg_loss=1.6298
+Epoch 6/12 batch 1100/1407 loss=1.5649 avg_loss=1.6363
+Epoch 6/12 batch 1200/1407 loss=1.6983 avg_loss=1.6371
+Epoch 6/12 batch 1300/1407 loss=1.7221 avg_loss=1.6399
+Epoch 6/12 batch 1400/1407 loss=2.0888 avg_loss=1.6413
+Epoch 6/12 batch 1407/1407 loss=1.6756 avg_loss=1.6418
+Validation ru: count=10000 top3_acc=0.73950
+{"epoch": 6.0, "train_loss": 1.6417681382070133, "epoch_seconds": 493.6583671569824, "val_top3_acc": 0.7395, "val_top3_acc_by_lang": {"ru": 0.7395}, "val_count_by_lang": {"ru": 10000}, "is_best": true, "epochs_without_improvement": 0}
+Epoch 7/12 started (batches=1407)
+Epoch 7/12 batch 100/1407 loss=1.6359 avg_loss=1.5311
+Epoch 7/12 batch 200/1407 loss=1.6098 avg_loss=1.5482
+Epoch 7/12 batch 300/1407 loss=1.7696 avg_loss=1.5639
+Epoch 7/12 batch 400/1407 loss=1.8629 avg_loss=1.5688
+Epoch 7/12 batch 500/1407 loss=1.8330 avg_loss=1.5767
+Epoch 7/12 batch 600/1407 loss=1.4153 avg_loss=1.5811
+Epoch 7/12 batch 700/1407 loss=1.7710 avg_loss=1.5830
+Epoch 7/12 batch 800/1407 loss=1.9691 avg_loss=1.5890
+Epoch 7/12 batch 900/1407 loss=1.6504 avg_loss=1.5891
+Epoch 7/12 batch 1000/1407 loss=1.8273 avg_loss=1.5905
+Epoch 7/12 batch 1100/1407 loss=1.7820 avg_loss=1.5921
+Epoch 7/12 batch 1200/1407 loss=1.5801 avg_loss=1.5943
+Epoch 7/12 batch 1300/1407 loss=1.7364 avg_loss=1.5920
+Epoch 7/12 batch 1400/1407 loss=1.4086 avg_loss=1.5916
+Epoch 7/12 batch 1407/1407 loss=0.8694 avg_loss=1.5912
+Validation ru: count=10000 top3_acc=0.74510
+{"epoch": 7.0, "train_loss": 1.5911956088459906, "epoch_seconds": 493.70593786239624, "val_top3_acc": 0.7451, "val_top3_acc_by_lang": {"ru": 0.7451}, "val_count_by_lang": {"ru": 10000}, "is_best": true, "epochs_without_improvement": 0}
+Epoch 8/12 started (batches=1407)
+Epoch 8/12 batch 100/1407 loss=1.4563 avg_loss=1.4747
+Epoch 8/12 batch 200/1407 loss=1.7460 avg_loss=1.4946
+Epoch 8/12 batch 300/1407 loss=1.4672 avg_loss=1.5025
+Epoch 8/12 batch 400/1407 loss=1.6141 avg_loss=1.5179
+Epoch 8/12 batch 500/1407 loss=1.3521 avg_loss=1.5193
+Epoch 8/12 batch 600/1407 loss=1.5297 avg_loss=1.5277
+Epoch 8/12 batch 700/1407 loss=1.7361 avg_loss=1.5319
+Epoch 8/12 batch 800/1407 loss=1.2462 avg_loss=1.5374
+Epoch 8/12 batch 900/1407 loss=1.6504 avg_loss=1.5411
+Epoch 8/12 batch 1000/1407 loss=1.4593 avg_loss=1.5449
+Epoch 8/12 batch 1100/1407 loss=1.7338 avg_loss=1.5486
+Epoch 8/12 batch 1200/1407 loss=1.5233 avg_loss=1.5495
+Epoch 8/12 batch 1300/1407 loss=1.4848 avg_loss=1.5469
+Epoch 8/12 batch 1400/1407 loss=1.3998 avg_loss=1.5494
+Epoch 8/12 batch 1407/1407 loss=1.2528 avg_loss=1.5493
+Validation ru: count=10000 top3_acc=0.75290
+{"epoch": 8.0, "train_loss": 1.5492937680500656, "epoch_seconds": 493.7663252353668, "val_top3_acc": 0.7529, "val_top3_acc_by_lang": {"ru": 0.7529}, "val_count_by_lang": {"ru": 10000}, "is_best": true, "epochs_without_improvement": 0}
+Epoch 9/12 started (batches=1407)
+Epoch 9/12 batch 100/1407 loss=1.3129 avg_loss=1.4766
+Epoch 9/12 batch 200/1407 loss=1.4071 avg_loss=1.4774
+Epoch 9/12 batch 300/1407 loss=1.6691 avg_loss=1.4764
+Epoch 9/12 batch 400/1407 loss=1.4943 avg_loss=1.4820
+Epoch 9/12 batch 500/1407 loss=1.2312 avg_loss=1.4832
+Epoch 9/12 batch 600/1407 loss=1.7128 avg_loss=1.4879
+Epoch 9/12 batch 700/1407 loss=1.4650 avg_loss=1.4889
+Epoch 9/12 batch 800/1407 loss=1.5268 avg_loss=1.4923
+Epoch 9/12 batch 900/1407 loss=1.4907 avg_loss=1.4982
+Epoch 9/12 batch 1000/1407 loss=1.2484 avg_loss=1.5016
+Epoch 9/12 batch 1100/1407 loss=1.5870 avg_loss=1.5026
+Epoch 9/12 batch 1200/1407 loss=1.6818 avg_loss=1.5064
+Epoch 9/12 batch 1300/1407 loss=1.4593 avg_loss=1.5078
+Epoch 9/12 batch 1400/1407 loss=1.6643 avg_loss=1.5102
+Epoch 9/12 batch 1407/1407 loss=1.8208 avg_loss=1.5113
+Validation ru: count=10000 top3_acc=0.75250
+{"epoch": 9.0, "train_loss": 1.5112511383021394, "epoch_seconds": 493.6994822025299, "val_top3_acc": 0.7525, "val_top3_acc_by_lang": {"ru": 0.7525}, "val_count_by_lang": {"ru": 10000}, "is_best": false, "epochs_without_improvement": 1}
+Epoch 10/12 started (batches=1407)
+Epoch 10/12 batch 100/1407 loss=1.5680 avg_loss=1.4518
+Epoch 10/12 batch 200/1407 loss=1.1254 avg_loss=1.4376
+Epoch 10/12 batch 300/1407 loss=1.4190 avg_loss=1.4509
+Epoch 10/12 batch 400/1407 loss=1.4847 avg_loss=1.4533
+Epoch 10/12 batch 500/1407 loss=1.7767 avg_loss=1.4616
+Epoch 10/12 batch 600/1407 loss=1.3458 avg_loss=1.4612
+Epoch 10/12 batch 700/1407 loss=1.5569 avg_loss=1.4633
+Epoch 10/12 batch 800/1407 loss=1.7743 avg_loss=1.4701
+Epoch 10/12 batch 900/1407 loss=1.4697 avg_loss=1.4724
+Epoch 10/12 batch 1000/1407 loss=1.4388 avg_loss=1.4751
+Epoch 10/12 batch 1100/1407 loss=1.6106 avg_loss=1.4743
+Epoch 10/12 batch 1200/1407 loss=1.5688 avg_loss=1.4763
+Epoch 10/12 batch 1300/1407 loss=1.2881 avg_loss=1.4765
+Epoch 10/12 batch 1400/1407 loss=1.3137 avg_loss=1.4778
+Epoch 10/12 batch 1407/1407 loss=1.1216 avg_loss=1.4772
+Validation ru: count=10000 top3_acc=0.75560
+{"epoch": 10.0, "train_loss": 1.4772360772212176, "epoch_seconds": 493.6668357849121, "val_top3_acc": 0.7556, "val_top3_acc_by_lang": {"ru": 0.7556}, "val_count_by_lang": {"ru": 10000}, "is_best": true, "epochs_without_improvement": 0}
+Epoch 11/12 started (batches=1407)
+Epoch 11/12 batch 100/1407 loss=1.2156 avg_loss=1.4105
+Epoch 11/12 batch 200/1407 loss=1.7180 avg_loss=1.4148
+Epoch 11/12 batch 300/1407 loss=1.3794 avg_loss=1.4152
+Epoch 11/12 batch 400/1407 loss=1.3603 avg_loss=1.4190
+Epoch 11/12 batch 500/1407 loss=1.6263 avg_loss=1.4283
+Epoch 11/12 batch 600/1407 loss=1.3794 avg_loss=1.4291
+Epoch 11/12 batch 700/1407 loss=1.4034 avg_loss=1.4318
+Epoch 11/12 batch 800/1407 loss=1.6330 avg_loss=1.4335
+Epoch 11/12 batch 900/1407 loss=1.2413 avg_loss=1.4318
+Epoch 11/12 batch 1000/1407 loss=1.3161 avg_loss=1.4355
+Epoch 11/12 batch 1100/1407 loss=1.5903 avg_loss=1.4381
+Epoch 11/12 batch 1200/1407 loss=1.2785 avg_loss=1.4404
+Epoch 11/12 batch 1300/1407 loss=1.4916 avg_loss=1.4419
+Epoch 11/12 batch 1400/1407 loss=1.3124 avg_loss=1.4430
+Epoch 11/12 batch 1407/1407 loss=0.8331 avg_loss=1.4429
+Validation ru: count=10000 top3_acc=0.75700
+{"epoch": 11.0, "train_loss": 1.4428737451611635, "epoch_seconds": 493.5592439174652, "val_top3_acc": 0.757, "val_top3_acc_by_lang": {"ru": 0.757}, "val_count_by_lang": {"ru": 10000}, "is_best": true, "epochs_without_improvement": 0}
+Epoch 12/12 started (batches=1407)
+Epoch 12/12 batch 100/1407 loss=1.1351 avg_loss=1.3845
+Epoch 12/12 batch 200/1407 loss=1.3045 avg_loss=1.3802
+Epoch 12/12 batch 300/1407 loss=1.5190 avg_loss=1.3827
+Epoch 12/12 batch 400/1407 loss=1.3853 avg_loss=1.3897
+Epoch 12/12 batch 500/1407 loss=1.4332 avg_loss=1.3946
+Epoch 12/12 batch 600/1407 loss=1.4830 avg_loss=1.3975
+Epoch 12/12 batch 700/1407 loss=1.2791 avg_loss=1.4006
+Epoch 12/12 batch 800/1407 loss=1.4373 avg_loss=1.4066
+Epoch 12/12 batch 900/1407 loss=1.1917 avg_loss=1.4088
+Epoch 12/12 batch 1000/1407 loss=1.4369 avg_loss=1.4080
+Epoch 12/12 batch 1100/1407 loss=1.5934 avg_loss=1.4126
+Epoch 12/12 batch 1200/1407 loss=2.0280 avg_loss=1.4144
+Epoch 12/12 batch 1300/1407 loss=1.4244 avg_loss=1.4159
+Epoch 12/12 batch 1400/1407 loss=1.0114 avg_loss=1.4195
+Epoch 12/12 batch 1407/1407 loss=1.3676 avg_loss=1.4197
+Validation ru: count=10000 top3_acc=0.75900
+{"epoch": 12.0, "train_loss": 1.419722348260981, "epoch_seconds": 493.72316908836365, "val_top3_acc": 0.759, "val_top3_acc_by_lang": {"ru": 0.759}, "val_count_by_lang": {"ru": 10000}, "is_best": true, "epochs_without_improvement": 0}
+Saved checkpoints under work/by_script/cyrillic/xlarge (default_checkpoint=last, trainable=1848473, total=133931417)

@@ -1,0 +1,351 @@
+Epoch 1/10 started (batches=2813)
+Epoch 1/10 batch 100/2813 loss=3.1370 avg_loss=3.1651
+Epoch 1/10 batch 200/2813 loss=2.8085 avg_loss=2.9673
+Epoch 1/10 batch 300/2813 loss=2.8033 avg_loss=2.8748
+Epoch 1/10 batch 400/2813 loss=2.9367 avg_loss=2.8181
+Epoch 1/10 batch 500/2813 loss=2.5127 avg_loss=2.7800
+Epoch 1/10 batch 600/2813 loss=2.5310 avg_loss=2.7420
+Epoch 1/10 batch 700/2813 loss=2.2993 avg_loss=2.7148
+Epoch 1/10 batch 800/2813 loss=2.9587 avg_loss=2.6914
+Epoch 1/10 batch 900/2813 loss=2.1420 avg_loss=2.6694
+Epoch 1/10 batch 1000/2813 loss=2.4521 avg_loss=2.6476
+Epoch 1/10 batch 1100/2813 loss=2.2350 avg_loss=2.6267
+Epoch 1/10 batch 1200/2813 loss=2.2754 avg_loss=2.6065
+Epoch 1/10 batch 1300/2813 loss=2.2067 avg_loss=2.5893
+Epoch 1/10 batch 1400/2813 loss=2.5430 avg_loss=2.5733
+Epoch 1/10 batch 1500/2813 loss=2.1071 avg_loss=2.5569
+Epoch 1/10 batch 1600/2813 loss=2.3115 avg_loss=2.5426
+Epoch 1/10 batch 1700/2813 loss=2.3042 avg_loss=2.5278
+Epoch 1/10 batch 1800/2813 loss=2.2273 avg_loss=2.5163
+Epoch 1/10 batch 1900/2813 loss=2.5168 avg_loss=2.5042
+Epoch 1/10 batch 2000/2813 loss=2.4058 avg_loss=2.4915
+Epoch 1/10 batch 2100/2813 loss=2.3345 avg_loss=2.4793
+Epoch 1/10 batch 2200/2813 loss=2.6658 avg_loss=2.4683
+Epoch 1/10 batch 2300/2813 loss=2.2488 avg_loss=2.4571
+Epoch 1/10 batch 2400/2813 loss=2.3398 avg_loss=2.4469
+Epoch 1/10 batch 2500/2813 loss=2.4072 avg_loss=2.4365
+Epoch 1/10 batch 2600/2813 loss=2.0368 avg_loss=2.4260
+Epoch 1/10 batch 2700/2813 loss=1.9335 avg_loss=2.4165
+Epoch 1/10 batch 2800/2813 loss=2.1773 avg_loss=2.4070
+Epoch 1/10 batch 2813/2813 loss=1.8420 avg_loss=2.4056
+Validation de: count=5042 top3_acc=0.64617
+Validation en: count=4899 top3_acc=0.65340
+Validation fr: count=5118 top3_acc=0.64283
+Validation it: count=4941 top3_acc=0.61708
+{"epoch": 1.0, "train_loss": 2.405589393267545, "epoch_seconds": 986.1095018386841, "val_top3_acc": 0.6399, "val_top3_acc_by_lang": {"de": 0.6461721539071796, "en": 0.653398652786283, "fr": 0.6428292301680344, "it": 0.6170815624367537}, "val_count_by_lang": {"de": 5042, "en": 4899, "fr": 5118, "it": 4941}}
+Epoch 2/10 started (batches=2813)
+Epoch 2/10 batch 100/2813 loss=2.0433 avg_loss=2.1080
+Epoch 2/10 batch 200/2813 loss=2.0240 avg_loss=2.1124
+Epoch 2/10 batch 300/2813 loss=2.4551 avg_loss=2.1036
+Epoch 2/10 batch 400/2813 loss=2.1719 avg_loss=2.1035
+Epoch 2/10 batch 500/2813 loss=1.8120 avg_loss=2.0967
+Epoch 2/10 batch 600/2813 loss=1.9503 avg_loss=2.0905
+Epoch 2/10 batch 700/2813 loss=2.1648 avg_loss=2.0841
+Epoch 2/10 batch 800/2813 loss=2.1753 avg_loss=2.0844
+Epoch 2/10 batch 900/2813 loss=2.0270 avg_loss=2.0843
+Epoch 2/10 batch 1000/2813 loss=1.8806 avg_loss=2.0819
+Epoch 2/10 batch 1100/2813 loss=1.6657 avg_loss=2.0788
+Epoch 2/10 batch 1200/2813 loss=1.9025 avg_loss=2.0757
+Epoch 2/10 batch 1300/2813 loss=1.8466 avg_loss=2.0714
+Epoch 2/10 batch 1400/2813 loss=1.8210 avg_loss=2.0688
+Epoch 2/10 batch 1500/2813 loss=2.1844 avg_loss=2.0638
+Epoch 2/10 batch 1600/2813 loss=2.1485 avg_loss=2.0607
+Epoch 2/10 batch 1700/2813 loss=1.9093 avg_loss=2.0604
+Epoch 2/10 batch 1800/2813 loss=2.1467 avg_loss=2.0565
+Epoch 2/10 batch 1900/2813 loss=1.9051 avg_loss=2.0523
+Epoch 2/10 batch 2000/2813 loss=2.0171 avg_loss=2.0507
+Epoch 2/10 batch 2100/2813 loss=2.0841 avg_loss=2.0484
+Epoch 2/10 batch 2200/2813 loss=2.2120 avg_loss=2.0467
+Epoch 2/10 batch 2300/2813 loss=1.8806 avg_loss=2.0454
+Epoch 2/10 batch 2400/2813 loss=1.8353 avg_loss=2.0419
+Epoch 2/10 batch 2500/2813 loss=1.9171 avg_loss=2.0395
+Epoch 2/10 batch 2600/2813 loss=1.7040 avg_loss=2.0374
+Epoch 2/10 batch 2700/2813 loss=1.7848 avg_loss=2.0339
+Epoch 2/10 batch 2800/2813 loss=1.9579 avg_loss=2.0313
+Epoch 2/10 batch 2813/2813 loss=1.7223 avg_loss=2.0307
+Validation de: count=5042 top3_acc=0.68663
+Validation en: count=4899 top3_acc=0.70137
+Validation fr: count=5118 top3_acc=0.68503
+Validation it: count=4941 top3_acc=0.67679
+{"epoch": 2.0, "train_loss": 2.0307334214819734, "epoch_seconds": 986.2764415740967, "val_top3_acc": 0.6874, "val_top3_acc_by_lang": {"de": 0.6866322887742959, "en": 0.7013676260461319, "fr": 0.6850332161000391, "it": 0.6767860756931795}, "val_count_by_lang": {"de": 5042, "en": 4899, "fr": 5118, "it": 4941}}
+Epoch 3/10 started (batches=2813)
+Epoch 3/10 batch 100/2813 loss=2.2110 avg_loss=1.9546
+Epoch 3/10 batch 200/2813 loss=1.9130 avg_loss=1.9379
+Epoch 3/10 batch 300/2813 loss=1.8437 avg_loss=1.9283
+Epoch 3/10 batch 400/2813 loss=1.9766 avg_loss=1.9249
+Epoch 3/10 batch 500/2813 loss=1.8777 avg_loss=1.9182
+Epoch 3/10 batch 600/2813 loss=2.0490 avg_loss=1.9142
+Epoch 3/10 batch 700/2813 loss=1.7630 avg_loss=1.9143
+Epoch 3/10 batch 800/2813 loss=1.6853 avg_loss=1.9103
+Epoch 3/10 batch 900/2813 loss=1.8817 avg_loss=1.9083
+Epoch 3/10 batch 1000/2813 loss=1.7474 avg_loss=1.9062
+Epoch 3/10 batch 1100/2813 loss=2.0320 avg_loss=1.9039
+Epoch 3/10 batch 1200/2813 loss=1.9404 avg_loss=1.9049
+Epoch 3/10 batch 1300/2813 loss=1.9589 avg_loss=1.9049
+Epoch 3/10 batch 1400/2813 loss=1.8643 avg_loss=1.9034
+Epoch 3/10 batch 1500/2813 loss=1.8970 avg_loss=1.9012
+Epoch 3/10 batch 1600/2813 loss=1.8769 avg_loss=1.8994
+Epoch 3/10 batch 1700/2813 loss=1.5872 avg_loss=1.8959
+Epoch 3/10 batch 1800/2813 loss=2.2537 avg_loss=1.8954
+Epoch 3/10 batch 1900/2813 loss=1.4702 avg_loss=1.8941
+Epoch 3/10 batch 2000/2813 loss=1.5106 avg_loss=1.8944
+Epoch 3/10 batch 2100/2813 loss=1.8276 avg_loss=1.8946
+Epoch 3/10 batch 2200/2813 loss=1.6892 avg_loss=1.8942
+Epoch 3/10 batch 2300/2813 loss=2.2216 avg_loss=1.8936
+Epoch 3/10 batch 2400/2813 loss=1.9733 avg_loss=1.8922
+Epoch 3/10 batch 2500/2813 loss=1.8357 avg_loss=1.8913
+Epoch 3/10 batch 2600/2813 loss=1.7723 avg_loss=1.8887
+Epoch 3/10 batch 2700/2813 loss=2.0452 avg_loss=1.8883
+Epoch 3/10 batch 2800/2813 loss=1.7865 avg_loss=1.8872
+Epoch 3/10 batch 2813/2813 loss=2.4278 avg_loss=1.8872
+Validation de: count=5042 top3_acc=0.71380
+Validation en: count=4899 top3_acc=0.72464
+Validation fr: count=5118 top3_acc=0.71219
+Validation it: count=4941 top3_acc=0.69642
+{"epoch": 3.0, "train_loss": 1.8871553848953464, "epoch_seconds": 986.0012290477753, "val_top3_acc": 0.71175, "val_top3_acc_by_lang": {"de": 0.7138040460134867, "en": 0.7246376811594203, "fr": 0.7121922626025792, "it": 0.6964177292046144}, "val_count_by_lang": {"de": 5042, "en": 4899, "fr": 5118, "it": 4941}}
+Epoch 4/10 started (batches=2813)
+Epoch 4/10 batch 100/2813 loss=1.8092 avg_loss=1.7673
+Epoch 4/10 batch 200/2813 loss=1.5684 avg_loss=1.7865
+Epoch 4/10 batch 300/2813 loss=1.7568 avg_loss=1.7841
+Epoch 4/10 batch 400/2813 loss=1.8895 avg_loss=1.7914
+Epoch 4/10 batch 500/2813 loss=2.1783 avg_loss=1.7893
+Epoch 4/10 batch 600/2813 loss=1.6683 avg_loss=1.7922
+Epoch 4/10 batch 700/2813 loss=1.8210 avg_loss=1.7918
+Epoch 4/10 batch 800/2813 loss=1.9351 avg_loss=1.7952
+Epoch 4/10 batch 900/2813 loss=1.9653 avg_loss=1.7993
+Epoch 4/10 batch 1000/2813 loss=1.6942 avg_loss=1.7998
+Epoch 4/10 batch 1100/2813 loss=1.7860 avg_loss=1.7981
+Epoch 4/10 batch 1200/2813 loss=1.4888 avg_loss=1.7988
+Epoch 4/10 batch 1300/2813 loss=1.7402 avg_loss=1.7953
+Epoch 4/10 batch 1400/2813 loss=1.9516 avg_loss=1.7944
+Epoch 4/10 batch 1500/2813 loss=1.8582 avg_loss=1.7945
+Epoch 4/10 batch 1600/2813 loss=1.7027 avg_loss=1.7938
+Epoch 4/10 batch 1700/2813 loss=1.9747 avg_loss=1.7939
+Epoch 4/10 batch 1800/2813 loss=1.7460 avg_loss=1.7950
+Epoch 4/10 batch 1900/2813 loss=1.9306 avg_loss=1.7942
+Epoch 4/10 batch 2000/2813 loss=2.0862 avg_loss=1.7936
+Epoch 4/10 batch 2100/2813 loss=1.9087 avg_loss=1.7939
+Epoch 4/10 batch 2200/2813 loss=1.7566 avg_loss=1.7939
+Epoch 4/10 batch 2300/2813 loss=1.9052 avg_loss=1.7941
+Epoch 4/10 batch 2400/2813 loss=1.8970 avg_loss=1.7948
+Epoch 4/10 batch 2500/2813 loss=1.7346 avg_loss=1.7949
+Epoch 4/10 batch 2600/2813 loss=1.9223 avg_loss=1.7951
+Epoch 4/10 batch 2700/2813 loss=2.0362 avg_loss=1.7961
+Epoch 4/10 batch 2800/2813 loss=1.8879 avg_loss=1.7957
+Epoch 4/10 batch 2813/2813 loss=1.2934 avg_loss=1.7957
+Validation de: count=5042 top3_acc=0.71559
+Validation en: count=4899 top3_acc=0.73586
+Validation fr: count=5118 top3_acc=0.72900
+Validation it: count=4941 top3_acc=0.71139
+{"epoch": 4.0, "train_loss": 1.7957028833267912, "epoch_seconds": 986.1119651794434, "val_top3_acc": 0.72295, "val_top3_acc_by_lang": {"de": 0.7155890519635065, "en": 0.7358644621351296, "fr": 0.7289957014458773, "it": 0.7113944545638534}, "val_count_by_lang": {"de": 5042, "en": 4899, "fr": 5118, "it": 4941}}
+Epoch 5/10 started (batches=2813)
+Epoch 5/10 batch 100/2813 loss=1.5032 avg_loss=1.7224
+Epoch 5/10 batch 200/2813 loss=1.6962 avg_loss=1.7265
+Epoch 5/10 batch 300/2813 loss=1.8652 avg_loss=1.7271
+Epoch 5/10 batch 400/2813 loss=1.2910 avg_loss=1.7279
+Epoch 5/10 batch 500/2813 loss=1.7808 avg_loss=1.7263
+Epoch 5/10 batch 600/2813 loss=1.7439 avg_loss=1.7259
+Epoch 5/10 batch 700/2813 loss=1.7170 avg_loss=1.7279
+Epoch 5/10 batch 800/2813 loss=1.4604 avg_loss=1.7299
+Epoch 5/10 batch 900/2813 loss=1.7685 avg_loss=1.7334
+Epoch 5/10 batch 1000/2813 loss=1.7635 avg_loss=1.7334
+Epoch 5/10 batch 1100/2813 loss=1.8047 avg_loss=1.7310
+Epoch 5/10 batch 1200/2813 loss=1.6333 avg_loss=1.7336
+Epoch 5/10 batch 1300/2813 loss=1.6730 avg_loss=1.7376
+Epoch 5/10 batch 1400/2813 loss=2.0379 avg_loss=1.7342
+Epoch 5/10 batch 1500/2813 loss=1.7564 avg_loss=1.7337
+Epoch 5/10 batch 1600/2813 loss=1.6310 avg_loss=1.7325
+Epoch 5/10 batch 1700/2813 loss=1.8436 avg_loss=1.7330
+Epoch 5/10 batch 1800/2813 loss=1.9165 avg_loss=1.7342
+Epoch 5/10 batch 1900/2813 loss=1.3649 avg_loss=1.7342
+Epoch 5/10 batch 2000/2813 loss=1.4672 avg_loss=1.7338
+Epoch 5/10 batch 2100/2813 loss=1.6609 avg_loss=1.7326
+Epoch 5/10 batch 2200/2813 loss=1.7533 avg_loss=1.7335
+Epoch 5/10 batch 2300/2813 loss=1.5578 avg_loss=1.7332
+Epoch 5/10 batch 2400/2813 loss=2.0288 avg_loss=1.7323
+Epoch 5/10 batch 2500/2813 loss=2.0472 avg_loss=1.7319
+Epoch 5/10 batch 2600/2813 loss=1.8015 avg_loss=1.7321
+Epoch 5/10 batch 2700/2813 loss=1.4960 avg_loss=1.7315
+Epoch 5/10 batch 2800/2813 loss=1.4988 avg_loss=1.7309
+Epoch 5/10 batch 2813/2813 loss=2.0722 avg_loss=1.7306
+Validation de: count=5042 top3_acc=0.73324
+Validation en: count=4899 top3_acc=0.74525
+Validation fr: count=5118 top3_acc=0.74150
+Validation it: count=4941 top3_acc=0.71524
+{"epoch": 5.0, "train_loss": 1.7306476000403748, "epoch_seconds": 986.0549857616425, "val_top3_acc": 0.73385, "val_top3_acc_by_lang": {"de": 0.7332407774692582, "en": 0.7452541334966319, "fr": 0.7415005861664713, "it": 0.7152398299939283}, "val_count_by_lang": {"de": 5042, "en": 4899, "fr": 5118, "it": 4941}}
+Epoch 6/10 started (batches=2813)
+Epoch 6/10 batch 100/2813 loss=1.6765 avg_loss=1.6540
+Epoch 6/10 batch 200/2813 loss=1.8710 avg_loss=1.6476
+Epoch 6/10 batch 300/2813 loss=1.4245 avg_loss=1.6535
+Epoch 6/10 batch 400/2813 loss=1.7499 avg_loss=1.6517
+Epoch 6/10 batch 500/2813 loss=1.7396 avg_loss=1.6623
+Epoch 6/10 batch 600/2813 loss=1.4611 avg_loss=1.6691
+Epoch 6/10 batch 700/2813 loss=1.4336 avg_loss=1.6720
+Epoch 6/10 batch 800/2813 loss=1.7626 avg_loss=1.6715
+Epoch 6/10 batch 900/2813 loss=1.7219 avg_loss=1.6709
+Epoch 6/10 batch 1000/2813 loss=1.4155 avg_loss=1.6728
+Epoch 6/10 batch 1100/2813 loss=1.1974 avg_loss=1.6731
+Epoch 6/10 batch 1200/2813 loss=1.6968 avg_loss=1.6737
+Epoch 6/10 batch 1300/2813 loss=1.6072 avg_loss=1.6753
+Epoch 6/10 batch 1400/2813 loss=1.9944 avg_loss=1.6750
+Epoch 6/10 batch 1500/2813 loss=1.9556 avg_loss=1.6773
+Epoch 6/10 batch 1600/2813 loss=1.6813 avg_loss=1.6786
+Epoch 6/10 batch 1700/2813 loss=1.5647 avg_loss=1.6779
+Epoch 6/10 batch 1800/2813 loss=1.4814 avg_loss=1.6785
+Epoch 6/10 batch 1900/2813 loss=1.6593 avg_loss=1.6779
+Epoch 6/10 batch 2000/2813 loss=1.0469 avg_loss=1.6772
+Epoch 6/10 batch 2100/2813 loss=2.3148 avg_loss=1.6779
+Epoch 6/10 batch 2200/2813 loss=1.4302 avg_loss=1.6784
+Epoch 6/10 batch 2300/2813 loss=1.7377 avg_loss=1.6784
+Epoch 6/10 batch 2400/2813 loss=1.8649 avg_loss=1.6786
+Epoch 6/10 batch 2500/2813 loss=1.8404 avg_loss=1.6786
+Epoch 6/10 batch 2600/2813 loss=1.6262 avg_loss=1.6803
+Epoch 6/10 batch 2700/2813 loss=1.6785 avg_loss=1.6796
+Epoch 6/10 batch 2800/2813 loss=1.6787 avg_loss=1.6804
+Epoch 6/10 batch 2813/2813 loss=1.6774 avg_loss=1.6805
+Validation de: count=5042 top3_acc=0.73939
+Validation en: count=4899 top3_acc=0.75526
+Validation fr: count=5118 top3_acc=0.74834
+Validation it: count=4941 top3_acc=0.72981
+{"epoch": 6.0, "train_loss": 1.6805460758578765, "epoch_seconds": 986.0722694396973, "val_top3_acc": 0.7432, "val_top3_acc_by_lang": {"de": 0.7393891312971044, "en": 0.7552561747295367, "fr": 0.7483391949980461, "it": 0.7298117789921068}, "val_count_by_lang": {"de": 5042, "en": 4899, "fr": 5118, "it": 4941}}
+Epoch 7/10 started (batches=2813)
+Epoch 7/10 batch 100/2813 loss=1.3798 avg_loss=1.6097
+Epoch 7/10 batch 200/2813 loss=1.7273 avg_loss=1.6263
+Epoch 7/10 batch 300/2813 loss=1.8225 avg_loss=1.6228
+Epoch 7/10 batch 400/2813 loss=1.8186 avg_loss=1.6191
+Epoch 7/10 batch 500/2813 loss=1.6521 avg_loss=1.6198
+Epoch 7/10 batch 600/2813 loss=1.6209 avg_loss=1.6189
+Epoch 7/10 batch 700/2813 loss=1.6234 avg_loss=1.6256
+Epoch 7/10 batch 800/2813 loss=1.6927 avg_loss=1.6242
+Epoch 7/10 batch 900/2813 loss=1.7813 avg_loss=1.6235
+Epoch 7/10 batch 1000/2813 loss=1.6716 avg_loss=1.6252
+Epoch 7/10 batch 1100/2813 loss=1.5873 avg_loss=1.6275
+Epoch 7/10 batch 1200/2813 loss=1.6285 avg_loss=1.6277
+Epoch 7/10 batch 1300/2813 loss=1.9899 avg_loss=1.6295
+Epoch 7/10 batch 1400/2813 loss=1.9690 avg_loss=1.6302
+Epoch 7/10 batch 1500/2813 loss=1.6960 avg_loss=1.6304
+Epoch 7/10 batch 1600/2813 loss=1.4547 avg_loss=1.6328
+Epoch 7/10 batch 1700/2813 loss=1.6886 avg_loss=1.6339
+Epoch 7/10 batch 1800/2813 loss=1.4611 avg_loss=1.6338
+Epoch 7/10 batch 1900/2813 loss=1.3801 avg_loss=1.6344
+Epoch 7/10 batch 2000/2813 loss=1.4178 avg_loss=1.6366
+Epoch 7/10 batch 2100/2813 loss=1.4398 avg_loss=1.6377
+Epoch 7/10 batch 2200/2813 loss=1.5809 avg_loss=1.6374
+Epoch 7/10 batch 2300/2813 loss=1.3267 avg_loss=1.6359
+Epoch 7/10 batch 2400/2813 loss=1.7384 avg_loss=1.6364
+Epoch 7/10 batch 2500/2813 loss=1.6081 avg_loss=1.6375
+Epoch 7/10 batch 2600/2813 loss=1.6024 avg_loss=1.6377
+Epoch 7/10 batch 2700/2813 loss=1.8094 avg_loss=1.6382
+Epoch 7/10 batch 2800/2813 loss=1.4677 avg_loss=1.6379
+Epoch 7/10 batch 2813/2813 loss=1.6507 avg_loss=1.6378
+Validation de: count=5042 top3_acc=0.74494
+Validation en: count=4899 top3_acc=0.75566
+Validation fr: count=5118 top3_acc=0.75342
+Validation it: count=4941 top3_acc=0.73345
+{"epoch": 7.0, "train_loss": 1.6377762597182701, "epoch_seconds": 985.8684113025665, "val_top3_acc": 0.7469, "val_top3_acc_by_lang": {"de": 0.7449424831416105, "en": 0.7556644213104715, "fr": 0.7534193044157874, "it": 0.7334547662416515}, "val_count_by_lang": {"de": 5042, "en": 4899, "fr": 5118, "it": 4941}}
+Epoch 8/10 started (batches=2813)
+Epoch 8/10 batch 100/2813 loss=1.3574 avg_loss=1.5518
+Epoch 8/10 batch 200/2813 loss=1.5817 avg_loss=1.5485
+Epoch 8/10 batch 300/2813 loss=1.3152 avg_loss=1.5528
+Epoch 8/10 batch 400/2813 loss=1.5566 avg_loss=1.5565
+Epoch 8/10 batch 500/2813 loss=1.7284 avg_loss=1.5634
+Epoch 8/10 batch 600/2813 loss=1.8043 avg_loss=1.5662
+Epoch 8/10 batch 700/2813 loss=1.9682 avg_loss=1.5748
+Epoch 8/10 batch 800/2813 loss=1.8542 avg_loss=1.5779
+Epoch 8/10 batch 900/2813 loss=1.4661 avg_loss=1.5803
+Epoch 8/10 batch 1000/2813 loss=1.4203 avg_loss=1.5842
+Epoch 8/10 batch 1100/2813 loss=1.6219 avg_loss=1.5848
+Epoch 8/10 batch 1200/2813 loss=1.4569 avg_loss=1.5855
+Epoch 8/10 batch 1300/2813 loss=1.8859 avg_loss=1.5861
+Epoch 8/10 batch 1400/2813 loss=1.8359 avg_loss=1.5891
+Epoch 8/10 batch 1500/2813 loss=1.6945 avg_loss=1.5911
+Epoch 8/10 batch 1600/2813 loss=1.7237 avg_loss=1.5902
+Epoch 8/10 batch 1700/2813 loss=1.6061 avg_loss=1.5920
+Epoch 8/10 batch 1800/2813 loss=1.5141 avg_loss=1.5934
+Epoch 8/10 batch 1900/2813 loss=1.6846 avg_loss=1.5955
+Epoch 8/10 batch 2000/2813 loss=1.2741 avg_loss=1.5968
+Epoch 8/10 batch 2100/2813 loss=1.6231 avg_loss=1.5986
+Epoch 8/10 batch 2200/2813 loss=1.4529 avg_loss=1.5997
+Epoch 8/10 batch 2300/2813 loss=1.5579 avg_loss=1.6002
+Epoch 8/10 batch 2400/2813 loss=1.8156 avg_loss=1.6001
+Epoch 8/10 batch 2500/2813 loss=1.7904 avg_loss=1.6011
+Epoch 8/10 batch 2600/2813 loss=1.5444 avg_loss=1.6020
+Epoch 8/10 batch 2700/2813 loss=1.7650 avg_loss=1.6016
+Epoch 8/10 batch 2800/2813 loss=1.3952 avg_loss=1.6023
+Epoch 8/10 batch 2813/2813 loss=1.9514 avg_loss=1.6026
+Validation de: count=5042 top3_acc=0.75050
+Validation en: count=4899 top3_acc=0.76240
+Validation fr: count=5118 top3_acc=0.76612
+Validation it: count=4941 top3_acc=0.73386
+{"epoch": 8.0, "train_loss": 1.6025839800348156, "epoch_seconds": 986.1010088920593, "val_top3_acc": 0.7533, "val_top3_acc_by_lang": {"de": 0.7504958349861166, "en": 0.7624004898958971, "fr": 0.7661195779601406, "it": 0.733859542602712}, "val_count_by_lang": {"de": 5042, "en": 4899, "fr": 5118, "it": 4941}}
+Epoch 9/10 started (batches=2813)
+Epoch 9/10 batch 100/2813 loss=1.4298 avg_loss=1.5157
+Epoch 9/10 batch 200/2813 loss=1.6054 avg_loss=1.5298
+Epoch 9/10 batch 300/2813 loss=1.2590 avg_loss=1.5384
+Epoch 9/10 batch 400/2813 loss=1.3947 avg_loss=1.5464
+Epoch 9/10 batch 500/2813 loss=1.6365 avg_loss=1.5404
+Epoch 9/10 batch 600/2813 loss=1.4841 avg_loss=1.5454
+Epoch 9/10 batch 700/2813 loss=1.3626 avg_loss=1.5518
+Epoch 9/10 batch 800/2813 loss=1.3111 avg_loss=1.5535
+Epoch 9/10 batch 900/2813 loss=1.4575 avg_loss=1.5554
+Epoch 9/10 batch 1000/2813 loss=1.8119 avg_loss=1.5564
+Epoch 9/10 batch 1100/2813 loss=1.5864 avg_loss=1.5585
+Epoch 9/10 batch 1200/2813 loss=1.5501 avg_loss=1.5610
+Epoch 9/10 batch 1300/2813 loss=1.4645 avg_loss=1.5620
+Epoch 9/10 batch 1400/2813 loss=2.2340 avg_loss=1.5627
+Epoch 9/10 batch 1500/2813 loss=1.5812 avg_loss=1.5632
+Epoch 9/10 batch 1600/2813 loss=1.3446 avg_loss=1.5638
+Epoch 9/10 batch 1700/2813 loss=1.5114 avg_loss=1.5662
+Epoch 9/10 batch 1800/2813 loss=1.3674 avg_loss=1.5676
+Epoch 9/10 batch 1900/2813 loss=1.3202 avg_loss=1.5684
+Epoch 9/10 batch 2000/2813 loss=1.8727 avg_loss=1.5685
+Epoch 9/10 batch 2100/2813 loss=1.6518 avg_loss=1.5702
+Epoch 9/10 batch 2200/2813 loss=1.3833 avg_loss=1.5730
+Epoch 9/10 batch 2300/2813 loss=1.6928 avg_loss=1.5730
+Epoch 9/10 batch 2400/2813 loss=1.8131 avg_loss=1.5735
+Epoch 9/10 batch 2500/2813 loss=1.6164 avg_loss=1.5741
+Epoch 9/10 batch 2600/2813 loss=1.4463 avg_loss=1.5749
+Epoch 9/10 batch 2700/2813 loss=1.3812 avg_loss=1.5751
+Epoch 9/10 batch 2800/2813 loss=1.6842 avg_loss=1.5755
+Epoch 9/10 batch 2813/2813 loss=1.4426 avg_loss=1.5754
+Validation de: count=5042 top3_acc=0.75526
+Validation en: count=4899 top3_acc=0.76301
+Validation fr: count=5118 top3_acc=0.76671
+Validation it: count=4941 top3_acc=0.73953
+{"epoch": 9.0, "train_loss": 1.5754376822334992, "epoch_seconds": 985.8108034133911, "val_top3_acc": 0.7562, "val_top3_acc_by_lang": {"de": 0.7552558508528362, "en": 0.7630128597672995, "fr": 0.7667057444314185, "it": 0.7395264116575592}, "val_count_by_lang": {"de": 5042, "en": 4899, "fr": 5118, "it": 4941}}
+Epoch 10/10 started (batches=2813)
+Epoch 10/10 batch 100/2813 loss=1.6962 avg_loss=1.4950
+Epoch 10/10 batch 200/2813 loss=1.5195 avg_loss=1.4972
+Epoch 10/10 batch 300/2813 loss=1.1989 avg_loss=1.5176
+Epoch 10/10 batch 400/2813 loss=1.8923 avg_loss=1.5275
+Epoch 10/10 batch 500/2813 loss=1.3935 avg_loss=1.5255
+Epoch 10/10 batch 600/2813 loss=1.5502 avg_loss=1.5226
+Epoch 10/10 batch 700/2813 loss=1.4252 avg_loss=1.5219
+Epoch 10/10 batch 800/2813 loss=1.2710 avg_loss=1.5265
+Epoch 10/10 batch 900/2813 loss=1.3139 avg_loss=1.5273
+Epoch 10/10 batch 1000/2813 loss=1.6457 avg_loss=1.5306
+Epoch 10/10 batch 1100/2813 loss=1.6860 avg_loss=1.5323
+Epoch 10/10 batch 1200/2813 loss=1.6458 avg_loss=1.5324
+Epoch 10/10 batch 1300/2813 loss=1.4192 avg_loss=1.5342
+Epoch 10/10 batch 1400/2813 loss=1.5949 avg_loss=1.5386
+Epoch 10/10 batch 1500/2813 loss=1.3668 avg_loss=1.5385
+Epoch 10/10 batch 1600/2813 loss=1.6121 avg_loss=1.5386
+Epoch 10/10 batch 1700/2813 loss=1.4681 avg_loss=1.5403
+Epoch 10/10 batch 1800/2813 loss=1.4242 avg_loss=1.5407
+Epoch 10/10 batch 1900/2813 loss=1.7761 avg_loss=1.5402
+Epoch 10/10 batch 2000/2813 loss=1.2334 avg_loss=1.5407
+Epoch 10/10 batch 2100/2813 loss=1.4305 avg_loss=1.5403
+Epoch 10/10 batch 2200/2813 loss=1.6261 avg_loss=1.5407
+Epoch 10/10 batch 2300/2813 loss=1.4867 avg_loss=1.5404
+Epoch 10/10 batch 2400/2813 loss=1.3956 avg_loss=1.5418
+Epoch 10/10 batch 2500/2813 loss=1.6177 avg_loss=1.5428
+Epoch 10/10 batch 2600/2813 loss=1.5475 avg_loss=1.5436
+Epoch 10/10 batch 2700/2813 loss=1.4089 avg_loss=1.5444
+Epoch 10/10 batch 2800/2813 loss=1.6779 avg_loss=1.5447
+Epoch 10/10 batch 2813/2813 loss=1.8929 avg_loss=1.5446
+Validation de: count=5042 top3_acc=0.75268
+Validation en: count=4899 top3_acc=0.76893
+Validation fr: count=5118 top3_acc=0.76514
+Validation it: count=4941 top3_acc=0.75126
+{"epoch": 10.0, "train_loss": 1.544611540439923, "epoch_seconds": 985.9439685344696, "val_top3_acc": 0.7595, "val_top3_acc_by_lang": {"de": 0.7526775089250297, "en": 0.7689324351908553, "fr": 0.7651426338413443, "it": 0.7512649261283141}, "val_count_by_lang": {"de": 5042, "en": 4899, "fr": 5118, "it": 4941}}
+Saved checkpoint to work/by_script/latin/large (trainable=1834622, total=133917566)

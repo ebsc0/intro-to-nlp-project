@@ -1,0 +1,111 @@
+Epoch 1/10 started (batches=704)
+Epoch 1/10 batch 100/704 loss=2.6770 avg_loss=3.2040
+Epoch 1/10 batch 200/704 loss=2.6600 avg_loss=2.9956
+Epoch 1/10 batch 300/704 loss=2.4513 avg_loss=2.8965
+Epoch 1/10 batch 400/704 loss=2.8726 avg_loss=2.8309
+Epoch 1/10 batch 500/704 loss=2.4386 avg_loss=2.7822
+Epoch 1/10 batch 600/704 loss=2.5496 avg_loss=2.7423
+Epoch 1/10 batch 700/704 loss=2.5270 avg_loss=2.7094
+Epoch 1/10 batch 704/704 loss=2.2003 avg_loss=2.7074
+Validation ar: count=5000 top3_acc=0.53560
+{"epoch": 1.0, "train_loss": 2.707426484504884, "epoch_seconds": 246.65054321289062, "val_top3_acc": 0.5356, "val_top3_acc_by_lang": {"ar": 0.5356}, "val_count_by_lang": {"ar": 5000}}
+Epoch 2/10 started (batches=704)
+Epoch 2/10 batch 100/704 loss=2.1052 avg_loss=2.4304
+Epoch 2/10 batch 200/704 loss=2.8926 avg_loss=2.4122
+Epoch 2/10 batch 300/704 loss=2.5788 avg_loss=2.3942
+Epoch 2/10 batch 400/704 loss=2.3606 avg_loss=2.3900
+Epoch 2/10 batch 500/704 loss=2.2666 avg_loss=2.3756
+Epoch 2/10 batch 600/704 loss=2.2728 avg_loss=2.3668
+Epoch 2/10 batch 700/704 loss=2.1167 avg_loss=2.3537
+Epoch 2/10 batch 704/704 loss=1.6004 avg_loss=2.3530
+Validation ar: count=5000 top3_acc=0.60600
+{"epoch": 2.0, "train_loss": 2.352952068671584, "epoch_seconds": 246.23058605194092, "val_top3_acc": 0.606, "val_top3_acc_by_lang": {"ar": 0.606}, "val_count_by_lang": {"ar": 5000}}
+Epoch 3/10 started (batches=704)
+Epoch 3/10 batch 100/704 loss=2.0929 avg_loss=2.1946
+Epoch 3/10 batch 200/704 loss=1.8854 avg_loss=2.1756
+Epoch 3/10 batch 300/704 loss=1.9010 avg_loss=2.1756
+Epoch 3/10 batch 400/704 loss=2.3493 avg_loss=2.1745
+Epoch 3/10 batch 500/704 loss=2.2436 avg_loss=2.1647
+Epoch 3/10 batch 600/704 loss=2.1280 avg_loss=2.1615
+Epoch 3/10 batch 700/704 loss=1.8482 avg_loss=2.1598
+Epoch 3/10 batch 704/704 loss=2.4056 avg_loss=2.1601
+Validation ar: count=5000 top3_acc=0.63720
+{"epoch": 3.0, "train_loss": 2.1600932495837863, "epoch_seconds": 246.20758724212646, "val_top3_acc": 0.6372, "val_top3_acc_by_lang": {"ar": 0.6372}, "val_count_by_lang": {"ar": 5000}}
+Epoch 4/10 started (batches=704)
+Epoch 4/10 batch 100/704 loss=2.1042 avg_loss=2.0439
+Epoch 4/10 batch 200/704 loss=2.2560 avg_loss=2.0179
+Epoch 4/10 batch 300/704 loss=2.0560 avg_loss=2.0364
+Epoch 4/10 batch 400/704 loss=1.7950 avg_loss=2.0326
+Epoch 4/10 batch 500/704 loss=2.2330 avg_loss=2.0278
+Epoch 4/10 batch 600/704 loss=2.1506 avg_loss=2.0282
+Epoch 4/10 batch 700/704 loss=2.1149 avg_loss=2.0220
+Epoch 4/10 batch 704/704 loss=2.4770 avg_loss=2.0224
+Validation ar: count=5000 top3_acc=0.65700
+{"epoch": 4.0, "train_loss": 2.0223514027893543, "epoch_seconds": 246.26735496520996, "val_top3_acc": 0.657, "val_top3_acc_by_lang": {"ar": 0.657}, "val_count_by_lang": {"ar": 5000}}
+Epoch 5/10 started (batches=704)
+Epoch 5/10 batch 100/704 loss=1.4360 avg_loss=1.8963
+Epoch 5/10 batch 200/704 loss=1.7511 avg_loss=1.9051
+Epoch 5/10 batch 300/704 loss=2.0711 avg_loss=1.9194
+Epoch 5/10 batch 400/704 loss=1.7768 avg_loss=1.9207
+Epoch 5/10 batch 500/704 loss=1.6491 avg_loss=1.9242
+Epoch 5/10 batch 600/704 loss=2.2557 avg_loss=1.9248
+Epoch 5/10 batch 700/704 loss=1.8968 avg_loss=1.9217
+Epoch 5/10 batch 704/704 loss=2.3335 avg_loss=1.9215
+Validation ar: count=5000 top3_acc=0.66840
+{"epoch": 5.0, "train_loss": 1.9215068796818906, "epoch_seconds": 246.20993161201477, "val_top3_acc": 0.6684, "val_top3_acc_by_lang": {"ar": 0.6684}, "val_count_by_lang": {"ar": 5000}}
+Epoch 6/10 started (batches=704)
+Epoch 6/10 batch 100/704 loss=1.6118 avg_loss=1.8403
+Epoch 6/10 batch 200/704 loss=1.6011 avg_loss=1.8306
+Epoch 6/10 batch 300/704 loss=1.9175 avg_loss=1.8422
+Epoch 6/10 batch 400/704 loss=2.0795 avg_loss=1.8409
+Epoch 6/10 batch 500/704 loss=2.0377 avg_loss=1.8427
+Epoch 6/10 batch 600/704 loss=1.6234 avg_loss=1.8439
+Epoch 6/10 batch 700/704 loss=1.7934 avg_loss=1.8422
+Epoch 6/10 batch 704/704 loss=2.9386 avg_loss=1.8427
+Validation ar: count=5000 top3_acc=0.68300
+{"epoch": 6.0, "train_loss": 1.8426980889317663, "epoch_seconds": 246.18018054962158, "val_top3_acc": 0.683, "val_top3_acc_by_lang": {"ar": 0.683}, "val_count_by_lang": {"ar": 5000}}
+Epoch 7/10 started (batches=704)
+Epoch 7/10 batch 100/704 loss=1.5385 avg_loss=1.7383
+Epoch 7/10 batch 200/704 loss=1.8241 avg_loss=1.7527
+Epoch 7/10 batch 300/704 loss=1.8610 avg_loss=1.7481
+Epoch 7/10 batch 400/704 loss=2.0153 avg_loss=1.7572
+Epoch 7/10 batch 500/704 loss=1.6279 avg_loss=1.7603
+Epoch 7/10 batch 600/704 loss=1.7973 avg_loss=1.7662
+Epoch 7/10 batch 700/704 loss=2.1600 avg_loss=1.7728
+Epoch 7/10 batch 704/704 loss=1.8770 avg_loss=1.7724
+Validation ar: count=5000 top3_acc=0.69120
+{"epoch": 7.0, "train_loss": 1.7723701001906937, "epoch_seconds": 246.24729990959167, "val_top3_acc": 0.6912, "val_top3_acc_by_lang": {"ar": 0.6912}, "val_count_by_lang": {"ar": 5000}}
+Epoch 8/10 started (batches=704)
+Epoch 8/10 batch 100/704 loss=1.7151 avg_loss=1.6910
+Epoch 8/10 batch 200/704 loss=1.7370 avg_loss=1.7097
+Epoch 8/10 batch 300/704 loss=1.5636 avg_loss=1.7133
+Epoch 8/10 batch 400/704 loss=1.4909 avg_loss=1.7201
+Epoch 8/10 batch 500/704 loss=1.6697 avg_loss=1.7154
+Epoch 8/10 batch 600/704 loss=1.8619 avg_loss=1.7224
+Epoch 8/10 batch 700/704 loss=1.4978 avg_loss=1.7170
+Epoch 8/10 batch 704/704 loss=2.5719 avg_loss=1.7182
+Validation ar: count=5000 top3_acc=0.69500
+{"epoch": 8.0, "train_loss": 1.718204016373916, "epoch_seconds": 246.2550368309021, "val_top3_acc": 0.695, "val_top3_acc_by_lang": {"ar": 0.695}, "val_count_by_lang": {"ar": 5000}}
+Epoch 9/10 started (batches=704)
+Epoch 9/10 batch 100/704 loss=1.8118 avg_loss=1.5961
+Epoch 9/10 batch 200/704 loss=2.0004 avg_loss=1.6220
+Epoch 9/10 batch 300/704 loss=1.9904 avg_loss=1.6410
+Epoch 9/10 batch 400/704 loss=1.6093 avg_loss=1.6532
+Epoch 9/10 batch 500/704 loss=1.6425 avg_loss=1.6594
+Epoch 9/10 batch 600/704 loss=1.7891 avg_loss=1.6607
+Epoch 9/10 batch 700/704 loss=1.6329 avg_loss=1.6666
+Epoch 9/10 batch 704/704 loss=1.5011 avg_loss=1.6664
+Validation ar: count=5000 top3_acc=0.69760
+{"epoch": 9.0, "train_loss": 1.6663597095757723, "epoch_seconds": 246.11653661727905, "val_top3_acc": 0.6976, "val_top3_acc_by_lang": {"ar": 0.6976}, "val_count_by_lang": {"ar": 5000}}
+Epoch 10/10 started (batches=704)
+Epoch 10/10 batch 100/704 loss=1.6078 avg_loss=1.6073
+Epoch 10/10 batch 200/704 loss=1.7029 avg_loss=1.6000
+Epoch 10/10 batch 300/704 loss=1.6889 avg_loss=1.6012
+Epoch 10/10 batch 400/704 loss=1.7229 avg_loss=1.6127
+Epoch 10/10 batch 500/704 loss=1.3653 avg_loss=1.6174
+Epoch 10/10 batch 600/704 loss=1.4327 avg_loss=1.6206
+Epoch 10/10 batch 700/704 loss=1.7170 avg_loss=1.6280
+Epoch 10/10 batch 704/704 loss=0.6605 avg_loss=1.6265
+Validation ar: count=5000 top3_acc=0.70000
+{"epoch": 10.0, "train_loss": 1.6265320967544208, "epoch_seconds": 246.1349000930786, "val_top3_acc": 0.7, "val_top3_acc_by_lang": {"ar": 0.7}, "val_count_by_lang": {"ar": 5000}}
+Saved checkpoint to work/by_script/arabic/large (trainable=1832057, total=133915001)

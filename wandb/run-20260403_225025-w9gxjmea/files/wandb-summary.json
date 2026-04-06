@@ -1,0 +1,1 @@
+{"train/epoch_loss":1.4387077332728289,"train/avg_loss":1.4387077332728289,"train/batch_loss":0.6668078899383545,"val/by_lang/hi":0.7372,"train/epoch_seconds":246.3221414089203,"_timestamp":1.775273618388332e+09,"epoch":10,"val/top3_acc":0.7372,"_runtime":2591,"step":7040,"_wandb":{"runtime":2591},"_step":89}

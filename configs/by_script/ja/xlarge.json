@@ -1,0 +1,18 @@
+{
+  "input_path": "data/by_script/xlarge/ja/input.txt",
+  "answer_path": "data/by_script/xlarge/ja/answer.txt",
+  "work_dir": "work/by_script/ja/xlarge",
+  "vocab_size": 8000,
+  "min_freq": 1,
+  "max_seq_len": 256,
+  "batch_size": 64,
+  "num_epochs": 12,
+  "val_split": 0.1,
+  "lr_encoder_lora": 1e-4,
+  "lr_head": 1e-3,
+  "weight_decay": 0.01,
+  "max_grad_norm": 1.0,
+  "seed": 42,
+  "device": "cuda",
+  "log_every": 100
+}
